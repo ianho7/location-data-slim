@@ -1,0 +1,137 @@
+[
+  {
+    "id": 0,
+    "name": "Buk-gu",
+    "latitude": "35.19724000",
+    "longitude": "128.99134000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 1,
+    "name": "Busan",
+    "latitude": "35.10168000",
+    "longitude": "129.03004000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 2,
+    "name": "Dongnae-gu",
+    "latitude": "35.20447000",
+    "longitude": "129.07800000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 3,
+    "name": "Gangseo-gu",
+    "latitude": "35.15930000",
+    "longitude": "128.93300000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 4,
+    "name": "Geumjeong-gu",
+    "latitude": "35.25863000",
+    "longitude": "129.09010000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 5,
+    "name": "Gijang",
+    "latitude": "35.24417000",
+    "longitude": "129.21389000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 6,
+    "name": "Gijang-gun",
+    "latitude": "35.29721000",
+    "longitude": "129.20076000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 7,
+    "name": "Haeundae-gu",
+    "latitude": "35.16665000",
+    "longitude": "129.16792000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 8,
+    "name": "Jung-gu",
+    "latitude": "35.10594000",
+    "longitude": "129.03331000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 9,
+    "name": "Nam-gu",
+    "latitude": "35.13648000",
+    "longitude": "129.08266000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 10,
+    "name": "Saha-gu",
+    "latitude": "35.08552000",
+    "longitude": "128.98725000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 11,
+    "name": "Sasang-gu",
+    "latitude": "35.14479000",
+    "longitude": "128.97986000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 12,
+    "name": "Seo-gu",
+    "latitude": "35.12529000",
+    "longitude": "129.01946000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 13,
+    "name": "Suyeong-gu",
+    "latitude": "35.15627000",
+    "longitude": "129.11253000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  },
+  {
+    "id": 14,
+    "name": "Yeongdo-gu",
+    "latitude": "35.07849000",
+    "longitude": "129.06483000",
+    "stateId": 3860,
+    "stateCode": "26",
+    "countryCode": "KR"
+  }
+]

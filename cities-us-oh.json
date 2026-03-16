@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "name": "Ada",
+    "latitude": "40.76950000",
+    "longitude": "-83.82271000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 1,
+    "name": "Adams County",
+    "latitude": "38.84551000",
+    "longitude": "-83.47215000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 2,
+    "name": "Akron",
+    "latitude": "41.08144000",
+    "longitude": "-81.51901000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 3,
+    "name": "Allen",
+    "latitude": "40.77152000",
+    "longitude": "-84.10578000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 4,
+    "name": "Alliance",
+    "latitude": "40.91534000",
+    "longitude": "-81.10593000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 5,
+    "name": "Amberley",
+    "latitude": "39.20478000",
+    "longitude": "-84.42800000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 6,
+    "name": "Amelia",
+    "latitude": "39.02840000",
+    "longitude": "-84.21771000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 7,
+    "name": "Amherst",
+    "latitude": "41.39782000",
+    "longitude": "-82.22238000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 8,
+    "name": "Andover",
+    "latitude": "41.60672000",
+    "longitude": "-80.57230000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 9,
+    "name": "Anna",
+    "latitude": "40.39449000",
+    "longitude": "-84.17272000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 10,
+    "name": "Ansonia",
+    "latitude": "40.21449000",
+    "longitude": "-84.63690000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 11,
+    "name": "Antwerp",
+    "latitude": "41.18144000",
+    "longitude": "-84.74051000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 12,
+    "name": "Apple Creek",
+    "latitude": "40.75172000",
+    "longitude": "-81.83930000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 13,
+    "name": "Apple Valley",
+    "latitude": "40.43890000",
+    "longitude": "-82.35391000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 14,
+    "name": "Arcanum",
+    "latitude": "39.99005000",
+    "longitude": "-84.55329000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 15,
+    "name": "Archbold",
+    "latitude": "41.52144000",
+    "longitude": "-84.30717000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 16,
+    "name": "Arlington",
+    "latitude": "40.89366000",
+    "longitude": "-83.65021000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 17,
+    "name": "Ashland",
+    "latitude": "40.86867000",
+    "longitude": "-82.31822000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 18,
+    "name": "Ashland County",
+    "latitude": "40.84602000",
+    "longitude": "-82.27069000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 19,
+    "name": "Ashley",
+    "latitude": "40.40895000",
+    "longitude": "-82.95546000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 20,
+    "name": "Ashtabula",
+    "latitude": "41.86505000",
+    "longitude": "-80.78981000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 21,
+    "name": "Ashtabula County",
+    "latitude": "41.89638000",
+    "longitude": "-80.75901000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 22,
+    "name": "Ashville",
+    "latitude": "39.71562000",
+    "longitude": "-82.95296000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 23,
+    "name": "Athens",
+    "latitude": "39.32924000",
+    "longitude": "-82.10126000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 24,
+    "name": "Athens County",
+    "latitude": "39.33386000",
+    "longitude": "-82.04513000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 25,
+    "name": "Auglaize",
+    "latitude": "40.56091000",
+    "longitude": "-84.22174000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 26,
+    "name": "Aurora",
+    "latitude": "41.31755000",
+    "longitude": "-81.34539000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 27,
+    "name": "Austintown",
+    "latitude": "41.10172000",
+    "longitude": "-80.76452000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 28,
+    "name": "Avon",
+    "latitude": "41.45171000",
+    "longitude": "-82.03542000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 29,
+    "name": "Avon Center",
+    "latitude": "41.45976000",
+    "longitude": "-82.01959000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 30,
+    "name": "Avon Lake",
+    "latitude": "41.50532000",
+    "longitude": "-82.02820000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 31,
+    "name": "Bainbridge",
+    "latitude": "41.38644000",
+    "longitude": "-81.33955000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 32,
+    "name": "Ballville",
+    "latitude": "41.32783000",
+    "longitude": "-83.13214000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 33,
+    "name": "Baltimore",
+    "latitude": "39.84534000",
+    "longitude": "-82.60072000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 34,
+    "name": "Barberton",
+    "latitude": "41.01283000",
+    "longitude": "-81.60512000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 35,
+    "name": "Barnesville",
+    "latitude": "39.98813000",
+    "longitude": "-81.17650000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 36,
+    "name": "Batavia",
+    "latitude": "39.07701000",
+    "longitude": "-84.17688000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 37,
+    "name": "Bay Village",
+    "latitude": "41.48477000",
+    "longitude": "-81.92208000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 38,
+    "name": "Beach City",
+    "latitude": "40.65312000",
+    "longitude": "-81.58096000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 39,
+    "name": "Beachwood",
+    "latitude": "41.46450000",
+    "longitude": "-81.50873000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 40,
+    "name": "Beavercreek",
+    "latitude": "39.70923000",
+    "longitude": "-84.06327000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 41,
+    "name": "Beckett Ridge",
+    "latitude": "39.34700000",
+    "longitude": "-84.43522000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 42,
+    "name": "Bedford",
+    "latitude": "41.39311000",
+    "longitude": "-81.53651000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 43,
+    "name": "Bedford Heights",
+    "latitude": "41.41700000",
+    "longitude": "-81.52734000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 44,
+    "name": "Beechwood Trails",
+    "latitude": "40.02367000",
+    "longitude": "-82.65072000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 45,
+    "name": "Bellaire",
+    "latitude": "40.01618000",
+    "longitude": "-80.74231000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 46,
+    "name": "Bellbrook",
+    "latitude": "39.63562000",
+    "longitude": "-84.07077000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 47,
+    "name": "Bellefontaine",
+    "latitude": "40.36116000",
+    "longitude": "-83.75966000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 48,
+    "name": "Bellevue",
+    "latitude": "41.27366000",
+    "longitude": "-82.84158000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 49,
+    "name": "Bellville",
+    "latitude": "40.62006000",
+    "longitude": "-82.51072000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 50,
+    "name": "Belmont",
+    "latitude": "40.01580000",
+    "longitude": "-80.98854000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 51,
+    "name": "Belpre",
+    "latitude": "39.27396000",
+    "longitude": "-81.57290000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 52,
+    "name": "Berea",
+    "latitude": "41.36616000",
+    "longitude": "-81.85430000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 53,
+    "name": "Bethel",
+    "latitude": "38.96368000",
+    "longitude": "-84.08077000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 54,
+    "name": "Bethesda",
+    "latitude": "40.01618000",
+    "longitude": "-81.07260000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 55,
+    "name": "Beverly",
+    "latitude": "39.54785000",
+    "longitude": "-81.63957000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 56,
+    "name": "Bexley",
+    "latitude": "39.96895000",
+    "longitude": "-82.93768000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 57,
+    "name": "Blacklick Estates",
+    "latitude": "39.90506000",
+    "longitude": "-82.86434000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 58,
+    "name": "Blanchester",
+    "latitude": "39.29312000",
+    "longitude": "-83.98882000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 59,
+    "name": "Blue Ash",
+    "latitude": "39.23200000",
+    "longitude": "-84.37827000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 60,
+    "name": "Bluffton",
+    "latitude": "40.89533000",
+    "longitude": "-83.88883000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 61,
+    "name": "Boardman",
+    "latitude": "41.02423000",
+    "longitude": "-80.66285000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 62,
+    "name": "Bolindale",
+    "latitude": "41.20728000",
+    "longitude": "-80.77758000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 63,
+    "name": "Boston Heights",
+    "latitude": "41.26478000",
+    "longitude": "-81.51317000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 64,
+    "name": "Botkins",
+    "latitude": "40.46783000",
+    "longitude": "-84.18050000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 65,
+    "name": "Bowling Green",
+    "latitude": "41.37477000",
+    "longitude": "-83.65132000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 66,
+    "name": "Bradford",
+    "latitude": "40.13227000",
+    "longitude": "-84.43078000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 67,
+    "name": "Bradner",
+    "latitude": "41.32422000",
+    "longitude": "-83.43854000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 68,
+    "name": "Bratenahl",
+    "latitude": "41.54255000",
+    "longitude": "-81.62624000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 69,
+    "name": "Brecksville",
+    "latitude": "41.31978000",
+    "longitude": "-81.62679000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 70,
+    "name": "Bremen",
+    "latitude": "39.70173000",
+    "longitude": "-82.42682000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 71,
+    "name": "Brewster",
+    "latitude": "40.70700000",
+    "longitude": "-81.59818000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 72,
+    "name": "Bridgeport",
+    "latitude": "40.06979000",
+    "longitude": "-80.74008000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 73,
+    "name": "Bridgetown",
+    "latitude": "39.15311000",
+    "longitude": "-84.63717000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 74,
+    "name": "Brilliant",
+    "latitude": "40.26479000",
+    "longitude": "-80.62619000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 75,
+    "name": "Brimfield",
+    "latitude": "41.10006000",
+    "longitude": "-81.34650000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 76,
+    "name": "Broadview Heights",
+    "latitude": "41.31394000",
+    "longitude": "-81.68513000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 77,
+    "name": "Brook Park",
+    "latitude": "41.39838000",
+    "longitude": "-81.80458000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 78,
+    "name": "Brookfield Center",
+    "latitude": "41.24061000",
+    "longitude": "-80.55785000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 79,
+    "name": "Brooklyn",
+    "latitude": "41.43977000",
+    "longitude": "-81.73541000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 80,
+    "name": "Brooklyn Heights",
+    "latitude": "41.42533000",
+    "longitude": "-81.68818000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 81,
+    "name": "Brookville",
+    "latitude": "39.83672000",
+    "longitude": "-84.41134000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 82,
+    "name": "Brown",
+    "latitude": "38.93405000",
+    "longitude": "-83.86743000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 83,
+    "name": "Brunswick",
+    "latitude": "41.23811000",
+    "longitude": "-81.84180000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 84,
+    "name": "Bryan",
+    "latitude": "41.47477000",
+    "longitude": "-84.55245000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 85,
+    "name": "Buckeye Lake",
+    "latitude": "39.93368000",
+    "longitude": "-82.47238000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 86,
+    "name": "Bucyrus",
+    "latitude": "40.80839000",
+    "longitude": "-82.97546000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 87,
+    "name": "Burlington",
+    "latitude": "38.40730000",
+    "longitude": "-82.53571000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 88,
+    "name": "Burton",
+    "latitude": "41.47061000",
+    "longitude": "-81.14510000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 89,
+    "name": "Butler County",
+    "latitude": "39.43865000",
+    "longitude": "-84.57566000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 90,
+    "name": "Byesville",
+    "latitude": "39.96979000",
+    "longitude": "-81.53651000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 91,
+    "name": "Cadiz",
+    "latitude": "40.27285000",
+    "longitude": "-80.99676000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 92,
+    "name": "Calcutta",
+    "latitude": "40.67340000",
+    "longitude": "-80.57646000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 93,
+    "name": "Caldwell",
+    "latitude": "39.74785000",
+    "longitude": "-81.51651000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 94,
+    "name": "Cambridge",
+    "latitude": "40.03118000",
+    "longitude": "-81.58846000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 95,
+    "name": "Camden",
+    "latitude": "39.62894000",
+    "longitude": "-84.64856000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 96,
+    "name": "Campbell",
+    "latitude": "41.07839000",
+    "longitude": "-80.59924000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 97,
+    "name": "Canal Fulton",
+    "latitude": "40.88978000",
+    "longitude": "-81.59762000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 98,
+    "name": "Canal Winchester",
+    "latitude": "39.84284000",
+    "longitude": "-82.80462000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 99,
+    "name": "Canfield",
+    "latitude": "41.02506000",
+    "longitude": "-80.76091000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 100,
+    "name": "Canton",
+    "latitude": "40.79895000",
+    "longitude": "-81.37845000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 101,
+    "name": "Cardington",
+    "latitude": "40.50062000",
+    "longitude": "-82.89351000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 102,
+    "name": "Carey",
+    "latitude": "40.95256000",
+    "longitude": "-83.38242000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 103,
+    "name": "Carlisle",
+    "latitude": "39.58200000",
+    "longitude": "-84.32022000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 104,
+    "name": "Carroll County",
+    "latitude": "40.57959000",
+    "longitude": "-81.08972000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 105,
+    "name": "Carrollton",
+    "latitude": "40.57284000",
+    "longitude": "-81.08565000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 106,
+    "name": "Cedarville",
+    "latitude": "39.74423000",
+    "longitude": "-83.80854000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 107,
+    "name": "Celina",
+    "latitude": "40.54894000",
+    "longitude": "-84.57023000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 108,
+    "name": "Centerburg",
+    "latitude": "40.30451000",
+    "longitude": "-82.69628000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 109,
+    "name": "Centerville",
+    "latitude": "39.62839000",
+    "longitude": "-84.15938000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 110,
+    "name": "Chagrin Falls",
+    "latitude": "41.43616000",
+    "longitude": "-81.38650000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 111,
+    "name": "Champaign County",
+    "latitude": "40.13767000",
+    "longitude": "-83.76950000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 112,
+    "name": "Champion Heights",
+    "latitude": "41.28999000",
+    "longitude": "-80.84595000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 113,
+    "name": "Chardon",
+    "latitude": "41.61422000",
+    "longitude": "-81.14899000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 114,
+    "name": "Chauncey",
+    "latitude": "39.39785000",
+    "longitude": "-82.12931000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 115,
+    "name": "Cherry Grove",
+    "latitude": "39.07256000",
+    "longitude": "-84.32188000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 116,
+    "name": "Chesterland",
+    "latitude": "41.52227000",
+    "longitude": "-81.33789000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 117,
+    "name": "Cheviot",
+    "latitude": "39.15700000",
+    "longitude": "-84.61328000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 118,
+    "name": "Chillicothe",
+    "latitude": "39.33312000",
+    "longitude": "-82.98240000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 119,
+    "name": "Choctaw Lake",
+    "latitude": "39.96006000",
+    "longitude": "-83.48492000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 120,
+    "name": "Churchill",
+    "latitude": "41.16200000",
+    "longitude": "-80.66480000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 121,
+    "name": "Cincinnati",
+    "latitude": "39.12711000",
+    "longitude": "-84.51439000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 122,
+    "name": "Circleville",
+    "latitude": "39.60062000",
+    "longitude": "-82.94601000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 123,
+    "name": "Clark County",
+    "latitude": "39.91678000",
+    "longitude": "-83.78390000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 124,
+    "name": "Clark-Fulton",
+    "latitude": "41.46402000",
+    "longitude": "-81.70979000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 125,
+    "name": "Clayton",
+    "latitude": "39.86311000",
+    "longitude": "-84.36050000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 126,
+    "name": "Clermont",
+    "latitude": "39.04743000",
+    "longitude": "-84.15192000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 127,
+    "name": "Cleveland",
+    "latitude": "41.49950000",
+    "longitude": "-81.69541000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 128,
+    "name": "Cleveland Heights",
+    "latitude": "41.52005000",
+    "longitude": "-81.55624000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 129,
+    "name": "Cleves",
+    "latitude": "39.16172000",
+    "longitude": "-84.74912000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 130,
+    "name": "Clinton",
+    "latitude": "40.92672000",
+    "longitude": "-81.63040000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 131,
+    "name": "Clinton County",
+    "latitude": "39.41498000",
+    "longitude": "-83.80838000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 132,
+    "name": "Clyde",
+    "latitude": "41.30422000",
+    "longitude": "-82.97519000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 133,
+    "name": "Coal Grove",
+    "latitude": "38.50341000",
+    "longitude": "-82.64711000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 134,
+    "name": "Coldwater",
+    "latitude": "40.47977000",
+    "longitude": "-84.62829000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 135,
+    "name": "Collinwood",
+    "latitude": "41.55838000",
+    "longitude": "-81.56929000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 136,
+    "name": "Columbiana",
+    "latitude": "40.88839000",
+    "longitude": "-80.69396000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 137,
+    "name": "Columbiana County",
+    "latitude": "40.76843000",
+    "longitude": "-80.77719000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 138,
+    "name": "Columbus",
+    "latitude": "39.96118000",
+    "longitude": "-82.99879000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 139,
+    "name": "Columbus Grove",
+    "latitude": "40.91950000",
+    "longitude": "-84.05689000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 140,
+    "name": "Commercial Point",
+    "latitude": "39.76840000",
+    "longitude": "-83.05713000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 141,
+    "name": "Conneaut",
+    "latitude": "41.94756000",
+    "longitude": "-80.55424000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 142,
+    "name": "Continental",
+    "latitude": "41.10033000",
+    "longitude": "-84.26634000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 143,
+    "name": "Convoy",
+    "latitude": "40.91672000",
+    "longitude": "-84.70274000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 144,
+    "name": "Copley",
+    "latitude": "41.09894000",
+    "longitude": "-81.64457000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 145,
+    "name": "Cortland",
+    "latitude": "41.33033000",
+    "longitude": "-80.72536000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 146,
+    "name": "Coshocton",
+    "latitude": "40.27202000",
+    "longitude": "-81.85958000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 147,
+    "name": "Coshocton County",
+    "latitude": "40.30164000",
+    "longitude": "-81.92001000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 148,
+    "name": "Covedale",
+    "latitude": "39.12117000",
+    "longitude": "-84.60633000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 149,
+    "name": "Covington",
+    "latitude": "40.11727000",
+    "longitude": "-84.35384000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 150,
+    "name": "Craig Beach",
+    "latitude": "41.11700000",
+    "longitude": "-80.98342000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 151,
+    "name": "Crawford",
+    "latitude": "40.85077000",
+    "longitude": "-82.91978000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 152,
+    "name": "Crestline",
+    "latitude": "40.78756000",
+    "longitude": "-82.73657000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 153,
+    "name": "Creston",
+    "latitude": "40.98700000",
+    "longitude": "-81.89375000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 154,
+    "name": "Cridersville",
+    "latitude": "40.65422000",
+    "longitude": "-84.15078000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 155,
+    "name": "Crooksville",
+    "latitude": "39.76896000",
+    "longitude": "-82.09209000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 156,
+    "name": "Crystal Lakes",
+    "latitude": "39.88923000",
+    "longitude": "-84.02660000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 157,
+    "name": "Curtice",
+    "latitude": "41.61838000",
+    "longitude": "-83.36771000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 158,
+    "name": "Cuyahoga",
+    "latitude": "41.47875000",
+    "longitude": "-81.67786000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 159,
+    "name": "Cuyahoga Falls",
+    "latitude": "41.13394000",
+    "longitude": "-81.48456000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 160,
+    "name": "Dalton",
+    "latitude": "40.79894000",
+    "longitude": "-81.69541000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 161,
+    "name": "Danville",
+    "latitude": "40.44756000",
+    "longitude": "-82.26016000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 162,
+    "name": "Darke",
+    "latitude": "40.13323000",
+    "longitude": "-84.61931000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 163,
+    "name": "Day Heights",
+    "latitude": "39.17395000",
+    "longitude": "-84.22633000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 164,
+    "name": "Dayton",
+    "latitude": "39.75895000",
+    "longitude": "-84.19161000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 165,
+    "name": "De Graff",
+    "latitude": "40.31200000",
+    "longitude": "-83.91577000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 166,
+    "name": "Deer Park",
+    "latitude": "39.20534000",
+    "longitude": "-84.39466000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 167,
+    "name": "Defiance",
+    "latitude": "41.28449000",
+    "longitude": "-84.35578000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 168,
+    "name": "Defiance County",
+    "latitude": "41.32392000",
+    "longitude": "-84.49050000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 169,
+    "name": "Delaware",
+    "latitude": "40.29867000",
+    "longitude": "-83.06797000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 170,
+    "name": "Delaware County",
+    "latitude": "40.27839000",
+    "longitude": "-83.00489000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 171,
+    "name": "Delhi Hills",
+    "latitude": "39.09284000",
+    "longitude": "-84.61272000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 172,
+    "name": "Delphos",
+    "latitude": "40.84338000",
+    "longitude": "-84.34162000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 173,
+    "name": "Delta",
+    "latitude": "41.57366000",
+    "longitude": "-84.00522000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 174,
+    "name": "Dennison",
+    "latitude": "40.39340000",
+    "longitude": "-81.33372000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 175,
+    "name": "Dent",
+    "latitude": "39.18589000",
+    "longitude": "-84.65134000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 176,
+    "name": "Deshler",
+    "latitude": "41.20755000",
+    "longitude": "-83.89911000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 177,
+    "name": "Detroit-Shoreway",
+    "latitude": "41.47772000",
+    "longitude": "-81.72991000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 178,
+    "name": "Devola",
+    "latitude": "39.47369000",
+    "longitude": "-81.47901000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 179,
+    "name": "Dillonvale",
+    "latitude": "39.21811000",
+    "longitude": "-84.40216000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 180,
+    "name": "Dover",
+    "latitude": "40.52062000",
+    "longitude": "-81.47401000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 181,
+    "name": "Doylestown",
+    "latitude": "40.97005000",
+    "longitude": "-81.69652000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 182,
+    "name": "Dresden",
+    "latitude": "40.12146000",
+    "longitude": "-82.01069000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 183,
+    "name": "Drexel",
+    "latitude": "39.74645000",
+    "longitude": "-84.28661000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 184,
+    "name": "Dry Ridge",
+    "latitude": "39.25922000",
+    "longitude": "-84.61911000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 185,
+    "name": "Dry Run",
+    "latitude": "39.10423000",
+    "longitude": "-84.33049000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 186,
+    "name": "Dublin",
+    "latitude": "40.09923000",
+    "longitude": "-83.11408000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 187,
+    "name": "Dunlap",
+    "latitude": "39.29228000",
+    "longitude": "-84.61800000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 188,
+    "name": "East Canton",
+    "latitude": "40.78728000",
+    "longitude": "-81.28261000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 189,
+    "name": "East Cleveland",
+    "latitude": "41.53311000",
+    "longitude": "-81.57901000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 190,
+    "name": "East Liverpool",
+    "latitude": "40.61868000",
+    "longitude": "-80.57729000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 191,
+    "name": "East Palestine",
+    "latitude": "40.83395000",
+    "longitude": "-80.54035000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 192,
+    "name": "Eastlake",
+    "latitude": "41.65394000",
+    "longitude": "-81.45039000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 193,
+    "name": "Eaton",
+    "latitude": "39.74394000",
+    "longitude": "-84.63662000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 194,
+    "name": "Eaton Estates",
+    "latitude": "41.30894000",
+    "longitude": "-82.00570000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 195,
+    "name": "Edgerton",
+    "latitude": "41.44866000",
+    "longitude": "-84.74801000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 196,
+    "name": "Edgewood",
+    "latitude": "41.87283000",
+    "longitude": "-80.77286000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 197,
+    "name": "Elida",
+    "latitude": "40.78866000",
+    "longitude": "-84.20384000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 198,
+    "name": "Elmore",
+    "latitude": "41.47616000",
+    "longitude": "-83.29576000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 199,
+    "name": "Elmwood Place",
+    "latitude": "39.18728000",
+    "longitude": "-84.48800000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 200,
+    "name": "Elyria",
+    "latitude": "41.36838000",
+    "longitude": "-82.10765000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 201,
+    "name": "Englewood",
+    "latitude": "39.87756000",
+    "longitude": "-84.30217000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 202,
+    "name": "Enon",
+    "latitude": "39.87812000",
+    "longitude": "-83.93688000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 203,
+    "name": "Erie County",
+    "latitude": "41.43209000",
+    "longitude": "-82.69958000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 204,
+    "name": "Etna",
+    "latitude": "39.95729000",
+    "longitude": "-82.68183000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 205,
+    "name": "Euclid",
+    "latitude": "41.59310000",
+    "longitude": "-81.52679000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 206,
+    "name": "Evendale",
+    "latitude": "39.25617000",
+    "longitude": "-84.41800000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 207,
+    "name": "Fairborn",
+    "latitude": "39.82089000",
+    "longitude": "-84.01938000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 208,
+    "name": "Fairfax",
+    "latitude": "39.14534000",
+    "longitude": "-84.39327000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 209,
+    "name": "Fairfield",
+    "latitude": "39.34589000",
+    "longitude": "-84.56050000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 210,
+    "name": "Fairfield Beach",
+    "latitude": "39.91590000",
+    "longitude": "-82.47516000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 211,
+    "name": "Fairfield County",
+    "latitude": "39.75160000",
+    "longitude": "-82.63059000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 212,
+    "name": "Fairlawn",
+    "latitude": "41.12783000",
+    "longitude": "-81.60984000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 213,
+    "name": "Fairport Harbor",
+    "latitude": "41.75004000",
+    "longitude": "-81.27399000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 214,
+    "name": "Fairview Park",
+    "latitude": "41.44144000",
+    "longitude": "-81.86430000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 215,
+    "name": "Farmersville",
+    "latitude": "39.67950000",
+    "longitude": "-84.42911000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 216,
+    "name": "Fayette",
+    "latitude": "41.67338000",
+    "longitude": "-84.32689000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 217,
+    "name": "Fayette County",
+    "latitude": "39.55988000",
+    "longitude": "-83.45610000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 218,
+    "name": "Findlay",
+    "latitude": "41.04422000",
+    "longitude": "-83.64993000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 219,
+    "name": "Finneytown",
+    "latitude": "39.20034000",
+    "longitude": "-84.52050000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 220,
+    "name": "Five Points",
+    "latitude": "39.56867000",
+    "longitude": "-84.19299000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 221,
+    "name": "Forest",
+    "latitude": "40.80172000",
+    "longitude": "-83.51048000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 222,
+    "name": "Forest Park",
+    "latitude": "39.29034000",
+    "longitude": "-84.50411000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 223,
+    "name": "Forestville",
+    "latitude": "39.07506000",
+    "longitude": "-84.34494000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 224,
+    "name": "Fort Loramie",
+    "latitude": "40.35144000",
+    "longitude": "-84.37384000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 225,
+    "name": "Fort McKinley",
+    "latitude": "39.79756000",
+    "longitude": "-84.25355000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 226,
+    "name": "Fort Recovery",
+    "latitude": "40.41282000",
+    "longitude": "-84.77635000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 227,
+    "name": "Fort Shawnee",
+    "latitude": "40.68672000",
+    "longitude": "-84.13773000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 228,
+    "name": "Fostoria",
+    "latitude": "41.15700000",
+    "longitude": "-83.41687000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 229,
+    "name": "Frankfort",
+    "latitude": "39.40145000",
+    "longitude": "-83.18074000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 230,
+    "name": "Franklin",
+    "latitude": "39.55895000",
+    "longitude": "-84.30411000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 231,
+    "name": "Franklin County",
+    "latitude": "39.96952000",
+    "longitude": "-83.00935000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 232,
+    "name": "Franklin Furnace",
+    "latitude": "38.64508000",
+    "longitude": "-82.84878000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 233,
+    "name": "Frazeysburg",
+    "latitude": "40.11729000",
+    "longitude": "-82.11931000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 234,
+    "name": "Fredericktown",
+    "latitude": "40.48117000",
+    "longitude": "-82.54072000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 235,
+    "name": "Fremont",
+    "latitude": "41.35033000",
+    "longitude": "-83.12186000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 236,
+    "name": "Fruit Hill",
+    "latitude": "39.07562000",
+    "longitude": "-84.36438000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 237,
+    "name": "Fulton County",
+    "latitude": "41.60180000",
+    "longitude": "-84.13007000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 238,
+    "name": "Gahanna",
+    "latitude": "40.01923000",
+    "longitude": "-82.87934000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 239,
+    "name": "Galion",
+    "latitude": "40.73367000",
+    "longitude": "-82.78990000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 240,
+    "name": "Gallia",
+    "latitude": "38.82467000",
+    "longitude": "-82.31691000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 241,
+    "name": "Gallipolis",
+    "latitude": "38.80980000",
+    "longitude": "-82.20237000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 242,
+    "name": "Gambier",
+    "latitude": "40.37562000",
+    "longitude": "-82.39710000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 243,
+    "name": "Garfield Heights",
+    "latitude": "41.41700000",
+    "longitude": "-81.60596000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 244,
+    "name": "Garrettsville",
+    "latitude": "41.28422000",
+    "longitude": "-81.09649000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 245,
+    "name": "Gates Mills",
+    "latitude": "41.51755000",
+    "longitude": "-81.40345000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 246,
+    "name": "Geauga",
+    "latitude": "41.49954000",
+    "longitude": "-81.17865000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 247,
+    "name": "Geneva",
+    "latitude": "41.80505000",
+    "longitude": "-80.94815000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 248,
+    "name": "Geneva-on-the-Lake",
+    "latitude": "41.85950000",
+    "longitude": "-80.95398000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 249,
+    "name": "Genoa",
+    "latitude": "41.51811000",
+    "longitude": "-83.35909000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 250,
+    "name": "Georgetown",
+    "latitude": "38.86451000",
+    "longitude": "-83.90409000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 251,
+    "name": "Germantown",
+    "latitude": "39.62617000",
+    "longitude": "-84.36939000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 252,
+    "name": "Gibsonburg",
+    "latitude": "41.38450000",
+    "longitude": "-83.32048000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 253,
+    "name": "Girard",
+    "latitude": "41.15395000",
+    "longitude": "-80.70147000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 254,
+    "name": "Glandorf",
+    "latitude": "41.02894000",
+    "longitude": "-84.07911000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 255,
+    "name": "Glendale",
+    "latitude": "39.27061000",
+    "longitude": "-84.45939000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 256,
+    "name": "Glenmoor",
+    "latitude": "40.66617000",
+    "longitude": "-80.62313000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 257,
+    "name": "Glenville",
+    "latitude": "41.53338000",
+    "longitude": "-81.61735000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 258,
+    "name": "Glouster",
+    "latitude": "39.50313000",
+    "longitude": "-82.08459000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 259,
+    "name": "Gnadenhutten",
+    "latitude": "40.35840000",
+    "longitude": "-81.43428000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 260,
+    "name": "Golf Manor",
+    "latitude": "39.18728000",
+    "longitude": "-84.44633000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 261,
+    "name": "Goshen",
+    "latitude": "39.23339000",
+    "longitude": "-84.16132000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 262,
+    "name": "Grafton",
+    "latitude": "41.27255000",
+    "longitude": "-82.05459000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 263,
+    "name": "Grandview",
+    "latitude": "39.19422000",
+    "longitude": "-84.72439000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 264,
+    "name": "Grandview Heights",
+    "latitude": "39.97979000",
+    "longitude": "-83.04074000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 265,
+    "name": "Granville",
+    "latitude": "40.06812000",
+    "longitude": "-82.51960000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 266,
+    "name": "Granville South",
+    "latitude": "40.05207000",
+    "longitude": "-82.54166000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 267,
+    "name": "Green",
+    "latitude": "40.94589000",
+    "longitude": "-81.48317000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 268,
+    "name": "Green Meadows",
+    "latitude": "39.86895000",
+    "longitude": "-83.94438000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 269,
+    "name": "Green Springs",
+    "latitude": "41.25616000",
+    "longitude": "-83.05158000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 270,
+    "name": "Greene County",
+    "latitude": "39.69148000",
+    "longitude": "-83.88989000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 271,
+    "name": "Greenfield",
+    "latitude": "39.35201000",
+    "longitude": "-83.38269000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 272,
+    "name": "Greenhills",
+    "latitude": "39.26811000",
+    "longitude": "-84.52300000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 273,
+    "name": "Greensburg",
+    "latitude": "40.93172000",
+    "longitude": "-81.46484000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 274,
+    "name": "Greentown",
+    "latitude": "40.92756000",
+    "longitude": "-81.40261000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 275,
+    "name": "Greenville",
+    "latitude": "40.10283000",
+    "longitude": "-84.63301000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 276,
+    "name": "Greenwich",
+    "latitude": "41.03005000",
+    "longitude": "-82.51573000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 277,
+    "name": "Groesbeck",
+    "latitude": "39.22311000",
+    "longitude": "-84.58689000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 278,
+    "name": "Grove City",
+    "latitude": "39.88145000",
+    "longitude": "-83.09296000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 279,
+    "name": "Groveport",
+    "latitude": "39.87840000",
+    "longitude": "-82.88379000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 280,
+    "name": "Guernsey",
+    "latitude": "40.05205000",
+    "longitude": "-81.49426000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 281,
+    "name": "Hamilton",
+    "latitude": "39.39950000",
+    "longitude": "-84.56134000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 282,
+    "name": "Hamilton County",
+    "latitude": "39.19553000",
+    "longitude": "-84.54277000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 283,
+    "name": "Hancock County",
+    "latitude": "41.00194000",
+    "longitude": "-83.66654000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 284,
+    "name": "Hanover",
+    "latitude": "40.07979000",
+    "longitude": "-82.26098000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 285,
+    "name": "Harbor Hills",
+    "latitude": "39.93673000",
+    "longitude": "-82.43515000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 286,
+    "name": "Hardin County",
+    "latitude": "40.66151000",
+    "longitude": "-83.65944000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 287,
+    "name": "Harrison",
+    "latitude": "39.26200000",
+    "longitude": "-84.81995000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 288,
+    "name": "Harrison County",
+    "latitude": "40.29384000",
+    "longitude": "-81.09114000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 289,
+    "name": "Hartville",
+    "latitude": "40.96367000",
+    "longitude": "-81.33122000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 290,
+    "name": "Haskins",
+    "latitude": "41.46477000",
+    "longitude": "-83.70605000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 291,
+    "name": "Heath",
+    "latitude": "40.02284000",
+    "longitude": "-82.44460000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 292,
+    "name": "Hebron",
+    "latitude": "39.96173000",
+    "longitude": "-82.49127000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 293,
+    "name": "Henry County",
+    "latitude": "41.33389000",
+    "longitude": "-84.06823000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 294,
+    "name": "Hicksville",
+    "latitude": "41.29311000",
+    "longitude": "-84.76190000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 295,
+    "name": "Highland",
+    "latitude": "39.18474000",
+    "longitude": "-83.60097000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 296,
+    "name": "Highland Heights",
+    "latitude": "41.55200000",
+    "longitude": "-81.47845000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 297,
+    "name": "Highpoint",
+    "latitude": "39.28839000",
+    "longitude": "-84.35022000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 298,
+    "name": "Hilliard",
+    "latitude": "40.03340000",
+    "longitude": "-83.15825000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 299,
+    "name": "Hillsboro",
+    "latitude": "39.20229000",
+    "longitude": "-83.61159000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 300,
+    "name": "Hiram",
+    "latitude": "41.31256000",
+    "longitude": "-81.14371000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 301,
+    "name": "Hocking",
+    "latitude": "39.49702000",
+    "longitude": "-82.47925000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 302,
+    "name": "Holgate",
+    "latitude": "41.24894000",
+    "longitude": "-84.13300000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 303,
+    "name": "Holiday Valley",
+    "latitude": "39.85617000",
+    "longitude": "-83.96854000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 304,
+    "name": "Holland",
+    "latitude": "41.62172000",
+    "longitude": "-83.71160000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 305,
+    "name": "Holmes",
+    "latitude": "40.56120000",
+    "longitude": "-81.92936000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 306,
+    "name": "Hough",
+    "latitude": "41.51200000",
+    "longitude": "-81.63652000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 307,
+    "name": "Howland Center",
+    "latitude": "41.25117000",
+    "longitude": "-80.74536000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 308,
+    "name": "Hubbard",
+    "latitude": "41.15645000",
+    "longitude": "-80.56924000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 309,
+    "name": "Huber Heights",
+    "latitude": "39.84395000",
+    "longitude": "-84.12466000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 310,
+    "name": "Huber Ridge",
+    "latitude": "40.08867000",
+    "longitude": "-82.91657000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 311,
+    "name": "Hudson",
+    "latitude": "41.24006000",
+    "longitude": "-81.44067000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 312,
+    "name": "Hunter",
+    "latitude": "39.49284000",
+    "longitude": "-84.28966000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 313,
+    "name": "Huron",
+    "latitude": "41.39505000",
+    "longitude": "-82.55517000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 314,
+    "name": "Huron County",
+    "latitude": "41.14615000",
+    "longitude": "-82.59841000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 315,
+    "name": "Independence",
+    "latitude": "41.36866000",
+    "longitude": "-81.63790000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 316,
+    "name": "Ironton",
+    "latitude": "38.53675000",
+    "longitude": "-82.68294000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 317,
+    "name": "Jackson",
+    "latitude": "39.05202000",
+    "longitude": "-82.63655000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 318,
+    "name": "Jackson Center",
+    "latitude": "40.43949000",
+    "longitude": "-84.04022000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 319,
+    "name": "Jackson County",
+    "latitude": "39.01967000",
+    "longitude": "-82.61838000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 320,
+    "name": "Jamestown",
+    "latitude": "39.65812000",
+    "longitude": "-83.73492000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 321,
+    "name": "Jefferson",
+    "latitude": "41.73867000",
+    "longitude": "-80.76981000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 322,
+    "name": "Jefferson County",
+    "latitude": "40.38502000",
+    "longitude": "-80.76097000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 323,
+    "name": "Jeffersonville",
+    "latitude": "39.65367000",
+    "longitude": "-83.56381000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 324,
+    "name": "Johnstown",
+    "latitude": "40.15367000",
+    "longitude": "-82.68517000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 325,
+    "name": "Kalida",
+    "latitude": "40.98283000",
+    "longitude": "-84.19939000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 326,
+    "name": "Kent",
+    "latitude": "41.15367000",
+    "longitude": "-81.35789000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 327,
+    "name": "Kenton",
+    "latitude": "40.64700000",
+    "longitude": "-83.60965000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 328,
+    "name": "Kenwood",
+    "latitude": "39.21061000",
+    "longitude": "-84.36716000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 329,
+    "name": "Kettering",
+    "latitude": "39.68950000",
+    "longitude": "-84.16883000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 330,
+    "name": "Kings Mills",
+    "latitude": "39.35561000",
+    "longitude": "-84.24855000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 331,
+    "name": "Kingston",
+    "latitude": "39.47395000",
+    "longitude": "-82.91073000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 332,
+    "name": "Kirtland",
+    "latitude": "41.62894000",
+    "longitude": "-81.36150000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 333,
+    "name": "Knox County",
+    "latitude": "40.39877000",
+    "longitude": "-82.42153000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 334,
+    "name": "La Croft",
+    "latitude": "40.64590000",
+    "longitude": "-80.59785000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 335,
+    "name": "Lagrange",
+    "latitude": "41.23728000",
+    "longitude": "-82.11987000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 336,
+    "name": "Lake",
+    "latitude": "41.71393000",
+    "longitude": "-81.24527000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 337,
+    "name": "Lake Darby",
+    "latitude": "39.95728000",
+    "longitude": "-83.22880000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 338,
+    "name": "Lake Lakengren",
+    "latitude": "39.68843000",
+    "longitude": "-84.69347000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 339,
+    "name": "Lake Mohawk",
+    "latitude": "40.66673000",
+    "longitude": "-81.19927000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 340,
+    "name": "Lakemore",
+    "latitude": "41.02089000",
+    "longitude": "-81.43595000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 341,
+    "name": "Lakeview",
+    "latitude": "40.48477000",
+    "longitude": "-83.92300000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 342,
+    "name": "Lakewood",
+    "latitude": "41.48199000",
+    "longitude": "-81.79819000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 343,
+    "name": "Lancaster",
+    "latitude": "39.71368000",
+    "longitude": "-82.59933000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 344,
+    "name": "Landen",
+    "latitude": "39.31200000",
+    "longitude": "-84.28299000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 345,
+    "name": "Lawrence County",
+    "latitude": "38.59847000",
+    "longitude": "-82.53675000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 346,
+    "name": "Leavittsburg",
+    "latitude": "41.24783000",
+    "longitude": "-80.87703000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 347,
+    "name": "Lebanon",
+    "latitude": "39.43534000",
+    "longitude": "-84.20299000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 348,
+    "name": "Leesburg",
+    "latitude": "39.34506000",
+    "longitude": "-83.55297000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 349,
+    "name": "Leetonia",
+    "latitude": "40.87728000",
+    "longitude": "-80.75536000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 350,
+    "name": "Leipsic",
+    "latitude": "41.09838000",
+    "longitude": "-83.98467000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 351,
+    "name": "Lewis Center",
+    "latitude": "40.19840000",
+    "longitude": "-83.01018000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 352,
+    "name": "Lewisburg",
+    "latitude": "39.84616000",
+    "longitude": "-84.53967000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 353,
+    "name": "Lexington",
+    "latitude": "40.67867000",
+    "longitude": "-82.58239000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 354,
+    "name": "Liberty Center",
+    "latitude": "41.44338000",
+    "longitude": "-84.00883000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 355,
+    "name": "Licking",
+    "latitude": "40.09161000",
+    "longitude": "-82.48315000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 356,
+    "name": "Lima",
+    "latitude": "40.74255000",
+    "longitude": "-84.10523000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 357,
+    "name": "Lincoln Heights",
+    "latitude": "39.23895000",
+    "longitude": "-84.45550000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 358,
+    "name": "Lincoln Village",
+    "latitude": "39.95479000",
+    "longitude": "-83.13074000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 359,
+    "name": "Lisbon",
+    "latitude": "39.86089000",
+    "longitude": "-83.63520000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 360,
+    "name": "Lithopolis",
+    "latitude": "39.80284000",
+    "longitude": "-82.80628000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 361,
+    "name": "Lockland",
+    "latitude": "39.22922000",
+    "longitude": "-84.45772000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 362,
+    "name": "Lodi",
+    "latitude": "41.03339000",
+    "longitude": "-82.01209000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 363,
+    "name": "Logan",
+    "latitude": "39.54007000",
+    "longitude": "-82.40710000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 364,
+    "name": "Logan County",
+    "latitude": "40.38845000",
+    "longitude": "-83.76587000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 365,
+    "name": "Logan Elm Village",
+    "latitude": "39.56978000",
+    "longitude": "-82.95185000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 366,
+    "name": "London",
+    "latitude": "39.88645000",
+    "longitude": "-83.44825000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 367,
+    "name": "Lorain",
+    "latitude": "41.45282000",
+    "longitude": "-82.18237000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 368,
+    "name": "Lorain County",
+    "latitude": "41.45252000",
+    "longitude": "-82.15147000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 369,
+    "name": "Lordstown",
+    "latitude": "41.16561000",
+    "longitude": "-80.85758000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 370,
+    "name": "Loudonville",
+    "latitude": "40.63534000",
+    "longitude": "-82.23321000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 371,
+    "name": "Louisville",
+    "latitude": "40.83728000",
+    "longitude": "-81.25955000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 372,
+    "name": "Loveland",
+    "latitude": "39.26895000",
+    "longitude": "-84.26383000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 373,
+    "name": "Loveland Park",
+    "latitude": "39.29978000",
+    "longitude": "-84.26327000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 374,
+    "name": "Lowellville",
+    "latitude": "41.03534000",
+    "longitude": "-80.53646000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 375,
+    "name": "Lucas",
+    "latitude": "41.68419000",
+    "longitude": "-83.46826000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 376,
+    "name": "Lucasville",
+    "latitude": "38.87952000",
+    "longitude": "-82.99684000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 377,
+    "name": "Luckey",
+    "latitude": "41.45061000",
+    "longitude": "-83.48743000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 378,
+    "name": "Lynchburg",
+    "latitude": "39.24173000",
+    "longitude": "-83.79131000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 379,
+    "name": "Lyndhurst",
+    "latitude": "41.52005000",
+    "longitude": "-81.48873000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 380,
+    "name": "Macedonia",
+    "latitude": "41.31367000",
+    "longitude": "-81.50845000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 381,
+    "name": "Mack",
+    "latitude": "39.15811000",
+    "longitude": "-84.64967000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 382,
+    "name": "Madeira",
+    "latitude": "39.19089000",
+    "longitude": "-84.36355000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 383,
+    "name": "Madison",
+    "latitude": "41.77116000",
+    "longitude": "-81.04982000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 384,
+    "name": "Madison County",
+    "latitude": "39.89403000",
+    "longitude": "-83.40020000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 385,
+    "name": "Mahoning",
+    "latitude": "41.01464000",
+    "longitude": "-80.77629000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 386,
+    "name": "Malvern",
+    "latitude": "40.69173000",
+    "longitude": "-81.18121000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 387,
+    "name": "Manchester",
+    "latitude": "38.68813000",
+    "longitude": "-83.60936000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 388,
+    "name": "Mansfield",
+    "latitude": "40.75839000",
+    "longitude": "-82.51545000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 389,
+    "name": "Mantua",
+    "latitude": "41.28394000",
+    "longitude": "-81.22399000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 390,
+    "name": "Maple Heights",
+    "latitude": "41.41533000",
+    "longitude": "-81.56596000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 391,
+    "name": "Mariemont",
+    "latitude": "39.14506000",
+    "longitude": "-84.37438000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 392,
+    "name": "Marietta",
+    "latitude": "39.41535000",
+    "longitude": "-81.45484000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 393,
+    "name": "Marion",
+    "latitude": "40.58867000",
+    "longitude": "-83.12852000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 394,
+    "name": "Marion County",
+    "latitude": "40.58719000",
+    "longitude": "-83.16087000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 395,
+    "name": "Martins Ferry",
+    "latitude": "40.09591000",
+    "longitude": "-80.72453000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 396,
+    "name": "Marysville",
+    "latitude": "40.23645000",
+    "longitude": "-83.36714000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 397,
+    "name": "Mason",
+    "latitude": "39.36006000",
+    "longitude": "-84.30994000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 398,
+    "name": "Massillon",
+    "latitude": "40.79672000",
+    "longitude": "-81.52151000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 399,
+    "name": "Masury",
+    "latitude": "41.21117000",
+    "longitude": "-80.53785000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 400,
+    "name": "Maumee",
+    "latitude": "41.56283000",
+    "longitude": "-83.65382000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 401,
+    "name": "Mayfield",
+    "latitude": "41.55200000",
+    "longitude": "-81.43928000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 402,
+    "name": "Mayfield Heights",
+    "latitude": "41.51922000",
+    "longitude": "-81.45790000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 403,
+    "name": "McArthur",
+    "latitude": "39.24646000",
+    "longitude": "-82.47849000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 404,
+    "name": "McComb",
+    "latitude": "41.10755000",
+    "longitude": "-83.79271000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 405,
+    "name": "McConnelsville",
+    "latitude": "39.64868000",
+    "longitude": "-81.85319000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 406,
+    "name": "McDonald",
+    "latitude": "41.16367000",
+    "longitude": "-80.72424000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 407,
+    "name": "McKinley Heights",
+    "latitude": "41.18367000",
+    "longitude": "-80.71730000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 408,
+    "name": "Mechanicsburg",
+    "latitude": "40.07200000",
+    "longitude": "-83.55631000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 409,
+    "name": "Medina",
+    "latitude": "41.13839000",
+    "longitude": "-81.86375000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 410,
+    "name": "Medina County",
+    "latitude": "41.11759000",
+    "longitude": "-81.89971000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 411,
+    "name": "Meigs",
+    "latitude": "39.08224000",
+    "longitude": "-82.02290000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 412,
+    "name": "Mentor",
+    "latitude": "41.66616000",
+    "longitude": "-81.33955000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 413,
+    "name": "Mentor-on-the-Lake",
+    "latitude": "41.70504000",
+    "longitude": "-81.36039000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 414,
+    "name": "Mercer County",
+    "latitude": "40.54001000",
+    "longitude": "-84.62936000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 415,
+    "name": "Miami",
+    "latitude": "40.05345000",
+    "longitude": "-84.22885000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 416,
+    "name": "Miami Heights",
+    "latitude": "39.16506000",
+    "longitude": "-84.72050000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 417,
+    "name": "Miamisburg",
+    "latitude": "39.64284000",
+    "longitude": "-84.28661000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 418,
+    "name": "Miamitown",
+    "latitude": "39.21589000",
+    "longitude": "-84.70411000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 419,
+    "name": "Middleburg Heights",
+    "latitude": "41.36144000",
+    "longitude": "-81.81291000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 420,
+    "name": "Middlefield",
+    "latitude": "41.46200000",
+    "longitude": "-81.07371000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 421,
+    "name": "Middleport",
+    "latitude": "39.00175000",
+    "longitude": "-82.04875000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 422,
+    "name": "Middletown",
+    "latitude": "39.51506000",
+    "longitude": "-84.39828000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 423,
+    "name": "Milan",
+    "latitude": "41.29755000",
+    "longitude": "-82.60545000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 424,
+    "name": "Milford",
+    "latitude": "39.17534000",
+    "longitude": "-84.29438000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 425,
+    "name": "Millbury",
+    "latitude": "41.56616000",
+    "longitude": "-83.42465000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 426,
+    "name": "Millersburg",
+    "latitude": "40.55451000",
+    "longitude": "-81.91792000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 427,
+    "name": "Millersport",
+    "latitude": "39.90006000",
+    "longitude": "-82.53405000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 428,
+    "name": "Mineral Ridge",
+    "latitude": "41.14006000",
+    "longitude": "-80.76897000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 429,
+    "name": "Minerva",
+    "latitude": "40.72978000",
+    "longitude": "-81.10538000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 430,
+    "name": "Minerva Park",
+    "latitude": "40.07645000",
+    "longitude": "-82.94379000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 431,
+    "name": "Mingo Junction",
+    "latitude": "40.32174000",
+    "longitude": "-80.60980000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 432,
+    "name": "Minster",
+    "latitude": "40.39310000",
+    "longitude": "-84.37606000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 433,
+    "name": "Mogadore",
+    "latitude": "41.04645000",
+    "longitude": "-81.39789000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 434,
+    "name": "Monfort Heights",
+    "latitude": "39.18839000",
+    "longitude": "-84.59522000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 435,
+    "name": "Monroe",
+    "latitude": "39.44034000",
+    "longitude": "-84.36216000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 436,
+    "name": "Monroe County",
+    "latitude": "39.72735000",
+    "longitude": "-81.08292000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 437,
+    "name": "Monroeville",
+    "latitude": "41.24422000",
+    "longitude": "-82.69629000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 438,
+    "name": "Montgomery",
+    "latitude": "39.22811000",
+    "longitude": "-84.35411000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 439,
+    "name": "Montgomery County",
+    "latitude": "39.75459000",
+    "longitude": "-84.29068000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 440,
+    "name": "Montpelier",
+    "latitude": "41.58450000",
+    "longitude": "-84.60551000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 441,
+    "name": "Montrose-Ghent",
+    "latitude": "41.15380000",
+    "longitude": "-81.64378000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 442,
+    "name": "Moraine",
+    "latitude": "39.70617000",
+    "longitude": "-84.21938000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 443,
+    "name": "Moreland Hills",
+    "latitude": "41.44783000",
+    "longitude": "-81.42762000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 444,
+    "name": "Morgan County",
+    "latitude": "39.62037000",
+    "longitude": "-81.85266000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 445,
+    "name": "Morgandale",
+    "latitude": "41.26561000",
+    "longitude": "-80.78286000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 446,
+    "name": "Morrow",
+    "latitude": "39.35450000",
+    "longitude": "-84.12716000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 447,
+    "name": "Morrow County",
+    "latitude": "40.52409000",
+    "longitude": "-82.79407000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 448,
+    "name": "Mount Carmel",
+    "latitude": "39.10589000",
+    "longitude": "-84.30410000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 449,
+    "name": "Mount Gilead",
+    "latitude": "40.54923000",
+    "longitude": "-82.82740000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 450,
+    "name": "Mount Healthy",
+    "latitude": "39.23367000",
+    "longitude": "-84.54578000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 451,
+    "name": "Mount Healthy Heights",
+    "latitude": "39.27033000",
+    "longitude": "-84.56800000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 452,
+    "name": "Mount Orab",
+    "latitude": "39.02757000",
+    "longitude": "-83.91965000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 453,
+    "name": "Mount Repose",
+    "latitude": "39.20062000",
+    "longitude": "-84.22438000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 454,
+    "name": "Mount Sterling",
+    "latitude": "39.71951000",
+    "longitude": "-83.26519000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 455,
+    "name": "Mount Vernon",
+    "latitude": "40.39340000",
+    "longitude": "-82.48572000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 456,
+    "name": "Mulberry",
+    "latitude": "39.19339000",
+    "longitude": "-84.24216000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 457,
+    "name": "Munroe Falls",
+    "latitude": "41.14450000",
+    "longitude": "-81.43983000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 458,
+    "name": "Muskingum",
+    "latitude": "39.96542000",
+    "longitude": "-81.94438000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 459,
+    "name": "Napoleon",
+    "latitude": "41.39227000",
+    "longitude": "-84.12522000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 460,
+    "name": "Navarre",
+    "latitude": "40.72450000",
+    "longitude": "-81.52207000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 461,
+    "name": "Nelsonville",
+    "latitude": "39.45868000",
+    "longitude": "-82.23182000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 462,
+    "name": "New Albany",
+    "latitude": "40.08117000",
+    "longitude": "-82.80879000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 463,
+    "name": "New Boston",
+    "latitude": "38.75230000",
+    "longitude": "-82.93684000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 464,
+    "name": "New Bremen",
+    "latitude": "40.43699000",
+    "longitude": "-84.37967000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 465,
+    "name": "New Burlington",
+    "latitude": "39.25950000",
+    "longitude": "-84.55717000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 466,
+    "name": "New California",
+    "latitude": "40.15617000",
+    "longitude": "-83.23658000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 467,
+    "name": "New Carlisle",
+    "latitude": "39.93617000",
+    "longitude": "-84.02549000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 468,
+    "name": "New Concord",
+    "latitude": "39.99368000",
+    "longitude": "-81.73402000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 469,
+    "name": "New Franklin",
+    "latitude": "40.94172000",
+    "longitude": "-81.54151000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 470,
+    "name": "New Lebanon",
+    "latitude": "39.74533000",
+    "longitude": "-84.38495000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 471,
+    "name": "New Lexington",
+    "latitude": "39.71396000",
+    "longitude": "-82.20848000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 472,
+    "name": "New London",
+    "latitude": "41.08505000",
+    "longitude": "-82.39989000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 473,
+    "name": "New Matamoras",
+    "latitude": "39.52452000",
+    "longitude": "-81.06705000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 474,
+    "name": "New Miami",
+    "latitude": "39.43478000",
+    "longitude": "-84.53689000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 475,
+    "name": "New Middletown",
+    "latitude": "40.96117000",
+    "longitude": "-80.55757000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 476,
+    "name": "New Paris",
+    "latitude": "39.85699000",
+    "longitude": "-84.79329000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 477,
+    "name": "New Philadelphia",
+    "latitude": "40.48979000",
+    "longitude": "-81.44567000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 478,
+    "name": "New Richmond",
+    "latitude": "38.94868000",
+    "longitude": "-84.27994000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 479,
+    "name": "New Vienna",
+    "latitude": "39.32367000",
+    "longitude": "-83.69103000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 480,
+    "name": "New Waterford",
+    "latitude": "40.84506000",
+    "longitude": "-80.61452000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 481,
+    "name": "Newark",
+    "latitude": "40.05812000",
+    "longitude": "-82.40126000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 482,
+    "name": "Newburgh Heights",
+    "latitude": "41.45005000",
+    "longitude": "-81.66346000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 483,
+    "name": "Newcomerstown",
+    "latitude": "40.27229000",
+    "longitude": "-81.60595000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 484,
+    "name": "Newport",
+    "latitude": "39.39091000",
+    "longitude": "-81.22678000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 485,
+    "name": "Newton Falls",
+    "latitude": "41.18839000",
+    "longitude": "-80.97815000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 486,
+    "name": "Newtown",
+    "latitude": "39.12450000",
+    "longitude": "-84.36161000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 487,
+    "name": "Niles",
+    "latitude": "41.18284000",
+    "longitude": "-80.76536000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 488,
+    "name": "Noble County",
+    "latitude": "39.76596000",
+    "longitude": "-81.45556000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 489,
+    "name": "North Baltimore",
+    "latitude": "41.18283000",
+    "longitude": "-83.67827000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 490,
+    "name": "North Canton",
+    "latitude": "40.87589000",
+    "longitude": "-81.40234000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 491,
+    "name": "North College Hill",
+    "latitude": "39.21839000",
+    "longitude": "-84.55078000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 492,
+    "name": "North Fork Village",
+    "latitude": "39.33590000",
+    "longitude": "-83.02907000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 493,
+    "name": "North Kingsville",
+    "latitude": "41.90589000",
+    "longitude": "-80.69036000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 494,
+    "name": "North Lewisburg",
+    "latitude": "40.22311000",
+    "longitude": "-83.55743000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 495,
+    "name": "North Madison",
+    "latitude": "41.80200000",
+    "longitude": "-81.04899000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 496,
+    "name": "North Olmsted",
+    "latitude": "41.41560000",
+    "longitude": "-81.92347000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 497,
+    "name": "North Randall",
+    "latitude": "41.43478000",
+    "longitude": "-81.52568000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 498,
+    "name": "North Ridgeville",
+    "latitude": "41.38949000",
+    "longitude": "-82.01903000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  },
+  {
+    "id": 499,
+    "name": "North Royalton",
+    "latitude": "41.31366000",
+    "longitude": "-81.72457000",
+    "stateId": 4851,
+    "stateCode": "OH",
+    "countryCode": "US"
+  }
+]

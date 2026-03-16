@@ -1,0 +1,164 @@
+[
+  {
+    "id": 0,
+    "name": "Baoshan",
+    "latitude": "46.55861000",
+    "longitude": "131.42444000",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 1,
+    "name": "Changning",
+    "latitude": "31.21150840",
+    "longitude": "121.34451040",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 2,
+    "name": "Chongming",
+    "latitude": "31.48547990",
+    "longitude": "121.04985740",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 3,
+    "name": "Fengxian",
+    "latitude": "34.70388000",
+    "longitude": "116.58717000",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 4,
+    "name": "Hongkou",
+    "latitude": "31.27901840",
+    "longitude": "121.44764960",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 5,
+    "name": "Huangpu",
+    "latitude": "31.21602820",
+    "longitude": "121.46290540",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 6,
+    "name": "Jiading",
+    "latitude": "31.36225450",
+    "longitude": "121.07863260",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 7,
+    "name": "Jing'an",
+    "latitude": "31.26787830",
+    "longitude": "121.40965040",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 8,
+    "name": "Jinshan",
+    "latitude": "30.81101260",
+    "longitude": "120.93577730",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 9,
+    "name": "Minhang",
+    "latitude": "31.11792900",
+    "longitude": "121.24347200",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 10,
+    "name": "Pudong New Area",
+    "latitude": "31.07489390",
+    "longitude": "121.39501250",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 11,
+    "name": "Putuo",
+    "latitude": "31.26070530",
+    "longitude": "121.30627420",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 12,
+    "name": "Qingpu",
+    "latitude": "31.11623400",
+    "longitude": "120.92510690",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 13,
+    "name": "Songjiang",
+    "latitude": "31.03595000",
+    "longitude": "121.21460000",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 14,
+    "name": "Xuhui",
+    "latitude": "31.16055790",
+    "longitude": "121.39247540",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 15,
+    "name": "Yangpu",
+    "latitude": "31.29696160",
+    "longitude": "121.48621540",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 16,
+    "name": "Zhabei",
+    "latitude": "31.25861000",
+    "longitude": "121.45972000",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  },
+  {
+    "id": 17,
+    "name": "Zhujiajiao",
+    "latitude": "31.10757000",
+    "longitude": "121.05696000",
+    "stateId": 2249,
+    "stateCode": "SH",
+    "countryCode": "CN"
+  }
+]

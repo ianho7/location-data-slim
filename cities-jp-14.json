@@ -1,0 +1,362 @@
+[
+  {
+    "id": 0,
+    "name": "Atsugi",
+    "latitude": "35.44272000",
+    "longitude": "139.36931000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 1,
+    "name": "Atsugi Shi",
+    "latitude": "35.46513000",
+    "longitude": "139.32707000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 2,
+    "name": "Ayase Shi",
+    "latitude": "35.43995000",
+    "longitude": "139.43089000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 3,
+    "name": "Chigasaki",
+    "latitude": "35.33638000",
+    "longitude": "139.40434000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 4,
+    "name": "Chigasaki Shi",
+    "latitude": "35.34429000",
+    "longitude": "139.40958000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 5,
+    "name": "Ebina Shi",
+    "latitude": "35.43762000",
+    "longitude": "139.39307000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 6,
+    "name": "Fujisawa",
+    "latitude": "35.34926000",
+    "longitude": "139.47666000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 7,
+    "name": "Fujisawa Shi",
+    "latitude": "35.36814000",
+    "longitude": "139.45899000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 8,
+    "name": "Hadano",
+    "latitude": "35.37111000",
+    "longitude": "139.22361000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 9,
+    "name": "Hadano-shi",
+    "latitude": "35.40000000",
+    "longitude": "139.20000000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 10,
+    "name": "Hakone",
+    "latitude": "35.18945000",
+    "longitude": "139.02649000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 11,
+    "name": "Hayama",
+    "latitude": "35.27651000",
+    "longitude": "139.57733000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 12,
+    "name": "Hiratsuka",
+    "latitude": "35.32785000",
+    "longitude": "139.33735000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 13,
+    "name": "Hiratsuka Shi",
+    "latitude": "35.35099000",
+    "longitude": "139.32013000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 14,
+    "name": "Isehara",
+    "latitude": "35.39932000",
+    "longitude": "139.31019000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 15,
+    "name": "Isehara Shi",
+    "latitude": "35.41011000",
+    "longitude": "139.29203000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 16,
+    "name": "Kamakura",
+    "latitude": "35.30889000",
+    "longitude": "139.55028000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 17,
+    "name": "Kamakura Shi",
+    "latitude": "35.33000000",
+    "longitude": "139.53798000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 18,
+    "name": "Kawasaki",
+    "latitude": "35.52056000",
+    "longitude": "139.71722000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 19,
+    "name": "Kawasaki-shi",
+    "latitude": "35.56996000",
+    "longitude": "139.62854000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 20,
+    "name": "Minamiashigara",
+    "latitude": "35.31947000",
+    "longitude": "139.10960000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 21,
+    "name": "Minamiashigara Shi",
+    "latitude": "35.30991000",
+    "longitude": "139.07016000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 22,
+    "name": "Minamirinkan",
+    "latitude": "35.49527000",
+    "longitude": "139.44279000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 23,
+    "name": "Miura",
+    "latitude": "35.14000000",
+    "longitude": "139.61917000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 24,
+    "name": "Miura Shi",
+    "latitude": "35.16754000",
+    "longitude": "139.64104000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 25,
+    "name": "Ninomiya",
+    "latitude": "35.30150000",
+    "longitude": "139.25581000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 26,
+    "name": "Odawara",
+    "latitude": "35.25556000",
+    "longitude": "139.15972000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 27,
+    "name": "Odawara-shi",
+    "latitude": "35.25000000",
+    "longitude": "139.13333000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 28,
+    "name": "Ōiso",
+    "latitude": "35.31558000",
+    "longitude": "139.31625000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 29,
+    "name": "Sagamihara-shi",
+    "latitude": "35.55000000",
+    "longitude": "139.35000000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 30,
+    "name": "Yamakita",
+    "latitude": "35.36344000",
+    "longitude": "139.07975000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 31,
+    "name": "Yamato-shi",
+    "latitude": "35.46934000",
+    "longitude": "139.46165000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 32,
+    "name": "Yokohama",
+    "latitude": "35.43333000",
+    "longitude": "139.65000000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 33,
+    "name": "Yokohama Shi",
+    "latitude": "35.46225000",
+    "longitude": "139.57645000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 34,
+    "name": "Yokosuka",
+    "latitude": "35.28361000",
+    "longitude": "139.66722000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 35,
+    "name": "Yokosuka Shi",
+    "latitude": "35.24985000",
+    "longitude": "139.66033000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 36,
+    "name": "Yugawara",
+    "latitude": "35.15000000",
+    "longitude": "139.06667000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 37,
+    "name": "Zama",
+    "latitude": "35.48790000",
+    "longitude": "139.39101000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 38,
+    "name": "Zama Shi",
+    "latitude": "35.48752000",
+    "longitude": "139.40925000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  },
+  {
+    "id": 39,
+    "name": "Zushi Shi",
+    "latitude": "35.29900000",
+    "longitude": "139.59125000",
+    "stateId": 842,
+    "stateCode": "14",
+    "countryCode": "JP"
+  }
+]

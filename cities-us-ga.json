@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "name": "Abbeville",
+    "latitude": "31.99212000",
+    "longitude": "-83.30682000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 1,
+    "name": "Acworth",
+    "latitude": "34.06635000",
+    "longitude": "-84.67837000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 2,
+    "name": "Adairsville",
+    "latitude": "34.36870000",
+    "longitude": "-84.93411000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 3,
+    "name": "Adel",
+    "latitude": "31.13727000",
+    "longitude": "-83.42408000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 4,
+    "name": "Alamo",
+    "latitude": "32.14712000",
+    "longitude": "-82.77792000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 5,
+    "name": "Albany",
+    "latitude": "31.57851000",
+    "longitude": "-84.15574000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 6,
+    "name": "Alma",
+    "latitude": "31.53937000",
+    "longitude": "-82.46236000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 7,
+    "name": "Alpharetta",
+    "latitude": "34.07538000",
+    "longitude": "-84.29409000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 8,
+    "name": "Alto",
+    "latitude": "34.46732000",
+    "longitude": "-83.57378000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 9,
+    "name": "Americus",
+    "latitude": "32.07239000",
+    "longitude": "-84.23269000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 10,
+    "name": "Appling",
+    "latitude": "31.74928000",
+    "longitude": "-82.28898000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 11,
+    "name": "Aragon",
+    "latitude": "34.04565000",
+    "longitude": "-85.05606000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 12,
+    "name": "Arcade",
+    "latitude": "34.07789000",
+    "longitude": "-83.56155000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 13,
+    "name": "Arlington",
+    "latitude": "31.43990000",
+    "longitude": "-84.72492000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 14,
+    "name": "Ashburn",
+    "latitude": "31.70601000",
+    "longitude": "-83.65322000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 15,
+    "name": "Athens",
+    "latitude": "33.96095000",
+    "longitude": "-83.37794000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 16,
+    "name": "Atkinson",
+    "latitude": "31.29711000",
+    "longitude": "-82.87999000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 17,
+    "name": "Atlanta",
+    "latitude": "33.74900000",
+    "longitude": "-84.38798000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 18,
+    "name": "Auburn",
+    "latitude": "34.01372000",
+    "longitude": "-83.82768000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 19,
+    "name": "Augusta",
+    "latitude": "33.47097000",
+    "longitude": "-81.97484000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 20,
+    "name": "Austell",
+    "latitude": "33.81261000",
+    "longitude": "-84.63438000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 21,
+    "name": "Avondale Estates",
+    "latitude": "33.77149000",
+    "longitude": "-84.26714000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 22,
+    "name": "Bacon",
+    "latitude": "31.55367000",
+    "longitude": "-82.45269000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 23,
+    "name": "Bainbridge",
+    "latitude": "30.90380000",
+    "longitude": "-84.57547000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 24,
+    "name": "Baker",
+    "latitude": "31.32618000",
+    "longitude": "-84.44467000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 25,
+    "name": "Baldwin",
+    "latitude": "34.49177000",
+    "longitude": "-83.53739000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 26,
+    "name": "Baldwin County",
+    "latitude": "33.06928000",
+    "longitude": "-83.24959000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 27,
+    "name": "Ball Ground",
+    "latitude": "34.33815000",
+    "longitude": "-84.37659000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 28,
+    "name": "Banks",
+    "latitude": "34.35413000",
+    "longitude": "-83.49737000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 29,
+    "name": "Barnesville",
+    "latitude": "33.05457000",
+    "longitude": "-84.15575000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 30,
+    "name": "Barrow",
+    "latitude": "33.99320000",
+    "longitude": "-83.71276000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 31,
+    "name": "Bartow",
+    "latitude": "34.23786000",
+    "longitude": "-84.84050000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 32,
+    "name": "Baxley",
+    "latitude": "31.77825000",
+    "longitude": "-82.34846000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 33,
+    "name": "Belvedere Park",
+    "latitude": "33.75483000",
+    "longitude": "-84.26742000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 34,
+    "name": "Ben Hill",
+    "latitude": "31.75978000",
+    "longitude": "-83.22046000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 35,
+    "name": "Berkeley Lake",
+    "latitude": "33.98371000",
+    "longitude": "-84.18658000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 36,
+    "name": "Berrien",
+    "latitude": "31.27606000",
+    "longitude": "-83.22962000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 37,
+    "name": "Bibb",
+    "latitude": "32.80659000",
+    "longitude": "-83.69776000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 38,
+    "name": "Blackshear",
+    "latitude": "31.30605000",
+    "longitude": "-82.24207000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 39,
+    "name": "Blairsville",
+    "latitude": "34.87620000",
+    "longitude": "-83.95824000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 40,
+    "name": "Blakely",
+    "latitude": "31.37768000",
+    "longitude": "-84.93409000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 41,
+    "name": "Bleckley",
+    "latitude": "32.43444000",
+    "longitude": "-83.32784000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 42,
+    "name": "Bloomingdale",
+    "latitude": "32.13242000",
+    "longitude": "-81.29900000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 43,
+    "name": "Blue Ridge",
+    "latitude": "34.86397000",
+    "longitude": "-84.32409000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 44,
+    "name": "Bogart",
+    "latitude": "33.94928000",
+    "longitude": "-83.53461000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 45,
+    "name": "Bonanza",
+    "latitude": "33.46567000",
+    "longitude": "-84.33659000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 46,
+    "name": "Boston",
+    "latitude": "30.79186000",
+    "longitude": "-83.78989000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 47,
+    "name": "Bowdon",
+    "latitude": "33.53789000",
+    "longitude": "-85.25328000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 48,
+    "name": "Brantley",
+    "latitude": "31.19688000",
+    "longitude": "-81.98190000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 49,
+    "name": "Braselton",
+    "latitude": "34.10927000",
+    "longitude": "-83.76267000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 50,
+    "name": "Bremen",
+    "latitude": "33.72122000",
+    "longitude": "-85.14550000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 51,
+    "name": "Brookhaven",
+    "latitude": "33.85844000",
+    "longitude": "-84.34020000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 52,
+    "name": "Brooklet",
+    "latitude": "32.37963000",
+    "longitude": "-81.66317000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 53,
+    "name": "Brooks",
+    "latitude": "30.84197000",
+    "longitude": "-83.58021000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 54,
+    "name": "Broxton",
+    "latitude": "31.62519000",
+    "longitude": "-82.88681000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 55,
+    "name": "Brunswick",
+    "latitude": "31.14995000",
+    "longitude": "-81.49149000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 56,
+    "name": "Bryan",
+    "latitude": "32.01322000",
+    "longitude": "-81.44247000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 57,
+    "name": "Buchanan",
+    "latitude": "33.80260000",
+    "longitude": "-85.18856000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 58,
+    "name": "Buena Vista",
+    "latitude": "32.31904000",
+    "longitude": "-84.51714000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 59,
+    "name": "Buford",
+    "latitude": "34.12066000",
+    "longitude": "-84.00435000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 60,
+    "name": "Bulloch",
+    "latitude": "32.39681000",
+    "longitude": "-81.74318000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 61,
+    "name": "Burke",
+    "latitude": "33.06115000",
+    "longitude": "-82.00078000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 62,
+    "name": "Butler",
+    "latitude": "32.55709000",
+    "longitude": "-84.23825000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 63,
+    "name": "Butts",
+    "latitude": "33.28785000",
+    "longitude": "-83.95717000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 64,
+    "name": "Byron",
+    "latitude": "32.65376000",
+    "longitude": "-83.75963000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 65,
+    "name": "Cairo",
+    "latitude": "30.87751000",
+    "longitude": "-84.20214000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 66,
+    "name": "Calhoun",
+    "latitude": "34.50259000",
+    "longitude": "-84.95105000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 67,
+    "name": "Calhoun County",
+    "latitude": "31.52920000",
+    "longitude": "-84.62451000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 68,
+    "name": "Camden County",
+    "latitude": "30.92249000",
+    "longitude": "-81.63639000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 69,
+    "name": "Camilla",
+    "latitude": "31.23129000",
+    "longitude": "-84.21046000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 70,
+    "name": "Candler",
+    "latitude": "32.40344000",
+    "longitude": "-82.07367000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 71,
+    "name": "Candler-McAfee",
+    "latitude": "33.72672000",
+    "longitude": "-84.27246000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 72,
+    "name": "Canton",
+    "latitude": "34.23676000",
+    "longitude": "-84.49076000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 73,
+    "name": "Carnesville",
+    "latitude": "34.36983000",
+    "longitude": "-83.23516000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 74,
+    "name": "Carroll County",
+    "latitude": "33.58282000",
+    "longitude": "-85.07974000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 75,
+    "name": "Carrollton",
+    "latitude": "33.58011000",
+    "longitude": "-85.07661000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 76,
+    "name": "Cartersville",
+    "latitude": "34.16533000",
+    "longitude": "-84.80231000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 77,
+    "name": "Catoosa",
+    "latitude": "34.90366000",
+    "longitude": "-85.13825000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 78,
+    "name": "Cave Spring",
+    "latitude": "34.10760000",
+    "longitude": "-85.33634000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 79,
+    "name": "Cedartown",
+    "latitude": "34.01123000",
+    "longitude": "-85.25593000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 80,
+    "name": "Centerville",
+    "latitude": "32.63014000",
+    "longitude": "-83.68963000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 81,
+    "name": "Chamblee",
+    "latitude": "33.89205000",
+    "longitude": "-84.29881000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 82,
+    "name": "Charlton",
+    "latitude": "30.78172000",
+    "longitude": "-82.13769000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 83,
+    "name": "Chatham",
+    "latitude": "31.97402000",
+    "longitude": "-81.09243000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 84,
+    "name": "Chatsworth",
+    "latitude": "34.76591000",
+    "longitude": "-84.76994000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 85,
+    "name": "Chattahoochee",
+    "latitude": "32.34697000",
+    "longitude": "-84.78705000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 86,
+    "name": "Chattahoochee Hills",
+    "latitude": "33.55063000",
+    "longitude": "-84.76049000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 87,
+    "name": "Chattanooga Valley",
+    "latitude": "34.93285000",
+    "longitude": "-85.35551000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 88,
+    "name": "Chattooga",
+    "latitude": "34.47502000",
+    "longitude": "-85.34529000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 89,
+    "name": "Cherokee County",
+    "latitude": "34.24393000",
+    "longitude": "-84.47620000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 90,
+    "name": "Chester",
+    "latitude": "32.39378000",
+    "longitude": "-83.15293000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 91,
+    "name": "Chickamauga",
+    "latitude": "34.87119000",
+    "longitude": "-85.29079000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 92,
+    "name": "Clarke",
+    "latitude": "33.95117000",
+    "longitude": "-83.36733000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 93,
+    "name": "Clarkesville",
+    "latitude": "34.61260000",
+    "longitude": "-83.52489000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 94,
+    "name": "Clarkston",
+    "latitude": "33.80955000",
+    "longitude": "-84.23964000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 95,
+    "name": "Claxton",
+    "latitude": "32.16158000",
+    "longitude": "-81.90400000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 96,
+    "name": "Clay County",
+    "latitude": "31.62628000",
+    "longitude": "-84.98010000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 97,
+    "name": "Clayton",
+    "latitude": "34.87815000",
+    "longitude": "-83.40099000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 98,
+    "name": "Clayton County",
+    "latitude": "33.54189000",
+    "longitude": "-84.35769000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 99,
+    "name": "Cleveland",
+    "latitude": "34.59704000",
+    "longitude": "-83.76324000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 100,
+    "name": "Clinch",
+    "latitude": "30.91495000",
+    "longitude": "-82.70624000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 101,
+    "name": "Cobb",
+    "latitude": "33.94147000",
+    "longitude": "-84.57667000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 102,
+    "name": "Cochran",
+    "latitude": "32.38683000",
+    "longitude": "-83.35461000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 103,
+    "name": "Coffee",
+    "latitude": "31.54927000",
+    "longitude": "-82.84920000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 104,
+    "name": "College Park",
+    "latitude": "33.65344000",
+    "longitude": "-84.44937000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 105,
+    "name": "Colquitt",
+    "latitude": "31.17129000",
+    "longitude": "-84.73325000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 106,
+    "name": "Colquitt County",
+    "latitude": "31.18839000",
+    "longitude": "-83.76885000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 107,
+    "name": "Columbia County",
+    "latitude": "33.54412000",
+    "longitude": "-82.26406000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 108,
+    "name": "Columbus",
+    "latitude": "32.46098000",
+    "longitude": "-84.98771000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 109,
+    "name": "Comer",
+    "latitude": "34.06372000",
+    "longitude": "-83.12543000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 110,
+    "name": "Commerce",
+    "latitude": "34.20400000",
+    "longitude": "-83.45711000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 111,
+    "name": "Conley",
+    "latitude": "33.64483000",
+    "longitude": "-84.32576000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 112,
+    "name": "Conyers",
+    "latitude": "33.66761000",
+    "longitude": "-84.01769000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 113,
+    "name": "Cook",
+    "latitude": "31.15399000",
+    "longitude": "-83.43047000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 114,
+    "name": "Cordele",
+    "latitude": "31.96351000",
+    "longitude": "-83.78239000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 115,
+    "name": "Cornelia",
+    "latitude": "34.51149000",
+    "longitude": "-83.52712000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 116,
+    "name": "Country Club Estates",
+    "latitude": "31.21273000",
+    "longitude": "-81.46427000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 117,
+    "name": "Covington",
+    "latitude": "33.59678000",
+    "longitude": "-83.86018000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 118,
+    "name": "Coweta",
+    "latitude": "33.35346000",
+    "longitude": "-84.76337000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 119,
+    "name": "Crawford",
+    "latitude": "32.71450000",
+    "longitude": "-83.98634000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 120,
+    "name": "Crawfordville",
+    "latitude": "33.55402000",
+    "longitude": "-82.89598000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 121,
+    "name": "Crisp",
+    "latitude": "31.92293000",
+    "longitude": "-83.76810000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 122,
+    "name": "Cumming",
+    "latitude": "34.20732000",
+    "longitude": "-84.14019000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 123,
+    "name": "Cusseta",
+    "latitude": "32.30543000",
+    "longitude": "-84.77270000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 124,
+    "name": "Cuthbert",
+    "latitude": "31.77127000",
+    "longitude": "-84.78937000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 125,
+    "name": "Dacula",
+    "latitude": "33.98872000",
+    "longitude": "-83.89796000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 126,
+    "name": "Dade",
+    "latitude": "34.85452000",
+    "longitude": "-85.50453000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 127,
+    "name": "Dahlonega",
+    "latitude": "34.53259000",
+    "longitude": "-83.98491000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 128,
+    "name": "Dallas",
+    "latitude": "33.92371000",
+    "longitude": "-84.84077000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 129,
+    "name": "Dalton",
+    "latitude": "34.76980000",
+    "longitude": "-84.97022000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 130,
+    "name": "Danielsville",
+    "latitude": "34.12428000",
+    "longitude": "-83.22126000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 131,
+    "name": "Darien",
+    "latitude": "31.37023000",
+    "longitude": "-81.43399000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 132,
+    "name": "Davisboro",
+    "latitude": "32.97904000",
+    "longitude": "-82.60791000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 133,
+    "name": "Dawson",
+    "latitude": "31.77382000",
+    "longitude": "-84.44800000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 134,
+    "name": "Dawson County",
+    "latitude": "34.44430000",
+    "longitude": "-84.17064000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 135,
+    "name": "Dawsonville",
+    "latitude": "34.42121000",
+    "longitude": "-84.11908000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 136,
+    "name": "Decatur",
+    "latitude": "33.77483000",
+    "longitude": "-84.29631000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 137,
+    "name": "Decatur County",
+    "latitude": "30.87834000",
+    "longitude": "-84.57907000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 138,
+    "name": "Deenwood",
+    "latitude": "31.22201000",
+    "longitude": "-82.38725000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 139,
+    "name": "DeKalb County",
+    "latitude": "33.77153000",
+    "longitude": "-84.22641000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 140,
+    "name": "Demorest",
+    "latitude": "34.56510000",
+    "longitude": "-83.54517000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 141,
+    "name": "Dock Junction",
+    "latitude": "31.20245000",
+    "longitude": "-81.51677000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 142,
+    "name": "Dodge",
+    "latitude": "32.17218000",
+    "longitude": "-83.16840000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 143,
+    "name": "Donalsonville",
+    "latitude": "31.04046000",
+    "longitude": "-84.87909000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 144,
+    "name": "Dooly",
+    "latitude": "32.15718000",
+    "longitude": "-83.79875000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 145,
+    "name": "Doraville",
+    "latitude": "33.89816000",
+    "longitude": "-84.28326000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 146,
+    "name": "Dougherty",
+    "latitude": "31.53337000",
+    "longitude": "-84.21625000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 147,
+    "name": "Douglas",
+    "latitude": "31.50881000",
+    "longitude": "-82.84987000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 148,
+    "name": "Douglas County",
+    "latitude": "33.70182000",
+    "longitude": "-84.76793000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 149,
+    "name": "Douglasville",
+    "latitude": "33.75150000",
+    "longitude": "-84.74771000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 150,
+    "name": "Druid Hills",
+    "latitude": "33.78038000",
+    "longitude": "-84.33604000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 151,
+    "name": "Dublin",
+    "latitude": "32.54044000",
+    "longitude": "-82.90375000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 152,
+    "name": "Duluth",
+    "latitude": "34.00288000",
+    "longitude": "-84.14464000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 153,
+    "name": "Dunwoody",
+    "latitude": "33.94621000",
+    "longitude": "-84.33465000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 154,
+    "name": "Early",
+    "latitude": "31.32283000",
+    "longitude": "-84.90364000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 155,
+    "name": "East Dublin",
+    "latitude": "32.54822000",
+    "longitude": "-82.87181000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 156,
+    "name": "East Griffin",
+    "latitude": "33.24373000",
+    "longitude": "-84.22881000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 157,
+    "name": "East Newnan",
+    "latitude": "33.35067000",
+    "longitude": "-84.77660000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 158,
+    "name": "East Point",
+    "latitude": "33.67955000",
+    "longitude": "-84.43937000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 159,
+    "name": "Eastman",
+    "latitude": "32.19767000",
+    "longitude": "-83.17765000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 160,
+    "name": "Eatonton",
+    "latitude": "33.32680000",
+    "longitude": "-83.38850000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 161,
+    "name": "Echols",
+    "latitude": "30.71009000",
+    "longitude": "-82.89394000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 162,
+    "name": "Edison",
+    "latitude": "31.55823000",
+    "longitude": "-84.73825000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 163,
+    "name": "Effingham County",
+    "latitude": "32.36731000",
+    "longitude": "-81.34134000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 164,
+    "name": "Elbert",
+    "latitude": "34.11679000",
+    "longitude": "-82.84010000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 165,
+    "name": "Elberton",
+    "latitude": "34.11159000",
+    "longitude": "-82.86863000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 166,
+    "name": "Ellaville",
+    "latitude": "32.23821000",
+    "longitude": "-84.30908000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 167,
+    "name": "Ellijay",
+    "latitude": "34.69481000",
+    "longitude": "-84.48215000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 168,
+    "name": "Emanuel",
+    "latitude": "32.58976000",
+    "longitude": "-82.30171000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 169,
+    "name": "Emerson",
+    "latitude": "34.12704000",
+    "longitude": "-84.75549000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 170,
+    "name": "Enigma",
+    "latitude": "31.41297000",
+    "longitude": "-83.32905000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 171,
+    "name": "Euharlee",
+    "latitude": "34.14482000",
+    "longitude": "-84.93300000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 172,
+    "name": "Evans",
+    "latitude": "33.53375000",
+    "longitude": "-82.13067000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 173,
+    "name": "Evans County",
+    "latitude": "32.15676000",
+    "longitude": "-81.88688000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 174,
+    "name": "Experiment",
+    "latitude": "33.26539000",
+    "longitude": "-84.28159000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 175,
+    "name": "Fair Oaks",
+    "latitude": "33.91649000",
+    "longitude": "-84.54465000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 176,
+    "name": "Fairburn",
+    "latitude": "33.56706000",
+    "longitude": "-84.58104000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 177,
+    "name": "Fairview",
+    "latitude": "34.94563000",
+    "longitude": "-85.28440000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 178,
+    "name": "Fannin",
+    "latitude": "34.86411000",
+    "longitude": "-84.31985000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 179,
+    "name": "Fayette County",
+    "latitude": "33.41394000",
+    "longitude": "-84.49419000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 180,
+    "name": "Fayetteville",
+    "latitude": "33.44873000",
+    "longitude": "-84.45493000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 181,
+    "name": "Firing Range",
+    "latitude": "33.43752000",
+    "longitude": "-82.69068000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 182,
+    "name": "Fitzgerald",
+    "latitude": "31.71491000",
+    "longitude": "-83.25265000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 183,
+    "name": "Flowery Branch",
+    "latitude": "34.18510000",
+    "longitude": "-83.92518000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 184,
+    "name": "Floyd County",
+    "latitude": "34.26316000",
+    "longitude": "-85.21428000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 185,
+    "name": "Folkston",
+    "latitude": "30.83095000",
+    "longitude": "-82.01131000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 186,
+    "name": "Forest Park",
+    "latitude": "33.62205000",
+    "longitude": "-84.36909000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 187,
+    "name": "Forsyth",
+    "latitude": "33.03430000",
+    "longitude": "-83.93824000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 188,
+    "name": "Forsyth County",
+    "latitude": "34.22551000",
+    "longitude": "-84.12502000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 189,
+    "name": "Fort Gaines",
+    "latitude": "31.60924000",
+    "longitude": "-85.04933000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 190,
+    "name": "Fort Oglethorpe",
+    "latitude": "34.94896000",
+    "longitude": "-85.25690000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 191,
+    "name": "Fort Stewart",
+    "latitude": "31.87217000",
+    "longitude": "-81.61001000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 192,
+    "name": "Fort Valley",
+    "latitude": "32.55376000",
+    "longitude": "-83.88741000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 193,
+    "name": "Franklin",
+    "latitude": "33.27762000",
+    "longitude": "-85.09800000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 194,
+    "name": "Franklin County",
+    "latitude": "34.37544000",
+    "longitude": "-83.22918000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 195,
+    "name": "Franklin Springs",
+    "latitude": "34.28483000",
+    "longitude": "-83.14432000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 196,
+    "name": "Fulton County",
+    "latitude": "33.79025000",
+    "longitude": "-84.46702000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 197,
+    "name": "Gainesville",
+    "latitude": "34.29788000",
+    "longitude": "-83.82407000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 198,
+    "name": "Garden City",
+    "latitude": "32.11437000",
+    "longitude": "-81.15400000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 199,
+    "name": "Georgetown",
+    "latitude": "31.98326000",
+    "longitude": "-81.22733000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 200,
+    "name": "Gibson",
+    "latitude": "33.23348000",
+    "longitude": "-82.59541000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 201,
+    "name": "Gilmer",
+    "latitude": "34.69121000",
+    "longitude": "-84.45559000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 202,
+    "name": "Glascock",
+    "latitude": "33.22928000",
+    "longitude": "-82.61070000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 203,
+    "name": "Glennville",
+    "latitude": "31.93659000",
+    "longitude": "-81.92845000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 204,
+    "name": "Glynn",
+    "latitude": "31.21324000",
+    "longitude": "-81.49370000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 205,
+    "name": "Gordon",
+    "latitude": "32.88209000",
+    "longitude": "-83.33238000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 206,
+    "name": "Gordon County",
+    "latitude": "34.50336000",
+    "longitude": "-84.87575000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 207,
+    "name": "Grady",
+    "latitude": "30.87467000",
+    "longitude": "-84.23443000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 208,
+    "name": "Grantville",
+    "latitude": "33.23484000",
+    "longitude": "-84.83577000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 209,
+    "name": "Gray",
+    "latitude": "33.00958000",
+    "longitude": "-83.53378000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 210,
+    "name": "Grayson",
+    "latitude": "33.89427000",
+    "longitude": "-83.95574000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 211,
+    "name": "Greene County",
+    "latitude": "33.57878000",
+    "longitude": "-83.16666000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 212,
+    "name": "Greensboro",
+    "latitude": "33.57568000",
+    "longitude": "-83.18238000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 213,
+    "name": "Greenville",
+    "latitude": "33.02874000",
+    "longitude": "-84.71298000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 214,
+    "name": "Gresham Park",
+    "latitude": "33.70344000",
+    "longitude": "-84.31437000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 215,
+    "name": "Griffin",
+    "latitude": "33.24678000",
+    "longitude": "-84.26409000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 216,
+    "name": "Grovetown",
+    "latitude": "33.45042000",
+    "longitude": "-82.19818000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 217,
+    "name": "Gumlog",
+    "latitude": "34.49177000",
+    "longitude": "-83.09654000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 218,
+    "name": "Guyton",
+    "latitude": "32.33630000",
+    "longitude": "-81.39150000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 219,
+    "name": "Gwinnett",
+    "latitude": "33.96173000",
+    "longitude": "-84.02363000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 220,
+    "name": "Habersham",
+    "latitude": "34.63102000",
+    "longitude": "-83.53112000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 221,
+    "name": "Hahira",
+    "latitude": "30.99131000",
+    "longitude": "-83.37266000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 222,
+    "name": "Hall",
+    "latitude": "34.31689000",
+    "longitude": "-83.81968000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 223,
+    "name": "Hamilton",
+    "latitude": "32.75791000",
+    "longitude": "-84.87493000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 224,
+    "name": "Hampton",
+    "latitude": "33.38706000",
+    "longitude": "-84.28298000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 225,
+    "name": "Hancock County",
+    "latitude": "33.27043000",
+    "longitude": "-83.00069000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 226,
+    "name": "Hannahs Mill",
+    "latitude": "32.93291000",
+    "longitude": "-84.34936000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 227,
+    "name": "Hapeville",
+    "latitude": "33.66011000",
+    "longitude": "-84.41020000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 228,
+    "name": "Haralson",
+    "latitude": "33.79423000",
+    "longitude": "-85.21103000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 229,
+    "name": "Hardwick",
+    "latitude": "33.06820000",
+    "longitude": "-83.22349000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 230,
+    "name": "Harlem",
+    "latitude": "33.41458000",
+    "longitude": "-82.31262000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 231,
+    "name": "Harris",
+    "latitude": "32.73600000",
+    "longitude": "-84.90899000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 232,
+    "name": "Hart",
+    "latitude": "34.35090000",
+    "longitude": "-82.96425000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 233,
+    "name": "Hartwell",
+    "latitude": "34.35288000",
+    "longitude": "-82.93209000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 234,
+    "name": "Hawkinsville",
+    "latitude": "32.28377000",
+    "longitude": "-83.47212000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 235,
+    "name": "Hazlehurst",
+    "latitude": "31.86963000",
+    "longitude": "-82.59430000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 236,
+    "name": "Heard",
+    "latitude": "33.29703000",
+    "longitude": "-85.12827000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 237,
+    "name": "Helena",
+    "latitude": "32.07379000",
+    "longitude": "-82.91459000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 238,
+    "name": "Henderson",
+    "latitude": "32.00813000",
+    "longitude": "-81.25887000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 239,
+    "name": "Henry County",
+    "latitude": "33.45300000",
+    "longitude": "-84.15420000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 240,
+    "name": "Hephzibah",
+    "latitude": "33.31403000",
+    "longitude": "-82.09679000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 241,
+    "name": "Hiawassee",
+    "latitude": "34.94926000",
+    "longitude": "-83.75739000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 242,
+    "name": "Hinesville",
+    "latitude": "31.84688000",
+    "longitude": "-81.59595000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 243,
+    "name": "Hiram",
+    "latitude": "33.87566000",
+    "longitude": "-84.76216000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 244,
+    "name": "Hogansville",
+    "latitude": "33.17318000",
+    "longitude": "-84.91494000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 245,
+    "name": "Holly Springs",
+    "latitude": "34.17399000",
+    "longitude": "-84.50132000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 246,
+    "name": "Homer",
+    "latitude": "34.33372000",
+    "longitude": "-83.49905000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 247,
+    "name": "Homerville",
+    "latitude": "31.03660000",
+    "longitude": "-82.74708000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 248,
+    "name": "Hoschton",
+    "latitude": "34.09650000",
+    "longitude": "-83.76128000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 249,
+    "name": "Houston County",
+    "latitude": "32.45901000",
+    "longitude": "-83.66624000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 250,
+    "name": "Indian Springs",
+    "latitude": "34.95785000",
+    "longitude": "-85.16440000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 251,
+    "name": "Irondale",
+    "latitude": "33.48067000",
+    "longitude": "-84.35881000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 252,
+    "name": "Irwin",
+    "latitude": "31.60228000",
+    "longitude": "-83.27638000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 253,
+    "name": "Irwinton",
+    "latitude": "32.81126000",
+    "longitude": "-83.17265000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 254,
+    "name": "Isle of Hope",
+    "latitude": "31.98188000",
+    "longitude": "-81.06094000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 255,
+    "name": "Jackson",
+    "latitude": "33.29457000",
+    "longitude": "-83.96602000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 256,
+    "name": "Jackson County",
+    "latitude": "34.13388000",
+    "longitude": "-83.56635000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 257,
+    "name": "Jasper",
+    "latitude": "34.46787000",
+    "longitude": "-84.42909000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 258,
+    "name": "Jasper County",
+    "latitude": "33.31643000",
+    "longitude": "-83.68809000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 259,
+    "name": "Jeff Davis",
+    "latitude": "31.80560000",
+    "longitude": "-82.63694000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 260,
+    "name": "Jefferson",
+    "latitude": "34.11705000",
+    "longitude": "-83.57239000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 261,
+    "name": "Jefferson County",
+    "latitude": "33.05484000",
+    "longitude": "-82.41815000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 262,
+    "name": "Jeffersonville",
+    "latitude": "32.68765000",
+    "longitude": "-83.34656000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 263,
+    "name": "Jenkins",
+    "latitude": "32.79247000",
+    "longitude": "-81.96353000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 264,
+    "name": "Jesup",
+    "latitude": "31.60785000",
+    "longitude": "-81.88634000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 265,
+    "name": "Johns Creek",
+    "latitude": "34.02893000",
+    "longitude": "-84.19858000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 266,
+    "name": "Johnson County",
+    "latitude": "32.70146000",
+    "longitude": "-82.66008000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 267,
+    "name": "Jones",
+    "latitude": "33.02513000",
+    "longitude": "-83.56052000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 268,
+    "name": "Jonesboro",
+    "latitude": "33.52150000",
+    "longitude": "-84.35381000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 269,
+    "name": "Kennesaw",
+    "latitude": "34.02343000",
+    "longitude": "-84.61549000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 270,
+    "name": "Kings Bay Base",
+    "latitude": "30.79836000",
+    "longitude": "-81.56589000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 271,
+    "name": "Kingsland",
+    "latitude": "30.79996000",
+    "longitude": "-81.68983000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 272,
+    "name": "Knoxville",
+    "latitude": "32.72431000",
+    "longitude": "-83.99769000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 273,
+    "name": "LaFayette",
+    "latitude": "34.70480000",
+    "longitude": "-85.28190000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 274,
+    "name": "LaGrange",
+    "latitude": "33.03929000",
+    "longitude": "-85.03133000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 275,
+    "name": "Lake City",
+    "latitude": "33.60650000",
+    "longitude": "-84.33520000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 276,
+    "name": "Lakeland",
+    "latitude": "31.04104000",
+    "longitude": "-83.07515000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 277,
+    "name": "Lakeview",
+    "latitude": "34.97924000",
+    "longitude": "-85.25884000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 278,
+    "name": "Lakeview Estates",
+    "latitude": "33.70678000",
+    "longitude": "-84.03158000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 279,
+    "name": "Lamar",
+    "latitude": "33.07654000",
+    "longitude": "-84.13946000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 280,
+    "name": "Lanier",
+    "latitude": "31.03789000",
+    "longitude": "-83.06265000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 281,
+    "name": "Laurens County",
+    "latitude": "32.46366000",
+    "longitude": "-82.92224000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 282,
+    "name": "Lavonia",
+    "latitude": "34.43594000",
+    "longitude": "-83.10682000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 283,
+    "name": "Lawrenceville",
+    "latitude": "33.95621000",
+    "longitude": "-83.98796000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 284,
+    "name": "Lee",
+    "latitude": "31.77951000",
+    "longitude": "-84.14113000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 285,
+    "name": "Leesburg",
+    "latitude": "31.73212000",
+    "longitude": "-84.17074000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 286,
+    "name": "Lexington",
+    "latitude": "33.86984000",
+    "longitude": "-83.11182000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 287,
+    "name": "Liberty County",
+    "latitude": "31.80723000",
+    "longitude": "-81.45626000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 288,
+    "name": "Lilburn",
+    "latitude": "33.89010000",
+    "longitude": "-84.14297000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 289,
+    "name": "Lincoln County",
+    "latitude": "33.79366000",
+    "longitude": "-82.45121000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 290,
+    "name": "Lincolnton",
+    "latitude": "33.79235000",
+    "longitude": "-82.47902000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 291,
+    "name": "Lindale",
+    "latitude": "34.18676000",
+    "longitude": "-85.17467000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 292,
+    "name": "Lithia Springs",
+    "latitude": "33.79400000",
+    "longitude": "-84.66049000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 293,
+    "name": "Lithonia",
+    "latitude": "33.71233000",
+    "longitude": "-84.10519000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 294,
+    "name": "Locust Grove",
+    "latitude": "33.34595000",
+    "longitude": "-84.10908000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 295,
+    "name": "Loganville",
+    "latitude": "33.83900000",
+    "longitude": "-83.90074000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 296,
+    "name": "Long County",
+    "latitude": "31.75258000",
+    "longitude": "-81.74577000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 297,
+    "name": "Lookout Mountain",
+    "latitude": "34.97758000",
+    "longitude": "-85.35774000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 298,
+    "name": "Louisville",
+    "latitude": "33.00154000",
+    "longitude": "-82.41124000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 299,
+    "name": "Lovejoy",
+    "latitude": "33.43622000",
+    "longitude": "-84.31437000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 300,
+    "name": "Lowndes",
+    "latitude": "30.83386000",
+    "longitude": "-83.26771000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 301,
+    "name": "Ludowici",
+    "latitude": "31.70799000",
+    "longitude": "-81.74234000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 302,
+    "name": "Lula",
+    "latitude": "34.38760000",
+    "longitude": "-83.66629000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 303,
+    "name": "Lumber City",
+    "latitude": "31.92935000",
+    "longitude": "-82.67958000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 304,
+    "name": "Lumpkin",
+    "latitude": "32.05099000",
+    "longitude": "-84.79909000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 305,
+    "name": "Lumpkin County",
+    "latitude": "34.57219000",
+    "longitude": "-84.00265000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 306,
+    "name": "Lyons",
+    "latitude": "32.20435000",
+    "longitude": "-82.32179000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 307,
+    "name": "Mableton",
+    "latitude": "33.81872000",
+    "longitude": "-84.58243000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 308,
+    "name": "Macon",
+    "latitude": "32.84069000",
+    "longitude": "-83.63240000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 309,
+    "name": "Macon County",
+    "latitude": "32.35839000",
+    "longitude": "-84.04248000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 310,
+    "name": "Madison",
+    "latitude": "33.59568000",
+    "longitude": "-83.46794000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 311,
+    "name": "Madison County",
+    "latitude": "34.12778000",
+    "longitude": "-83.20904000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 312,
+    "name": "Manchester",
+    "latitude": "32.85985000",
+    "longitude": "-84.61993000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 313,
+    "name": "Marietta",
+    "latitude": "33.95260000",
+    "longitude": "-84.54993000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 314,
+    "name": "Marion County",
+    "latitude": "32.35338000",
+    "longitude": "-84.52464000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 315,
+    "name": "Marshallville",
+    "latitude": "32.45626000",
+    "longitude": "-83.94019000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 316,
+    "name": "Martinez",
+    "latitude": "33.51736000",
+    "longitude": "-82.07567000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 317,
+    "name": "Maysville",
+    "latitude": "34.25288000",
+    "longitude": "-83.56155000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 318,
+    "name": "McCaysville",
+    "latitude": "34.98619000",
+    "longitude": "-84.37131000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 319,
+    "name": "McDonough",
+    "latitude": "33.44734000",
+    "longitude": "-84.14686000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 320,
+    "name": "McDuffie",
+    "latitude": "33.48285000",
+    "longitude": "-82.48137000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 321,
+    "name": "McIntosh",
+    "latitude": "31.48381000",
+    "longitude": "-81.37557000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 322,
+    "name": "McRae",
+    "latitude": "32.06795000",
+    "longitude": "-82.90070000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 323,
+    "name": "Meigs",
+    "latitude": "31.07241000",
+    "longitude": "-84.08907000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 324,
+    "name": "Meriwether",
+    "latitude": "33.04066000",
+    "longitude": "-84.68831000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 325,
+    "name": "Metter",
+    "latitude": "32.39712000",
+    "longitude": "-82.06012000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 326,
+    "name": "Midway",
+    "latitude": "31.80577000",
+    "longitude": "-81.43066000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 327,
+    "name": "Milledgeville",
+    "latitude": "33.08014000",
+    "longitude": "-83.23210000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 328,
+    "name": "Millen",
+    "latitude": "32.80405000",
+    "longitude": "-81.94928000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 329,
+    "name": "Miller",
+    "latitude": "31.16399000",
+    "longitude": "-84.73072000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 330,
+    "name": "Milton",
+    "latitude": "34.13216000",
+    "longitude": "-84.30067000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 331,
+    "name": "Mitchell",
+    "latitude": "31.22532000",
+    "longitude": "-84.19431000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 332,
+    "name": "Monroe",
+    "latitude": "33.79484000",
+    "longitude": "-83.71323000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 333,
+    "name": "Monroe County",
+    "latitude": "33.01408000",
+    "longitude": "-83.91872000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 334,
+    "name": "Montezuma",
+    "latitude": "32.30516000",
+    "longitude": "-84.02741000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 335,
+    "name": "Montgomery",
+    "latitude": "31.94049000",
+    "longitude": "-81.12205000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 336,
+    "name": "Montgomery County",
+    "latitude": "32.17336000",
+    "longitude": "-82.53482000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 337,
+    "name": "Monticello",
+    "latitude": "33.30485000",
+    "longitude": "-83.68323000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 338,
+    "name": "Morgan",
+    "latitude": "31.53767000",
+    "longitude": "-84.59936000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 339,
+    "name": "Morgan County",
+    "latitude": "33.59083000",
+    "longitude": "-83.49238000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 340,
+    "name": "Morrow",
+    "latitude": "33.58317000",
+    "longitude": "-84.33937000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 341,
+    "name": "Moultrie",
+    "latitude": "31.17991000",
+    "longitude": "-83.78906000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 342,
+    "name": "Mount Airy",
+    "latitude": "34.51871000",
+    "longitude": "-83.50073000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 343,
+    "name": "Mount Vernon",
+    "latitude": "32.17851000",
+    "longitude": "-82.59458000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 344,
+    "name": "Mount Zion",
+    "latitude": "33.63428000",
+    "longitude": "-85.18717000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 345,
+    "name": "Mountain City",
+    "latitude": "34.91815000",
+    "longitude": "-83.38544000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 346,
+    "name": "Mountain Park",
+    "latitude": "33.84427000",
+    "longitude": "-84.12936000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 347,
+    "name": "Murray",
+    "latitude": "34.78845000",
+    "longitude": "-84.74809000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 348,
+    "name": "Muscogee",
+    "latitude": "32.50996000",
+    "longitude": "-84.87704000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 349,
+    "name": "Nahunta",
+    "latitude": "31.20439000",
+    "longitude": "-81.98123000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 350,
+    "name": "Nashville",
+    "latitude": "31.20742000",
+    "longitude": "-83.25015000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 351,
+    "name": "Nelson",
+    "latitude": "34.38204000",
+    "longitude": "-84.37103000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 352,
+    "name": "Newnan",
+    "latitude": "33.38067000",
+    "longitude": "-84.79966000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 353,
+    "name": "Newton",
+    "latitude": "31.31296000",
+    "longitude": "-84.33574000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 354,
+    "name": "Newton County",
+    "latitude": "33.55505000",
+    "longitude": "-83.85019000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 355,
+    "name": "Nicholls",
+    "latitude": "31.51742000",
+    "longitude": "-82.63486000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 356,
+    "name": "Nicholson",
+    "latitude": "34.11400000",
+    "longitude": "-83.43155000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 357,
+    "name": "Norcross",
+    "latitude": "33.94121000",
+    "longitude": "-84.21353000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 358,
+    "name": "North Atlanta",
+    "latitude": "33.86510000",
+    "longitude": "-84.33659000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 359,
+    "name": "North Decatur",
+    "latitude": "33.79038000",
+    "longitude": "-84.30603000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 360,
+    "name": "North Druid Hills",
+    "latitude": "33.81677000",
+    "longitude": "-84.31326000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 361,
+    "name": "Oakwood",
+    "latitude": "34.22760000",
+    "longitude": "-83.88435000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 362,
+    "name": "Ocilla",
+    "latitude": "31.59447000",
+    "longitude": "-83.25130000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 363,
+    "name": "Oconee",
+    "latitude": "33.83494000",
+    "longitude": "-83.43705000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 364,
+    "name": "Oglethorpe",
+    "latitude": "32.29377000",
+    "longitude": "-84.06102000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 365,
+    "name": "Oglethorpe County",
+    "latitude": "33.88065000",
+    "longitude": "-83.08070000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 366,
+    "name": "Omega",
+    "latitude": "31.34102000",
+    "longitude": "-83.59350000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 367,
+    "name": "Oxford",
+    "latitude": "33.61900000",
+    "longitude": "-83.86741000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 368,
+    "name": "Palmetto",
+    "latitude": "33.51789000",
+    "longitude": "-84.66965000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 369,
+    "name": "Panthersville",
+    "latitude": "33.70733000",
+    "longitude": "-84.27187000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 370,
+    "name": "Paulding County",
+    "latitude": "33.92055000",
+    "longitude": "-84.86729000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 371,
+    "name": "Peach",
+    "latitude": "32.56878000",
+    "longitude": "-83.82688000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 372,
+    "name": "Peachtree City",
+    "latitude": "33.39678000",
+    "longitude": "-84.59576000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 373,
+    "name": "Peachtree Corners",
+    "latitude": "33.97010000",
+    "longitude": "-84.22159000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 374,
+    "name": "Pearson",
+    "latitude": "31.29770000",
+    "longitude": "-82.85237000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 375,
+    "name": "Pelham",
+    "latitude": "31.12802000",
+    "longitude": "-84.15304000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 376,
+    "name": "Pembroke",
+    "latitude": "32.13634000",
+    "longitude": "-81.62348000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 377,
+    "name": "Perry",
+    "latitude": "32.45821000",
+    "longitude": "-83.73157000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 378,
+    "name": "Pickens County",
+    "latitude": "34.46432000",
+    "longitude": "-84.46564000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 379,
+    "name": "Pierce County",
+    "latitude": "31.35876000",
+    "longitude": "-82.21274000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 380,
+    "name": "Pike",
+    "latitude": "33.09227000",
+    "longitude": "-84.38923000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 381,
+    "name": "Pine Mountain",
+    "latitude": "32.86485000",
+    "longitude": "-84.85410000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 382,
+    "name": "Polk",
+    "latitude": "34.00178000",
+    "longitude": "-85.18815000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 383,
+    "name": "Pooler",
+    "latitude": "32.11548000",
+    "longitude": "-81.24706000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 384,
+    "name": "Port Wentworth",
+    "latitude": "32.14909000",
+    "longitude": "-81.16317000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 385,
+    "name": "Porterdale",
+    "latitude": "33.57511000",
+    "longitude": "-83.89380000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 386,
+    "name": "Powder Springs",
+    "latitude": "33.85955000",
+    "longitude": "-84.68382000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 387,
+    "name": "Preston",
+    "latitude": "32.06599000",
+    "longitude": "-84.53742000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 388,
+    "name": "Pulaski County",
+    "latitude": "32.23230000",
+    "longitude": "-83.47596000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 389,
+    "name": "Putnam",
+    "latitude": "33.32177000",
+    "longitude": "-83.37284000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 390,
+    "name": "Putney",
+    "latitude": "31.47018000",
+    "longitude": "-84.11768000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 391,
+    "name": "Quitman",
+    "latitude": "30.78492000",
+    "longitude": "-83.55988000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 392,
+    "name": "Quitman County",
+    "latitude": "31.86733000",
+    "longitude": "-85.01878000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 393,
+    "name": "Rabun",
+    "latitude": "34.88168000",
+    "longitude": "-83.40214000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 394,
+    "name": "Randolph",
+    "latitude": "31.76262000",
+    "longitude": "-84.75419000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 395,
+    "name": "Raoul",
+    "latitude": "34.44954000",
+    "longitude": "-83.59434000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 396,
+    "name": "Ray City",
+    "latitude": "31.07464000",
+    "longitude": "-83.19932000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 397,
+    "name": "Redan",
+    "latitude": "33.74538000",
+    "longitude": "-84.13158000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 398,
+    "name": "Reed Creek",
+    "latitude": "34.44594000",
+    "longitude": "-82.92487000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 399,
+    "name": "Reidsville",
+    "latitude": "32.08686000",
+    "longitude": "-82.11790000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 400,
+    "name": "Remerton",
+    "latitude": "30.84409000",
+    "longitude": "-83.31043000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 401,
+    "name": "Reynolds",
+    "latitude": "32.55987000",
+    "longitude": "-84.09630000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 402,
+    "name": "Richland",
+    "latitude": "32.08793000",
+    "longitude": "-84.66742000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 403,
+    "name": "Richmond County",
+    "latitude": "33.35963000",
+    "longitude": "-82.07355000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 404,
+    "name": "Richmond Hill",
+    "latitude": "31.93827000",
+    "longitude": "-81.30344000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 405,
+    "name": "Rincon",
+    "latitude": "32.29603000",
+    "longitude": "-81.23539000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 406,
+    "name": "Ringgold",
+    "latitude": "34.91591000",
+    "longitude": "-85.10912000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 407,
+    "name": "Riverdale",
+    "latitude": "33.57261000",
+    "longitude": "-84.41326000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 408,
+    "name": "Robins Air Force Base",
+    "latitude": "32.60911000",
+    "longitude": "-83.58444000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 409,
+    "name": "Rochelle",
+    "latitude": "31.95101000",
+    "longitude": "-83.45627000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 410,
+    "name": "Rockdale",
+    "latitude": "33.65424000",
+    "longitude": "-84.02661000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 411,
+    "name": "Rockmart",
+    "latitude": "34.00260000",
+    "longitude": "-85.04161000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 412,
+    "name": "Rome",
+    "latitude": "34.25704000",
+    "longitude": "-85.16467000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 413,
+    "name": "Rossville",
+    "latitude": "34.98313000",
+    "longitude": "-85.28607000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 414,
+    "name": "Roswell",
+    "latitude": "34.02316000",
+    "longitude": "-84.36159000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 415,
+    "name": "Royston",
+    "latitude": "34.28705000",
+    "longitude": "-83.11015000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 416,
+    "name": "Russell",
+    "latitude": "33.97872000",
+    "longitude": "-83.70017000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 417,
+    "name": "Rydal",
+    "latitude": "34.33537000",
+    "longitude": "-84.71549000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 418,
+    "name": "Saint Simon Mills",
+    "latitude": "31.17079000",
+    "longitude": "-81.40732000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 419,
+    "name": "Saint Simons Island",
+    "latitude": "31.15051000",
+    "longitude": "-81.36954000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 420,
+    "name": "Sandersville",
+    "latitude": "32.98154000",
+    "longitude": "-82.81014000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 421,
+    "name": "Sandy Springs",
+    "latitude": "33.92427000",
+    "longitude": "-84.37854000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 422,
+    "name": "Sardis",
+    "latitude": "32.79652000",
+    "longitude": "-84.63881000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 423,
+    "name": "Savannah",
+    "latitude": "32.08354000",
+    "longitude": "-81.09983000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 424,
+    "name": "Schley",
+    "latitude": "32.26169000",
+    "longitude": "-84.31472000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 425,
+    "name": "Scottdale",
+    "latitude": "33.78983000",
+    "longitude": "-84.26409000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 426,
+    "name": "Screven",
+    "latitude": "32.75059000",
+    "longitude": "-81.61193000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 427,
+    "name": "Seminole County",
+    "latitude": "30.93878000",
+    "longitude": "-84.86887000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 428,
+    "name": "Senoia",
+    "latitude": "33.30234000",
+    "longitude": "-84.55382000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 429,
+    "name": "Shannon",
+    "latitude": "34.33676000",
+    "longitude": "-85.07134000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 430,
+    "name": "Skidaway Island",
+    "latitude": "31.93494000",
+    "longitude": "-81.04705000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 431,
+    "name": "Smyrna",
+    "latitude": "33.88399000",
+    "longitude": "-84.51438000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 432,
+    "name": "Snellville",
+    "latitude": "33.85733000",
+    "longitude": "-84.01991000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 433,
+    "name": "Social Circle",
+    "latitude": "33.65623000",
+    "longitude": "-83.71823000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 434,
+    "name": "Soperton",
+    "latitude": "32.37712000",
+    "longitude": "-82.59236000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 435,
+    "name": "Spalding",
+    "latitude": "33.26087000",
+    "longitude": "-84.28416000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 436,
+    "name": "Sparks",
+    "latitude": "31.16686000",
+    "longitude": "-83.43738000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 437,
+    "name": "Sparta",
+    "latitude": "33.27570000",
+    "longitude": "-82.97626000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 438,
+    "name": "Springfield",
+    "latitude": "32.37241000",
+    "longitude": "-81.31150000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 439,
+    "name": "St. Marys",
+    "latitude": "30.73051000",
+    "longitude": "-81.54649000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 440,
+    "name": "Statenville",
+    "latitude": "30.70327000",
+    "longitude": "-83.02764000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 441,
+    "name": "Statesboro",
+    "latitude": "32.44879000",
+    "longitude": "-81.78317000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 442,
+    "name": "Statham",
+    "latitude": "33.96511000",
+    "longitude": "-83.59655000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 443,
+    "name": "Stephens",
+    "latitude": "34.55394000",
+    "longitude": "-83.29343000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 444,
+    "name": "Stewart",
+    "latitude": "32.07846000",
+    "longitude": "-84.83520000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 445,
+    "name": "Stockbridge",
+    "latitude": "33.54428000",
+    "longitude": "-84.23381000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 446,
+    "name": "Stone Mountain",
+    "latitude": "33.80816000",
+    "longitude": "-84.17020000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 447,
+    "name": "Stonecrest",
+    "latitude": "33.70849000",
+    "longitude": "-84.13485000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 448,
+    "name": "Sugar Hill",
+    "latitude": "34.10649000",
+    "longitude": "-84.03352000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 449,
+    "name": "Summerville",
+    "latitude": "34.48064000",
+    "longitude": "-85.34773000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 450,
+    "name": "Sumter County",
+    "latitude": "32.03997000",
+    "longitude": "-84.19704000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 451,
+    "name": "Sunnyside",
+    "latitude": "31.23938000",
+    "longitude": "-82.34207000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 452,
+    "name": "Suwanee",
+    "latitude": "34.05149000",
+    "longitude": "-84.07130000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 453,
+    "name": "Swainsboro",
+    "latitude": "32.59739000",
+    "longitude": "-82.33374000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 454,
+    "name": "Sylvania",
+    "latitude": "32.75044000",
+    "longitude": "-81.63678000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 455,
+    "name": "Sylvester",
+    "latitude": "31.53092000",
+    "longitude": "-83.83693000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 456,
+    "name": "Talbot",
+    "latitude": "32.69949000",
+    "longitude": "-84.53301000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 457,
+    "name": "Talbotton",
+    "latitude": "32.67764000",
+    "longitude": "-84.53937000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 458,
+    "name": "Taliaferro",
+    "latitude": "33.56609000",
+    "longitude": "-82.87876000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 459,
+    "name": "Tallapoosa",
+    "latitude": "33.74455000",
+    "longitude": "-85.28801000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 460,
+    "name": "Tattnall",
+    "latitude": "32.04575000",
+    "longitude": "-82.05818000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 461,
+    "name": "Taylor County",
+    "latitude": "32.55546000",
+    "longitude": "-84.25046000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 462,
+    "name": "Telfair",
+    "latitude": "31.92980000",
+    "longitude": "-82.93899000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 463,
+    "name": "Temple",
+    "latitude": "33.73705000",
+    "longitude": "-85.03244000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 464,
+    "name": "Tennille",
+    "latitude": "32.93599000",
+    "longitude": "-82.81153000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 465,
+    "name": "Terrell County",
+    "latitude": "31.77688000",
+    "longitude": "-84.43692000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 466,
+    "name": "Thomas",
+    "latitude": "30.86368000",
+    "longitude": "-83.91931000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 467,
+    "name": "Thomaston",
+    "latitude": "32.88819000",
+    "longitude": "-84.32659000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 468,
+    "name": "Thomasville",
+    "latitude": "30.83658000",
+    "longitude": "-83.97878000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 469,
+    "name": "Thomson",
+    "latitude": "33.47069000",
+    "longitude": "-82.50457000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 470,
+    "name": "Thunderbolt",
+    "latitude": "32.03354000",
+    "longitude": "-81.04983000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 471,
+    "name": "Tift",
+    "latitude": "31.45744000",
+    "longitude": "-83.52659000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 472,
+    "name": "Tifton",
+    "latitude": "31.45046000",
+    "longitude": "-83.50850000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 473,
+    "name": "Toccoa",
+    "latitude": "34.57732000",
+    "longitude": "-83.33239000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 474,
+    "name": "Toombs",
+    "latitude": "32.12172000",
+    "longitude": "-82.33129000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 475,
+    "name": "Towns",
+    "latitude": "34.91665000",
+    "longitude": "-83.73728000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 476,
+    "name": "Trenton",
+    "latitude": "34.87202000",
+    "longitude": "-85.50913000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 477,
+    "name": "Treutlen",
+    "latitude": "32.40388000",
+    "longitude": "-82.56728000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 478,
+    "name": "Trion",
+    "latitude": "34.54397000",
+    "longitude": "-85.31051000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 479,
+    "name": "Troup",
+    "latitude": "33.03351000",
+    "longitude": "-85.02834000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 480,
+    "name": "Tucker",
+    "latitude": "33.85455000",
+    "longitude": "-84.21714000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 481,
+    "name": "Turner",
+    "latitude": "31.71638000",
+    "longitude": "-83.62409000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 482,
+    "name": "Twiggs",
+    "latitude": "32.66720000",
+    "longitude": "-83.42708000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 483,
+    "name": "Twin City",
+    "latitude": "32.58294000",
+    "longitude": "-82.15512000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 484,
+    "name": "Tybee Island",
+    "latitude": "32.00022000",
+    "longitude": "-80.84567000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 485,
+    "name": "Tyrone",
+    "latitude": "33.47123000",
+    "longitude": "-84.59715000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 486,
+    "name": "Unadilla",
+    "latitude": "32.26155000",
+    "longitude": "-83.73657000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 487,
+    "name": "Union City",
+    "latitude": "33.58706000",
+    "longitude": "-84.54243000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 488,
+    "name": "Union County",
+    "latitude": "34.83401000",
+    "longitude": "-83.99076000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 489,
+    "name": "Union Point",
+    "latitude": "33.61568000",
+    "longitude": "-83.07460000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 490,
+    "name": "Unionville",
+    "latitude": "31.43491000",
+    "longitude": "-83.50961000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 491,
+    "name": "Upson",
+    "latitude": "32.88127000",
+    "longitude": "-84.29934000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 492,
+    "name": "Valdosta",
+    "latitude": "30.83334000",
+    "longitude": "-83.28032000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 493,
+    "name": "Varnell",
+    "latitude": "34.90119000",
+    "longitude": "-84.97383000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 494,
+    "name": "Vidalia",
+    "latitude": "32.21769000",
+    "longitude": "-82.41346000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 495,
+    "name": "Vienna",
+    "latitude": "32.09156000",
+    "longitude": "-83.79545000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 496,
+    "name": "Villa Rica",
+    "latitude": "33.73205000",
+    "longitude": "-84.91911000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 497,
+    "name": "Vinings",
+    "latitude": "33.86483000",
+    "longitude": "-84.46437000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 498,
+    "name": "Wadley",
+    "latitude": "32.86682000",
+    "longitude": "-82.40402000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  },
+  {
+    "id": 499,
+    "name": "Walker",
+    "latitude": "34.73566000",
+    "longitude": "-85.30098000",
+    "stateId": 1455,
+    "stateCode": "GA",
+    "countryCode": "US"
+  }
+]

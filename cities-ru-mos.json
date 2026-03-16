@@ -1,0 +1,2981 @@
+[
+  {
+    "id": 0,
+    "name": "Alabushevo",
+    "latitude": "56.01667000",
+    "longitude": "37.15000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 1,
+    "name": "Alekseyevka",
+    "latitude": "55.63000000",
+    "longitude": "37.80000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 2,
+    "name": "Andreyevka",
+    "latitude": "55.98028000",
+    "longitude": "37.13500000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 3,
+    "name": "Andreyevskoye",
+    "latitude": "55.55487000",
+    "longitude": "37.92566000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 4,
+    "name": "Annino",
+    "latitude": "55.58316000",
+    "longitude": "37.26019000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 5,
+    "name": "Aprelevka",
+    "latitude": "55.55194000",
+    "longitude": "37.08010000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 6,
+    "name": "Arkhangel’skoye",
+    "latitude": "55.85486000",
+    "longitude": "35.32873000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 7,
+    "name": "Ashitkovo",
+    "latitude": "55.45173000",
+    "longitude": "38.59518000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 8,
+    "name": "Ashukino",
+    "latitude": "56.16667000",
+    "longitude": "37.95000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 9,
+    "name": "Ateptsevo",
+    "latitude": "55.32364000",
+    "longitude": "36.75002000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 10,
+    "name": "Avsyunino",
+    "latitude": "55.56516000",
+    "longitude": "39.12324000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 11,
+    "name": "Avtopoligon",
+    "latitude": "56.34984000",
+    "longitude": "37.32296000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 12,
+    "name": "Bakhchivandzhi",
+    "latitude": "55.88333000",
+    "longitude": "38.08333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 13,
+    "name": "Baksheyevo",
+    "latitude": "55.70860000",
+    "longitude": "39.87666000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 14,
+    "name": "Balashikha",
+    "latitude": "55.80945000",
+    "longitude": "37.95806000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 15,
+    "name": "Balashikha Urban Okrug",
+    "latitude": "55.83333000",
+    "longitude": "38.00000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 16,
+    "name": "Barvikha",
+    "latitude": "55.74212000",
+    "longitude": "37.27926000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 17,
+    "name": "Barybino",
+    "latitude": "55.26768000",
+    "longitude": "37.89333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 18,
+    "name": "Beloomut",
+    "latitude": "54.94478000",
+    "longitude": "39.33941000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 19,
+    "name": "Beloozërskiy",
+    "latitude": "55.45978000",
+    "longitude": "38.44358000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 20,
+    "name": "Belyye Stolby",
+    "latitude": "55.33136000",
+    "longitude": "37.85400000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 21,
+    "name": "Biorki",
+    "latitude": "55.05280000",
+    "longitude": "38.60873000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 22,
+    "name": "Biryulëvo Zapadnoye",
+    "latitude": "55.58766000",
+    "longitude": "37.64282000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 23,
+    "name": "Bogorodskoye",
+    "latitude": "56.55000000",
+    "longitude": "37.88333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 24,
+    "name": "Bol'shiye Vyazëmy",
+    "latitude": "55.62058000",
+    "longitude": "36.97620000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 25,
+    "name": "Bol’shoye Gryzlovo",
+    "latitude": "54.80033000",
+    "longitude": "37.63939000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 26,
+    "name": "Bolshevo",
+    "latitude": "55.93486000",
+    "longitude": "37.83002000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 27,
+    "name": "Bratovshchina",
+    "latitude": "56.05000000",
+    "longitude": "37.88333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 28,
+    "name": "Bronnitsy",
+    "latitude": "55.42112000",
+    "longitude": "38.26188000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 29,
+    "name": "Budenovetc",
+    "latitude": "56.37975000",
+    "longitude": "37.62774000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 30,
+    "name": "Bykovo",
+    "latitude": "55.63614000",
+    "longitude": "38.08027000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 31,
+    "name": "Chashnikovo",
+    "latitude": "56.03333000",
+    "longitude": "37.16667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 32,
+    "name": "Chekhov",
+    "latitude": "55.14770000",
+    "longitude": "37.47728000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 33,
+    "name": "Cherkizovo",
+    "latitude": "55.97583000",
+    "longitude": "37.78750000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 34,
+    "name": "Chernogolovka",
+    "latitude": "56.00000000",
+    "longitude": "38.36667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 35,
+    "name": "Cherusti",
+    "latitude": "55.54976000",
+    "longitude": "40.01071000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 36,
+    "name": "Chkalovskiy",
+    "latitude": "55.89534000",
+    "longitude": "38.07763000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 37,
+    "name": "Chornoye",
+    "latitude": "55.74611000",
+    "longitude": "38.06889000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 38,
+    "name": "Chupryakovo",
+    "latitude": "55.55282000",
+    "longitude": "36.62721000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 39,
+    "name": "Danki",
+    "latitude": "54.91806000",
+    "longitude": "37.57009000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 40,
+    "name": "Davydovo",
+    "latitude": "55.60859000",
+    "longitude": "38.86109000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 41,
+    "name": "Dedenëvo",
+    "latitude": "56.24283000",
+    "longitude": "37.51769000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 42,
+    "name": "Dedovsk",
+    "latitude": "55.86861000",
+    "longitude": "37.12222000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 43,
+    "name": "Demikhovo",
+    "latitude": "55.79685000",
+    "longitude": "38.88404000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 44,
+    "name": "Dmitrov",
+    "latitude": "56.34485000",
+    "longitude": "37.52041000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 45,
+    "name": "Dmitrovskiy Pogost",
+    "latitude": "55.31333000",
+    "longitude": "39.83358000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 46,
+    "name": "Dmitrovskiy Rayon",
+    "latitude": "56.35000000",
+    "longitude": "37.58333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 47,
+    "name": "Dolgoprudnyy",
+    "latitude": "55.94958000",
+    "longitude": "37.50183000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 48,
+    "name": "Domodedovo",
+    "latitude": "55.44130000",
+    "longitude": "37.75367000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 49,
+    "name": "Domodedovskiy Rayon",
+    "latitude": "55.41667000",
+    "longitude": "37.75000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 50,
+    "name": "Dorogomilovo",
+    "latitude": "55.75000000",
+    "longitude": "37.56667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 51,
+    "name": "Dorokhovo",
+    "latitude": "55.55056000",
+    "longitude": "36.37444000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 52,
+    "name": "Drezna",
+    "latitude": "55.74208000",
+    "longitude": "38.84753000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 53,
+    "name": "Druzhba",
+    "latitude": "55.88603000",
+    "longitude": "37.74267000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 54,
+    "name": "Dubna",
+    "latitude": "56.73333000",
+    "longitude": "37.16667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 55,
+    "name": "Dubrovitsy",
+    "latitude": "55.43969000",
+    "longitude": "37.48670000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 56,
+    "name": "Dzerzhinskiy",
+    "latitude": "55.62945000",
+    "longitude": "37.85654000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 57,
+    "name": "Dzerzhinsky",
+    "latitude": "55.62737000",
+    "longitude": "37.85803000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 58,
+    "name": "Elektrogorsk",
+    "latitude": "55.88431000",
+    "longitude": "38.78640000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 59,
+    "name": "Elektrostal’",
+    "latitude": "55.78959000",
+    "longitude": "38.44671000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 60,
+    "name": "Elektrougli",
+    "latitude": "55.72445000",
+    "longitude": "38.20908000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 61,
+    "name": "Fedurnovo",
+    "latitude": "55.75488000",
+    "longitude": "38.04696000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 62,
+    "name": "Fili",
+    "latitude": "55.74819000",
+    "longitude": "37.47969000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 63,
+    "name": "Filimonki",
+    "latitude": "55.55794000",
+    "longitude": "37.34719000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 64,
+    "name": "Firsanovka",
+    "latitude": "55.95361000",
+    "longitude": "37.24083000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 65,
+    "name": "Fosforitnyy",
+    "latitude": "55.32892000",
+    "longitude": "38.89509000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 66,
+    "name": "Fryanovo",
+    "latitude": "56.13333000",
+    "longitude": "38.45000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 67,
+    "name": "Fryazevo",
+    "latitude": "55.73321000",
+    "longitude": "38.46458000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 68,
+    "name": "Fryazino",
+    "latitude": "55.96056000",
+    "longitude": "38.04556000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 69,
+    "name": "Golitsyno",
+    "latitude": "55.60928000",
+    "longitude": "36.98212000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 70,
+    "name": "Gorki Vtoryye",
+    "latitude": "55.72565000",
+    "longitude": "37.16350000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 71,
+    "name": "Gorki-Leninskiye",
+    "latitude": "55.50855000",
+    "longitude": "37.77618000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 72,
+    "name": "Gorshkovo",
+    "latitude": "56.37561000",
+    "longitude": "37.41240000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 73,
+    "name": "Grebnevo",
+    "latitude": "55.95074000",
+    "longitude": "38.07973000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 74,
+    "name": "Gzhel’",
+    "latitude": "55.61008000",
+    "longitude": "38.39399000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 75,
+    "name": "Iksha",
+    "latitude": "56.17204000",
+    "longitude": "37.49842000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 76,
+    "name": "Il’inskiy",
+    "latitude": "55.61902000",
+    "longitude": "38.11818000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 77,
+    "name": "Il’inskiy Pogost",
+    "latitude": "55.47785000",
+    "longitude": "38.90906000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 78,
+    "name": "Il’inskoye",
+    "latitude": "55.24917000",
+    "longitude": "37.95805000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 79,
+    "name": "Imeni Tsyurupy",
+    "latitude": "55.49567000",
+    "longitude": "38.65064000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 80,
+    "name": "Imeni Vorovskogo",
+    "latitude": "55.73190000",
+    "longitude": "38.32368000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 81,
+    "name": "Istra",
+    "latitude": "55.91997000",
+    "longitude": "36.86867000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 82,
+    "name": "Istrinskiy Rayon",
+    "latitude": "55.88333000",
+    "longitude": "36.93333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 83,
+    "name": "Ivanteyevka",
+    "latitude": "55.97111000",
+    "longitude": "37.92083000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 84,
+    "name": "Izmaylovo",
+    "latitude": "55.78677000",
+    "longitude": "37.80165000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 85,
+    "name": "Kabanovo",
+    "latitude": "55.74815000",
+    "longitude": "38.93511000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 86,
+    "name": "Karinskoye",
+    "latitude": "55.70969000",
+    "longitude": "36.68903000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 87,
+    "name": "Kashira",
+    "latitude": "54.84444000",
+    "longitude": "38.16694000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 88,
+    "name": "Kastanayevo",
+    "latitude": "55.71667000",
+    "longitude": "37.50000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 89,
+    "name": "Kerva",
+    "latitude": "55.61167000",
+    "longitude": "39.57665000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 90,
+    "name": "Khimki",
+    "latitude": "55.89704000",
+    "longitude": "37.42969000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 91,
+    "name": "Khimki Urban Okrug",
+    "latitude": "55.91667000",
+    "longitude": "37.41667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 92,
+    "name": "Khorlovo",
+    "latitude": "55.33270000",
+    "longitude": "38.81365000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 93,
+    "name": "Khoroshëvo-Mnevniki",
+    "latitude": "55.78363000",
+    "longitude": "37.47137000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 94,
+    "name": "Khot'kovo",
+    "latitude": "56.25699000",
+    "longitude": "37.99544000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 95,
+    "name": "Kievskiy",
+    "latitude": "55.42999000",
+    "longitude": "36.86660000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 96,
+    "name": "Klimovsk",
+    "latitude": "55.36352000",
+    "longitude": "37.52984000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 97,
+    "name": "Klin",
+    "latitude": "56.33333000",
+    "longitude": "36.73333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 98,
+    "name": "Klinskiy Rayon",
+    "latitude": "56.41667000",
+    "longitude": "36.83333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 99,
+    "name": "Klyazminskoe Reservoir",
+    "latitude": "55.99507000",
+    "longitude": "37.67199000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 100,
+    "name": "Kolomenskiy Rayon",
+    "latitude": "55.08333000",
+    "longitude": "38.75000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 101,
+    "name": "Kolomna",
+    "latitude": "55.07944000",
+    "longitude": "38.77833000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 102,
+    "name": "Kolyubakino",
+    "latitude": "55.66800000",
+    "longitude": "36.53234000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 103,
+    "name": "Kommunarka",
+    "latitude": "55.56952000",
+    "longitude": "37.48932000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 104,
+    "name": "Konobeyevo",
+    "latitude": "55.40776000",
+    "longitude": "38.66261000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 105,
+    "name": "Konstantinovo",
+    "latitude": "56.55000000",
+    "longitude": "38.03333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 106,
+    "name": "Koptëvo",
+    "latitude": "55.81667000",
+    "longitude": "37.51667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 107,
+    "name": "Korenëvo",
+    "latitude": "55.67194000",
+    "longitude": "38.00778000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 108,
+    "name": "Korolev",
+    "latitude": "55.91417000",
+    "longitude": "37.82556000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 109,
+    "name": "Korolyov",
+    "latitude": "55.91732000",
+    "longitude": "37.81786000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 110,
+    "name": "Kostino",
+    "latitude": "56.03333000",
+    "longitude": "37.91667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 111,
+    "name": "Kostrovo",
+    "latitude": "55.89429000",
+    "longitude": "36.69491000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 112,
+    "name": "Kotel’niki",
+    "latitude": "55.63546000",
+    "longitude": "37.84450000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 113,
+    "name": "Kozhukhovo",
+    "latitude": "55.70000000",
+    "longitude": "37.66667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 114,
+    "name": "Kraskovo",
+    "latitude": "55.64972000",
+    "longitude": "37.98778000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 115,
+    "name": "Krasnaya Poyma",
+    "latitude": "55.00138000",
+    "longitude": "39.07997000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 116,
+    "name": "Krasnoarmeysk",
+    "latitude": "56.10000000",
+    "longitude": "38.13333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 117,
+    "name": "Krasnogorsk",
+    "latitude": "55.82036000",
+    "longitude": "37.33017000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 118,
+    "name": "Krasnogorskiy Rayon",
+    "latitude": "55.83333000",
+    "longitude": "37.33333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 119,
+    "name": "Krasnozavodsk",
+    "latitude": "56.45000000",
+    "longitude": "38.21667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 120,
+    "name": "Krasnoznamensk",
+    "latitude": "55.59944000",
+    "longitude": "37.03861000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 121,
+    "name": "Krasnyy Tkach",
+    "latitude": "55.47210000",
+    "longitude": "39.08017000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 122,
+    "name": "Kratovo",
+    "latitude": "55.59728000",
+    "longitude": "38.17743000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 123,
+    "name": "Krivtsovo",
+    "latitude": "56.15000000",
+    "longitude": "36.88333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 124,
+    "name": "Kubinka",
+    "latitude": "55.57957000",
+    "longitude": "36.70392000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 125,
+    "name": "Kupavna",
+    "latitude": "55.74576000",
+    "longitude": "38.13136000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 126,
+    "name": "Kurilovo",
+    "latitude": "55.37271000",
+    "longitude": "37.37703000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 127,
+    "name": "Kurovskoye",
+    "latitude": "55.58183000",
+    "longitude": "38.91994000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 128,
+    "name": "Kuskovo",
+    "latitude": "55.73423000",
+    "longitude": "37.82616000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 129,
+    "name": "L’vovskiy",
+    "latitude": "55.31872000",
+    "longitude": "37.52337000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 130,
+    "name": "Leninskiy Rayon",
+    "latitude": "55.41667000",
+    "longitude": "37.58333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 131,
+    "name": "Leninskiye Gory",
+    "latitude": "55.70000000",
+    "longitude": "37.56667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 132,
+    "name": "Lesnoy",
+    "latitude": "56.06667000",
+    "longitude": "37.91667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 133,
+    "name": "Lesnoy Gorodok",
+    "latitude": "55.63893000",
+    "longitude": "37.20829000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 134,
+    "name": "Lesnyye Polyany",
+    "latitude": "55.96667000",
+    "longitude": "37.86667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 135,
+    "name": "Levoberezhnyy",
+    "latitude": "55.85000000",
+    "longitude": "37.48333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 136,
+    "name": "Likino-Dulevo",
+    "latitude": "55.70830000",
+    "longitude": "38.95420000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 137,
+    "name": "Lobnya",
+    "latitude": "56.00972000",
+    "longitude": "37.48194000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 138,
+    "name": "Lopatinskiy",
+    "latitude": "55.34101000",
+    "longitude": "38.72366000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 139,
+    "name": "Losino-Petrovskiy",
+    "latitude": "55.86959000",
+    "longitude": "38.20065000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 140,
+    "name": "Lotoshino",
+    "latitude": "56.23489000",
+    "longitude": "35.64273000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 141,
+    "name": "Lotoshinskiy Rayon",
+    "latitude": "56.25000000",
+    "longitude": "35.66667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 142,
+    "name": "Lozhki",
+    "latitude": "56.09387000",
+    "longitude": "37.10873000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 143,
+    "name": "Lugovaya",
+    "latitude": "56.05000000",
+    "longitude": "37.48333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 144,
+    "name": "Lukhovitsy",
+    "latitude": "54.97661000",
+    "longitude": "39.04440000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 145,
+    "name": "Lytkarino",
+    "latitude": "55.58271000",
+    "longitude": "37.90516000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 146,
+    "name": "Lyuberetskiy Rayon",
+    "latitude": "55.66667000",
+    "longitude": "37.91667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 147,
+    "name": "Lyubertsy",
+    "latitude": "55.67719000",
+    "longitude": "37.89322000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 148,
+    "name": "Lyubuchany",
+    "latitude": "55.25088000",
+    "longitude": "37.54988000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 149,
+    "name": "Malakhovka",
+    "latitude": "55.64776000",
+    "longitude": "38.02486000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 150,
+    "name": "Malaya Dubna",
+    "latitude": "55.87783000",
+    "longitude": "38.95423000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 151,
+    "name": "Malino",
+    "latitude": "55.11195000",
+    "longitude": "38.17384000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 152,
+    "name": "Malyshevo",
+    "latitude": "55.49450000",
+    "longitude": "38.35356000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 153,
+    "name": "Mamontovka",
+    "latitude": "55.98083000",
+    "longitude": "37.81972000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 154,
+    "name": "Marfino",
+    "latitude": "55.70267000",
+    "longitude": "37.38322000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 155,
+    "name": "Medvezh’i Ozëra",
+    "latitude": "55.86935000",
+    "longitude": "37.98613000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 156,
+    "name": "Melikhovo",
+    "latitude": "55.11440000",
+    "longitude": "37.64827000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 157,
+    "name": "Mendeleyevo",
+    "latitude": "56.03333000",
+    "longitude": "37.21667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 158,
+    "name": "Meshcherino",
+    "latitude": "55.19567000",
+    "longitude": "38.36002000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 159,
+    "name": "Mikhnëvo",
+    "latitude": "55.12747000",
+    "longitude": "37.95451000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 160,
+    "name": "Mikulino",
+    "latitude": "56.45188000",
+    "longitude": "35.60685000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 161,
+    "name": "Misheronskiy",
+    "latitude": "55.71927000",
+    "longitude": "39.73835000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 162,
+    "name": "Molokovo",
+    "latitude": "55.56186000",
+    "longitude": "37.86492000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 163,
+    "name": "Monino",
+    "latitude": "55.84244000",
+    "longitude": "38.19362000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 164,
+    "name": "Mosrentgen",
+    "latitude": "55.61970000",
+    "longitude": "37.46402000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 165,
+    "name": "Mozhaysk",
+    "latitude": "55.50194000",
+    "longitude": "36.02722000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 166,
+    "name": "Mozhayskiy Rayon",
+    "latitude": "55.50000000",
+    "longitude": "36.00000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 167,
+    "name": "Muranovo",
+    "latitude": "56.18333000",
+    "longitude": "37.90000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 168,
+    "name": "Mytishchi",
+    "latitude": "55.91163000",
+    "longitude": "37.73076000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 169,
+    "name": "Mytishchi Urban Okrug",
+    "latitude": "56.00000000",
+    "longitude": "37.66667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 170,
+    "name": "Nakhabino",
+    "latitude": "55.84854000",
+    "longitude": "37.17789000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 171,
+    "name": "Naro-Fominsk",
+    "latitude": "55.38752000",
+    "longitude": "36.73307000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 172,
+    "name": "Nazar'yevo",
+    "latitude": "55.67417000",
+    "longitude": "37.04028000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 173,
+    "name": "Nekrasovskiy",
+    "latitude": "56.09349000",
+    "longitude": "37.49934000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 174,
+    "name": "Nemchinovka",
+    "latitude": "55.72288000",
+    "longitude": "37.36086000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 175,
+    "name": "Nikolina Gora",
+    "latitude": "55.73433000",
+    "longitude": "37.04364000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 176,
+    "name": "Noginsk",
+    "latitude": "55.86647000",
+    "longitude": "38.44380000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 177,
+    "name": "Noginsk-9",
+    "latitude": "56.06681000",
+    "longitude": "38.50013000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 178,
+    "name": "Noginskiy Rayon",
+    "latitude": "55.91667000",
+    "longitude": "38.41667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 179,
+    "name": "Novo-Nikol’skoye",
+    "latitude": "56.56667000",
+    "longitude": "37.53333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 180,
+    "name": "Novoivanovskoye",
+    "latitude": "55.70381000",
+    "longitude": "37.36510000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 181,
+    "name": "Novopetrovskoye",
+    "latitude": "55.99278000",
+    "longitude": "36.47194000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 182,
+    "name": "Novopodrezkovo",
+    "latitude": "55.93972000",
+    "longitude": "37.34417000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 183,
+    "name": "Novosin’kovo",
+    "latitude": "56.37737000",
+    "longitude": "37.32871000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 184,
+    "name": "Novoye",
+    "latitude": "55.63104000",
+    "longitude": "38.92001000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 185,
+    "name": "Novyy Byt",
+    "latitude": "55.05857000",
+    "longitude": "37.61348000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 186,
+    "name": "Nudol’",
+    "latitude": "56.10000000",
+    "longitude": "36.51667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 187,
+    "name": "Obolensk",
+    "latitude": "54.97741000",
+    "longitude": "37.22449000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 188,
+    "name": "Obukhovo",
+    "latitude": "55.83278000",
+    "longitude": "38.27250000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 189,
+    "name": "Odintsovo",
+    "latitude": "55.67798000",
+    "longitude": "37.27773000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 190,
+    "name": "Odintsovskiy Rayon",
+    "latitude": "55.66667000",
+    "longitude": "36.91667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 191,
+    "name": "Oktyabr’skiy",
+    "latitude": "55.60806000",
+    "longitude": "37.97738000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 192,
+    "name": "Ol'yavidovo",
+    "latitude": "56.50330000",
+    "longitude": "37.75160000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 193,
+    "name": "Opalikha",
+    "latitude": "55.82593000",
+    "longitude": "37.25278000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 194,
+    "name": "Orekhovo-Zuyevo",
+    "latitude": "55.80672000",
+    "longitude": "38.96178000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 195,
+    "name": "Orekhovo-Zuyevskiy Rayon",
+    "latitude": "55.75000000",
+    "longitude": "39.00000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 196,
+    "name": "Orud’yevo",
+    "latitude": "56.43333000",
+    "longitude": "37.53333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 197,
+    "name": "Ostashëvo",
+    "latitude": "55.85896000",
+    "longitude": "35.86948000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 198,
+    "name": "Ostrovtsy",
+    "latitude": "55.58750000",
+    "longitude": "38.00556000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 199,
+    "name": "Ozëry",
+    "latitude": "54.85998000",
+    "longitude": "38.55062000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 200,
+    "name": "Ozherel’ye",
+    "latitude": "54.79197000",
+    "longitude": "38.26559000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 201,
+    "name": "Ozyory Urban Okrug",
+    "latitude": "54.83333000",
+    "longitude": "38.58333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 202,
+    "name": "Pavlovskaya Sloboda",
+    "latitude": "55.81517000",
+    "longitude": "37.08246000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 203,
+    "name": "Pavlovskiy Posad",
+    "latitude": "55.78187000",
+    "longitude": "38.65025000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 204,
+    "name": "Pavshino",
+    "latitude": "55.81667000",
+    "longitude": "37.35000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 205,
+    "name": "Peresvet",
+    "latitude": "56.42302000",
+    "longitude": "38.17612000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 206,
+    "name": "Pervomayskiy",
+    "latitude": "55.06696000",
+    "longitude": "38.66489000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 207,
+    "name": "Peshki",
+    "latitude": "56.13333000",
+    "longitude": "37.06667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 208,
+    "name": "Peski",
+    "latitude": "55.21626000",
+    "longitude": "38.76262000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 209,
+    "name": "Petrovo-Dal’neye",
+    "latitude": "55.74679000",
+    "longitude": "37.17347000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 210,
+    "name": "Petrovskaya",
+    "latitude": "55.55000000",
+    "longitude": "37.78333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 211,
+    "name": "Pirogovskiy",
+    "latitude": "55.97806000",
+    "longitude": "37.73361000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 212,
+    "name": "Podolsk",
+    "latitude": "55.42419000",
+    "longitude": "37.55472000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 213,
+    "name": "Podosinki",
+    "latitude": "56.20837000",
+    "longitude": "37.54741000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 214,
+    "name": "Popovo",
+    "latitude": "55.07523000",
+    "longitude": "37.66727000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 215,
+    "name": "Posëlok Mar’ino",
+    "latitude": "55.55000000",
+    "longitude": "37.32000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 216,
+    "name": "Povarovo",
+    "latitude": "56.06667000",
+    "longitude": "37.05000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 217,
+    "name": "Povedniki",
+    "latitude": "55.97000000",
+    "longitude": "37.60000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 218,
+    "name": "Pravdinskiy",
+    "latitude": "56.06034000",
+    "longitude": "37.86266000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 219,
+    "name": "Proletarskiy",
+    "latitude": "55.02219000",
+    "longitude": "37.39019000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 220,
+    "name": "Protvino",
+    "latitude": "54.86821000",
+    "longitude": "37.21583000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 221,
+    "name": "Purshevo",
+    "latitude": "55.72124000",
+    "longitude": "38.03277000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 222,
+    "name": "Pushchino",
+    "latitude": "54.83373000",
+    "longitude": "37.61138000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 223,
+    "name": "Pushkino",
+    "latitude": "56.01722000",
+    "longitude": "37.86667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 224,
+    "name": "Pushkinskiy Rayon",
+    "latitude": "55.98633000",
+    "longitude": "37.86122000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 225,
+    "name": "Radovitskiy",
+    "latitude": "55.12820000",
+    "longitude": "39.79560000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 226,
+    "name": "Radumlya",
+    "latitude": "56.06901000",
+    "longitude": "37.14979000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 227,
+    "name": "Raduzhnyy",
+    "latitude": "55.13680000",
+    "longitude": "38.72803000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 228,
+    "name": "Rakhmanovo",
+    "latitude": "55.74401000",
+    "longitude": "38.61124000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 229,
+    "name": "Ramenskiy Rayon",
+    "latitude": "55.56667000",
+    "longitude": "38.23333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 230,
+    "name": "Ramenskoye",
+    "latitude": "55.56694000",
+    "longitude": "38.23028000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 231,
+    "name": "Razvilka",
+    "latitude": "55.59209000",
+    "longitude": "37.74085000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 232,
+    "name": "Rechitsy",
+    "latitude": "55.59754000",
+    "longitude": "38.47134000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 233,
+    "name": "Reshetnikovo",
+    "latitude": "56.45000000",
+    "longitude": "36.56667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 234,
+    "name": "Reutov",
+    "latitude": "55.76111000",
+    "longitude": "37.85750000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 235,
+    "name": "Rodniki",
+    "latitude": "55.65204000",
+    "longitude": "38.06685000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 236,
+    "name": "Rogachëvo",
+    "latitude": "56.43333000",
+    "longitude": "37.16667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 237,
+    "name": "Roshal’",
+    "latitude": "55.66853000",
+    "longitude": "39.87488000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 238,
+    "name": "Rozhdestveno",
+    "latitude": "55.85444000",
+    "longitude": "37.04935000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 239,
+    "name": "Rumyantsevo",
+    "latitude": "55.97278000",
+    "longitude": "36.53417000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 240,
+    "name": "Ruza",
+    "latitude": "55.69898000",
+    "longitude": "36.19522000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 241,
+    "name": "Ruzskiy Rayon",
+    "latitude": "55.70000000",
+    "longitude": "36.25000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 242,
+    "name": "Rybnoye",
+    "latitude": "56.41349000",
+    "longitude": "37.62180000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 243,
+    "name": "Rzhavki",
+    "latitude": "56.00000000",
+    "longitude": "37.25000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 244,
+    "name": "Saltykovka",
+    "latitude": "55.76679000",
+    "longitude": "37.93533000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 245,
+    "name": "Savinskaya",
+    "latitude": "55.37013000",
+    "longitude": "39.99233000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 246,
+    "name": "Savvinskaya Sloboda",
+    "latitude": "55.72343000",
+    "longitude": "36.80347000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 247,
+    "name": "Selyatino",
+    "latitude": "55.51514000",
+    "longitude": "36.97746000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 248,
+    "name": "Semënovskoye",
+    "latitude": "55.68333000",
+    "longitude": "37.55000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 249,
+    "name": "Semkhoz",
+    "latitude": "56.28333000",
+    "longitude": "38.06667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 250,
+    "name": "Serebryano-Prudskiy Rayon",
+    "latitude": "54.50000000",
+    "longitude": "38.66667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 251,
+    "name": "Serebryanyye Prudy",
+    "latitude": "54.46923000",
+    "longitude": "38.72095000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 252,
+    "name": "Sergiyev Posad",
+    "latitude": "56.30000000",
+    "longitude": "38.13333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 253,
+    "name": "Sergiyevo-Posadskiy Rayon",
+    "latitude": "56.33333000",
+    "longitude": "38.16667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 254,
+    "name": "Serpukhov",
+    "latitude": "54.91578000",
+    "longitude": "37.41114000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 255,
+    "name": "Serpukhovskiy Rayon",
+    "latitude": "54.91667000",
+    "longitude": "37.41667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 256,
+    "name": "Severnyy",
+    "latitude": "56.73333000",
+    "longitude": "37.65000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 257,
+    "name": "Shaburnovo",
+    "latitude": "56.55000000",
+    "longitude": "37.93333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 258,
+    "name": "Shakhovskaya",
+    "latitude": "56.03147000",
+    "longitude": "35.50697000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 259,
+    "name": "Shakhovskoy Rayon",
+    "latitude": "56.00192000",
+    "longitude": "35.49537000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 260,
+    "name": "Shatura",
+    "latitude": "55.57253000",
+    "longitude": "39.53682000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 261,
+    "name": "Shaturtorf",
+    "latitude": "55.56711000",
+    "longitude": "39.42129000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 262,
+    "name": "Shchelkovo",
+    "latitude": "55.92497000",
+    "longitude": "37.97218000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 263,
+    "name": "Shchëlkovskiy Rayon",
+    "latitude": "56.00000000",
+    "longitude": "38.16667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 264,
+    "name": "Shemëtovo",
+    "latitude": "56.52764000",
+    "longitude": "38.07518000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 265,
+    "name": "Sheremet’yevskiy",
+    "latitude": "55.97583000",
+    "longitude": "37.49417000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 266,
+    "name": "Shevlyakovo",
+    "latitude": "56.39733000",
+    "longitude": "36.85973000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 267,
+    "name": "Shishkin Les",
+    "latitude": "55.41057000",
+    "longitude": "37.18853000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 268,
+    "name": "Skhodnya",
+    "latitude": "55.94806000",
+    "longitude": "37.29778000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 269,
+    "name": "Skolkovo",
+    "latitude": "55.68784000",
+    "longitude": "37.36836000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 270,
+    "name": "Skoropuskovskiy",
+    "latitude": "56.36667000",
+    "longitude": "38.16667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 271,
+    "name": "Snegiri",
+    "latitude": "55.88867000",
+    "longitude": "37.02421000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 272,
+    "name": "Sofrino",
+    "latitude": "56.15000000",
+    "longitude": "37.93333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 273,
+    "name": "Solnechnogorsk",
+    "latitude": "56.18333000",
+    "longitude": "36.98333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 274,
+    "name": "Solnechnogorskiy Rayon",
+    "latitude": "56.08333000",
+    "longitude": "37.08333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 275,
+    "name": "Spas-Zaulok",
+    "latitude": "56.48333000",
+    "longitude": "36.56667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 276,
+    "name": "Staraya Kupavna",
+    "latitude": "55.80799000",
+    "longitude": "38.18050000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 277,
+    "name": "Stolbovaya",
+    "latitude": "55.25021000",
+    "longitude": "37.49249000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 278,
+    "name": "Stromyn’",
+    "latitude": "56.04347000",
+    "longitude": "38.48318000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 279,
+    "name": "Stupino",
+    "latitude": "54.90083000",
+    "longitude": "38.07083000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 280,
+    "name": "Stupinskiy Rayon",
+    "latitude": "54.91667000",
+    "longitude": "38.08333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 281,
+    "name": "Svatkovo",
+    "latitude": "56.38333000",
+    "longitude": "38.21667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 282,
+    "name": "Sverdlovskiy",
+    "latitude": "55.90968000",
+    "longitude": "38.14978000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 283,
+    "name": "Sychëvo",
+    "latitude": "55.06196000",
+    "longitude": "38.71384000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 284,
+    "name": "Taldom",
+    "latitude": "56.73333000",
+    "longitude": "37.53333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 285,
+    "name": "Taldomskiy Rayon",
+    "latitude": "56.75000000",
+    "longitude": "37.58333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 286,
+    "name": "Tarasovka",
+    "latitude": "55.95722000",
+    "longitude": "37.84333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 287,
+    "name": "Teryayevo",
+    "latitude": "56.16974000",
+    "longitude": "36.12545000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 288,
+    "name": "Tomilino",
+    "latitude": "55.65619000",
+    "longitude": "37.94713000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 289,
+    "name": "Troitskoye",
+    "latitude": "55.30000000",
+    "longitude": "38.53333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 290,
+    "name": "Tuchkovo",
+    "latitude": "55.60111000",
+    "longitude": "36.46806000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 291,
+    "name": "Tugolesskiy Bor",
+    "latitude": "55.55051000",
+    "longitude": "39.82422000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 292,
+    "name": "Udel’naya",
+    "latitude": "55.62536000",
+    "longitude": "38.00285000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 293,
+    "name": "Uvarovka",
+    "latitude": "55.52778000",
+    "longitude": "35.60611000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 294,
+    "name": "Uzunovo",
+    "latitude": "54.53858000",
+    "longitude": "38.61734000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 295,
+    "name": "Verbilki",
+    "latitude": "56.53333000",
+    "longitude": "37.60000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 296,
+    "name": "Vereya",
+    "latitude": "55.34472000",
+    "longitude": "36.17194000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 297,
+    "name": "Vidnoye",
+    "latitude": "55.55239000",
+    "longitude": "37.70967000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 298,
+    "name": "Vinogradovo",
+    "latitude": "56.93333000",
+    "longitude": "37.55000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 299,
+    "name": "Vishnyakovskiye Dachi",
+    "latitude": "55.76470000",
+    "longitude": "38.13334000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 300,
+    "name": "Vniissok",
+    "latitude": "55.65639000",
+    "longitude": "37.21194000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 301,
+    "name": "Volodarskogo",
+    "latitude": "55.50349000",
+    "longitude": "37.94174000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 302,
+    "name": "Volokolamsk",
+    "latitude": "56.03361000",
+    "longitude": "35.96944000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 303,
+    "name": "Volokolamskiy Rayon",
+    "latitude": "56.08886000",
+    "longitude": "35.99248000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 304,
+    "name": "Voskresensk",
+    "latitude": "55.31733000",
+    "longitude": "38.65264000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 305,
+    "name": "Voskresenskiy Rayon",
+    "latitude": "55.33333000",
+    "longitude": "38.75000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 306,
+    "name": "Vostryakovo",
+    "latitude": "55.66667000",
+    "longitude": "37.45000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 307,
+    "name": "Vysokovsk",
+    "latitude": "56.31667000",
+    "longitude": "36.55000000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 308,
+    "name": "Yakhroma",
+    "latitude": "56.30000000",
+    "longitude": "37.48333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 309,
+    "name": "Yakovlevskoye",
+    "latitude": "55.44194000",
+    "longitude": "37.94806000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 310,
+    "name": "Yam",
+    "latitude": "55.48785000",
+    "longitude": "37.74458000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 311,
+    "name": "Yamkino",
+    "latitude": "55.92088000",
+    "longitude": "38.40417000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 312,
+    "name": "Yaropolets",
+    "latitude": "56.13333000",
+    "longitude": "35.83317000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 313,
+    "name": "Yegor’yevsk",
+    "latitude": "55.38283000",
+    "longitude": "39.03233000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 314,
+    "name": "Yel’digino",
+    "latitude": "56.11667000",
+    "longitude": "37.81667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 315,
+    "name": "Yermolino",
+    "latitude": "56.14887000",
+    "longitude": "37.49112000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 316,
+    "name": "Yershovo",
+    "latitude": "55.76911000",
+    "longitude": "36.85929000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 317,
+    "name": "Yubileyny",
+    "latitude": "55.93333000",
+    "longitude": "37.83333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 318,
+    "name": "Zagoryanskiy",
+    "latitude": "55.93250000",
+    "longitude": "37.95806000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 319,
+    "name": "Zaprudnya",
+    "latitude": "56.56667000",
+    "longitude": "37.43333000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 320,
+    "name": "Zaraysk",
+    "latitude": "54.76050000",
+    "longitude": "38.87841000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 321,
+    "name": "Zarech’ye",
+    "latitude": "55.68667000",
+    "longitude": "37.39240000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 322,
+    "name": "Zarya",
+    "latitude": "55.75533000",
+    "longitude": "38.09578000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 323,
+    "name": "Zelenogradskiy",
+    "latitude": "56.10000000",
+    "longitude": "37.91667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 324,
+    "name": "Zhavoronki",
+    "latitude": "55.64943000",
+    "longitude": "37.10101000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 325,
+    "name": "Zheleznodorozhnyy",
+    "latitude": "55.74400000",
+    "longitude": "38.01684000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 326,
+    "name": "Zhilëvo",
+    "latitude": "55.01408000",
+    "longitude": "38.01106000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 327,
+    "name": "Zhitnevo",
+    "latitude": "55.34233000",
+    "longitude": "37.91464000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 328,
+    "name": "Zhukovka",
+    "latitude": "56.48333000",
+    "longitude": "37.51667000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 329,
+    "name": "Zhukovskiy",
+    "latitude": "55.59528000",
+    "longitude": "38.12028000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  },
+  {
+    "id": 330,
+    "name": "Zvenigorod",
+    "latitude": "55.73401000",
+    "longitude": "36.85918000",
+    "stateId": 1882,
+    "stateCode": "MOS",
+    "countryCode": "RU"
+  }
+]

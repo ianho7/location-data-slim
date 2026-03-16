@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "name": "Adrian",
+    "latitude": "41.89755000",
+    "longitude": "-84.03717000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 1,
+    "name": "Albion",
+    "latitude": "42.24310000",
+    "longitude": "-84.75303000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 2,
+    "name": "Alcona",
+    "latitude": "44.71161000",
+    "longitude": "-83.34366000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 3,
+    "name": "Alger",
+    "latitude": "46.45110000",
+    "longitude": "-86.54755000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 4,
+    "name": "Algonac",
+    "latitude": "42.61858000",
+    "longitude": "-82.53230000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 5,
+    "name": "Allegan",
+    "latitude": "42.52920000",
+    "longitude": "-85.85530000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 6,
+    "name": "Allegan County",
+    "latitude": "42.51766000",
+    "longitude": "-85.91034000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 7,
+    "name": "Allen Park",
+    "latitude": "42.25754000",
+    "longitude": "-83.21104000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 8,
+    "name": "Allendale",
+    "latitude": "42.97225000",
+    "longitude": "-85.95365000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 9,
+    "name": "Alma",
+    "latitude": "43.37892000",
+    "longitude": "-84.65973000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 10,
+    "name": "Almont",
+    "latitude": "42.92058000",
+    "longitude": "-83.04493000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 11,
+    "name": "Alpena",
+    "latitude": "45.06168000",
+    "longitude": "-83.43275000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 12,
+    "name": "Alpena County",
+    "latitude": "45.06350000",
+    "longitude": "-83.46039000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 13,
+    "name": "Ann Arbor",
+    "latitude": "42.27756000",
+    "longitude": "-83.74088000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 14,
+    "name": "Antrim",
+    "latitude": "45.00737000",
+    "longitude": "-85.17579000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 15,
+    "name": "Arenac",
+    "latitude": "44.04289000",
+    "longitude": "-83.74725000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 16,
+    "name": "Argentine",
+    "latitude": "42.79142000",
+    "longitude": "-83.84634000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 17,
+    "name": "Armada",
+    "latitude": "42.84420000",
+    "longitude": "-82.88437000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 18,
+    "name": "Athens",
+    "latitude": "42.08866000",
+    "longitude": "-85.23471000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 19,
+    "name": "Atlanta",
+    "latitude": "45.00473000",
+    "longitude": "-84.14389000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 20,
+    "name": "Au Sable",
+    "latitude": "44.41085000",
+    "longitude": "-83.33219000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 21,
+    "name": "Auburn",
+    "latitude": "43.60336000",
+    "longitude": "-84.06970000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 22,
+    "name": "Auburn Hills",
+    "latitude": "42.68753000",
+    "longitude": "-83.23410000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 23,
+    "name": "Bad Axe",
+    "latitude": "43.80196000",
+    "longitude": "-83.00078000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 24,
+    "name": "Baldwin",
+    "latitude": "43.90112000",
+    "longitude": "-85.85173000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 25,
+    "name": "Bangor",
+    "latitude": "42.31254000",
+    "longitude": "-86.11308000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 26,
+    "name": "Baraga",
+    "latitude": "46.77854000",
+    "longitude": "-88.48902000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 27,
+    "name": "Baraga County",
+    "latitude": "46.69976000",
+    "longitude": "-88.35215000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 28,
+    "name": "Barnes Lake-Millers Lake",
+    "latitude": "43.17956000",
+    "longitude": "-83.31230000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 29,
+    "name": "Barry",
+    "latitude": "42.59503000",
+    "longitude": "-85.30897000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 30,
+    "name": "Bath",
+    "latitude": "42.81864000",
+    "longitude": "-84.44859000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 31,
+    "name": "Battle Creek",
+    "latitude": "42.31730000",
+    "longitude": "-85.17816000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 32,
+    "name": "Bay",
+    "latitude": "43.72137000",
+    "longitude": "-83.94184000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 33,
+    "name": "Bay City",
+    "latitude": "43.59447000",
+    "longitude": "-83.88886000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 34,
+    "name": "Bay Harbor",
+    "latitude": "45.36413000",
+    "longitude": "-85.08208000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 35,
+    "name": "Beaverton",
+    "latitude": "43.88225000",
+    "longitude": "-84.48473000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 36,
+    "name": "Beecher",
+    "latitude": "43.09003000",
+    "longitude": "-83.69440000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 37,
+    "name": "Beechwood",
+    "latitude": "42.79697000",
+    "longitude": "-86.12588000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 38,
+    "name": "Belding",
+    "latitude": "43.09781000",
+    "longitude": "-85.22891000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 39,
+    "name": "Bellaire",
+    "latitude": "44.98028000",
+    "longitude": "-85.21117000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 40,
+    "name": "Belleville",
+    "latitude": "42.20476000",
+    "longitude": "-83.48521000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 41,
+    "name": "Bellevue",
+    "latitude": "42.44337000",
+    "longitude": "-85.01805000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 42,
+    "name": "Benton Harbor",
+    "latitude": "42.11671000",
+    "longitude": "-86.45419000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 43,
+    "name": "Benton Heights",
+    "latitude": "42.13115000",
+    "longitude": "-86.40724000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 44,
+    "name": "Benzie",
+    "latitude": "44.61687000",
+    "longitude": "-86.13899000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 45,
+    "name": "Berkley",
+    "latitude": "42.50309000",
+    "longitude": "-83.18354000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 46,
+    "name": "Berrien",
+    "latitude": "41.91863000",
+    "longitude": "-86.42807000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 47,
+    "name": "Berrien Springs",
+    "latitude": "41.94643000",
+    "longitude": "-86.33890000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 48,
+    "name": "Bessemer",
+    "latitude": "46.48134000",
+    "longitude": "-90.05295000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 49,
+    "name": "Beulah",
+    "latitude": "44.63194000",
+    "longitude": "-86.09092000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 50,
+    "name": "Beverly Hills",
+    "latitude": "42.52392000",
+    "longitude": "-83.22326000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 51,
+    "name": "Big Rapids",
+    "latitude": "43.69808000",
+    "longitude": "-85.48366000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 52,
+    "name": "Bingham Farms",
+    "latitude": "42.51587000",
+    "longitude": "-83.27326000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 53,
+    "name": "Birch Run",
+    "latitude": "43.25086000",
+    "longitude": "-83.79413000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 54,
+    "name": "Birmingham",
+    "latitude": "42.54670000",
+    "longitude": "-83.21132000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 55,
+    "name": "Blissfield",
+    "latitude": "41.83255000",
+    "longitude": "-83.86244000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 56,
+    "name": "Bloomfield Hills",
+    "latitude": "42.58364000",
+    "longitude": "-83.24549000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 57,
+    "name": "Boyne City",
+    "latitude": "45.21668000",
+    "longitude": "-85.01394000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 58,
+    "name": "Branch",
+    "latitude": "41.91611000",
+    "longitude": "-85.05903000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 59,
+    "name": "Breckenridge",
+    "latitude": "43.40808000",
+    "longitude": "-84.47500000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 60,
+    "name": "Bridgeport",
+    "latitude": "43.35947000",
+    "longitude": "-83.88164000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 61,
+    "name": "Bridgman",
+    "latitude": "41.94310000",
+    "longitude": "-86.55697000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 62,
+    "name": "Brighton",
+    "latitude": "42.52948000",
+    "longitude": "-83.78022000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 63,
+    "name": "Bronson",
+    "latitude": "41.87227000",
+    "longitude": "-85.19470000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 64,
+    "name": "Brooklyn",
+    "latitude": "42.10587000",
+    "longitude": "-84.24828000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 65,
+    "name": "Brown City",
+    "latitude": "43.21225000",
+    "longitude": "-82.98966000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 66,
+    "name": "Brownlee Park",
+    "latitude": "42.31893000",
+    "longitude": "-85.14249000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 67,
+    "name": "Buchanan",
+    "latitude": "41.82727000",
+    "longitude": "-86.36112000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 68,
+    "name": "Buena Vista",
+    "latitude": "43.42030000",
+    "longitude": "-83.89858000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 69,
+    "name": "Burt",
+    "latitude": "43.23669000",
+    "longitude": "-83.90636000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 70,
+    "name": "Burton",
+    "latitude": "42.99947000",
+    "longitude": "-83.61634000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 71,
+    "name": "Byron Center",
+    "latitude": "42.81225000",
+    "longitude": "-85.72281000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 72,
+    "name": "Cadillac",
+    "latitude": "44.25195000",
+    "longitude": "-85.40116000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 73,
+    "name": "Caledonia",
+    "latitude": "42.78920000",
+    "longitude": "-85.51669000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 74,
+    "name": "Calhoun County",
+    "latitude": "42.24653000",
+    "longitude": "-85.00559000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 75,
+    "name": "Canadian Lakes",
+    "latitude": "43.57919000",
+    "longitude": "-85.30170000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 76,
+    "name": "Canton",
+    "latitude": "42.30865000",
+    "longitude": "-83.48216000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 77,
+    "name": "Capac",
+    "latitude": "43.01253000",
+    "longitude": "-82.92799000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 78,
+    "name": "Carleton",
+    "latitude": "42.05921000",
+    "longitude": "-83.39077000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 79,
+    "name": "Caro",
+    "latitude": "43.49073000",
+    "longitude": "-83.39885000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 80,
+    "name": "Carrollton",
+    "latitude": "43.45864000",
+    "longitude": "-83.93025000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 81,
+    "name": "Carson City",
+    "latitude": "43.17698000",
+    "longitude": "-84.84639000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 82,
+    "name": "Cass",
+    "latitude": "41.91540000",
+    "longitude": "-85.99346000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 83,
+    "name": "Cass City",
+    "latitude": "43.60085000",
+    "longitude": "-83.17467000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 84,
+    "name": "Cassopolis",
+    "latitude": "41.91171000",
+    "longitude": "-86.01001000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 85,
+    "name": "Cedar Springs",
+    "latitude": "43.22336000",
+    "longitude": "-85.55142000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 86,
+    "name": "Center Line",
+    "latitude": "42.48504000",
+    "longitude": "-83.02770000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 87,
+    "name": "Centreville",
+    "latitude": "41.92338000",
+    "longitude": "-85.52832000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 88,
+    "name": "Charlevoix",
+    "latitude": "45.31806000",
+    "longitude": "-85.25840000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 89,
+    "name": "Charlevoix County",
+    "latitude": "45.26715000",
+    "longitude": "-85.24017000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 90,
+    "name": "Charlotte",
+    "latitude": "42.56365000",
+    "longitude": "-84.83582000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 91,
+    "name": "Cheboygan",
+    "latitude": "45.64696000",
+    "longitude": "-84.47448000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 92,
+    "name": "Cheboygan County",
+    "latitude": "45.47294000",
+    "longitude": "-84.49206000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 93,
+    "name": "Chelsea",
+    "latitude": "42.31807000",
+    "longitude": "-84.02181000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 94,
+    "name": "Chesaning",
+    "latitude": "43.18475000",
+    "longitude": "-84.11497000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 95,
+    "name": "Chippewa",
+    "latitude": "46.32818000",
+    "longitude": "-84.52936000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 96,
+    "name": "Clare",
+    "latitude": "43.81947000",
+    "longitude": "-84.76863000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 97,
+    "name": "Clare County",
+    "latitude": "43.98787000",
+    "longitude": "-84.84784000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 98,
+    "name": "Clarkston",
+    "latitude": "42.73586000",
+    "longitude": "-83.41883000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 99,
+    "name": "Clawson",
+    "latitude": "42.53337000",
+    "longitude": "-83.14632000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 100,
+    "name": "Clinton",
+    "latitude": "42.07199000",
+    "longitude": "-83.97161000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 101,
+    "name": "Clinton County",
+    "latitude": "42.94365000",
+    "longitude": "-84.60152000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 102,
+    "name": "Clio",
+    "latitude": "43.17753000",
+    "longitude": "-83.73413000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 103,
+    "name": "Coldwater",
+    "latitude": "41.94033000",
+    "longitude": "-85.00052000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 104,
+    "name": "Coleman",
+    "latitude": "43.75669000",
+    "longitude": "-84.58584000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 105,
+    "name": "Coloma",
+    "latitude": "42.18615000",
+    "longitude": "-86.30836000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 106,
+    "name": "Colon",
+    "latitude": "41.95838000",
+    "longitude": "-85.32498000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 107,
+    "name": "Comstock Northwest",
+    "latitude": "42.32182000",
+    "longitude": "-85.51759000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 108,
+    "name": "Comstock Park",
+    "latitude": "43.03864000",
+    "longitude": "-85.67003000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 109,
+    "name": "Concord",
+    "latitude": "42.17782000",
+    "longitude": "-84.64302000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 110,
+    "name": "Constantine",
+    "latitude": "41.84116000",
+    "longitude": "-85.66860000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 111,
+    "name": "Coopersville",
+    "latitude": "43.06391000",
+    "longitude": "-85.93477000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 112,
+    "name": "Corunna",
+    "latitude": "42.98197000",
+    "longitude": "-84.11775000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 113,
+    "name": "Crawford",
+    "latitude": "44.68361000",
+    "longitude": "-84.61030000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 114,
+    "name": "Croswell",
+    "latitude": "43.27558000",
+    "longitude": "-82.62104000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 115,
+    "name": "Crystal Falls",
+    "latitude": "46.09801000",
+    "longitude": "-88.33402000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 116,
+    "name": "Cutlerville",
+    "latitude": "42.84086000",
+    "longitude": "-85.66364000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 117,
+    "name": "Davison",
+    "latitude": "43.03475000",
+    "longitude": "-83.51801000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 118,
+    "name": "Dearborn",
+    "latitude": "42.32226000",
+    "longitude": "-83.17631000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 119,
+    "name": "Dearborn Heights",
+    "latitude": "42.33698000",
+    "longitude": "-83.27326000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 120,
+    "name": "Decatur",
+    "latitude": "42.10810000",
+    "longitude": "-85.97446000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 121,
+    "name": "Delta County",
+    "latitude": "45.79162000",
+    "longitude": "-86.87060000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 122,
+    "name": "Detroit",
+    "latitude": "42.33143000",
+    "longitude": "-83.04575000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 123,
+    "name": "Detroit Beach",
+    "latitude": "41.93116000",
+    "longitude": "-83.32688000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 124,
+    "name": "DeWitt",
+    "latitude": "42.84226000",
+    "longitude": "-84.56915000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 125,
+    "name": "Dexter",
+    "latitude": "42.33834000",
+    "longitude": "-83.88954000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 126,
+    "name": "Dickinson",
+    "latitude": "46.00935000",
+    "longitude": "-87.87021000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 127,
+    "name": "Dimondale",
+    "latitude": "42.64559000",
+    "longitude": "-84.64887000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 128,
+    "name": "Dollar Bay",
+    "latitude": "47.11965000",
+    "longitude": "-88.51151000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 129,
+    "name": "Douglas",
+    "latitude": "42.64336000",
+    "longitude": "-86.20059000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 130,
+    "name": "Dowagiac",
+    "latitude": "41.98421000",
+    "longitude": "-86.10862000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 131,
+    "name": "Dundee",
+    "latitude": "41.95727000",
+    "longitude": "-83.65966000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 132,
+    "name": "Durand",
+    "latitude": "42.91198000",
+    "longitude": "-83.98468000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 133,
+    "name": "Eagle River",
+    "latitude": "47.41381000",
+    "longitude": "-88.29566000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 134,
+    "name": "East Grand Rapids",
+    "latitude": "42.94114000",
+    "longitude": "-85.61003000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 135,
+    "name": "East Jordan",
+    "latitude": "45.15806000",
+    "longitude": "-85.12423000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 136,
+    "name": "East Lansing",
+    "latitude": "42.73698000",
+    "longitude": "-84.48387000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 137,
+    "name": "East Tawas",
+    "latitude": "44.27946000",
+    "longitude": "-83.49025000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 138,
+    "name": "Eastpointe",
+    "latitude": "42.46837000",
+    "longitude": "-82.95547000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 139,
+    "name": "Eastwood",
+    "latitude": "42.30310000",
+    "longitude": "-85.55028000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 140,
+    "name": "Eaton",
+    "latitude": "42.59607000",
+    "longitude": "-84.83831000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 141,
+    "name": "Eaton Rapids",
+    "latitude": "42.50920000",
+    "longitude": "-84.65581000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 142,
+    "name": "Ecorse",
+    "latitude": "42.24448000",
+    "longitude": "-83.14576000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 143,
+    "name": "Edgemont Park",
+    "latitude": "42.74670000",
+    "longitude": "-84.59359000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 144,
+    "name": "Edmore",
+    "latitude": "43.40809000",
+    "longitude": "-85.03863000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 145,
+    "name": "Edwardsburg",
+    "latitude": "41.79560000",
+    "longitude": "-86.08084000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 146,
+    "name": "Elk Rapids",
+    "latitude": "44.89556000",
+    "longitude": "-85.41646000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 147,
+    "name": "Emmet",
+    "latitude": "45.58754000",
+    "longitude": "-84.98147000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 148,
+    "name": "Escanaba",
+    "latitude": "45.74525000",
+    "longitude": "-87.06458000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 149,
+    "name": "Essexville",
+    "latitude": "43.61530000",
+    "longitude": "-83.84192000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 150,
+    "name": "Evart",
+    "latitude": "43.90058000",
+    "longitude": "-85.25810000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 151,
+    "name": "Fair Plain",
+    "latitude": "42.08699000",
+    "longitude": "-86.45586000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 152,
+    "name": "Farmington",
+    "latitude": "42.46448000",
+    "longitude": "-83.37632000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 153,
+    "name": "Farmington Hills",
+    "latitude": "42.48531000",
+    "longitude": "-83.37716000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 154,
+    "name": "Fennville",
+    "latitude": "42.59392000",
+    "longitude": "-86.10170000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 155,
+    "name": "Fenton",
+    "latitude": "42.79781000",
+    "longitude": "-83.70495000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 156,
+    "name": "Ferndale",
+    "latitude": "42.46059000",
+    "longitude": "-83.13465000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 157,
+    "name": "Ferrysburg",
+    "latitude": "43.08446000",
+    "longitude": "-86.22033000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 158,
+    "name": "Flat Rock",
+    "latitude": "42.09643000",
+    "longitude": "-83.29187000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 159,
+    "name": "Flint",
+    "latitude": "43.01253000",
+    "longitude": "-83.68746000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 160,
+    "name": "Flushing",
+    "latitude": "43.06308000",
+    "longitude": "-83.85107000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 161,
+    "name": "Forest Hills",
+    "latitude": "42.95947000",
+    "longitude": "-85.48975000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 162,
+    "name": "Fowler",
+    "latitude": "43.00170000",
+    "longitude": "-84.73972000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 163,
+    "name": "Fowlerville",
+    "latitude": "42.66059000",
+    "longitude": "-84.07301000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 164,
+    "name": "Frankenmuth",
+    "latitude": "43.33169000",
+    "longitude": "-83.73802000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 165,
+    "name": "Frankfort",
+    "latitude": "44.63361000",
+    "longitude": "-86.23454000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 166,
+    "name": "Franklin",
+    "latitude": "42.52226000",
+    "longitude": "-83.30604000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 167,
+    "name": "Fraser",
+    "latitude": "42.53920000",
+    "longitude": "-82.94937000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 168,
+    "name": "Freeland",
+    "latitude": "43.52503000",
+    "longitude": "-84.12276000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 169,
+    "name": "Fremont",
+    "latitude": "43.46752000",
+    "longitude": "-85.94200000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 170,
+    "name": "Fruitport",
+    "latitude": "43.13196000",
+    "longitude": "-86.15478000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 171,
+    "name": "Galesburg",
+    "latitude": "42.28865000",
+    "longitude": "-85.41806000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 172,
+    "name": "Garden City",
+    "latitude": "42.32559000",
+    "longitude": "-83.33104000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 173,
+    "name": "Gaylord",
+    "latitude": "45.02751000",
+    "longitude": "-84.67475000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 174,
+    "name": "Genesee",
+    "latitude": "43.02172000",
+    "longitude": "-83.70671000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 175,
+    "name": "Gibraltar",
+    "latitude": "42.09504000",
+    "longitude": "-83.18965000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 176,
+    "name": "Gladstone",
+    "latitude": "45.85274000",
+    "longitude": "-87.02180000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 177,
+    "name": "Gladwin",
+    "latitude": "43.98085000",
+    "longitude": "-84.48640000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 178,
+    "name": "Gladwin County",
+    "latitude": "43.99067000",
+    "longitude": "-84.38825000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 179,
+    "name": "Gogebic",
+    "latitude": "46.49552000",
+    "longitude": "-89.79555000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 180,
+    "name": "Goodrich",
+    "latitude": "42.91697000",
+    "longitude": "-83.50634000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 181,
+    "name": "Grand Blanc",
+    "latitude": "42.92753000",
+    "longitude": "-83.62995000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 182,
+    "name": "Grand Haven",
+    "latitude": "43.06307000",
+    "longitude": "-86.22839000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 183,
+    "name": "Grand Ledge",
+    "latitude": "42.75337000",
+    "longitude": "-84.74638000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 184,
+    "name": "Grand Rapids",
+    "latitude": "42.96336000",
+    "longitude": "-85.66809000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 185,
+    "name": "Grand Traverse",
+    "latitude": "44.71624000",
+    "longitude": "-85.55220000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 186,
+    "name": "Grandville",
+    "latitude": "42.90975000",
+    "longitude": "-85.76309000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 187,
+    "name": "Grass Lake",
+    "latitude": "42.25087000",
+    "longitude": "-84.21301000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 188,
+    "name": "Gratiot",
+    "latitude": "43.29273000",
+    "longitude": "-84.60491000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 189,
+    "name": "Grayling",
+    "latitude": "44.66140000",
+    "longitude": "-84.71475000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 190,
+    "name": "Greenville",
+    "latitude": "43.17753000",
+    "longitude": "-85.25280000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 191,
+    "name": "Greilickville",
+    "latitude": "44.78306000",
+    "longitude": "-85.63869000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 192,
+    "name": "Grosse Ile",
+    "latitude": "42.12921000",
+    "longitude": "-83.14437000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 193,
+    "name": "Grosse Pointe",
+    "latitude": "42.38615000",
+    "longitude": "-82.91186000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 194,
+    "name": "Grosse Pointe Farms",
+    "latitude": "42.40920000",
+    "longitude": "-82.89186000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 195,
+    "name": "Grosse Pointe Park",
+    "latitude": "42.37587000",
+    "longitude": "-82.93742000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 196,
+    "name": "Grosse Pointe Shores",
+    "latitude": "42.43670000",
+    "longitude": "-82.87686000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 197,
+    "name": "Grosse Pointe Woods",
+    "latitude": "42.44365000",
+    "longitude": "-82.90686000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 198,
+    "name": "Gwinn",
+    "latitude": "46.28106000",
+    "longitude": "-87.44097000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 199,
+    "name": "Hamtramck",
+    "latitude": "42.39282000",
+    "longitude": "-83.04964000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 200,
+    "name": "Hancock",
+    "latitude": "47.12687000",
+    "longitude": "-88.58096000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 201,
+    "name": "Harbor Beach",
+    "latitude": "43.84474000",
+    "longitude": "-82.65132000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 202,
+    "name": "Harbor Springs",
+    "latitude": "45.43168000",
+    "longitude": "-84.99200000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 203,
+    "name": "Harper Woods",
+    "latitude": "42.43309000",
+    "longitude": "-82.92408000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 204,
+    "name": "Harrison",
+    "latitude": "44.01919000",
+    "longitude": "-84.79947000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 205,
+    "name": "Harrisville",
+    "latitude": "44.65640000",
+    "longitude": "-83.29469000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 206,
+    "name": "Hart",
+    "latitude": "43.69834000",
+    "longitude": "-86.36397000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 207,
+    "name": "Hartford",
+    "latitude": "42.20671000",
+    "longitude": "-86.16669000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 208,
+    "name": "Harvey",
+    "latitude": "46.49466000",
+    "longitude": "-87.35431000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 209,
+    "name": "Haslett",
+    "latitude": "42.74698000",
+    "longitude": "-84.40108000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 210,
+    "name": "Hastings",
+    "latitude": "42.64587000",
+    "longitude": "-85.29084000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 211,
+    "name": "Hazel Park",
+    "latitude": "42.46254000",
+    "longitude": "-83.10409000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 212,
+    "name": "Hemlock",
+    "latitude": "43.41475000",
+    "longitude": "-84.23054000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 213,
+    "name": "Highland Park",
+    "latitude": "42.40559000",
+    "longitude": "-83.09687000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 214,
+    "name": "Hillsdale",
+    "latitude": "41.92005000",
+    "longitude": "-84.63051000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 215,
+    "name": "Hillsdale County",
+    "latitude": "41.88777000",
+    "longitude": "-84.59293000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 216,
+    "name": "Holland",
+    "latitude": "42.78752000",
+    "longitude": "-86.10893000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 217,
+    "name": "Holly",
+    "latitude": "42.79197000",
+    "longitude": "-83.62773000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 218,
+    "name": "Holt",
+    "latitude": "42.64059000",
+    "longitude": "-84.51525000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 219,
+    "name": "Homer",
+    "latitude": "42.14588000",
+    "longitude": "-84.80886000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 220,
+    "name": "Houghton",
+    "latitude": "47.12187000",
+    "longitude": "-88.56901000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 221,
+    "name": "Houghton County",
+    "latitude": "46.99155000",
+    "longitude": "-88.65206000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 222,
+    "name": "Houghton Lake",
+    "latitude": "44.31474000",
+    "longitude": "-84.76475000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 223,
+    "name": "Howard City",
+    "latitude": "43.39558000",
+    "longitude": "-85.46782000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 224,
+    "name": "Howell",
+    "latitude": "42.60726000",
+    "longitude": "-83.92940000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 225,
+    "name": "Hubbard Lake",
+    "latitude": "44.75973000",
+    "longitude": "-83.54442000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 226,
+    "name": "Hudson",
+    "latitude": "41.85505000",
+    "longitude": "-84.35384000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 227,
+    "name": "Hudsonville",
+    "latitude": "42.87086000",
+    "longitude": "-85.86504000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 228,
+    "name": "Huntington Woods",
+    "latitude": "42.48059000",
+    "longitude": "-83.16687000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 229,
+    "name": "Huron County",
+    "latitude": "43.91007000",
+    "longitude": "-82.85551000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 230,
+    "name": "Imlay City",
+    "latitude": "43.02475000",
+    "longitude": "-83.07772000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 231,
+    "name": "Indian River",
+    "latitude": "45.41251000",
+    "longitude": "-84.61254000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 232,
+    "name": "Ingham",
+    "latitude": "42.59710000",
+    "longitude": "-84.37354000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 233,
+    "name": "Inkster",
+    "latitude": "42.29420000",
+    "longitude": "-83.30993000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 234,
+    "name": "Ionia",
+    "latitude": "42.98725000",
+    "longitude": "-85.07112000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 235,
+    "name": "Ionia County",
+    "latitude": "42.94509000",
+    "longitude": "-85.07460000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 236,
+    "name": "Iosco",
+    "latitude": "44.30125000",
+    "longitude": "-83.51395000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 237,
+    "name": "Iron",
+    "latitude": "46.20869000",
+    "longitude": "-88.53053000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 238,
+    "name": "Iron Mountain",
+    "latitude": "45.82023000",
+    "longitude": "-88.06596000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 239,
+    "name": "Iron River",
+    "latitude": "46.09273000",
+    "longitude": "-88.64235000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 240,
+    "name": "Ironwood",
+    "latitude": "46.45467000",
+    "longitude": "-90.17101000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 241,
+    "name": "Isabella",
+    "latitude": "43.64060000",
+    "longitude": "-84.84680000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 242,
+    "name": "Ishpeming",
+    "latitude": "46.48855000",
+    "longitude": "-87.66764000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 243,
+    "name": "Ithaca",
+    "latitude": "43.29170000",
+    "longitude": "-84.60750000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 244,
+    "name": "Jackson",
+    "latitude": "42.24587000",
+    "longitude": "-84.40135000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 245,
+    "name": "Jackson County",
+    "latitude": "42.24849000",
+    "longitude": "-84.42344000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 246,
+    "name": "Jenison",
+    "latitude": "42.90725000",
+    "longitude": "-85.79198000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 247,
+    "name": "Jonesville",
+    "latitude": "41.98421000",
+    "longitude": "-84.66190000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 248,
+    "name": "K. I. Sawyer Air Force Base",
+    "latitude": "46.34651000",
+    "longitude": "-87.38632000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 249,
+    "name": "Kalamazoo",
+    "latitude": "42.29171000",
+    "longitude": "-85.58723000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 250,
+    "name": "Kalamazoo County",
+    "latitude": "42.24545000",
+    "longitude": "-85.53118000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 251,
+    "name": "Kalkaska",
+    "latitude": "44.73417000",
+    "longitude": "-85.17589000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 252,
+    "name": "Kalkaska County",
+    "latitude": "44.68466000",
+    "longitude": "-85.09023000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 253,
+    "name": "Keego Harbor",
+    "latitude": "42.60809000",
+    "longitude": "-83.34382000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 254,
+    "name": "Kent",
+    "latitude": "43.03216000",
+    "longitude": "-85.54930000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 255,
+    "name": "Kent City",
+    "latitude": "43.22002000",
+    "longitude": "-85.75115000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 256,
+    "name": "Kentwood",
+    "latitude": "42.86947000",
+    "longitude": "-85.64475000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 257,
+    "name": "Keweenaw",
+    "latitude": "47.28296000",
+    "longitude": "-88.21198000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 258,
+    "name": "Kilmanagh",
+    "latitude": "43.75613000",
+    "longitude": "-83.35690000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 259,
+    "name": "Kingsford",
+    "latitude": "45.79496000",
+    "longitude": "-88.07207000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 260,
+    "name": "Kingsley",
+    "latitude": "44.58473000",
+    "longitude": "-85.53590000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 261,
+    "name": "L'Anse",
+    "latitude": "46.75660000",
+    "longitude": "-88.45291000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 262,
+    "name": "Laingsburg",
+    "latitude": "42.89031000",
+    "longitude": "-84.35136000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 263,
+    "name": "Lake",
+    "latitude": "43.99001000",
+    "longitude": "-85.80170000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 264,
+    "name": "Lake City",
+    "latitude": "44.33529000",
+    "longitude": "-85.21505000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 265,
+    "name": "Lake Fenton",
+    "latitude": "42.84614000",
+    "longitude": "-83.70773000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 266,
+    "name": "Lake Isabella",
+    "latitude": "43.64364000",
+    "longitude": "-84.99725000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 267,
+    "name": "Lake Michigan Beach",
+    "latitude": "42.22087000",
+    "longitude": "-86.36947000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 268,
+    "name": "Lake Odessa",
+    "latitude": "42.78476000",
+    "longitude": "-85.13834000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 269,
+    "name": "Lake Orion",
+    "latitude": "42.78448000",
+    "longitude": "-83.23966000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 270,
+    "name": "Lakeview",
+    "latitude": "43.44642000",
+    "longitude": "-85.27420000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 271,
+    "name": "Lakewood Club",
+    "latitude": "43.37112000",
+    "longitude": "-86.26034000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 272,
+    "name": "Lambertville",
+    "latitude": "41.76588000",
+    "longitude": "-83.62799000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 273,
+    "name": "Lansing",
+    "latitude": "42.73253000",
+    "longitude": "-84.55553000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 274,
+    "name": "Lapeer",
+    "latitude": "43.05142000",
+    "longitude": "-83.31883000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 275,
+    "name": "Lapeer County",
+    "latitude": "43.09015000",
+    "longitude": "-83.22178000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 276,
+    "name": "Lathrup Village",
+    "latitude": "42.49642000",
+    "longitude": "-83.22271000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 277,
+    "name": "Laurium",
+    "latitude": "47.23743000",
+    "longitude": "-88.44317000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 278,
+    "name": "Lawton",
+    "latitude": "42.16726000",
+    "longitude": "-85.84695000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 279,
+    "name": "Leelanau",
+    "latitude": "45.15177000",
+    "longitude": "-86.03850000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 280,
+    "name": "Leland",
+    "latitude": "45.02305000",
+    "longitude": "-85.75981000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 281,
+    "name": "Lenawee",
+    "latitude": "41.89508000",
+    "longitude": "-84.06636000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 282,
+    "name": "Leslie",
+    "latitude": "42.45143000",
+    "longitude": "-84.43247000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 283,
+    "name": "Level Park-Oak Park",
+    "latitude": "42.36418000",
+    "longitude": "-85.26650000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 284,
+    "name": "Lewiston",
+    "latitude": "44.88390000",
+    "longitude": "-84.30557000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 285,
+    "name": "Lexington",
+    "latitude": "43.26808000",
+    "longitude": "-82.53076000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 286,
+    "name": "Lincoln Park",
+    "latitude": "42.25059000",
+    "longitude": "-83.17854000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 287,
+    "name": "Linden",
+    "latitude": "42.81447000",
+    "longitude": "-83.78245000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 288,
+    "name": "Litchfield",
+    "latitude": "42.04393000",
+    "longitude": "-84.75746000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 289,
+    "name": "Livingston County",
+    "latitude": "42.60292000",
+    "longitude": "-83.91153000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 290,
+    "name": "Livonia",
+    "latitude": "42.36837000",
+    "longitude": "-83.35271000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 291,
+    "name": "Lowell",
+    "latitude": "42.93364000",
+    "longitude": "-85.34196000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 292,
+    "name": "Luce",
+    "latitude": "46.36778000",
+    "longitude": "-85.50934000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 293,
+    "name": "Ludington",
+    "latitude": "43.95528000",
+    "longitude": "-86.45258000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 294,
+    "name": "Luna Pier",
+    "latitude": "41.80699000",
+    "longitude": "-83.44243000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 295,
+    "name": "Mackinac",
+    "latitude": "45.87184000",
+    "longitude": "-84.76227000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 296,
+    "name": "Macomb",
+    "latitude": "42.67279000",
+    "longitude": "-82.91016000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 297,
+    "name": "Madison Heights",
+    "latitude": "42.48587000",
+    "longitude": "-83.10520000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 298,
+    "name": "Mancelona",
+    "latitude": "44.90223000",
+    "longitude": "-85.06088000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 299,
+    "name": "Manchester",
+    "latitude": "42.15032000",
+    "longitude": "-84.03772000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 300,
+    "name": "Manistee",
+    "latitude": "44.24445000",
+    "longitude": "-86.32425000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 301,
+    "name": "Manistee County",
+    "latitude": "44.23831000",
+    "longitude": "-86.28799000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 302,
+    "name": "Manistique",
+    "latitude": "45.95775000",
+    "longitude": "-86.24625000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 303,
+    "name": "Manitou Beach-Devils Lake",
+    "latitude": "41.97565000",
+    "longitude": "-84.28616000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 304,
+    "name": "Manton",
+    "latitude": "44.41084000",
+    "longitude": "-85.39894000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 305,
+    "name": "Marcellus",
+    "latitude": "42.02588000",
+    "longitude": "-85.81556000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 306,
+    "name": "Marine City",
+    "latitude": "42.71948000",
+    "longitude": "-82.49213000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 307,
+    "name": "Marlette",
+    "latitude": "43.32697000",
+    "longitude": "-83.08022000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 308,
+    "name": "Marquette",
+    "latitude": "46.54354000",
+    "longitude": "-87.39542000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 309,
+    "name": "Marquette County",
+    "latitude": "46.66295000",
+    "longitude": "-87.57350000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 310,
+    "name": "Marshall",
+    "latitude": "42.27226000",
+    "longitude": "-84.96331000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 311,
+    "name": "Marysville",
+    "latitude": "42.91253000",
+    "longitude": "-82.48686000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 312,
+    "name": "Mason",
+    "latitude": "42.57920000",
+    "longitude": "-84.44358000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 313,
+    "name": "Mason County",
+    "latitude": "43.95625000",
+    "longitude": "-86.42258000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 314,
+    "name": "Mattawan",
+    "latitude": "42.20948000",
+    "longitude": "-85.78445000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 315,
+    "name": "Mecosta",
+    "latitude": "43.64080000",
+    "longitude": "-85.32462000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 316,
+    "name": "Melvindale",
+    "latitude": "42.28254000",
+    "longitude": "-83.17520000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 317,
+    "name": "Memphis",
+    "latitude": "42.89642000",
+    "longitude": "-82.76881000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 318,
+    "name": "Menominee",
+    "latitude": "45.10776000",
+    "longitude": "-87.61427000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 319,
+    "name": "Menominee County",
+    "latitude": "45.52514000",
+    "longitude": "-87.50969000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 320,
+    "name": "Michigan Center",
+    "latitude": "42.23309000",
+    "longitude": "-84.32718000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 321,
+    "name": "Middleville",
+    "latitude": "42.71309000",
+    "longitude": "-85.46196000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 322,
+    "name": "Midland",
+    "latitude": "43.61558000",
+    "longitude": "-84.24721000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 323,
+    "name": "Midland County",
+    "latitude": "43.64686000",
+    "longitude": "-84.38811000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 324,
+    "name": "Milan",
+    "latitude": "42.08532000",
+    "longitude": "-83.68244000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 325,
+    "name": "Milford",
+    "latitude": "42.59364000",
+    "longitude": "-83.59939000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 326,
+    "name": "Millington",
+    "latitude": "43.28141000",
+    "longitude": "-83.52968000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 327,
+    "name": "Mio",
+    "latitude": "44.65224000",
+    "longitude": "-84.12973000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 328,
+    "name": "Missaukee",
+    "latitude": "44.33730000",
+    "longitude": "-85.09467000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 329,
+    "name": "Monroe",
+    "latitude": "41.91643000",
+    "longitude": "-83.39771000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 330,
+    "name": "Monroe County",
+    "latitude": "41.92140000",
+    "longitude": "-83.49426000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 331,
+    "name": "Montague",
+    "latitude": "43.41668000",
+    "longitude": "-86.35701000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 332,
+    "name": "Montcalm",
+    "latitude": "43.31096000",
+    "longitude": "-85.15252000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 333,
+    "name": "Montmorency",
+    "latitude": "45.02755000",
+    "longitude": "-84.12721000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 334,
+    "name": "Montrose",
+    "latitude": "43.17669000",
+    "longitude": "-83.89274000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 335,
+    "name": "Morenci",
+    "latitude": "41.71949000",
+    "longitude": "-84.21800000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 336,
+    "name": "Mount Clemens",
+    "latitude": "42.59726000",
+    "longitude": "-82.87798000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 337,
+    "name": "Mount Morris",
+    "latitude": "43.11864000",
+    "longitude": "-83.69496000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 338,
+    "name": "Mount Pleasant",
+    "latitude": "43.59781000",
+    "longitude": "-84.76751000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 339,
+    "name": "Munising",
+    "latitude": "46.41120000",
+    "longitude": "-86.64926000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 340,
+    "name": "Muskegon",
+    "latitude": "43.23418000",
+    "longitude": "-86.24839000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 341,
+    "name": "Muskegon County",
+    "latitude": "43.21919000",
+    "longitude": "-86.21246000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 342,
+    "name": "Muskegon Heights",
+    "latitude": "43.20113000",
+    "longitude": "-86.23895000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 343,
+    "name": "Napoleon",
+    "latitude": "42.16059000",
+    "longitude": "-84.24606000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 344,
+    "name": "Nashville",
+    "latitude": "42.60281000",
+    "longitude": "-85.09305000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 345,
+    "name": "Negaunee",
+    "latitude": "46.49910000",
+    "longitude": "-87.61180000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 346,
+    "name": "New Baltimore",
+    "latitude": "42.68114000",
+    "longitude": "-82.73686000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 347,
+    "name": "New Buffalo",
+    "latitude": "41.79393000",
+    "longitude": "-86.74392000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 348,
+    "name": "New Haven",
+    "latitude": "42.72948000",
+    "longitude": "-82.80131000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 349,
+    "name": "Newaygo",
+    "latitude": "43.41974000",
+    "longitude": "-85.80005000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 350,
+    "name": "Newaygo County",
+    "latitude": "43.55417000",
+    "longitude": "-85.80091000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 351,
+    "name": "Newberry",
+    "latitude": "46.35500000",
+    "longitude": "-85.50956000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 352,
+    "name": "Niles",
+    "latitude": "41.82977000",
+    "longitude": "-86.25418000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 353,
+    "name": "North Branch",
+    "latitude": "43.22947000",
+    "longitude": "-83.19661000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 354,
+    "name": "North Muskegon",
+    "latitude": "43.25613000",
+    "longitude": "-86.26756000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 355,
+    "name": "Northview",
+    "latitude": "43.04558000",
+    "longitude": "-85.60059000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 356,
+    "name": "Northville",
+    "latitude": "42.43115000",
+    "longitude": "-83.48327000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 357,
+    "name": "Norton Shores",
+    "latitude": "43.16890000",
+    "longitude": "-86.26395000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 358,
+    "name": "Norway",
+    "latitude": "45.78690000",
+    "longitude": "-87.90374000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 359,
+    "name": "Novi",
+    "latitude": "42.48059000",
+    "longitude": "-83.47549000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 360,
+    "name": "Oak Park",
+    "latitude": "42.45948000",
+    "longitude": "-83.18271000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 361,
+    "name": "Oakland",
+    "latitude": "42.66041000",
+    "longitude": "-83.38580000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 362,
+    "name": "Oceana",
+    "latitude": "43.68178000",
+    "longitude": "-86.31683000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 363,
+    "name": "Ogemaw",
+    "latitude": "44.33494000",
+    "longitude": "-84.12641000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 364,
+    "name": "Okemos",
+    "latitude": "42.72226000",
+    "longitude": "-84.42747000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 365,
+    "name": "Olivet",
+    "latitude": "42.44143000",
+    "longitude": "-84.92415000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 366,
+    "name": "Ontonagon",
+    "latitude": "46.87105000",
+    "longitude": "-89.31403000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 367,
+    "name": "Ontonagon County",
+    "latitude": "46.77749000",
+    "longitude": "-89.30511000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 368,
+    "name": "Orchard Lake",
+    "latitude": "42.58309000",
+    "longitude": "-83.35938000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 369,
+    "name": "Ortonville",
+    "latitude": "42.85225000",
+    "longitude": "-83.44300000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 370,
+    "name": "Osceola County",
+    "latitude": "43.98987000",
+    "longitude": "-85.32528000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 371,
+    "name": "Oscoda",
+    "latitude": "44.68175000",
+    "longitude": "-84.12974000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 372,
+    "name": "Otsego",
+    "latitude": "42.46059000",
+    "longitude": "-85.69641000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 373,
+    "name": "Otsego County",
+    "latitude": "45.02144000",
+    "longitude": "-84.59898000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 374,
+    "name": "Ottawa County",
+    "latitude": "43.00264000",
+    "longitude": "-86.17950000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 375,
+    "name": "Ovid",
+    "latitude": "43.00586000",
+    "longitude": "-84.37164000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 376,
+    "name": "Owosso",
+    "latitude": "42.99780000",
+    "longitude": "-84.17664000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 377,
+    "name": "Oxford",
+    "latitude": "42.82475000",
+    "longitude": "-83.26466000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 378,
+    "name": "Parchment",
+    "latitude": "42.32810000",
+    "longitude": "-85.56973000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 379,
+    "name": "Paw Paw",
+    "latitude": "42.21782000",
+    "longitude": "-85.89112000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 380,
+    "name": "Paw Paw Lake",
+    "latitude": "42.21226000",
+    "longitude": "-86.27197000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 381,
+    "name": "Pearl Beach",
+    "latitude": "42.62670000",
+    "longitude": "-82.59769000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 382,
+    "name": "Perry",
+    "latitude": "42.82642000",
+    "longitude": "-84.21941000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 383,
+    "name": "Petersburg",
+    "latitude": "41.90116000",
+    "longitude": "-83.71494000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 384,
+    "name": "Petoskey",
+    "latitude": "45.37334000",
+    "longitude": "-84.95533000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 385,
+    "name": "Pigeon",
+    "latitude": "43.83002000",
+    "longitude": "-83.26996000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 386,
+    "name": "Pinckney",
+    "latitude": "42.45700000",
+    "longitude": "-83.94791000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 387,
+    "name": "Pinconning",
+    "latitude": "43.85363000",
+    "longitude": "-83.96499000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 388,
+    "name": "Plainwell",
+    "latitude": "42.44004000",
+    "longitude": "-85.64890000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 389,
+    "name": "Pleasant Ridge",
+    "latitude": "42.47115000",
+    "longitude": "-83.14215000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 390,
+    "name": "Plymouth",
+    "latitude": "42.37143000",
+    "longitude": "-83.47021000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 391,
+    "name": "Pontiac",
+    "latitude": "42.63892000",
+    "longitude": "-83.29105000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 392,
+    "name": "Port Huron",
+    "latitude": "42.97086000",
+    "longitude": "-82.42491000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 393,
+    "name": "Portage",
+    "latitude": "42.20115000",
+    "longitude": "-85.58000000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 394,
+    "name": "Portland",
+    "latitude": "42.86920000",
+    "longitude": "-84.90305000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 395,
+    "name": "Potterville",
+    "latitude": "42.62920000",
+    "longitude": "-84.73887000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 396,
+    "name": "Presque Isle",
+    "latitude": "45.39845000",
+    "longitude": "-83.84354000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 397,
+    "name": "Prudenville",
+    "latitude": "44.29835000",
+    "longitude": "-84.65197000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 398,
+    "name": "Quincy",
+    "latitude": "41.94421000",
+    "longitude": "-84.88385000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 399,
+    "name": "Quinnesec",
+    "latitude": "45.80635000",
+    "longitude": "-87.98846000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 400,
+    "name": "Rapid City",
+    "latitude": "44.83445000",
+    "longitude": "-85.28256000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 401,
+    "name": "Ravenna",
+    "latitude": "43.18947000",
+    "longitude": "-85.93699000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 402,
+    "name": "Reading",
+    "latitude": "41.83949000",
+    "longitude": "-84.74801000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 403,
+    "name": "Redford",
+    "latitude": "42.38337000",
+    "longitude": "-83.29660000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 404,
+    "name": "Reed City",
+    "latitude": "43.87502000",
+    "longitude": "-85.51005000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 405,
+    "name": "Reese",
+    "latitude": "43.45058000",
+    "longitude": "-83.69635000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 406,
+    "name": "Richmond",
+    "latitude": "42.80920000",
+    "longitude": "-82.75576000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 407,
+    "name": "River Rouge",
+    "latitude": "42.27337000",
+    "longitude": "-83.13437000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 408,
+    "name": "Riverview",
+    "latitude": "42.17421000",
+    "longitude": "-83.17937000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 409,
+    "name": "Rochester",
+    "latitude": "42.68059000",
+    "longitude": "-83.13382000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 410,
+    "name": "Rochester Hills",
+    "latitude": "42.65837000",
+    "longitude": "-83.14993000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 411,
+    "name": "Rockford",
+    "latitude": "43.12003000",
+    "longitude": "-85.56003000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 412,
+    "name": "Rockwood",
+    "latitude": "42.07088000",
+    "longitude": "-83.24660000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 413,
+    "name": "Rogers City",
+    "latitude": "45.42140000",
+    "longitude": "-83.81833000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 414,
+    "name": "Romeo",
+    "latitude": "42.80281000",
+    "longitude": "-83.01299000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 415,
+    "name": "Romulus",
+    "latitude": "42.22226000",
+    "longitude": "-83.39660000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 416,
+    "name": "Roosevelt Park",
+    "latitude": "43.19640000",
+    "longitude": "-86.27228000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 417,
+    "name": "Roscommon",
+    "latitude": "44.49835000",
+    "longitude": "-84.59197000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 418,
+    "name": "Roscommon County",
+    "latitude": "44.33561000",
+    "longitude": "-84.61160000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 419,
+    "name": "Roseville",
+    "latitude": "42.49726000",
+    "longitude": "-82.93714000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 420,
+    "name": "Royal Oak",
+    "latitude": "42.48948000",
+    "longitude": "-83.14465000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 421,
+    "name": "Saginaw",
+    "latitude": "43.41947000",
+    "longitude": "-83.95081000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 422,
+    "name": "Saginaw County",
+    "latitude": "43.33503000",
+    "longitude": "-84.05319000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 423,
+    "name": "Saginaw Township North",
+    "latitude": "43.46004000",
+    "longitude": "-84.00674000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 424,
+    "name": "Saint Charles",
+    "latitude": "43.29697000",
+    "longitude": "-84.14053000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 425,
+    "name": "Saint Clair",
+    "latitude": "42.82087000",
+    "longitude": "-82.48602000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 426,
+    "name": "Saint Clair County",
+    "latitude": "42.93112000",
+    "longitude": "-82.66437000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 427,
+    "name": "Saint Clair Shores",
+    "latitude": "42.49698000",
+    "longitude": "-82.88881000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 428,
+    "name": "Saint Helen",
+    "latitude": "44.36363000",
+    "longitude": "-84.41029000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 429,
+    "name": "Saint Ignace",
+    "latitude": "45.86614000",
+    "longitude": "-84.72751000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 430,
+    "name": "Saint Johns",
+    "latitude": "43.00114000",
+    "longitude": "-84.55915000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 431,
+    "name": "Saint Joseph",
+    "latitude": "42.10976000",
+    "longitude": "-86.48002000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 432,
+    "name": "Saint Joseph County",
+    "latitude": "41.91441000",
+    "longitude": "-85.52774000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 433,
+    "name": "Saint Louis",
+    "latitude": "43.40836000",
+    "longitude": "-84.60667000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 434,
+    "name": "Saline",
+    "latitude": "42.16671000",
+    "longitude": "-83.78161000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 435,
+    "name": "Sand Lake",
+    "latitude": "44.31918000",
+    "longitude": "-83.68470000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 436,
+    "name": "Sandusky",
+    "latitude": "43.42030000",
+    "longitude": "-82.82966000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 437,
+    "name": "Sanilac",
+    "latitude": "43.44331000",
+    "longitude": "-82.64575000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 438,
+    "name": "Saranac",
+    "latitude": "42.92948000",
+    "longitude": "-85.21307000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 439,
+    "name": "Sault Ste. Marie",
+    "latitude": "46.49530000",
+    "longitude": "-84.34532000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 440,
+    "name": "Schoolcraft",
+    "latitude": "42.11421000",
+    "longitude": "-85.63778000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 441,
+    "name": "Schoolcraft County",
+    "latitude": "46.04249000",
+    "longitude": "-86.17730000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 442,
+    "name": "Scottville",
+    "latitude": "43.95473000",
+    "longitude": "-86.28008000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 443,
+    "name": "Sebewaing",
+    "latitude": "43.73224000",
+    "longitude": "-83.45107000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 444,
+    "name": "Shelby",
+    "latitude": "43.60862000",
+    "longitude": "-86.36396000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 445,
+    "name": "Shepherd",
+    "latitude": "43.52447000",
+    "longitude": "-84.69473000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 446,
+    "name": "Shiawassee",
+    "latitude": "42.95373000",
+    "longitude": "-84.14673000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 447,
+    "name": "Shields",
+    "latitude": "43.41530000",
+    "longitude": "-84.05637000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 448,
+    "name": "Shorewood-Tower Hills-Harbert",
+    "latitude": "41.88169000",
+    "longitude": "-86.61409000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 449,
+    "name": "Skidway Lake",
+    "latitude": "44.18335000",
+    "longitude": "-84.03527000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 450,
+    "name": "South Gull Lake",
+    "latitude": "42.38754000",
+    "longitude": "-85.39667000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 451,
+    "name": "South Haven",
+    "latitude": "42.40309000",
+    "longitude": "-86.27364000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 452,
+    "name": "South Lyon",
+    "latitude": "42.46059000",
+    "longitude": "-83.65161000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 453,
+    "name": "South Monroe",
+    "latitude": "41.89588000",
+    "longitude": "-83.41771000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 454,
+    "name": "South Rockwood",
+    "latitude": "42.06393000",
+    "longitude": "-83.26104000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 455,
+    "name": "Southfield",
+    "latitude": "42.47337000",
+    "longitude": "-83.22187000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 456,
+    "name": "Southgate",
+    "latitude": "42.21393000",
+    "longitude": "-83.19381000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 457,
+    "name": "Sparta",
+    "latitude": "43.16086000",
+    "longitude": "-85.71004000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 458,
+    "name": "Spring Arbor",
+    "latitude": "42.20504000",
+    "longitude": "-84.55274000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 459,
+    "name": "Spring Lake",
+    "latitude": "43.07696000",
+    "longitude": "-86.19700000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 460,
+    "name": "Springfield",
+    "latitude": "42.32643000",
+    "longitude": "-85.23916000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 461,
+    "name": "Stambaugh Iron River",
+    "latitude": "46.08107000",
+    "longitude": "-88.62708000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 462,
+    "name": "Standish",
+    "latitude": "43.98308000",
+    "longitude": "-83.95888000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 463,
+    "name": "Stanton",
+    "latitude": "43.29253000",
+    "longitude": "-85.08141000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 464,
+    "name": "Sterling Heights",
+    "latitude": "42.58031000",
+    "longitude": "-83.03020000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 465,
+    "name": "Stevensville",
+    "latitude": "42.01449000",
+    "longitude": "-86.51947000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 466,
+    "name": "Stockbridge",
+    "latitude": "42.45115000",
+    "longitude": "-84.18051000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 467,
+    "name": "Stony Point",
+    "latitude": "41.94143000",
+    "longitude": "-83.26493000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 468,
+    "name": "Sturgis",
+    "latitude": "41.79922000",
+    "longitude": "-85.41915000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 469,
+    "name": "Swartz Creek",
+    "latitude": "42.95725000",
+    "longitude": "-83.83051000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 470,
+    "name": "Sylvan Lake",
+    "latitude": "42.61142000",
+    "longitude": "-83.32855000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 471,
+    "name": "Tawas City",
+    "latitude": "44.26946000",
+    "longitude": "-83.51470000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 472,
+    "name": "Taylor",
+    "latitude": "42.24087000",
+    "longitude": "-83.26965000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 473,
+    "name": "Tecumseh",
+    "latitude": "42.00393000",
+    "longitude": "-83.94494000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 474,
+    "name": "Temperance",
+    "latitude": "41.77921000",
+    "longitude": "-83.56882000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 475,
+    "name": "Three Oaks",
+    "latitude": "41.79865000",
+    "longitude": "-86.61058000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 476,
+    "name": "Three Rivers",
+    "latitude": "41.94394000",
+    "longitude": "-85.63249000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 477,
+    "name": "Traverse City",
+    "latitude": "44.76306000",
+    "longitude": "-85.62063000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 478,
+    "name": "Trenton",
+    "latitude": "42.13949000",
+    "longitude": "-83.17826000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 479,
+    "name": "Trowbridge Park",
+    "latitude": "46.55660000",
+    "longitude": "-87.43736000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 480,
+    "name": "Troy",
+    "latitude": "42.60559000",
+    "longitude": "-83.14993000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 481,
+    "name": "Tuscola",
+    "latitude": "43.49134000",
+    "longitude": "-83.43987000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 482,
+    "name": "Twin Lake",
+    "latitude": "43.36279000",
+    "longitude": "-86.16478000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 483,
+    "name": "Union City",
+    "latitude": "42.06671000",
+    "longitude": "-85.13609000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 484,
+    "name": "Utica",
+    "latitude": "42.62614000",
+    "longitude": "-83.03354000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 485,
+    "name": "Van Buren County",
+    "latitude": "42.28511000",
+    "longitude": "-86.30642000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 486,
+    "name": "Vandercook Lake",
+    "latitude": "42.19337000",
+    "longitude": "-84.39107000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 487,
+    "name": "Vassar",
+    "latitude": "43.37197000",
+    "longitude": "-83.58329000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 488,
+    "name": "Vicksburg",
+    "latitude": "42.12005000",
+    "longitude": "-85.53278000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 489,
+    "name": "Wacousta",
+    "latitude": "42.82781000",
+    "longitude": "-84.70082000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 490,
+    "name": "Wakefield",
+    "latitude": "46.47523000",
+    "longitude": "-89.93989000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 491,
+    "name": "Walker",
+    "latitude": "43.00141000",
+    "longitude": "-85.76809000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 492,
+    "name": "Walled Lake",
+    "latitude": "42.53781000",
+    "longitude": "-83.48105000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 493,
+    "name": "Warren",
+    "latitude": "42.49044000",
+    "longitude": "-83.01304000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 494,
+    "name": "Washtenaw",
+    "latitude": "42.25323000",
+    "longitude": "-83.83877000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 495,
+    "name": "Waterford",
+    "latitude": "42.69303000",
+    "longitude": "-83.41181000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 496,
+    "name": "Watervliet",
+    "latitude": "42.18671000",
+    "longitude": "-86.26058000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 497,
+    "name": "Waverly",
+    "latitude": "42.73920000",
+    "longitude": "-84.62081000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 498,
+    "name": "Wayland",
+    "latitude": "42.67392000",
+    "longitude": "-85.64474000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  },
+  {
+    "id": 499,
+    "name": "Wayne",
+    "latitude": "42.28143000",
+    "longitude": "-83.38632000",
+    "stateId": 1426,
+    "stateCode": "MI",
+    "countryCode": "US"
+  }
+]

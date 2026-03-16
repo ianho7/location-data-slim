@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "name": "Aberdeen",
+    "latitude": "26.55063000",
+    "longitude": "-80.14866000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 1,
+    "name": "Alachua",
+    "latitude": "29.75163000",
+    "longitude": "-82.42483000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 2,
+    "name": "Alachua County",
+    "latitude": "29.67476000",
+    "longitude": "-82.35770000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 3,
+    "name": "Alafaya",
+    "latitude": "28.56410000",
+    "longitude": "-81.21140000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 4,
+    "name": "Allapattah",
+    "latitude": "25.81454000",
+    "longitude": "-80.22394000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 5,
+    "name": "Altamonte Springs",
+    "latitude": "28.66111000",
+    "longitude": "-81.36562000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 6,
+    "name": "Alturas",
+    "latitude": "27.87169000",
+    "longitude": "-81.71508000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 7,
+    "name": "Alva",
+    "latitude": "26.71562000",
+    "longitude": "-81.61008000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 8,
+    "name": "Andover",
+    "latitude": "25.96843000",
+    "longitude": "-80.21283000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 9,
+    "name": "Anna Maria",
+    "latitude": "27.53115000",
+    "longitude": "-82.73343000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 10,
+    "name": "Apalachicola",
+    "latitude": "29.72600000",
+    "longitude": "-84.98560000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 11,
+    "name": "Apollo Beach",
+    "latitude": "27.77308000",
+    "longitude": "-82.40759000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 12,
+    "name": "Apopka",
+    "latitude": "28.67617000",
+    "longitude": "-81.51186000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 13,
+    "name": "Arcadia",
+    "latitude": "27.21588000",
+    "longitude": "-81.85842000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 14,
+    "name": "Archer",
+    "latitude": "29.52997000",
+    "longitude": "-82.51900000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 15,
+    "name": "Asbury Lake",
+    "latitude": "30.04913000",
+    "longitude": "-81.82149000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 16,
+    "name": "Astatula",
+    "latitude": "28.70972000",
+    "longitude": "-81.73285000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 17,
+    "name": "Astor",
+    "latitude": "29.16248000",
+    "longitude": "-81.52535000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 18,
+    "name": "Atlantic Beach",
+    "latitude": "30.33441000",
+    "longitude": "-81.39870000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 19,
+    "name": "Atlantis",
+    "latitude": "26.59090000",
+    "longitude": "-80.10088000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 20,
+    "name": "Auburndale",
+    "latitude": "28.06530000",
+    "longitude": "-81.78869000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 21,
+    "name": "Aventura",
+    "latitude": "25.95648000",
+    "longitude": "-80.13921000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 22,
+    "name": "Avon Park",
+    "latitude": "27.59587000",
+    "longitude": "-81.50619000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 23,
+    "name": "Azalea Park",
+    "latitude": "28.54111000",
+    "longitude": "-81.30062000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 24,
+    "name": "Babson Park",
+    "latitude": "27.83197000",
+    "longitude": "-81.52230000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 25,
+    "name": "Bagdad",
+    "latitude": "30.59880000",
+    "longitude": "-87.03223000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 26,
+    "name": "Baker",
+    "latitude": "30.33107000",
+    "longitude": "-82.28459000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 27,
+    "name": "Bal Harbour",
+    "latitude": "25.89176000",
+    "longitude": "-80.12699000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 28,
+    "name": "Baldwin",
+    "latitude": "30.30274000",
+    "longitude": "-81.97539000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 29,
+    "name": "Balm",
+    "latitude": "27.75947000",
+    "longitude": "-82.26120000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 30,
+    "name": "Bartow",
+    "latitude": "27.89641000",
+    "longitude": "-81.84314000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 31,
+    "name": "Bay",
+    "latitude": "30.23765000",
+    "longitude": "-85.63262000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 32,
+    "name": "Bay Harbor Islands",
+    "latitude": "25.88759000",
+    "longitude": "-80.13116000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 33,
+    "name": "Bay Hill",
+    "latitude": "28.46806000",
+    "longitude": "-81.51618000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 34,
+    "name": "Bay Pines",
+    "latitude": "27.81419000",
+    "longitude": "-82.77816000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 35,
+    "name": "Bayonet Point",
+    "latitude": "28.32667000",
+    "longitude": "-82.68343000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 36,
+    "name": "Bayshore Gardens",
+    "latitude": "27.42532000",
+    "longitude": "-82.59038000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 37,
+    "name": "Beacon Square",
+    "latitude": "28.20862000",
+    "longitude": "-82.75538000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 38,
+    "name": "Bee Ridge",
+    "latitude": "27.28394000",
+    "longitude": "-82.48065000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 39,
+    "name": "Bellair-Meadowbrook Terrace",
+    "latitude": "30.17881000",
+    "longitude": "-81.74341000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 40,
+    "name": "Belle Glade",
+    "latitude": "26.68451000",
+    "longitude": "-80.66756000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 41,
+    "name": "Belle Glade Camp",
+    "latitude": "26.65757000",
+    "longitude": "-80.68284000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 42,
+    "name": "Belle Isle",
+    "latitude": "28.45834000",
+    "longitude": "-81.35924000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 43,
+    "name": "Belleair",
+    "latitude": "27.93585000",
+    "longitude": "-82.80621000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 44,
+    "name": "Belleair Beach",
+    "latitude": "27.92308000",
+    "longitude": "-82.84316000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 45,
+    "name": "Belleair Bluffs",
+    "latitude": "27.92141000",
+    "longitude": "-82.81705000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 46,
+    "name": "Belleview",
+    "latitude": "29.05526000",
+    "longitude": "-82.06231000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 47,
+    "name": "Bellview",
+    "latitude": "30.46159000",
+    "longitude": "-87.31497000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 48,
+    "name": "Beverly Hills",
+    "latitude": "28.91692000",
+    "longitude": "-82.45815000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 49,
+    "name": "Big Coppitt Key",
+    "latitude": "24.59653000",
+    "longitude": "-81.66009000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 50,
+    "name": "Big Pine Key",
+    "latitude": "24.66987000",
+    "longitude": "-81.35397000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 51,
+    "name": "Biscayne Park",
+    "latitude": "25.88260000",
+    "longitude": "-80.18060000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 52,
+    "name": "Bithlo",
+    "latitude": "28.55472000",
+    "longitude": "-81.10645000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 53,
+    "name": "Black Diamond",
+    "latitude": "28.91248000",
+    "longitude": "-82.48593000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 54,
+    "name": "Bloomingdale",
+    "latitude": "27.89364000",
+    "longitude": "-82.24037000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 55,
+    "name": "Blountstown",
+    "latitude": "30.44379000",
+    "longitude": "-85.04744000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 56,
+    "name": "Boca Del Mar",
+    "latitude": "26.34508000",
+    "longitude": "-80.14671000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 57,
+    "name": "Boca Pointe",
+    "latitude": "26.33313000",
+    "longitude": "-80.15949000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 58,
+    "name": "Boca Raton",
+    "latitude": "26.35869000",
+    "longitude": "-80.08310000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 59,
+    "name": "Bokeelia",
+    "latitude": "26.70563000",
+    "longitude": "-82.15898000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 60,
+    "name": "Bonifay",
+    "latitude": "30.79186000",
+    "longitude": "-85.67965000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 61,
+    "name": "Bonita Springs",
+    "latitude": "26.33981000",
+    "longitude": "-81.77870000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 62,
+    "name": "Boulevard Gardens",
+    "latitude": "26.12326000",
+    "longitude": "-80.17997000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 63,
+    "name": "Bowling Green",
+    "latitude": "27.63837000",
+    "longitude": "-81.82397000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 64,
+    "name": "Boyette",
+    "latitude": "27.81753000",
+    "longitude": "-82.22259000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 65,
+    "name": "Boynton Beach",
+    "latitude": "26.52535000",
+    "longitude": "-80.06643000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 66,
+    "name": "Bradenton",
+    "latitude": "27.49893000",
+    "longitude": "-82.57482000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 67,
+    "name": "Bradenton Beach",
+    "latitude": "27.46698000",
+    "longitude": "-82.70399000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 68,
+    "name": "Bradford County",
+    "latitude": "29.94996000",
+    "longitude": "-82.16878000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 69,
+    "name": "Brandon",
+    "latitude": "27.93780000",
+    "longitude": "-82.28592000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 70,
+    "name": "Brent",
+    "latitude": "30.46881000",
+    "longitude": "-87.23608000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 71,
+    "name": "Brevard",
+    "latitude": "28.30031000",
+    "longitude": "-80.70121000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 72,
+    "name": "Bristol",
+    "latitude": "30.43247000",
+    "longitude": "-84.97702000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 73,
+    "name": "Broadview Park",
+    "latitude": "26.09953000",
+    "longitude": "-80.20866000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 74,
+    "name": "Bronson",
+    "latitude": "29.44774000",
+    "longitude": "-82.64233000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 75,
+    "name": "Brookridge",
+    "latitude": "28.55110000",
+    "longitude": "-82.49204000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 76,
+    "name": "Brooksville",
+    "latitude": "28.55554000",
+    "longitude": "-82.38991000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 77,
+    "name": "Broward",
+    "latitude": "26.15186000",
+    "longitude": "-80.45589000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 78,
+    "name": "Broward Estates",
+    "latitude": "26.12564000",
+    "longitude": "-80.19338000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 79,
+    "name": "Brownsville",
+    "latitude": "25.82176000",
+    "longitude": "-80.24116000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 80,
+    "name": "Buckhead Ridge",
+    "latitude": "27.13033000",
+    "longitude": "-80.89367000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 81,
+    "name": "Buckingham",
+    "latitude": "26.67507000",
+    "longitude": "-81.73203000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 82,
+    "name": "Buenaventura Lakes",
+    "latitude": "28.33584000",
+    "longitude": "-81.35313000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 83,
+    "name": "Bunche Park",
+    "latitude": "25.92065000",
+    "longitude": "-80.23699000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 84,
+    "name": "Bunnell",
+    "latitude": "29.46609000",
+    "longitude": "-81.25784000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 85,
+    "name": "Burnt Store Marina",
+    "latitude": "26.76507000",
+    "longitude": "-82.05092000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 86,
+    "name": "Bushnell",
+    "latitude": "28.66499000",
+    "longitude": "-82.11286000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 87,
+    "name": "Butler Beach",
+    "latitude": "29.79830000",
+    "longitude": "-81.26701000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 88,
+    "name": "Calhoun County",
+    "latitude": "30.40603000",
+    "longitude": "-85.19721000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 89,
+    "name": "Callahan",
+    "latitude": "30.56218000",
+    "longitude": "-81.83066000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 90,
+    "name": "Callaway",
+    "latitude": "30.15298000",
+    "longitude": "-85.56993000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 91,
+    "name": "Campbell",
+    "latitude": "28.25890000",
+    "longitude": "-81.45646000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 92,
+    "name": "Cantonment",
+    "latitude": "30.60853000",
+    "longitude": "-87.33998000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 93,
+    "name": "Cape Canaveral",
+    "latitude": "28.40584000",
+    "longitude": "-80.60477000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 94,
+    "name": "Cape Coral",
+    "latitude": "26.56285000",
+    "longitude": "-81.94953000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 95,
+    "name": "Carol City",
+    "latitude": "25.94065000",
+    "longitude": "-80.24560000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 96,
+    "name": "Carrabelle",
+    "latitude": "29.85326000",
+    "longitude": "-84.66435000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 97,
+    "name": "Carrollwood",
+    "latitude": "28.05002000",
+    "longitude": "-82.49287000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 98,
+    "name": "Carver Ranches",
+    "latitude": "25.98842000",
+    "longitude": "-80.19227000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 99,
+    "name": "Casselberry",
+    "latitude": "28.67778000",
+    "longitude": "-81.32785000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 100,
+    "name": "Cedar Grove",
+    "latitude": "30.17103000",
+    "longitude": "-85.62520000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 101,
+    "name": "Celebration",
+    "latitude": "28.32529000",
+    "longitude": "-81.53313000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 102,
+    "name": "Center Hill",
+    "latitude": "28.64999000",
+    "longitude": "-81.99258000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 103,
+    "name": "Century",
+    "latitude": "30.97324000",
+    "longitude": "-87.26386000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 104,
+    "name": "Charlotte",
+    "latitude": "26.89985000",
+    "longitude": "-81.95031000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 105,
+    "name": "Charlotte Harbor",
+    "latitude": "26.95839000",
+    "longitude": "-82.06703000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 106,
+    "name": "Charlotte Park",
+    "latitude": "26.91006000",
+    "longitude": "-82.05398000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 107,
+    "name": "Chattahoochee",
+    "latitude": "30.70546000",
+    "longitude": "-84.84574000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 108,
+    "name": "Cheval",
+    "latitude": "28.14862000",
+    "longitude": "-82.51454000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 109,
+    "name": "Chiefland",
+    "latitude": "29.47496000",
+    "longitude": "-82.85984000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 110,
+    "name": "Chipley",
+    "latitude": "30.78186000",
+    "longitude": "-85.53854000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 111,
+    "name": "Christmas",
+    "latitude": "28.53639000",
+    "longitude": "-81.01756000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 112,
+    "name": "Chuluota",
+    "latitude": "28.64194000",
+    "longitude": "-81.12340000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 113,
+    "name": "Citra",
+    "latitude": "29.41192000",
+    "longitude": "-82.10982000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 114,
+    "name": "Citrus",
+    "latitude": "28.84757000",
+    "longitude": "-82.52011000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 115,
+    "name": "Citrus Hills",
+    "latitude": "28.88831000",
+    "longitude": "-82.43260000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 116,
+    "name": "Citrus Park",
+    "latitude": "28.07835000",
+    "longitude": "-82.56982000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 117,
+    "name": "Citrus Ridge",
+    "latitude": "28.33385000",
+    "longitude": "-81.64232000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 118,
+    "name": "Citrus Springs",
+    "latitude": "28.99748000",
+    "longitude": "-82.47065000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 119,
+    "name": "Clarcona",
+    "latitude": "28.61278000",
+    "longitude": "-81.49868000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 120,
+    "name": "Clay County",
+    "latitude": "29.98307000",
+    "longitude": "-81.85789000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 121,
+    "name": "Clearwater",
+    "latitude": "27.96585000",
+    "longitude": "-82.80010000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 122,
+    "name": "Clermont",
+    "latitude": "28.54944000",
+    "longitude": "-81.77285000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 123,
+    "name": "Cleveland",
+    "latitude": "26.96173000",
+    "longitude": "-81.98398000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 124,
+    "name": "Clewiston",
+    "latitude": "26.75423000",
+    "longitude": "-80.93368000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 125,
+    "name": "Cocoa",
+    "latitude": "28.38612000",
+    "longitude": "-80.74200000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 126,
+    "name": "Cocoa Beach",
+    "latitude": "28.32055000",
+    "longitude": "-80.60922000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 127,
+    "name": "Cocoa West",
+    "latitude": "28.35942000",
+    "longitude": "-80.77109000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 128,
+    "name": "Coconut Creek",
+    "latitude": "26.25175000",
+    "longitude": "-80.17894000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 129,
+    "name": "Coconut Grove",
+    "latitude": "25.71260000",
+    "longitude": "-80.25699000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 130,
+    "name": "Collier",
+    "latitude": "26.09924000",
+    "longitude": "-81.38097000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 131,
+    "name": "Columbia County",
+    "latitude": "30.22424000",
+    "longitude": "-82.62154000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 132,
+    "name": "Combee Settlement",
+    "latitude": "28.05835000",
+    "longitude": "-81.90536000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 133,
+    "name": "Connerton",
+    "latitude": "28.31441000",
+    "longitude": "-82.47539000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 134,
+    "name": "Conway",
+    "latitude": "28.50278000",
+    "longitude": "-81.33062000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 135,
+    "name": "Cooper City",
+    "latitude": "26.05731000",
+    "longitude": "-80.27172000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 136,
+    "name": "Coral Gables",
+    "latitude": "25.72149000",
+    "longitude": "-80.26838000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 137,
+    "name": "Coral Springs",
+    "latitude": "26.27119000",
+    "longitude": "-80.27060000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 138,
+    "name": "Coral Terrace",
+    "latitude": "25.74593000",
+    "longitude": "-80.30450000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 139,
+    "name": "Cortez",
+    "latitude": "27.46921000",
+    "longitude": "-82.68621000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 140,
+    "name": "Country Club",
+    "latitude": "25.94815000",
+    "longitude": "-80.31700000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 141,
+    "name": "Country Walk",
+    "latitude": "25.63399000",
+    "longitude": "-80.43228000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 142,
+    "name": "Crawfordville",
+    "latitude": "30.17604000",
+    "longitude": "-84.37518000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 143,
+    "name": "Crescent City",
+    "latitude": "29.43025000",
+    "longitude": "-81.51063000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 144,
+    "name": "Crestview",
+    "latitude": "30.76213000",
+    "longitude": "-86.57051000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 145,
+    "name": "Crooked Lake Park",
+    "latitude": "27.82919000",
+    "longitude": "-81.58397000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 146,
+    "name": "Cross City",
+    "latitude": "29.63465000",
+    "longitude": "-83.12694000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 147,
+    "name": "Crystal Lake",
+    "latitude": "28.03558000",
+    "longitude": "-81.90841000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 148,
+    "name": "Crystal River",
+    "latitude": "28.90248000",
+    "longitude": "-82.59260000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 149,
+    "name": "Crystal Springs",
+    "latitude": "28.18140000",
+    "longitude": "-82.15758000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 150,
+    "name": "Cudjoe Key",
+    "latitude": "24.67153000",
+    "longitude": "-81.49842000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 151,
+    "name": "Cutler",
+    "latitude": "25.61510000",
+    "longitude": "-80.31061000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 152,
+    "name": "Cutler Bay",
+    "latitude": "25.57830000",
+    "longitude": "-80.33770000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 153,
+    "name": "Cutler Ridge",
+    "latitude": "25.58066000",
+    "longitude": "-80.34672000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 154,
+    "name": "Cypress Gardens",
+    "latitude": "27.99391000",
+    "longitude": "-81.69008000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 155,
+    "name": "Cypress Lake",
+    "latitude": "26.53813000",
+    "longitude": "-81.89925000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 156,
+    "name": "Cypress Quarters",
+    "latitude": "27.25199000",
+    "longitude": "-80.81395000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 157,
+    "name": "Dade City",
+    "latitude": "28.36472000",
+    "longitude": "-82.19592000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 158,
+    "name": "Dade City North",
+    "latitude": "28.38334000",
+    "longitude": "-82.19389000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 159,
+    "name": "Dania Beach",
+    "latitude": "26.05231000",
+    "longitude": "-80.14393000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 160,
+    "name": "Davenport",
+    "latitude": "28.16140000",
+    "longitude": "-81.60174000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 161,
+    "name": "Davie",
+    "latitude": "26.06287000",
+    "longitude": "-80.23310000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 162,
+    "name": "Daytona Beach",
+    "latitude": "29.21081000",
+    "longitude": "-81.02283000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 163,
+    "name": "Daytona Beach Shores",
+    "latitude": "29.17609000",
+    "longitude": "-80.98283000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 164,
+    "name": "De Land Southwest",
+    "latitude": "29.00770000",
+    "longitude": "-81.31129000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 165,
+    "name": "De Leon Springs",
+    "latitude": "29.11989000",
+    "longitude": "-81.35286000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 166,
+    "name": "DeBary",
+    "latitude": "28.88305000",
+    "longitude": "-81.30868000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 167,
+    "name": "Deerfield Beach",
+    "latitude": "26.31841000",
+    "longitude": "-80.09977000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 168,
+    "name": "DeFuniak Springs",
+    "latitude": "30.72102000",
+    "longitude": "-86.11522000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 169,
+    "name": "DeLand",
+    "latitude": "29.02832000",
+    "longitude": "-81.30312000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 170,
+    "name": "Delray Beach",
+    "latitude": "26.46146000",
+    "longitude": "-80.07282000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 171,
+    "name": "Deltona",
+    "latitude": "28.90054000",
+    "longitude": "-81.26367000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 172,
+    "name": "DeSoto",
+    "latitude": "27.18632000",
+    "longitude": "-81.80930000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 173,
+    "name": "Desoto Lakes",
+    "latitude": "27.37143000",
+    "longitude": "-82.48982000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 174,
+    "name": "Destin",
+    "latitude": "30.39353000",
+    "longitude": "-86.49578000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 175,
+    "name": "Dixie",
+    "latitude": "29.58124000",
+    "longitude": "-83.18703000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 176,
+    "name": "Doctor Phillips",
+    "latitude": "28.44945000",
+    "longitude": "-81.49229000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 177,
+    "name": "Doral",
+    "latitude": "25.81954000",
+    "longitude": "-80.35533000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 178,
+    "name": "Dover",
+    "latitude": "27.99419000",
+    "longitude": "-82.21953000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 179,
+    "name": "Dundee",
+    "latitude": "28.02252000",
+    "longitude": "-81.61924000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 180,
+    "name": "Dunedin",
+    "latitude": "28.01990000",
+    "longitude": "-82.77323000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 181,
+    "name": "Dunnellon",
+    "latitude": "29.04914000",
+    "longitude": "-82.46093000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 182,
+    "name": "Duval",
+    "latitude": "30.33544000",
+    "longitude": "-81.64801000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 183,
+    "name": "Eagle Lake",
+    "latitude": "27.97836000",
+    "longitude": "-81.75647000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 184,
+    "name": "East Bronson",
+    "latitude": "29.45928000",
+    "longitude": "-82.59040000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 185,
+    "name": "East Lake",
+    "latitude": "28.11085000",
+    "longitude": "-82.69482000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 186,
+    "name": "East Lake-Orient Park",
+    "latitude": "27.98269000",
+    "longitude": "-82.37878000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 187,
+    "name": "East Milton",
+    "latitude": "30.61519000",
+    "longitude": "-87.02163000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 188,
+    "name": "East Naples",
+    "latitude": "26.13842000",
+    "longitude": "-81.76648000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 189,
+    "name": "East Palatka",
+    "latitude": "29.65830000",
+    "longitude": "-81.59841000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 190,
+    "name": "East Pensacola Heights",
+    "latitude": "30.42881000",
+    "longitude": "-87.17997000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 191,
+    "name": "East Perrine",
+    "latitude": "25.60872000",
+    "longitude": "-80.33894000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 192,
+    "name": "Eastpoint",
+    "latitude": "29.73660000",
+    "longitude": "-84.87852000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 193,
+    "name": "Eatonville",
+    "latitude": "28.61472000",
+    "longitude": "-81.38062000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 194,
+    "name": "Edgewater",
+    "latitude": "28.98888000",
+    "longitude": "-80.90228000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 195,
+    "name": "Edgewood",
+    "latitude": "28.48612000",
+    "longitude": "-81.37229000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 196,
+    "name": "Eglin Air Force Base",
+    "latitude": "30.45907000",
+    "longitude": "-86.55026000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 197,
+    "name": "Eglin Village",
+    "latitude": "30.46298000",
+    "longitude": "-86.53940000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 198,
+    "name": "Egypt Lake-Leto",
+    "latitude": "28.01769000",
+    "longitude": "-82.50619000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 199,
+    "name": "El Portal",
+    "latitude": "25.85537000",
+    "longitude": "-80.19310000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 200,
+    "name": "Elfers",
+    "latitude": "28.21668000",
+    "longitude": "-82.72232000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 201,
+    "name": "Ellenton",
+    "latitude": "27.52171000",
+    "longitude": "-82.52760000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 202,
+    "name": "Englewood",
+    "latitude": "26.96201000",
+    "longitude": "-82.35260000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 203,
+    "name": "Ensley",
+    "latitude": "30.51881000",
+    "longitude": "-87.27275000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 204,
+    "name": "Escambia",
+    "latitude": "30.61440000",
+    "longitude": "-87.34136000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 205,
+    "name": "Estero",
+    "latitude": "26.43814000",
+    "longitude": "-81.80675000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 206,
+    "name": "Eustis",
+    "latitude": "28.85277000",
+    "longitude": "-81.68535000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 207,
+    "name": "Fairview Shores",
+    "latitude": "28.59111000",
+    "longitude": "-81.39424000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 208,
+    "name": "Feather Sound",
+    "latitude": "27.90079000",
+    "longitude": "-82.67349000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 209,
+    "name": "Fellsmere",
+    "latitude": "27.76781000",
+    "longitude": "-80.60144000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 210,
+    "name": "Fern Park",
+    "latitude": "28.64916000",
+    "longitude": "-81.35118000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 211,
+    "name": "Fernandina Beach",
+    "latitude": "30.66968000",
+    "longitude": "-81.46259000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 212,
+    "name": "Ferry Pass",
+    "latitude": "30.51020000",
+    "longitude": "-87.21247000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 213,
+    "name": "Fish Hawk",
+    "latitude": "27.85058000",
+    "longitude": "-82.21092000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 214,
+    "name": "Five Points",
+    "latitude": "30.20912000",
+    "longitude": "-82.63735000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 215,
+    "name": "Flagami",
+    "latitude": "25.76232000",
+    "longitude": "-80.31616000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 216,
+    "name": "Flagler",
+    "latitude": "29.47115000",
+    "longitude": "-81.29299000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 217,
+    "name": "Flagler Beach",
+    "latitude": "29.47498000",
+    "longitude": "-81.12700000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 218,
+    "name": "Flagler Estates",
+    "latitude": "29.64553000",
+    "longitude": "-81.45700000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 219,
+    "name": "Fleming Island",
+    "latitude": "30.09330000",
+    "longitude": "-81.71898000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 220,
+    "name": "Floral City",
+    "latitude": "28.74999000",
+    "longitude": "-82.29676000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 221,
+    "name": "Florida City",
+    "latitude": "25.44789000",
+    "longitude": "-80.47922000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 222,
+    "name": "Florida Ridge",
+    "latitude": "27.58031000",
+    "longitude": "-80.38672000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 223,
+    "name": "Forest City",
+    "latitude": "28.66678000",
+    "longitude": "-81.44334000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 224,
+    "name": "Fort Lauderdale",
+    "latitude": "26.12231000",
+    "longitude": "-80.14338000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 225,
+    "name": "Fort Meade",
+    "latitude": "27.75225000",
+    "longitude": "-81.80175000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 226,
+    "name": "Fort Myers",
+    "latitude": "26.62168000",
+    "longitude": "-81.84059000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 227,
+    "name": "Fort Myers Beach",
+    "latitude": "26.45271000",
+    "longitude": "-81.95011000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 228,
+    "name": "Fort Myers Shores",
+    "latitude": "26.70924000",
+    "longitude": "-81.74592000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 229,
+    "name": "Fort Pierce",
+    "latitude": "27.44671000",
+    "longitude": "-80.32561000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 230,
+    "name": "Fort Pierce North",
+    "latitude": "27.47364000",
+    "longitude": "-80.35930000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 231,
+    "name": "Fort Pierce South",
+    "latitude": "27.40962000",
+    "longitude": "-80.35483000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 232,
+    "name": "Fort Walton Beach",
+    "latitude": "30.42059000",
+    "longitude": "-86.61707000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 233,
+    "name": "Fountainebleau",
+    "latitude": "25.77288000",
+    "longitude": "-80.34783000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 234,
+    "name": "Four Corners",
+    "latitude": "28.33287000",
+    "longitude": "-81.64738000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 235,
+    "name": "Franklin County",
+    "latitude": "29.81168000",
+    "longitude": "-84.80046000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 236,
+    "name": "Freeport",
+    "latitude": "30.49825000",
+    "longitude": "-86.13605000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 237,
+    "name": "Frostproof",
+    "latitude": "27.74586000",
+    "longitude": "-81.53063000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 238,
+    "name": "Fruit Cove",
+    "latitude": "30.11107000",
+    "longitude": "-81.64176000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 239,
+    "name": "Fruitland Park",
+    "latitude": "28.86138000",
+    "longitude": "-81.90647000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 240,
+    "name": "Fruitville",
+    "latitude": "27.32977000",
+    "longitude": "-82.45760000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 241,
+    "name": "Fuller Heights",
+    "latitude": "27.90919000",
+    "longitude": "-81.99814000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 242,
+    "name": "Fussels Corner",
+    "latitude": "28.05419000",
+    "longitude": "-81.86064000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 243,
+    "name": "Gadsden",
+    "latitude": "30.57947000",
+    "longitude": "-84.61360000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 244,
+    "name": "Gainesville",
+    "latitude": "29.65163000",
+    "longitude": "-82.32483000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 245,
+    "name": "Gandy",
+    "latitude": "27.86850000",
+    "longitude": "-82.61612000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 246,
+    "name": "Gateway",
+    "latitude": "26.57757000",
+    "longitude": "-81.75036000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 247,
+    "name": "Geneva",
+    "latitude": "28.73972000",
+    "longitude": "-81.11506000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 248,
+    "name": "Gibsonia",
+    "latitude": "28.11474000",
+    "longitude": "-81.97369000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 249,
+    "name": "Gibsonton",
+    "latitude": "27.85364000",
+    "longitude": "-82.38259000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 250,
+    "name": "Gifford",
+    "latitude": "27.67531000",
+    "longitude": "-80.40922000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 251,
+    "name": "Gilchrist",
+    "latitude": "29.72582000",
+    "longitude": "-82.80037000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 252,
+    "name": "Glades",
+    "latitude": "26.95648000",
+    "longitude": "-81.18898000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 253,
+    "name": "Gladeview",
+    "latitude": "25.83926000",
+    "longitude": "-80.23560000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 254,
+    "name": "Glencoe",
+    "latitude": "29.02582000",
+    "longitude": "-80.97200000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 255,
+    "name": "Glenvar Heights",
+    "latitude": "25.70760000",
+    "longitude": "-80.32561000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 256,
+    "name": "Golden Gate",
+    "latitude": "26.18787000",
+    "longitude": "-81.69509000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 257,
+    "name": "Golden Glades",
+    "latitude": "25.91176000",
+    "longitude": "-80.20033000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 258,
+    "name": "Goldenrod",
+    "latitude": "28.61028000",
+    "longitude": "-81.28868000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 259,
+    "name": "Gonzalez",
+    "latitude": "30.58158000",
+    "longitude": "-87.29136000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 260,
+    "name": "Gotha",
+    "latitude": "28.52778000",
+    "longitude": "-81.52313000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 261,
+    "name": "Goulding",
+    "latitude": "30.44298000",
+    "longitude": "-87.22247000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 262,
+    "name": "Goulds",
+    "latitude": "25.56261000",
+    "longitude": "-80.38228000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 263,
+    "name": "Graceville",
+    "latitude": "30.95685000",
+    "longitude": "-85.51660000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 264,
+    "name": "Grant-Valkaria",
+    "latitude": "27.93980000",
+    "longitude": "-80.57104000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 265,
+    "name": "Greater Northdale",
+    "latitude": "28.10545000",
+    "longitude": "-82.52594000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 266,
+    "name": "Green Cove Springs",
+    "latitude": "29.99191000",
+    "longitude": "-81.67815000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 267,
+    "name": "Greenacres City",
+    "latitude": "26.62368000",
+    "longitude": "-80.12532000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 268,
+    "name": "Greenbriar",
+    "latitude": "28.01128000",
+    "longitude": "-82.75272000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 269,
+    "name": "Gretna",
+    "latitude": "30.61714000",
+    "longitude": "-84.65991000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 270,
+    "name": "Grove City",
+    "latitude": "26.91423000",
+    "longitude": "-82.32704000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 271,
+    "name": "Groveland",
+    "latitude": "28.55805000",
+    "longitude": "-81.85119000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 272,
+    "name": "Gulf",
+    "latitude": "29.90862000",
+    "longitude": "-85.26101000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 273,
+    "name": "Gulf Breeze",
+    "latitude": "30.35714000",
+    "longitude": "-87.16386000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 274,
+    "name": "Gulf Gate Estates",
+    "latitude": "27.25173000",
+    "longitude": "-82.51471000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 275,
+    "name": "Gulfport",
+    "latitude": "27.74836000",
+    "longitude": "-82.70343000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 276,
+    "name": "Haines City",
+    "latitude": "28.11450000",
+    "longitude": "-81.62009000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 277,
+    "name": "Hallandale Beach",
+    "latitude": "25.98120000",
+    "longitude": "-80.14838000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 278,
+    "name": "Hamilton County",
+    "latitude": "30.49643000",
+    "longitude": "-82.94796000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 279,
+    "name": "Harbor Bluffs",
+    "latitude": "27.90947000",
+    "longitude": "-82.82760000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 280,
+    "name": "Harbour Heights",
+    "latitude": "26.99089000",
+    "longitude": "-82.00231000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 281,
+    "name": "Hardee",
+    "latitude": "27.49270000",
+    "longitude": "-81.80993000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 282,
+    "name": "Harlem",
+    "latitude": "26.73757000",
+    "longitude": "-80.95090000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 283,
+    "name": "Harlem Heights",
+    "latitude": "26.51619000",
+    "longitude": "-81.92787000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 284,
+    "name": "Havana",
+    "latitude": "30.62381000",
+    "longitude": "-84.41463000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 285,
+    "name": "Haverhill",
+    "latitude": "26.69118000",
+    "longitude": "-80.12004000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 286,
+    "name": "Hawthorne",
+    "latitude": "29.59191000",
+    "longitude": "-82.08732000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 287,
+    "name": "Heathrow",
+    "latitude": "28.76333000",
+    "longitude": "-81.37225000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 288,
+    "name": "Hendry",
+    "latitude": "26.55349000",
+    "longitude": "-81.16590000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 289,
+    "name": "Heritage Pines",
+    "latitude": "28.42522000",
+    "longitude": "-82.62111000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 290,
+    "name": "Hernando",
+    "latitude": "28.89998000",
+    "longitude": "-82.37454000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 291,
+    "name": "Hernando Beach",
+    "latitude": "28.46944000",
+    "longitude": "-82.65927000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 292,
+    "name": "Hernando County",
+    "latitude": "28.55617000",
+    "longitude": "-82.46849000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 293,
+    "name": "Hialeah",
+    "latitude": "25.85760000",
+    "longitude": "-80.27811000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 294,
+    "name": "Hialeah Gardens",
+    "latitude": "25.86510000",
+    "longitude": "-80.32450000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 295,
+    "name": "High Point",
+    "latitude": "28.54687000",
+    "longitude": "-82.52468000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 296,
+    "name": "High Springs",
+    "latitude": "29.82691000",
+    "longitude": "-82.59678000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 297,
+    "name": "Highland Beach",
+    "latitude": "26.39952000",
+    "longitude": "-80.06560000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 298,
+    "name": "Highland City",
+    "latitude": "27.96530000",
+    "longitude": "-81.87786000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 299,
+    "name": "Highlands",
+    "latitude": "27.34340000",
+    "longitude": "-81.34097000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 300,
+    "name": "Hiland Park",
+    "latitude": "30.20103000",
+    "longitude": "-85.62687000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 301,
+    "name": "Hill 'n Dale",
+    "latitude": "28.51972000",
+    "longitude": "-82.29926000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 302,
+    "name": "Hilliard",
+    "latitude": "30.69107000",
+    "longitude": "-81.91733000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 303,
+    "name": "Hillsboro Beach",
+    "latitude": "26.29397000",
+    "longitude": "-80.07893000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 304,
+    "name": "Hillsborough County",
+    "latitude": "27.90623000",
+    "longitude": "-82.34692000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 305,
+    "name": "Hobe Sound",
+    "latitude": "27.05950000",
+    "longitude": "-80.13643000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 306,
+    "name": "Holden Heights",
+    "latitude": "28.49667000",
+    "longitude": "-81.38785000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 307,
+    "name": "Holiday",
+    "latitude": "28.18779000",
+    "longitude": "-82.73955000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 308,
+    "name": "Holley",
+    "latitude": "30.44686000",
+    "longitude": "-86.90691000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 309,
+    "name": "Holly Hill",
+    "latitude": "29.24359000",
+    "longitude": "-81.03756000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 310,
+    "name": "Hollywood",
+    "latitude": "26.01120000",
+    "longitude": "-80.14949000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 311,
+    "name": "Holmes",
+    "latitude": "30.86789000",
+    "longitude": "-85.81410000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 312,
+    "name": "Holmes Beach",
+    "latitude": "27.49532000",
+    "longitude": "-82.71093000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 313,
+    "name": "Homestead",
+    "latitude": "25.46872000",
+    "longitude": "-80.47756000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 314,
+    "name": "Homosassa",
+    "latitude": "28.78137000",
+    "longitude": "-82.61510000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 315,
+    "name": "Homosassa Springs",
+    "latitude": "28.80359000",
+    "longitude": "-82.57593000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 316,
+    "name": "Horizon West",
+    "latitude": "28.43383000",
+    "longitude": "-81.62270000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 317,
+    "name": "Howey-in-the-Hills",
+    "latitude": "28.71694000",
+    "longitude": "-81.77341000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 318,
+    "name": "Hudson",
+    "latitude": "28.36445000",
+    "longitude": "-82.69343000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 319,
+    "name": "Hunters Creek",
+    "latitude": "28.36056000",
+    "longitude": "-81.42229000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 320,
+    "name": "Hutchinson Island South",
+    "latitude": "27.29949000",
+    "longitude": "-80.22045000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 321,
+    "name": "Hypoluxo",
+    "latitude": "26.56646000",
+    "longitude": "-80.05337000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 322,
+    "name": "Immokalee",
+    "latitude": "26.41869000",
+    "longitude": "-81.41730000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 323,
+    "name": "Indialantic",
+    "latitude": "28.08946000",
+    "longitude": "-80.56561000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 324,
+    "name": "Indian Harbour Beach",
+    "latitude": "28.14890000",
+    "longitude": "-80.58839000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 325,
+    "name": "Indian River",
+    "latitude": "27.69639000",
+    "longitude": "-80.57409000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 326,
+    "name": "Indian River Estates",
+    "latitude": "27.36449000",
+    "longitude": "-80.30977000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 327,
+    "name": "Indian River Shores",
+    "latitude": "27.71670000",
+    "longitude": "-80.38422000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 328,
+    "name": "Indian Rocks Beach",
+    "latitude": "27.87530000",
+    "longitude": "-82.85122000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 329,
+    "name": "Indian Shores",
+    "latitude": "27.86280000",
+    "longitude": "-82.84844000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 330,
+    "name": "Indiantown",
+    "latitude": "27.02728000",
+    "longitude": "-80.48561000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 331,
+    "name": "Inglis",
+    "latitude": "29.03025000",
+    "longitude": "-82.66872000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 332,
+    "name": "Interlachen",
+    "latitude": "29.62421000",
+    "longitude": "-81.89256000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 333,
+    "name": "Inverness",
+    "latitude": "28.83582000",
+    "longitude": "-82.33037000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 334,
+    "name": "Inverness Highlands North",
+    "latitude": "28.86420000",
+    "longitude": "-82.37688000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 335,
+    "name": "Inverness Highlands South",
+    "latitude": "28.80055000",
+    "longitude": "-82.33710000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 336,
+    "name": "Inwood",
+    "latitude": "28.03697000",
+    "longitude": "-81.76508000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 337,
+    "name": "Iona",
+    "latitude": "26.52036000",
+    "longitude": "-81.96398000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 338,
+    "name": "Islamorada",
+    "latitude": "24.92430000",
+    "longitude": "-80.62784000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 339,
+    "name": "Island Walk",
+    "latitude": "26.25099000",
+    "longitude": "-81.71101000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 340,
+    "name": "Isle of Normandy",
+    "latitude": "25.85287000",
+    "longitude": "-80.13505000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 341,
+    "name": "Ives Estates",
+    "latitude": "25.96231000",
+    "longitude": "-80.17671000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 342,
+    "name": "Jackson County",
+    "latitude": "30.79539000",
+    "longitude": "-85.21546000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 343,
+    "name": "Jacksonville",
+    "latitude": "30.33218000",
+    "longitude": "-81.65565000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 344,
+    "name": "Jacksonville Beach",
+    "latitude": "30.29469000",
+    "longitude": "-81.39314000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 345,
+    "name": "Jan-Phyl Village",
+    "latitude": "28.01474000",
+    "longitude": "-81.77175000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 346,
+    "name": "Jasmine Estates",
+    "latitude": "28.29306000",
+    "longitude": "-82.69010000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 347,
+    "name": "Jasper",
+    "latitude": "30.51827000",
+    "longitude": "-82.94819000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 348,
+    "name": "Jefferson County",
+    "latitude": "30.42346000",
+    "longitude": "-83.90047000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 349,
+    "name": "Jensen Beach",
+    "latitude": "27.25449000",
+    "longitude": "-80.22977000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 350,
+    "name": "June Park",
+    "latitude": "28.07224000",
+    "longitude": "-80.68006000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 351,
+    "name": "Juno Beach",
+    "latitude": "26.87978000",
+    "longitude": "-80.05337000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 352,
+    "name": "Jupiter",
+    "latitude": "26.93422000",
+    "longitude": "-80.09421000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 353,
+    "name": "Kathleen",
+    "latitude": "28.12085000",
+    "longitude": "-82.02314000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 354,
+    "name": "Kendale Lakes",
+    "latitude": "25.70816000",
+    "longitude": "-80.40700000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 355,
+    "name": "Kendall",
+    "latitude": "25.67927000",
+    "longitude": "-80.31727000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 356,
+    "name": "Kendall Green",
+    "latitude": "26.25397000",
+    "longitude": "-80.12393000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 357,
+    "name": "Kendall West",
+    "latitude": "25.70650000",
+    "longitude": "-80.43880000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 358,
+    "name": "Kenneth City",
+    "latitude": "27.81558000",
+    "longitude": "-82.72010000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 359,
+    "name": "Kensington Park",
+    "latitude": "27.35949000",
+    "longitude": "-82.49649000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 360,
+    "name": "Key Biscayne",
+    "latitude": "25.69371000",
+    "longitude": "-80.16282000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 361,
+    "name": "Key Largo",
+    "latitude": "25.08652000",
+    "longitude": "-80.44728000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 362,
+    "name": "Key Vista",
+    "latitude": "28.19470000",
+    "longitude": "-82.77038000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 363,
+    "name": "Key West",
+    "latitude": "24.55524000",
+    "longitude": "-81.78163000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 364,
+    "name": "Keystone",
+    "latitude": "28.15585000",
+    "longitude": "-82.62121000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 365,
+    "name": "Keystone Heights",
+    "latitude": "29.78608000",
+    "longitude": "-82.03149000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 366,
+    "name": "Kings Point",
+    "latitude": "26.44535000",
+    "longitude": "-80.13977000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 367,
+    "name": "Kissimmee",
+    "latitude": "28.30468000",
+    "longitude": "-81.41667000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 368,
+    "name": "LaBelle",
+    "latitude": "26.76173000",
+    "longitude": "-81.43841000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 369,
+    "name": "Lacoochee",
+    "latitude": "28.46583000",
+    "longitude": "-82.17203000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 370,
+    "name": "Lady Lake",
+    "latitude": "28.91749000",
+    "longitude": "-81.92286000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 371,
+    "name": "Lafayette County",
+    "latitude": "29.98552000",
+    "longitude": "-83.18107000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 372,
+    "name": "Laguna Beach",
+    "latitude": "30.23965000",
+    "longitude": "-85.92410000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 373,
+    "name": "Lake",
+    "latitude": "28.76147000",
+    "longitude": "-81.71130000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 374,
+    "name": "Lake Alfred",
+    "latitude": "28.09196000",
+    "longitude": "-81.72341000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 375,
+    "name": "Lake Belvedere Estates",
+    "latitude": "26.68923000",
+    "longitude": "-80.13338000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 376,
+    "name": "Lake Butler",
+    "latitude": "30.02274000",
+    "longitude": "-82.33956000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 377,
+    "name": "Lake City",
+    "latitude": "30.18968000",
+    "longitude": "-82.63929000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 378,
+    "name": "Lake Clarke Shores",
+    "latitude": "26.64534000",
+    "longitude": "-80.07588000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 379,
+    "name": "Lake Forest",
+    "latitude": "25.97759000",
+    "longitude": "-80.18310000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 380,
+    "name": "Lake Hamilton",
+    "latitude": "28.04446000",
+    "longitude": "-81.62785000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 381,
+    "name": "Lake Helen",
+    "latitude": "28.98082000",
+    "longitude": "-81.23339000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 382,
+    "name": "Lake Lorraine",
+    "latitude": "30.44159000",
+    "longitude": "-86.56523000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 383,
+    "name": "Lake Lucerne",
+    "latitude": "25.96509000",
+    "longitude": "-80.24144000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 384,
+    "name": "Lake Mack-Forest Hills",
+    "latitude": "29.00074000",
+    "longitude": "-81.42397000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 385,
+    "name": "Lake Magdalene",
+    "latitude": "28.07418000",
+    "longitude": "-82.47176000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 386,
+    "name": "Lake Mary",
+    "latitude": "28.75888000",
+    "longitude": "-81.31784000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 387,
+    "name": "Lake Panasoffkee",
+    "latitude": "28.75582000",
+    "longitude": "-82.09481000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 388,
+    "name": "Lake Park",
+    "latitude": "26.80034000",
+    "longitude": "-80.06643000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 389,
+    "name": "Lake Placid",
+    "latitude": "27.35197000",
+    "longitude": "-81.32631000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 390,
+    "name": "Lake Sarasota",
+    "latitude": "27.29255000",
+    "longitude": "-82.43760000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 391,
+    "name": "Lake Wales",
+    "latitude": "27.90141000",
+    "longitude": "-81.58591000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 392,
+    "name": "Lake Worth",
+    "latitude": "26.61708000",
+    "longitude": "-80.07231000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 393,
+    "name": "Lake Worth Corridor",
+    "latitude": "26.61649000",
+    "longitude": "-80.10102000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 394,
+    "name": "Lakeland",
+    "latitude": "28.03947000",
+    "longitude": "-81.94980000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 395,
+    "name": "Lakeland Highlands",
+    "latitude": "27.95975000",
+    "longitude": "-81.95008000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 396,
+    "name": "Lakes by the Bay",
+    "latitude": "25.57233000",
+    "longitude": "-80.32533000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 397,
+    "name": "Lakeside",
+    "latitude": "30.12996000",
+    "longitude": "-81.76815000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 398,
+    "name": "Lakewood Park",
+    "latitude": "27.54309000",
+    "longitude": "-80.40227000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 399,
+    "name": "Land O' Lakes",
+    "latitude": "28.21890000",
+    "longitude": "-82.45759000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 400,
+    "name": "Lantana",
+    "latitude": "26.58674000",
+    "longitude": "-80.05199000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 401,
+    "name": "Largo",
+    "latitude": "27.90979000",
+    "longitude": "-82.78842000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 402,
+    "name": "Lauderdale Lakes",
+    "latitude": "26.16647000",
+    "longitude": "-80.20838000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 403,
+    "name": "Lauderdale-by-the-Sea",
+    "latitude": "26.19203000",
+    "longitude": "-80.09643000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 404,
+    "name": "Lauderhill",
+    "latitude": "26.14036000",
+    "longitude": "-80.21338000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 405,
+    "name": "Laurel",
+    "latitude": "27.14378000",
+    "longitude": "-82.46158000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 406,
+    "name": "Lealman",
+    "latitude": "27.82114000",
+    "longitude": "-82.67927000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 407,
+    "name": "Lecanto",
+    "latitude": "28.85165000",
+    "longitude": "-82.48760000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 408,
+    "name": "Lee",
+    "latitude": "26.62536000",
+    "longitude": "-81.84952000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 409,
+    "name": "Leesburg",
+    "latitude": "28.81082000",
+    "longitude": "-81.87786000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 410,
+    "name": "Lehigh Acres",
+    "latitude": "26.62535000",
+    "longitude": "-81.62480000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 411,
+    "name": "Leisure City",
+    "latitude": "25.49539000",
+    "longitude": "-80.42922000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 412,
+    "name": "Lely",
+    "latitude": "26.10065000",
+    "longitude": "-81.72842000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 413,
+    "name": "Lely Resort",
+    "latitude": "26.08093000",
+    "longitude": "-81.69786000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 414,
+    "name": "Leon",
+    "latitude": "30.45804000",
+    "longitude": "-84.27788000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 415,
+    "name": "Levy",
+    "latitude": "29.28221000",
+    "longitude": "-82.78861000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 416,
+    "name": "Liberty County",
+    "latitude": "30.24136000",
+    "longitude": "-84.88291000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 417,
+    "name": "Lighthouse Point",
+    "latitude": "26.27564000",
+    "longitude": "-80.08727000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 418,
+    "name": "Limestone Creek",
+    "latitude": "26.94284000",
+    "longitude": "-80.14115000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 419,
+    "name": "Live Oak",
+    "latitude": "30.29495000",
+    "longitude": "-82.98402000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 420,
+    "name": "Lochmoor Waterway Estates",
+    "latitude": "26.64424000",
+    "longitude": "-81.90981000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 421,
+    "name": "Lockhart",
+    "latitude": "28.61944000",
+    "longitude": "-81.44257000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 422,
+    "name": "Longboat Key",
+    "latitude": "27.41254000",
+    "longitude": "-82.65899000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 423,
+    "name": "Longwood",
+    "latitude": "28.70305000",
+    "longitude": "-81.33840000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 424,
+    "name": "Loughman",
+    "latitude": "28.24196000",
+    "longitude": "-81.56674000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 425,
+    "name": "Lower Grand Lagoon",
+    "latitude": "30.14409000",
+    "longitude": "-85.75076000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 426,
+    "name": "Loxahatchee Groves",
+    "latitude": "26.68368000",
+    "longitude": "-80.27977000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 427,
+    "name": "Lutz",
+    "latitude": "28.15112000",
+    "longitude": "-82.46148000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 428,
+    "name": "Lynn Haven",
+    "latitude": "30.24548000",
+    "longitude": "-85.64826000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 429,
+    "name": "Macclenny",
+    "latitude": "30.28218000",
+    "longitude": "-82.12206000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 430,
+    "name": "Madeira Beach",
+    "latitude": "27.79808000",
+    "longitude": "-82.79732000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 431,
+    "name": "Madison",
+    "latitude": "30.46938000",
+    "longitude": "-83.41293000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 432,
+    "name": "Madison County",
+    "latitude": "30.44414000",
+    "longitude": "-83.47012000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 433,
+    "name": "Maitland",
+    "latitude": "28.62778000",
+    "longitude": "-81.36312000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 434,
+    "name": "Malabar",
+    "latitude": "28.00363000",
+    "longitude": "-80.56561000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 435,
+    "name": "Malone",
+    "latitude": "30.95769000",
+    "longitude": "-85.16215000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 436,
+    "name": "Manasota Key",
+    "latitude": "26.92534000",
+    "longitude": "-82.35204000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 437,
+    "name": "Manatee",
+    "latitude": "27.47752000",
+    "longitude": "-82.35754000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 438,
+    "name": "Manatee Road",
+    "latitude": "29.51302000",
+    "longitude": "-82.91429000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 439,
+    "name": "Mango",
+    "latitude": "27.97974000",
+    "longitude": "-82.30648000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 440,
+    "name": "Mangonia Park",
+    "latitude": "26.76034000",
+    "longitude": "-80.07365000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 441,
+    "name": "Marathon",
+    "latitude": "24.71375000",
+    "longitude": "-81.09035000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 442,
+    "name": "Marco",
+    "latitude": "25.97260000",
+    "longitude": "-81.72898000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 443,
+    "name": "Marco Island",
+    "latitude": "25.94121000",
+    "longitude": "-81.71842000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 444,
+    "name": "Margate",
+    "latitude": "26.24453000",
+    "longitude": "-80.20644000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 445,
+    "name": "Marianna",
+    "latitude": "30.77436000",
+    "longitude": "-85.22687000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 446,
+    "name": "Marion County",
+    "latitude": "29.21020000",
+    "longitude": "-82.05668000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 447,
+    "name": "Martin",
+    "latitude": "27.08157000",
+    "longitude": "-80.39851000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 448,
+    "name": "Mary Esther",
+    "latitude": "30.41015000",
+    "longitude": "-86.66509000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 449,
+    "name": "Masaryktown",
+    "latitude": "28.44167000",
+    "longitude": "-82.45704000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 450,
+    "name": "Mascotte",
+    "latitude": "28.57833000",
+    "longitude": "-81.88675000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 451,
+    "name": "Mayo",
+    "latitude": "30.05300000",
+    "longitude": "-83.17486000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 452,
+    "name": "McGregor",
+    "latitude": "26.56091000",
+    "longitude": "-81.91453000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 453,
+    "name": "Meadow Oaks",
+    "latitude": "28.34619000",
+    "longitude": "-82.60284000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 454,
+    "name": "Meadow Woods",
+    "latitude": "28.38556000",
+    "longitude": "-81.36646000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 455,
+    "name": "Medulla",
+    "latitude": "27.96780000",
+    "longitude": "-81.97342000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 456,
+    "name": "Melbourne",
+    "latitude": "28.08363000",
+    "longitude": "-80.60811000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 457,
+    "name": "Melbourne Beach",
+    "latitude": "28.06835000",
+    "longitude": "-80.56033000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 458,
+    "name": "Melrose Park",
+    "latitude": "26.11342000",
+    "longitude": "-80.19338000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 459,
+    "name": "Memphis",
+    "latitude": "27.53587000",
+    "longitude": "-82.56121000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 460,
+    "name": "Merritt Island",
+    "latitude": "28.53917000",
+    "longitude": "-80.67200000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 461,
+    "name": "Mexico Beach",
+    "latitude": "29.94809000",
+    "longitude": "-85.41995000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 462,
+    "name": "Miami",
+    "latitude": "25.77427000",
+    "longitude": "-80.19366000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 463,
+    "name": "Miami Beach",
+    "latitude": "25.79065000",
+    "longitude": "-80.13005000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 464,
+    "name": "Miami Gardens",
+    "latitude": "25.94204000",
+    "longitude": "-80.24560000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 465,
+    "name": "Miami Lakes",
+    "latitude": "25.90871000",
+    "longitude": "-80.30866000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 466,
+    "name": "Miami Shores",
+    "latitude": "25.86315000",
+    "longitude": "-80.19283000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 467,
+    "name": "Miami Springs",
+    "latitude": "25.82232000",
+    "longitude": "-80.28950000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 468,
+    "name": "Miami-Dade",
+    "latitude": "25.60897000",
+    "longitude": "-80.49867000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 469,
+    "name": "Micco",
+    "latitude": "27.88058000",
+    "longitude": "-80.50033000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 470,
+    "name": "Middleburg",
+    "latitude": "30.06885000",
+    "longitude": "-81.86038000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 471,
+    "name": "Midway",
+    "latitude": "30.40648000",
+    "longitude": "-87.00553000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 472,
+    "name": "Milton",
+    "latitude": "30.63241000",
+    "longitude": "-87.03969000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 473,
+    "name": "Mims",
+    "latitude": "28.66527000",
+    "longitude": "-80.84478000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 474,
+    "name": "Minneola",
+    "latitude": "28.57444000",
+    "longitude": "-81.74619000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 475,
+    "name": "Miramar",
+    "latitude": "25.98731000",
+    "longitude": "-80.23227000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 476,
+    "name": "Miramar Beach",
+    "latitude": "30.37437000",
+    "longitude": "-86.35856000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 477,
+    "name": "Molino",
+    "latitude": "30.72408000",
+    "longitude": "-87.31414000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 478,
+    "name": "Monroe County",
+    "latitude": "25.55731000",
+    "longitude": "-80.91705000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 479,
+    "name": "Monticello",
+    "latitude": "30.54515000",
+    "longitude": "-83.87130000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 480,
+    "name": "Montverde",
+    "latitude": "28.60028000",
+    "longitude": "-81.67396000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 481,
+    "name": "Moore Haven",
+    "latitude": "26.83312000",
+    "longitude": "-81.09312000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 482,
+    "name": "Mount Dora",
+    "latitude": "28.80249000",
+    "longitude": "-81.64452000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 483,
+    "name": "Mount Plymouth",
+    "latitude": "28.80805000",
+    "longitude": "-81.53313000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 484,
+    "name": "Mulberry",
+    "latitude": "27.89530000",
+    "longitude": "-81.97342000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 485,
+    "name": "Myrtle Grove",
+    "latitude": "30.42103000",
+    "longitude": "-87.30747000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 486,
+    "name": "Naples",
+    "latitude": "26.14234000",
+    "longitude": "-81.79596000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 487,
+    "name": "Naples Manor",
+    "latitude": "26.08870000",
+    "longitude": "-81.72620000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 488,
+    "name": "Naples Park",
+    "latitude": "26.26175000",
+    "longitude": "-81.80925000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 489,
+    "name": "Naranja",
+    "latitude": "25.51816000",
+    "longitude": "-80.42283000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 490,
+    "name": "Nassau County",
+    "latitude": "30.61058000",
+    "longitude": "-81.77142000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 491,
+    "name": "Nassau Village-Ratliff",
+    "latitude": "30.51111000",
+    "longitude": "-81.80925000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 492,
+    "name": "Navarre",
+    "latitude": "30.40159000",
+    "longitude": "-86.86357000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 493,
+    "name": "Neptune Beach",
+    "latitude": "30.31191000",
+    "longitude": "-81.39647000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 494,
+    "name": "New Port Richey",
+    "latitude": "28.24418000",
+    "longitude": "-82.71927000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 495,
+    "name": "New Port Richey East",
+    "latitude": "28.26027000",
+    "longitude": "-82.69261000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 496,
+    "name": "New Smyrna Beach",
+    "latitude": "29.02582000",
+    "longitude": "-80.92700000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 497,
+    "name": "Newberry",
+    "latitude": "29.64635000",
+    "longitude": "-82.60650000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 498,
+    "name": "Niceville",
+    "latitude": "30.51686000",
+    "longitude": "-86.48217000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  },
+  {
+    "id": 499,
+    "name": "Nocatee",
+    "latitude": "27.16033000",
+    "longitude": "-81.88231000",
+    "stateId": 1436,
+    "stateCode": "FL",
+    "countryCode": "US"
+  }
+]

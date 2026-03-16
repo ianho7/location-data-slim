@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "name": "Abingdon",
+    "latitude": "40.80448000",
+    "longitude": "-90.40180000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 1,
+    "name": "Adams County",
+    "latitude": "39.98789000",
+    "longitude": "-91.18849000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 2,
+    "name": "Addison",
+    "latitude": "41.93170000",
+    "longitude": "-87.98896000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 3,
+    "name": "Albany Park",
+    "latitude": "41.96836000",
+    "longitude": "-87.72339000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 4,
+    "name": "Albers",
+    "latitude": "38.54338000",
+    "longitude": "-89.61231000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 5,
+    "name": "Albion",
+    "latitude": "38.37755000",
+    "longitude": "-88.05615000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 6,
+    "name": "Aledo",
+    "latitude": "41.19976000",
+    "longitude": "-90.74931000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 7,
+    "name": "Alexander",
+    "latitude": "37.19160000",
+    "longitude": "-89.33764000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 8,
+    "name": "Algonquin",
+    "latitude": "42.16558000",
+    "longitude": "-88.29425000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 9,
+    "name": "Alorton",
+    "latitude": "38.58977000",
+    "longitude": "-90.12011000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 10,
+    "name": "Alsip",
+    "latitude": "41.66892000",
+    "longitude": "-87.73866000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 11,
+    "name": "Altamont",
+    "latitude": "39.06199000",
+    "longitude": "-88.74811000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 12,
+    "name": "Alton",
+    "latitude": "38.89060000",
+    "longitude": "-90.18428000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 13,
+    "name": "Amboy",
+    "latitude": "41.71420000",
+    "longitude": "-89.32871000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 14,
+    "name": "Andalusia",
+    "latitude": "41.43920000",
+    "longitude": "-90.71764000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 15,
+    "name": "Anna",
+    "latitude": "37.46033000",
+    "longitude": "-89.24703000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 16,
+    "name": "Antioch",
+    "latitude": "42.47724000",
+    "longitude": "-88.09564000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 17,
+    "name": "Arcola",
+    "latitude": "39.68476000",
+    "longitude": "-88.30644000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 18,
+    "name": "Arlington Heights",
+    "latitude": "42.08836000",
+    "longitude": "-87.98063000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 19,
+    "name": "Arthur",
+    "latitude": "39.71476000",
+    "longitude": "-88.47228000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 20,
+    "name": "Ashburn",
+    "latitude": "41.74753000",
+    "longitude": "-87.71116000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 21,
+    "name": "Ashland",
+    "latitude": "39.88783000",
+    "longitude": "-90.00789000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 22,
+    "name": "Assumption",
+    "latitude": "39.52032000",
+    "longitude": "-89.04897000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 23,
+    "name": "Astoria",
+    "latitude": "40.22754000",
+    "longitude": "-90.35957000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 24,
+    "name": "Athens",
+    "latitude": "39.96088000",
+    "longitude": "-89.72399000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 25,
+    "name": "Atlanta",
+    "latitude": "40.25948000",
+    "longitude": "-89.23342000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 26,
+    "name": "Atwood",
+    "latitude": "39.79948000",
+    "longitude": "-88.46228000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 27,
+    "name": "Auburn",
+    "latitude": "39.59172000",
+    "longitude": "-89.74649000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 28,
+    "name": "Auburn Gresham",
+    "latitude": "41.74179000",
+    "longitude": "-87.65322000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 29,
+    "name": "Aurora",
+    "latitude": "41.76058000",
+    "longitude": "-88.32007000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 30,
+    "name": "Aviston",
+    "latitude": "38.60672000",
+    "longitude": "-89.60759000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 31,
+    "name": "Avondale",
+    "latitude": "41.93892000",
+    "longitude": "-87.71117000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 32,
+    "name": "Bannockburn",
+    "latitude": "42.19336000",
+    "longitude": "-87.86646000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 33,
+    "name": "Barrington",
+    "latitude": "42.15391000",
+    "longitude": "-88.13619000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 34,
+    "name": "Barrington Hills",
+    "latitude": "42.14475000",
+    "longitude": "-88.15563000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 35,
+    "name": "Barry",
+    "latitude": "39.69421000",
+    "longitude": "-91.03902000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 36,
+    "name": "Bartlett",
+    "latitude": "41.99503000",
+    "longitude": "-88.18563000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 37,
+    "name": "Bartonville",
+    "latitude": "40.65032000",
+    "longitude": "-89.65205000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 38,
+    "name": "Batavia",
+    "latitude": "41.85003000",
+    "longitude": "-88.31257000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 39,
+    "name": "Beach Park",
+    "latitude": "42.42224000",
+    "longitude": "-87.85730000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 40,
+    "name": "Beardstown",
+    "latitude": "40.01755000",
+    "longitude": "-90.42429000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 41,
+    "name": "Beckemeyer",
+    "latitude": "38.60560000",
+    "longitude": "-89.43592000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 42,
+    "name": "Beecher",
+    "latitude": "41.34059000",
+    "longitude": "-87.62143000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 43,
+    "name": "Belleville",
+    "latitude": "38.52005000",
+    "longitude": "-89.98399000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 44,
+    "name": "Bellevue",
+    "latitude": "40.68448000",
+    "longitude": "-89.68010000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 45,
+    "name": "Bellwood",
+    "latitude": "41.88142000",
+    "longitude": "-87.88312000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 46,
+    "name": "Belmont Cragin",
+    "latitude": "41.93170000",
+    "longitude": "-87.76867000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 47,
+    "name": "Belvidere",
+    "latitude": "42.26391000",
+    "longitude": "-88.84427000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 48,
+    "name": "Bement",
+    "latitude": "39.92198000",
+    "longitude": "-88.57201000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 49,
+    "name": "Benld",
+    "latitude": "39.09282000",
+    "longitude": "-89.80398000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 50,
+    "name": "Bensenville",
+    "latitude": "41.95503000",
+    "longitude": "-87.94007000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 51,
+    "name": "Benton",
+    "latitude": "37.99672000",
+    "longitude": "-88.92007000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 52,
+    "name": "Berkeley",
+    "latitude": "41.88892000",
+    "longitude": "-87.90340000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 53,
+    "name": "Berwyn",
+    "latitude": "41.85059000",
+    "longitude": "-87.79367000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 54,
+    "name": "Bethalto",
+    "latitude": "38.90921000",
+    "longitude": "-90.04066000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 55,
+    "name": "Bethany",
+    "latitude": "39.64559000",
+    "longitude": "-88.73813000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 56,
+    "name": "Big Rock",
+    "latitude": "41.76392000",
+    "longitude": "-88.54702000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 57,
+    "name": "Bloomingdale",
+    "latitude": "41.95753000",
+    "longitude": "-88.08090000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 58,
+    "name": "Bloomington",
+    "latitude": "40.48420000",
+    "longitude": "-88.99369000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 59,
+    "name": "Blue Island",
+    "latitude": "41.65726000",
+    "longitude": "-87.68005000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 60,
+    "name": "Blue Mound",
+    "latitude": "39.70115000",
+    "longitude": "-89.12314000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 61,
+    "name": "Bolingbrook",
+    "latitude": "41.69864000",
+    "longitude": "-88.06840000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 62,
+    "name": "Bond",
+    "latitude": "38.88682000",
+    "longitude": "-89.43555000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 63,
+    "name": "Boone County",
+    "latitude": "42.32308000",
+    "longitude": "-88.82336000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 64,
+    "name": "Boulder Hill",
+    "latitude": "41.71253000",
+    "longitude": "-88.33618000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 65,
+    "name": "Bourbonnais",
+    "latitude": "41.15376000",
+    "longitude": "-87.88754000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 66,
+    "name": "Bradley",
+    "latitude": "41.14198000",
+    "longitude": "-87.86115000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 67,
+    "name": "Braidwood",
+    "latitude": "41.26503000",
+    "longitude": "-88.21228000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 68,
+    "name": "Breese",
+    "latitude": "38.61060000",
+    "longitude": "-89.52703000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 69,
+    "name": "Bridgeport",
+    "latitude": "41.83809000",
+    "longitude": "-87.65116000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 70,
+    "name": "Bridgeview",
+    "latitude": "41.75003000",
+    "longitude": "-87.80422000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 71,
+    "name": "Brighton",
+    "latitude": "39.03977000",
+    "longitude": "-90.14066000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 72,
+    "name": "Brighton Park",
+    "latitude": "41.81892000",
+    "longitude": "-87.69894000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 73,
+    "name": "Broadview",
+    "latitude": "41.86392000",
+    "longitude": "-87.85339000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 74,
+    "name": "Brookfield",
+    "latitude": "41.82392000",
+    "longitude": "-87.85173000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 75,
+    "name": "Brown",
+    "latitude": "39.96181000",
+    "longitude": "-90.75034000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 76,
+    "name": "Buffalo Grove",
+    "latitude": "42.15141000",
+    "longitude": "-87.95979000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 77,
+    "name": "Bull Valley",
+    "latitude": "42.32058000",
+    "longitude": "-88.35509000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 78,
+    "name": "Bunker Hill",
+    "latitude": "39.04282000",
+    "longitude": "-89.95177000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 79,
+    "name": "Burbank",
+    "latitude": "41.73392000",
+    "longitude": "-87.77950000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 80,
+    "name": "Bureau",
+    "latitude": "41.40415000",
+    "longitude": "-89.52868000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 81,
+    "name": "Burnham",
+    "latitude": "41.63892000",
+    "longitude": "-87.55671000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 82,
+    "name": "Burr Ridge",
+    "latitude": "41.74892000",
+    "longitude": "-87.91839000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 83,
+    "name": "Bushnell",
+    "latitude": "40.55282000",
+    "longitude": "-90.50624000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 84,
+    "name": "Byron",
+    "latitude": "42.12697000",
+    "longitude": "-89.25566000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 85,
+    "name": "Cahokia",
+    "latitude": "38.57088000",
+    "longitude": "-90.19011000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 86,
+    "name": "Cairo",
+    "latitude": "37.00533000",
+    "longitude": "-89.17646000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 87,
+    "name": "Calhoun County",
+    "latitude": "39.16930000",
+    "longitude": "-90.66753000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 88,
+    "name": "Calumet City",
+    "latitude": "41.61559000",
+    "longitude": "-87.52949000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 89,
+    "name": "Calumet Park",
+    "latitude": "41.66281000",
+    "longitude": "-87.66060000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 90,
+    "name": "Cambria",
+    "latitude": "37.78144000",
+    "longitude": "-89.11925000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 91,
+    "name": "Cambridge",
+    "latitude": "41.30365000",
+    "longitude": "-90.19290000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 92,
+    "name": "Camp Point",
+    "latitude": "40.03921000",
+    "longitude": "-91.06930000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 93,
+    "name": "Canton",
+    "latitude": "40.55809000",
+    "longitude": "-90.03512000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 94,
+    "name": "Capron",
+    "latitude": "42.39974000",
+    "longitude": "-88.74038000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 95,
+    "name": "Carbon Cliff",
+    "latitude": "41.49476000",
+    "longitude": "-90.39068000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 96,
+    "name": "Carbondale",
+    "latitude": "37.72727000",
+    "longitude": "-89.21675000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 97,
+    "name": "Carlinville",
+    "latitude": "39.27977000",
+    "longitude": "-89.88177000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 98,
+    "name": "Carlyle",
+    "latitude": "38.61033000",
+    "longitude": "-89.37258000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 99,
+    "name": "Carmi",
+    "latitude": "38.09088000",
+    "longitude": "-88.15865000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 100,
+    "name": "Carol Stream",
+    "latitude": "41.91253000",
+    "longitude": "-88.13479000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 101,
+    "name": "Carpentersville",
+    "latitude": "42.12114000",
+    "longitude": "-88.25786000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 102,
+    "name": "Carrier Mills",
+    "latitude": "37.68422000",
+    "longitude": "-88.63283000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 103,
+    "name": "Carroll County",
+    "latitude": "42.06861000",
+    "longitude": "-89.93433000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 104,
+    "name": "Carrollton",
+    "latitude": "39.30227000",
+    "longitude": "-90.40706000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 105,
+    "name": "Carterville",
+    "latitude": "37.76005000",
+    "longitude": "-89.07730000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 106,
+    "name": "Carthage",
+    "latitude": "40.41643000",
+    "longitude": "-91.13625000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 107,
+    "name": "Cary",
+    "latitude": "42.21197000",
+    "longitude": "-88.23814000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 108,
+    "name": "Casey",
+    "latitude": "39.29920000",
+    "longitude": "-87.99253000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 109,
+    "name": "Caseyville",
+    "latitude": "38.63672000",
+    "longitude": "-90.02566000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 110,
+    "name": "Cass",
+    "latitude": "39.97356000",
+    "longitude": "-90.24738000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 111,
+    "name": "Catlin",
+    "latitude": "40.06504000",
+    "longitude": "-87.70197000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 112,
+    "name": "Central City",
+    "latitude": "38.54894000",
+    "longitude": "-89.12701000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 113,
+    "name": "Centralia",
+    "latitude": "38.52505000",
+    "longitude": "-89.13340000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 114,
+    "name": "Centreville",
+    "latitude": "38.58338000",
+    "longitude": "-90.12511000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 115,
+    "name": "Cerro Gordo",
+    "latitude": "39.89059000",
+    "longitude": "-88.72813000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 116,
+    "name": "Champaign",
+    "latitude": "40.11642000",
+    "longitude": "-88.24338000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 117,
+    "name": "Champaign County",
+    "latitude": "40.14008000",
+    "longitude": "-88.19919000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 118,
+    "name": "Channahon",
+    "latitude": "41.42948000",
+    "longitude": "-88.22867000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 119,
+    "name": "Channel Lake",
+    "latitude": "42.47863000",
+    "longitude": "-88.13759000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 120,
+    "name": "Charleston",
+    "latitude": "39.49615000",
+    "longitude": "-88.17615000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 121,
+    "name": "Chatham",
+    "latitude": "41.74115000",
+    "longitude": "-87.61255000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 122,
+    "name": "Chatsworth",
+    "latitude": "40.75365000",
+    "longitude": "-88.29199000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 123,
+    "name": "Chebanse",
+    "latitude": "41.00309000",
+    "longitude": "-87.90810000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 124,
+    "name": "Chenoa",
+    "latitude": "40.74170000",
+    "longitude": "-88.71979000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 125,
+    "name": "Cherry Valley",
+    "latitude": "42.23474000",
+    "longitude": "-88.94899000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 126,
+    "name": "Chester",
+    "latitude": "37.91366000",
+    "longitude": "-89.82205000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 127,
+    "name": "Chicago",
+    "latitude": "41.85003000",
+    "longitude": "-87.65005000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 128,
+    "name": "Chicago Heights",
+    "latitude": "41.50615000",
+    "longitude": "-87.63560000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 129,
+    "name": "Chicago Lawn",
+    "latitude": "41.77503000",
+    "longitude": "-87.69644000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 130,
+    "name": "Chicago Loop",
+    "latitude": "41.88407000",
+    "longitude": "-87.63330000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 131,
+    "name": "Chicago Ridge",
+    "latitude": "41.70142000",
+    "longitude": "-87.77922000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 132,
+    "name": "Chillicothe",
+    "latitude": "40.92226000",
+    "longitude": "-89.48620000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 133,
+    "name": "Chrisman",
+    "latitude": "39.80365000",
+    "longitude": "-87.67364000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 134,
+    "name": "Christian",
+    "latitude": "39.54579000",
+    "longitude": "-89.27727000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 135,
+    "name": "Christopher",
+    "latitude": "37.97255000",
+    "longitude": "-89.05341000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 136,
+    "name": "Cicero",
+    "latitude": "41.84559000",
+    "longitude": "-87.75394000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 137,
+    "name": "Clarendon Hills",
+    "latitude": "41.79753000",
+    "longitude": "-87.95478000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 138,
+    "name": "Clark County",
+    "latitude": "39.33357000",
+    "longitude": "-87.78772000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 139,
+    "name": "Clay County",
+    "latitude": "38.75416000",
+    "longitude": "-88.49019000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 140,
+    "name": "Clifton",
+    "latitude": "40.93531000",
+    "longitude": "-87.93449000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 141,
+    "name": "Clinton",
+    "latitude": "40.15365000",
+    "longitude": "-88.96453000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 142,
+    "name": "Clinton County",
+    "latitude": "38.60645000",
+    "longitude": "-89.42248000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 143,
+    "name": "Coal City",
+    "latitude": "41.28781000",
+    "longitude": "-88.28562000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 144,
+    "name": "Coal Valley",
+    "latitude": "41.42865000",
+    "longitude": "-90.46096000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 145,
+    "name": "Cobden",
+    "latitude": "37.53144000",
+    "longitude": "-89.25342000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 146,
+    "name": "Colchester",
+    "latitude": "40.42643000",
+    "longitude": "-90.79263000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 147,
+    "name": "Coles",
+    "latitude": "39.52029000",
+    "longitude": "-88.22180000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 148,
+    "name": "Colfax",
+    "latitude": "40.56698000",
+    "longitude": "-88.61645000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 149,
+    "name": "Collinsville",
+    "latitude": "38.67033000",
+    "longitude": "-89.98455000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 150,
+    "name": "Colona",
+    "latitude": "41.48392000",
+    "longitude": "-90.35318000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 151,
+    "name": "Columbia",
+    "latitude": "38.44366000",
+    "longitude": "-90.20122000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 152,
+    "name": "Cook",
+    "latitude": "41.89540000",
+    "longitude": "-87.64616000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 153,
+    "name": "Cortland",
+    "latitude": "41.92003000",
+    "longitude": "-88.68870000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 154,
+    "name": "Country Club Hills",
+    "latitude": "41.56809000",
+    "longitude": "-87.72033000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 155,
+    "name": "Countryside",
+    "latitude": "41.78281000",
+    "longitude": "-87.87811000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 156,
+    "name": "Crainville",
+    "latitude": "37.75199000",
+    "longitude": "-89.06785000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 157,
+    "name": "Crawford",
+    "latitude": "39.00269000",
+    "longitude": "-87.75956000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 158,
+    "name": "Crest Hill",
+    "latitude": "41.55475000",
+    "longitude": "-88.09867000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 159,
+    "name": "Crestwood",
+    "latitude": "41.64463000",
+    "longitude": "-87.74154000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 160,
+    "name": "Crete",
+    "latitude": "41.44448000",
+    "longitude": "-87.63143000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 161,
+    "name": "Creve Coeur",
+    "latitude": "40.64726000",
+    "longitude": "-89.59121000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 162,
+    "name": "Crystal Lake",
+    "latitude": "42.24113000",
+    "longitude": "-88.31620000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 163,
+    "name": "Crystal Lawns",
+    "latitude": "41.57031000",
+    "longitude": "-88.15812000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 164,
+    "name": "Cuba",
+    "latitude": "42.18391000",
+    "longitude": "-88.19091000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 165,
+    "name": "Cumberland County",
+    "latitude": "39.27332000",
+    "longitude": "-88.24023000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 166,
+    "name": "Danvers",
+    "latitude": "40.52948000",
+    "longitude": "-89.17731000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 167,
+    "name": "Danville",
+    "latitude": "40.12448000",
+    "longitude": "-87.63002000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 168,
+    "name": "Darien",
+    "latitude": "41.75198000",
+    "longitude": "-87.97395000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 169,
+    "name": "Davis Junction",
+    "latitude": "42.10169000",
+    "longitude": "-89.09316000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 170,
+    "name": "De Soto",
+    "latitude": "37.81755000",
+    "longitude": "-89.22786000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 171,
+    "name": "De Witt",
+    "latitude": "40.17463000",
+    "longitude": "-88.90409000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 172,
+    "name": "Decatur",
+    "latitude": "39.84031000",
+    "longitude": "-88.95480000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 173,
+    "name": "Deer Park",
+    "latitude": "42.16086000",
+    "longitude": "-88.08147000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 174,
+    "name": "Deerfield",
+    "latitude": "42.17114000",
+    "longitude": "-87.84451000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 175,
+    "name": "DeKalb",
+    "latitude": "41.92947000",
+    "longitude": "-88.75036000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 176,
+    "name": "DeKalb County",
+    "latitude": "41.89353000",
+    "longitude": "-88.77031000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 177,
+    "name": "Delavan",
+    "latitude": "40.37254000",
+    "longitude": "-89.54732000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 178,
+    "name": "Depue",
+    "latitude": "41.32420000",
+    "longitude": "-89.30675000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 179,
+    "name": "Des Plaines",
+    "latitude": "42.03336000",
+    "longitude": "-87.88340000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 180,
+    "name": "Diamond",
+    "latitude": "41.28864000",
+    "longitude": "-88.25173000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 181,
+    "name": "Divernon",
+    "latitude": "39.56561000",
+    "longitude": "-89.65732000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 182,
+    "name": "Dixmoor",
+    "latitude": "41.63170000",
+    "longitude": "-87.66088000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 183,
+    "name": "Dixon",
+    "latitude": "41.83892000",
+    "longitude": "-89.47955000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 184,
+    "name": "Dolton",
+    "latitude": "41.63892000",
+    "longitude": "-87.60727000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 185,
+    "name": "Douglas",
+    "latitude": "41.83476000",
+    "longitude": "-87.61811000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 186,
+    "name": "Douglas County",
+    "latitude": "39.76946000",
+    "longitude": "-88.21735000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 187,
+    "name": "Downers Grove",
+    "latitude": "41.80892000",
+    "longitude": "-88.01117000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 188,
+    "name": "Du Quoin",
+    "latitude": "38.01144000",
+    "longitude": "-89.23619000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 189,
+    "name": "Dunlap",
+    "latitude": "40.86170000",
+    "longitude": "-89.67871000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 190,
+    "name": "DuPage",
+    "latitude": "41.85195000",
+    "longitude": "-88.08567000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 191,
+    "name": "Dupo",
+    "latitude": "38.51616000",
+    "longitude": "-90.21039000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 192,
+    "name": "Durand",
+    "latitude": "42.43640000",
+    "longitude": "-89.33206000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 193,
+    "name": "Dwight",
+    "latitude": "41.09448000",
+    "longitude": "-88.42506000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 194,
+    "name": "Earlville",
+    "latitude": "41.58948000",
+    "longitude": "-88.92203000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 195,
+    "name": "East Alton",
+    "latitude": "38.88033000",
+    "longitude": "-90.11122000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 196,
+    "name": "East Dubuque",
+    "latitude": "42.49223000",
+    "longitude": "-90.64291000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 197,
+    "name": "East Dundee",
+    "latitude": "42.09891000",
+    "longitude": "-88.27147000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 198,
+    "name": "East Garfield Park",
+    "latitude": "41.88087000",
+    "longitude": "-87.70283000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 199,
+    "name": "East Hazel Crest",
+    "latitude": "41.57365000",
+    "longitude": "-87.64643000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 200,
+    "name": "East Moline",
+    "latitude": "41.50087000",
+    "longitude": "-90.44430000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 201,
+    "name": "East Peoria",
+    "latitude": "40.66615000",
+    "longitude": "-89.58010000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 202,
+    "name": "East Saint Louis",
+    "latitude": "38.62450000",
+    "longitude": "-90.15094000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 203,
+    "name": "Edgar",
+    "latitude": "39.67853000",
+    "longitude": "-87.74557000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 204,
+    "name": "Edgewater",
+    "latitude": "41.98337000",
+    "longitude": "-87.66395000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 205,
+    "name": "Edinburg",
+    "latitude": "39.65727000",
+    "longitude": "-89.38953000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 206,
+    "name": "Edwards",
+    "latitude": "38.41653000",
+    "longitude": "-88.05327000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 207,
+    "name": "Edwardsville",
+    "latitude": "38.81144000",
+    "longitude": "-89.95316000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 208,
+    "name": "Effingham",
+    "latitude": "39.12004000",
+    "longitude": "-88.54338000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 209,
+    "name": "Effingham County",
+    "latitude": "39.05977000",
+    "longitude": "-88.58986000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 210,
+    "name": "El Paso",
+    "latitude": "40.73920000",
+    "longitude": "-89.01646000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 211,
+    "name": "Elburn",
+    "latitude": "41.89225000",
+    "longitude": "-88.47230000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 212,
+    "name": "Eldorado",
+    "latitude": "37.81366000",
+    "longitude": "-88.43810000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 213,
+    "name": "Elgin",
+    "latitude": "42.03725000",
+    "longitude": "-88.28119000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 214,
+    "name": "Elizabethtown",
+    "latitude": "37.44588000",
+    "longitude": "-88.30504000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 215,
+    "name": "Elk Grove Village",
+    "latitude": "42.00392000",
+    "longitude": "-87.97035000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 216,
+    "name": "Elmhurst",
+    "latitude": "41.89947000",
+    "longitude": "-87.94034000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 217,
+    "name": "Elmwood",
+    "latitude": "40.77782000",
+    "longitude": "-89.96650000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 218,
+    "name": "Elmwood Park",
+    "latitude": "41.92114000",
+    "longitude": "-87.80923000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 219,
+    "name": "Elwood",
+    "latitude": "41.40392000",
+    "longitude": "-88.11172000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 220,
+    "name": "Energy",
+    "latitude": "37.77394000",
+    "longitude": "-89.02646000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 221,
+    "name": "Englewood",
+    "latitude": "41.77976000",
+    "longitude": "-87.64588000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 222,
+    "name": "Erie",
+    "latitude": "41.65642000",
+    "longitude": "-90.07929000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 223,
+    "name": "Eureka",
+    "latitude": "40.72143000",
+    "longitude": "-89.27286000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 224,
+    "name": "Evanston",
+    "latitude": "42.04114000",
+    "longitude": "-87.69006000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 225,
+    "name": "Evergreen Park",
+    "latitude": "41.72059000",
+    "longitude": "-87.70172000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 226,
+    "name": "Fairbury",
+    "latitude": "40.74726000",
+    "longitude": "-88.51478000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 227,
+    "name": "Fairfield",
+    "latitude": "38.37894000",
+    "longitude": "-88.35977000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 228,
+    "name": "Fairmont",
+    "latitude": "41.55614000",
+    "longitude": "-88.05923000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 229,
+    "name": "Fairview Heights",
+    "latitude": "38.58894000",
+    "longitude": "-89.99038000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 230,
+    "name": "Farmer City",
+    "latitude": "40.24337000",
+    "longitude": "-88.64257000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 231,
+    "name": "Farmington",
+    "latitude": "40.69809000",
+    "longitude": "-90.00595000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 232,
+    "name": "Fayette County",
+    "latitude": "39.00019000",
+    "longitude": "-89.02414000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 233,
+    "name": "Fisher",
+    "latitude": "40.31476000",
+    "longitude": "-88.35005000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 234,
+    "name": "Flanagan",
+    "latitude": "40.87809000",
+    "longitude": "-88.86118000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 235,
+    "name": "Flora",
+    "latitude": "38.66894000",
+    "longitude": "-88.48560000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 236,
+    "name": "Flossmoor",
+    "latitude": "41.54281000",
+    "longitude": "-87.68477000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 237,
+    "name": "Ford",
+    "latitude": "40.59718000",
+    "longitude": "-88.22326000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 238,
+    "name": "Ford Heights",
+    "latitude": "41.50642000",
+    "longitude": "-87.59171000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 239,
+    "name": "Forest Lake",
+    "latitude": "42.20752000",
+    "longitude": "-88.05563000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 240,
+    "name": "Forest Park",
+    "latitude": "41.87948000",
+    "longitude": "-87.81367000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 241,
+    "name": "Forrest",
+    "latitude": "40.75198000",
+    "longitude": "-88.41116000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 242,
+    "name": "Forreston",
+    "latitude": "42.12614000",
+    "longitude": "-89.57928000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 243,
+    "name": "Forsyth",
+    "latitude": "39.93254000",
+    "longitude": "-88.95119000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 244,
+    "name": "Fox Lake",
+    "latitude": "42.39669000",
+    "longitude": "-88.18370000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 245,
+    "name": "Fox Lake Hills",
+    "latitude": "42.40808000",
+    "longitude": "-88.13175000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 246,
+    "name": "Fox River Grove",
+    "latitude": "42.20086000",
+    "longitude": "-88.21453000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 247,
+    "name": "Frankfort",
+    "latitude": "41.49587000",
+    "longitude": "-87.84866000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 248,
+    "name": "Frankfort Square",
+    "latitude": "41.51892000",
+    "longitude": "-87.80310000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 249,
+    "name": "Franklin County",
+    "latitude": "37.99229000",
+    "longitude": "-88.92415000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 250,
+    "name": "Franklin Park",
+    "latitude": "41.93531000",
+    "longitude": "-87.86562000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 251,
+    "name": "Freeburg",
+    "latitude": "38.42755000",
+    "longitude": "-89.91371000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 252,
+    "name": "Freeport",
+    "latitude": "42.29669000",
+    "longitude": "-89.62123000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 253,
+    "name": "Fulton",
+    "latitude": "41.86725000",
+    "longitude": "-90.15957000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 254,
+    "name": "Fulton County",
+    "latitude": "40.47277000",
+    "longitude": "-90.20747000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 255,
+    "name": "Gage Park",
+    "latitude": "41.79503000",
+    "longitude": "-87.69616000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 256,
+    "name": "Gages Lake",
+    "latitude": "42.35169000",
+    "longitude": "-87.98258000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 257,
+    "name": "Galena",
+    "latitude": "42.41667000",
+    "longitude": "-90.42902000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 258,
+    "name": "Galesburg",
+    "latitude": "40.94782000",
+    "longitude": "-90.37124000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 259,
+    "name": "Gallatin",
+    "latitude": "37.76275000",
+    "longitude": "-88.23050000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 260,
+    "name": "Galva",
+    "latitude": "41.16754000",
+    "longitude": "-90.04261000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 261,
+    "name": "Gardner",
+    "latitude": "41.18559000",
+    "longitude": "-88.30978000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 262,
+    "name": "Geneseo",
+    "latitude": "41.44809000",
+    "longitude": "-90.15428000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 263,
+    "name": "Geneva",
+    "latitude": "41.88753000",
+    "longitude": "-88.30535000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 264,
+    "name": "Genoa",
+    "latitude": "42.09725000",
+    "longitude": "-88.69287000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 265,
+    "name": "Georgetown",
+    "latitude": "42.13975000",
+    "longitude": "-89.82873000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 266,
+    "name": "Germantown",
+    "latitude": "38.55366000",
+    "longitude": "-89.53842000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 267,
+    "name": "Germantown Hills",
+    "latitude": "40.76643000",
+    "longitude": "-89.46787000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 268,
+    "name": "Gibson City",
+    "latitude": "40.45843000",
+    "longitude": "-88.38460000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 269,
+    "name": "Gifford",
+    "latitude": "40.30587000",
+    "longitude": "-88.02115000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 270,
+    "name": "Gilberts",
+    "latitude": "42.10336000",
+    "longitude": "-88.37286000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 271,
+    "name": "Gillespie",
+    "latitude": "39.12977000",
+    "longitude": "-89.81954000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 272,
+    "name": "Gilman",
+    "latitude": "40.76670000",
+    "longitude": "-87.99226000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 273,
+    "name": "Girard",
+    "latitude": "39.44644000",
+    "longitude": "-89.78093000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 274,
+    "name": "Glasford",
+    "latitude": "40.57254000",
+    "longitude": "-89.81344000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 275,
+    "name": "Glen Carbon",
+    "latitude": "38.74838000",
+    "longitude": "-89.98316000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 276,
+    "name": "Glen Ellyn",
+    "latitude": "41.87753000",
+    "longitude": "-88.06701000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 277,
+    "name": "Glencoe",
+    "latitude": "42.13503000",
+    "longitude": "-87.75812000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 278,
+    "name": "Glendale Heights",
+    "latitude": "41.91460000",
+    "longitude": "-88.06486000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 279,
+    "name": "Glenview",
+    "latitude": "42.06975000",
+    "longitude": "-87.78784000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 280,
+    "name": "Glenwood",
+    "latitude": "41.54253000",
+    "longitude": "-87.60227000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 281,
+    "name": "Godfrey",
+    "latitude": "38.95560000",
+    "longitude": "-90.18678000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 282,
+    "name": "Golconda",
+    "latitude": "37.36727000",
+    "longitude": "-88.48643000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 283,
+    "name": "Goodings Grove",
+    "latitude": "41.62920000",
+    "longitude": "-87.93089000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 284,
+    "name": "Goreville",
+    "latitude": "37.55450000",
+    "longitude": "-88.97229000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 285,
+    "name": "Grand Boulevard",
+    "latitude": "41.81392000",
+    "longitude": "-87.61727000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 286,
+    "name": "Grandview",
+    "latitude": "39.81644000",
+    "longitude": "-89.61871000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 287,
+    "name": "Grandwood Park",
+    "latitude": "42.39308000",
+    "longitude": "-87.98674000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 288,
+    "name": "Granite City",
+    "latitude": "38.70144000",
+    "longitude": "-90.14872000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 289,
+    "name": "Grant Park",
+    "latitude": "41.24114000",
+    "longitude": "-87.64615000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 290,
+    "name": "Granville",
+    "latitude": "41.26115000",
+    "longitude": "-89.22759000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 291,
+    "name": "Grayslake",
+    "latitude": "42.34447000",
+    "longitude": "-88.04175000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 292,
+    "name": "Grayville",
+    "latitude": "38.25755000",
+    "longitude": "-87.99364000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 293,
+    "name": "Greater Grand Crossing",
+    "latitude": "41.76113000",
+    "longitude": "-87.61485000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 294,
+    "name": "Green Oaks",
+    "latitude": "42.29002000",
+    "longitude": "-87.90341000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 295,
+    "name": "Green Rock",
+    "latitude": "41.47309000",
+    "longitude": "-90.35763000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 296,
+    "name": "Greene County",
+    "latitude": "39.35620000",
+    "longitude": "-90.39049000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 297,
+    "name": "Greenfield",
+    "latitude": "39.34366000",
+    "longitude": "-90.21261000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 298,
+    "name": "Greenup",
+    "latitude": "39.24782000",
+    "longitude": "-88.16337000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 299,
+    "name": "Greenville",
+    "latitude": "38.89227000",
+    "longitude": "-89.41314000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 300,
+    "name": "Gridley",
+    "latitude": "40.74337000",
+    "longitude": "-88.88146000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 301,
+    "name": "Griggsville",
+    "latitude": "39.70894000",
+    "longitude": "-90.72457000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 302,
+    "name": "Grundy",
+    "latitude": "41.28509000",
+    "longitude": "-88.41850000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 303,
+    "name": "Gurnee",
+    "latitude": "42.37030000",
+    "longitude": "-87.90202000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 304,
+    "name": "Hainesville",
+    "latitude": "42.34502000",
+    "longitude": "-88.06786000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 305,
+    "name": "Hamilton",
+    "latitude": "40.39643000",
+    "longitude": "-91.33904000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 306,
+    "name": "Hamilton County",
+    "latitude": "38.08157000",
+    "longitude": "-88.53911000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 307,
+    "name": "Hampshire",
+    "latitude": "42.09780000",
+    "longitude": "-88.53036000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 308,
+    "name": "Hampton",
+    "latitude": "41.55587000",
+    "longitude": "-90.40930000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 309,
+    "name": "Hancock County",
+    "latitude": "40.40378000",
+    "longitude": "-91.16470000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 310,
+    "name": "Hanna City",
+    "latitude": "40.69170000",
+    "longitude": "-89.79511000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 311,
+    "name": "Hanover Park",
+    "latitude": "41.99947000",
+    "longitude": "-88.14507000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 312,
+    "name": "Hardin",
+    "latitude": "39.15671000",
+    "longitude": "-90.61790000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 313,
+    "name": "Hardin County",
+    "latitude": "37.51820000",
+    "longitude": "-88.26685000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 314,
+    "name": "Harrisburg",
+    "latitude": "37.73838000",
+    "longitude": "-88.54061000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 315,
+    "name": "Harristown",
+    "latitude": "39.85393000",
+    "longitude": "-89.08397000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 316,
+    "name": "Hartford",
+    "latitude": "38.83338000",
+    "longitude": "-90.09594000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 317,
+    "name": "Harvard",
+    "latitude": "42.42224000",
+    "longitude": "-88.61371000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 318,
+    "name": "Harvey",
+    "latitude": "41.61003000",
+    "longitude": "-87.64671000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 319,
+    "name": "Harwood Heights",
+    "latitude": "41.96725000",
+    "longitude": "-87.80756000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 320,
+    "name": "Havana",
+    "latitude": "40.30004000",
+    "longitude": "-90.06095000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 321,
+    "name": "Hawthorn Woods",
+    "latitude": "42.21697000",
+    "longitude": "-88.04952000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 322,
+    "name": "Hazel Crest",
+    "latitude": "41.57170000",
+    "longitude": "-87.69449000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 323,
+    "name": "Hebron",
+    "latitude": "42.47169000",
+    "longitude": "-88.43232000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 324,
+    "name": "Henderson County",
+    "latitude": "40.81812000",
+    "longitude": "-90.92511000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 325,
+    "name": "Hennepin",
+    "latitude": "41.25420000",
+    "longitude": "-89.34231000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 326,
+    "name": "Henry",
+    "latitude": "41.11142000",
+    "longitude": "-89.35648000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 327,
+    "name": "Henry County",
+    "latitude": "41.35313000",
+    "longitude": "-90.13142000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 328,
+    "name": "Heritage Lake",
+    "latitude": "40.54745000",
+    "longitude": "-89.32581000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 329,
+    "name": "Herrin",
+    "latitude": "37.80311000",
+    "longitude": "-89.02757000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 330,
+    "name": "Herscher",
+    "latitude": "41.04920000",
+    "longitude": "-88.09783000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 331,
+    "name": "Heyworth",
+    "latitude": "40.31337000",
+    "longitude": "-88.97369000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 332,
+    "name": "Hickory Hills",
+    "latitude": "41.72559000",
+    "longitude": "-87.82506000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 333,
+    "name": "Highland",
+    "latitude": "38.73949000",
+    "longitude": "-89.67120000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 334,
+    "name": "Highland Park",
+    "latitude": "42.18169000",
+    "longitude": "-87.80034000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 335,
+    "name": "Highwood",
+    "latitude": "42.19975000",
+    "longitude": "-87.80923000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 336,
+    "name": "Hillcrest",
+    "latitude": "41.95114000",
+    "longitude": "-89.06454000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 337,
+    "name": "Hillsboro",
+    "latitude": "39.16128000",
+    "longitude": "-89.49540000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 338,
+    "name": "Hillside",
+    "latitude": "41.87781000",
+    "longitude": "-87.90284000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 339,
+    "name": "Hinckley",
+    "latitude": "41.76892000",
+    "longitude": "-88.64091000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 340,
+    "name": "Hinsdale",
+    "latitude": "41.80086000",
+    "longitude": "-87.93701000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 341,
+    "name": "Hodgkins",
+    "latitude": "41.76892000",
+    "longitude": "-87.85783000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 342,
+    "name": "Hoffman Estates",
+    "latitude": "42.04281000",
+    "longitude": "-88.07980000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 343,
+    "name": "Holiday Shores",
+    "latitude": "38.92199000",
+    "longitude": "-89.94066000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 344,
+    "name": "Homer",
+    "latitude": "40.03476000",
+    "longitude": "-87.95809000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 345,
+    "name": "Homer Glen",
+    "latitude": "41.60003000",
+    "longitude": "-87.93811000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 346,
+    "name": "Hometown",
+    "latitude": "41.73448000",
+    "longitude": "-87.73144000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 347,
+    "name": "Homewood",
+    "latitude": "41.55726000",
+    "longitude": "-87.66560000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 348,
+    "name": "Hoopeston",
+    "latitude": "40.46726000",
+    "longitude": "-87.66836000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 349,
+    "name": "Hudson",
+    "latitude": "40.60587000",
+    "longitude": "-88.98730000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 350,
+    "name": "Huntley",
+    "latitude": "42.16808000",
+    "longitude": "-88.42814000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 351,
+    "name": "Hyde Park",
+    "latitude": "41.79420000",
+    "longitude": "-87.59394000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 352,
+    "name": "Ina",
+    "latitude": "38.15116000",
+    "longitude": "-88.90396000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 353,
+    "name": "Indian Head Park",
+    "latitude": "41.77031000",
+    "longitude": "-87.90228000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 354,
+    "name": "Ingalls Park",
+    "latitude": "41.52253000",
+    "longitude": "-88.04283000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 355,
+    "name": "Inverness",
+    "latitude": "42.11808000",
+    "longitude": "-88.09619000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 356,
+    "name": "Iroquois",
+    "latitude": "40.74723000",
+    "longitude": "-87.82430000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 357,
+    "name": "Irving Park",
+    "latitude": "41.95336000",
+    "longitude": "-87.73645000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 358,
+    "name": "Island Lake",
+    "latitude": "42.27613000",
+    "longitude": "-88.19203000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 359,
+    "name": "Itasca",
+    "latitude": "41.97503000",
+    "longitude": "-88.00729000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 360,
+    "name": "Jackson County",
+    "latitude": "37.78514000",
+    "longitude": "-89.38212000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 361,
+    "name": "Jacksonville",
+    "latitude": "39.73394000",
+    "longitude": "-90.22901000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 362,
+    "name": "Jasper County",
+    "latitude": "39.01003000",
+    "longitude": "-88.15381000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 363,
+    "name": "Jefferson County",
+    "latitude": "38.30052000",
+    "longitude": "-88.92401000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 364,
+    "name": "Jerome",
+    "latitude": "39.76755000",
+    "longitude": "-89.68066000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 365,
+    "name": "Jersey",
+    "latitude": "39.08566000",
+    "longitude": "-90.35668000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 366,
+    "name": "Jerseyville",
+    "latitude": "39.12005000",
+    "longitude": "-90.32845000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 367,
+    "name": "Jo Daviess",
+    "latitude": "42.36571000",
+    "longitude": "-90.21241000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 368,
+    "name": "Johnsburg",
+    "latitude": "42.38002000",
+    "longitude": "-88.24203000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 369,
+    "name": "Johnson County",
+    "latitude": "37.45963000",
+    "longitude": "-88.88089000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 370,
+    "name": "Johnston City",
+    "latitude": "37.82061000",
+    "longitude": "-88.92757000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 371,
+    "name": "Joliet",
+    "latitude": "41.52519000",
+    "longitude": "-88.08340000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 372,
+    "name": "Jonesboro",
+    "latitude": "37.45172000",
+    "longitude": "-89.26814000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 373,
+    "name": "Justice",
+    "latitude": "41.74448000",
+    "longitude": "-87.83783000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 374,
+    "name": "Kane",
+    "latitude": "41.93894000",
+    "longitude": "-88.42866000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 375,
+    "name": "Kankakee",
+    "latitude": "41.12003000",
+    "longitude": "-87.86115000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 376,
+    "name": "Kankakee County",
+    "latitude": "41.13770000",
+    "longitude": "-87.86180000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 377,
+    "name": "Kendall",
+    "latitude": "41.59056000",
+    "longitude": "-88.42885000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 378,
+    "name": "Kenilworth",
+    "latitude": "42.08586000",
+    "longitude": "-87.71756000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 379,
+    "name": "Kenwood",
+    "latitude": "41.80920000",
+    "longitude": "-87.59755000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 380,
+    "name": "Kewanee",
+    "latitude": "41.24559000",
+    "longitude": "-89.92483000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 381,
+    "name": "Kildeer",
+    "latitude": "42.17058000",
+    "longitude": "-88.04785000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 382,
+    "name": "Kincaid",
+    "latitude": "39.58866000",
+    "longitude": "-89.41454000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 383,
+    "name": "Kingston",
+    "latitude": "42.09975000",
+    "longitude": "-88.75898000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 384,
+    "name": "Kirkland",
+    "latitude": "42.09253000",
+    "longitude": "-88.85121000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 385,
+    "name": "Knollwood",
+    "latitude": "42.28613000",
+    "longitude": "-87.88563000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 386,
+    "name": "Knox County",
+    "latitude": "40.93182000",
+    "longitude": "-90.21326000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 387,
+    "name": "Knoxville",
+    "latitude": "40.90837000",
+    "longitude": "-90.28485000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 388,
+    "name": "La Grange",
+    "latitude": "41.80503000",
+    "longitude": "-87.86923000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 389,
+    "name": "La Grange Park",
+    "latitude": "41.83475000",
+    "longitude": "-87.86173000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 390,
+    "name": "La Harpe",
+    "latitude": "40.58337000",
+    "longitude": "-90.96931000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 391,
+    "name": "La Salle",
+    "latitude": "41.33337000",
+    "longitude": "-89.09175000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 392,
+    "name": "Lacon",
+    "latitude": "41.02476000",
+    "longitude": "-89.41120000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 393,
+    "name": "Ladd",
+    "latitude": "41.38253000",
+    "longitude": "-89.21897000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 394,
+    "name": "Lake",
+    "latitude": "42.34941000",
+    "longitude": "-87.86179000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 395,
+    "name": "Lake Barrington",
+    "latitude": "42.21252000",
+    "longitude": "-88.15258000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 396,
+    "name": "Lake Bluff",
+    "latitude": "42.27891000",
+    "longitude": "-87.83424000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 397,
+    "name": "Lake Camelot",
+    "latitude": "40.63065000",
+    "longitude": "-89.74210000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 398,
+    "name": "Lake Catherine",
+    "latitude": "42.47919000",
+    "longitude": "-88.13342000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 399,
+    "name": "Lake Forest",
+    "latitude": "42.25863000",
+    "longitude": "-87.84063000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 400,
+    "name": "Lake Holiday",
+    "latitude": "41.61292000",
+    "longitude": "-88.67209000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 401,
+    "name": "Lake in the Hills",
+    "latitude": "42.18169000",
+    "longitude": "-88.33036000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 402,
+    "name": "Lake of the Woods",
+    "latitude": "40.20642000",
+    "longitude": "-88.36867000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 403,
+    "name": "Lake Summerset",
+    "latitude": "42.45446000",
+    "longitude": "-89.38956000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 404,
+    "name": "Lake Villa",
+    "latitude": "42.41697000",
+    "longitude": "-88.07397000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 405,
+    "name": "Lake Zurich",
+    "latitude": "42.19697000",
+    "longitude": "-88.09341000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 406,
+    "name": "Lakemoor",
+    "latitude": "42.32863000",
+    "longitude": "-88.19897000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 407,
+    "name": "Lakewood",
+    "latitude": "42.22919000",
+    "longitude": "-88.35509000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 408,
+    "name": "Lakewood Shores",
+    "latitude": "41.28170000",
+    "longitude": "-88.14478000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 409,
+    "name": "Lanark",
+    "latitude": "42.10225000",
+    "longitude": "-89.83345000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 410,
+    "name": "Lansing",
+    "latitude": "41.56476000",
+    "longitude": "-87.53893000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 411,
+    "name": "LaSalle",
+    "latitude": "41.34399000",
+    "longitude": "-88.88595000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 412,
+    "name": "Lawrence County",
+    "latitude": "38.71995000",
+    "longitude": "-87.72673000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 413,
+    "name": "Lawrenceville",
+    "latitude": "38.72921000",
+    "longitude": "-87.68169000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 414,
+    "name": "Le Roy",
+    "latitude": "40.35198000",
+    "longitude": "-88.76424000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 415,
+    "name": "Lebanon",
+    "latitude": "38.60394000",
+    "longitude": "-89.80732000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 416,
+    "name": "Lee",
+    "latitude": "41.74619000",
+    "longitude": "-89.30039000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 417,
+    "name": "Leland Grove",
+    "latitude": "39.77700000",
+    "longitude": "-89.67927000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 418,
+    "name": "Lemont",
+    "latitude": "41.67364000",
+    "longitude": "-88.00173000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 419,
+    "name": "Lena",
+    "latitude": "42.37946000",
+    "longitude": "-89.82234000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 420,
+    "name": "Lewistown",
+    "latitude": "40.39310000",
+    "longitude": "-90.15484000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 421,
+    "name": "Lexington",
+    "latitude": "40.64142000",
+    "longitude": "-88.78340000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 422,
+    "name": "Libertyville",
+    "latitude": "42.28308000",
+    "longitude": "-87.95313000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 423,
+    "name": "Lily Lake",
+    "latitude": "41.94892000",
+    "longitude": "-88.47786000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 424,
+    "name": "Limestone",
+    "latitude": "41.13237000",
+    "longitude": "-87.96840000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 425,
+    "name": "Lincoln",
+    "latitude": "40.14838000",
+    "longitude": "-89.36482000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 426,
+    "name": "Lincoln Park",
+    "latitude": "41.92170000",
+    "longitude": "-87.64783000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 427,
+    "name": "Lincoln Square",
+    "latitude": "41.97587000",
+    "longitude": "-87.68922000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 428,
+    "name": "Lincolnshire",
+    "latitude": "42.19002000",
+    "longitude": "-87.90840000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 429,
+    "name": "Lincolnwood",
+    "latitude": "42.00448000",
+    "longitude": "-87.73006000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 430,
+    "name": "Lindenhurst",
+    "latitude": "42.41058000",
+    "longitude": "-88.02619000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 431,
+    "name": "Lisle",
+    "latitude": "41.80114000",
+    "longitude": "-88.07479000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 432,
+    "name": "Litchfield",
+    "latitude": "39.17533000",
+    "longitude": "-89.65426000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 433,
+    "name": "Livingston County",
+    "latitude": "40.89156000",
+    "longitude": "-88.55772000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 434,
+    "name": "Lockport",
+    "latitude": "41.58948000",
+    "longitude": "-88.05784000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 435,
+    "name": "Logan County",
+    "latitude": "40.12456000",
+    "longitude": "-89.36755000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 436,
+    "name": "Logan Square",
+    "latitude": "41.92337000",
+    "longitude": "-87.69922000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 437,
+    "name": "Lombard",
+    "latitude": "41.88003000",
+    "longitude": "-88.00784000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 438,
+    "name": "Long Creek",
+    "latitude": "39.81198000",
+    "longitude": "-88.84757000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 439,
+    "name": "Long Grove",
+    "latitude": "42.17836000",
+    "longitude": "-87.99785000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 440,
+    "name": "Long Lake",
+    "latitude": "42.37085000",
+    "longitude": "-88.12758000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 441,
+    "name": "Louisville",
+    "latitude": "38.77227000",
+    "longitude": "-88.50255000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 442,
+    "name": "Loves Park",
+    "latitude": "42.32002000",
+    "longitude": "-89.05816000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 443,
+    "name": "Lovington",
+    "latitude": "39.71559000",
+    "longitude": "-88.63256000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 444,
+    "name": "Lower West Side",
+    "latitude": "41.85420000",
+    "longitude": "-87.66561000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 445,
+    "name": "Lynwood",
+    "latitude": "41.52642000",
+    "longitude": "-87.53865000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 446,
+    "name": "Lyons",
+    "latitude": "41.81337000",
+    "longitude": "-87.81811000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 447,
+    "name": "Machesney Park",
+    "latitude": "42.34724000",
+    "longitude": "-89.03900000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 448,
+    "name": "Mackinaw",
+    "latitude": "40.53698000",
+    "longitude": "-89.35759000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 449,
+    "name": "Macomb",
+    "latitude": "40.45921000",
+    "longitude": "-90.67180000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 450,
+    "name": "Macon",
+    "latitude": "39.71282000",
+    "longitude": "-88.99702000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 451,
+    "name": "Macon County",
+    "latitude": "39.86000000",
+    "longitude": "-88.96160000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 452,
+    "name": "Macoupin",
+    "latitude": "39.26102000",
+    "longitude": "-89.92443000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 453,
+    "name": "Madison",
+    "latitude": "38.68255000",
+    "longitude": "-90.15705000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 454,
+    "name": "Madison County",
+    "latitude": "38.82985000",
+    "longitude": "-89.90517000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 455,
+    "name": "Mahomet",
+    "latitude": "40.19531000",
+    "longitude": "-88.40422000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 456,
+    "name": "Malta",
+    "latitude": "41.92975000",
+    "longitude": "-88.86092000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 457,
+    "name": "Manhattan",
+    "latitude": "41.42253000",
+    "longitude": "-87.98589000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 458,
+    "name": "Manito",
+    "latitude": "40.42587000",
+    "longitude": "-89.77928000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 459,
+    "name": "Manteno",
+    "latitude": "41.25059000",
+    "longitude": "-87.83143000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 460,
+    "name": "Maple Park",
+    "latitude": "41.90753000",
+    "longitude": "-88.59925000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 461,
+    "name": "Marengo",
+    "latitude": "42.24863000",
+    "longitude": "-88.60843000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 462,
+    "name": "Marion",
+    "latitude": "37.73061000",
+    "longitude": "-88.93313000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 463,
+    "name": "Marion County",
+    "latitude": "38.64959000",
+    "longitude": "-88.91897000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 464,
+    "name": "Marissa",
+    "latitude": "38.25005000",
+    "longitude": "-89.75010000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 465,
+    "name": "Markham",
+    "latitude": "41.59365000",
+    "longitude": "-87.69477000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 466,
+    "name": "Maroa",
+    "latitude": "40.03643000",
+    "longitude": "-88.95703000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 467,
+    "name": "Marquette Heights",
+    "latitude": "40.61754000",
+    "longitude": "-89.60038000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 468,
+    "name": "Marseilles",
+    "latitude": "41.33087000",
+    "longitude": "-88.70813000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 469,
+    "name": "Marshall",
+    "latitude": "39.39143000",
+    "longitude": "-87.69364000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 470,
+    "name": "Marshall County",
+    "latitude": "41.03317000",
+    "longitude": "-89.34478000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 471,
+    "name": "Martinsville",
+    "latitude": "39.33559000",
+    "longitude": "-87.88198000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 472,
+    "name": "Maryville",
+    "latitude": "38.72366000",
+    "longitude": "-89.95593000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 473,
+    "name": "Mascoutah",
+    "latitude": "38.49033000",
+    "longitude": "-89.79315000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 474,
+    "name": "Mason City",
+    "latitude": "40.20227000",
+    "longitude": "-89.69816000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 475,
+    "name": "Mason County",
+    "latitude": "40.23965000",
+    "longitude": "-89.91678000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 476,
+    "name": "Massac",
+    "latitude": "37.21903000",
+    "longitude": "-88.70774000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 477,
+    "name": "Matteson",
+    "latitude": "41.50392000",
+    "longitude": "-87.71310000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 478,
+    "name": "Mattoon",
+    "latitude": "39.48309000",
+    "longitude": "-88.37283000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 479,
+    "name": "Maywood",
+    "latitude": "41.87920000",
+    "longitude": "-87.84312000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 480,
+    "name": "McCullom Lake",
+    "latitude": "42.36835000",
+    "longitude": "-88.29259000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 481,
+    "name": "McDonough",
+    "latitude": "40.45621000",
+    "longitude": "-90.67791000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 482,
+    "name": "McHenry",
+    "latitude": "42.33335000",
+    "longitude": "-88.26675000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 483,
+    "name": "McHenry County",
+    "latitude": "42.32439000",
+    "longitude": "-88.45245000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 484,
+    "name": "McKinley Park",
+    "latitude": "41.83170000",
+    "longitude": "-87.67366000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 485,
+    "name": "McLean",
+    "latitude": "40.49089000",
+    "longitude": "-88.84732000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 486,
+    "name": "McLeansboro",
+    "latitude": "38.09338000",
+    "longitude": "-88.53561000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 487,
+    "name": "Melrose Park",
+    "latitude": "41.90059000",
+    "longitude": "-87.85673000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 488,
+    "name": "Menard County",
+    "latitude": "40.02740000",
+    "longitude": "-89.80217000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 489,
+    "name": "Mendota",
+    "latitude": "41.54725000",
+    "longitude": "-89.11759000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 490,
+    "name": "Mercer County",
+    "latitude": "41.20534000",
+    "longitude": "-90.74141000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 491,
+    "name": "Meredosia",
+    "latitude": "39.83116000",
+    "longitude": "-90.55957000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 492,
+    "name": "Merrionette Park",
+    "latitude": "41.68420000",
+    "longitude": "-87.70033000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 493,
+    "name": "Metamora",
+    "latitude": "40.79059000",
+    "longitude": "-89.36064000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 494,
+    "name": "Metropolis",
+    "latitude": "37.15117000",
+    "longitude": "-88.73200000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 495,
+    "name": "Midlothian",
+    "latitude": "41.62531000",
+    "longitude": "-87.71755000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 496,
+    "name": "Milan",
+    "latitude": "41.45309000",
+    "longitude": "-90.57208000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 497,
+    "name": "Milford",
+    "latitude": "40.62837000",
+    "longitude": "-87.69614000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 498,
+    "name": "Millstadt",
+    "latitude": "38.46144000",
+    "longitude": "-90.09178000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  },
+  {
+    "id": 499,
+    "name": "Minier",
+    "latitude": "40.43365000",
+    "longitude": "-89.31315000",
+    "stateId": 1425,
+    "stateCode": "IL",
+    "countryCode": "US"
+  }
+]

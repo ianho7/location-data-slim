@@ -1,0 +1,164 @@
+[
+  {
+    "id": 0,
+    "name": "Beijing",
+    "latitude": "39.90750000",
+    "longitude": "116.39723000",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 1,
+    "name": "Changping",
+    "latitude": "40.21612000",
+    "longitude": "116.23471000",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 2,
+    "name": "Chaoyang",
+    "latitude": "39.96054140",
+    "longitude": "116.33338820",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 3,
+    "name": "Daxing",
+    "latitude": "39.74025000",
+    "longitude": "116.32693000",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 4,
+    "name": "Dongcheng",
+    "latitude": "39.91649840",
+    "longitude": "116.37486050",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 5,
+    "name": "Fangshan",
+    "latitude": "39.68699000",
+    "longitude": "115.99658000",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 6,
+    "name": "Fengtai",
+    "latitude": "39.82988690",
+    "longitude": "116.09533320",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 7,
+    "name": "Haidian",
+    "latitude": "40.02418110",
+    "longitude": "116.05777320",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 8,
+    "name": "Huairou",
+    "latitude": "40.64779720",
+    "longitude": "116.25591350",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 9,
+    "name": "Liangxiang",
+    "latitude": "39.73598000",
+    "longitude": "116.13295000",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 10,
+    "name": "Mentougou",
+    "latitude": "39.93819000",
+    "longitude": "116.09307000",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 11,
+    "name": "Miyun",
+    "latitude": "40.51107490",
+    "longitude": "117.08536000",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 12,
+    "name": "Pinggu",
+    "latitude": "40.20471240",
+    "longitude": "116.83906570",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 13,
+    "name": "Shijingshan",
+    "latitude": "39.93397570",
+    "longitude": "116.18578490",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 14,
+    "name": "Shunyi",
+    "latitude": "40.12175000",
+    "longitude": "116.64783000",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 15,
+    "name": "Tongzhou",
+    "latitude": "39.90395000",
+    "longitude": "116.66183000",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 16,
+    "name": "Xicheng",
+    "latitude": "39.92097260",
+    "longitude": "116.31921050",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  },
+  {
+    "id": 17,
+    "name": "Yanqing",
+    "latitude": "40.52827150",
+    "longitude": "115.82498100",
+    "stateId": 2257,
+    "stateCode": "BJ",
+    "countryCode": "CN"
+  }
+]

@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "name": "Abzac",
+    "latitude": "45.01667000",
+    "longitude": "-0.13333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 1,
+    "name": "Agen",
+    "latitude": "44.19991000",
+    "longitude": "0.62664000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 2,
+    "name": "Agonac",
+    "latitude": "45.29248000",
+    "longitude": "0.75025000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 3,
+    "name": "Ahetze",
+    "latitude": "43.40432000",
+    "longitude": "-1.57191000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 4,
+    "name": "Ahun",
+    "latitude": "46.08594000",
+    "longitude": "2.04479000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 5,
+    "name": "Aiffres",
+    "latitude": "46.29449000",
+    "longitude": "-0.42101000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 6,
+    "name": "Aigre",
+    "latitude": "45.89377000",
+    "longitude": "0.00963000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 7,
+    "name": "Aiguillon",
+    "latitude": "44.29893000",
+    "longitude": "0.34020000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 8,
+    "name": "Airvault",
+    "latitude": "46.82533000",
+    "longitude": "-0.13634000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 9,
+    "name": "Aixe-sur-Vienne",
+    "latitude": "45.79862000",
+    "longitude": "1.13884000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 10,
+    "name": "Ajain",
+    "latitude": "46.20635000",
+    "longitude": "1.99850000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 11,
+    "name": "Allassac",
+    "latitude": "45.25840000",
+    "longitude": "1.47550000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 12,
+    "name": "Ambarès-et-Lagrave",
+    "latitude": "44.91667000",
+    "longitude": "-0.48333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 13,
+    "name": "Ambazac",
+    "latitude": "45.95983000",
+    "longitude": "1.40063000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 14,
+    "name": "Ambès",
+    "latitude": "45.01127000",
+    "longitude": "-0.53219000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 15,
+    "name": "Amou",
+    "latitude": "43.59257000",
+    "longitude": "-0.74676000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 16,
+    "name": "Andernos-les-Bains",
+    "latitude": "44.74572000",
+    "longitude": "-1.10355000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 17,
+    "name": "Anglet",
+    "latitude": "43.47664000",
+    "longitude": "-1.51346000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 18,
+    "name": "Angoulême",
+    "latitude": "45.65000000",
+    "longitude": "0.15000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 19,
+    "name": "Angoulins",
+    "latitude": "46.10526000",
+    "longitude": "-1.10713000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 20,
+    "name": "Angresse",
+    "latitude": "43.65809000",
+    "longitude": "-1.37191000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 21,
+    "name": "Annesse-et-Beaulieu",
+    "latitude": "45.16416000",
+    "longitude": "0.57193000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 22,
+    "name": "Antonne-et-Trigonant",
+    "latitude": "45.21271000",
+    "longitude": "0.83006000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 23,
+    "name": "Antran",
+    "latitude": "46.85350000",
+    "longitude": "0.54317000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 24,
+    "name": "Arbonne",
+    "latitude": "43.43248000",
+    "longitude": "-1.55118000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 25,
+    "name": "Arbus",
+    "latitude": "43.33333000",
+    "longitude": "-0.50000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 26,
+    "name": "Arcachon",
+    "latitude": "44.65854000",
+    "longitude": "-1.16879000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 27,
+    "name": "Arcangues",
+    "latitude": "43.43124000",
+    "longitude": "-1.52237000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 28,
+    "name": "Archigny",
+    "latitude": "46.67411000",
+    "longitude": "0.65372000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 29,
+    "name": "Ardin",
+    "latitude": "46.47512000",
+    "longitude": "-0.55416000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 30,
+    "name": "Arès",
+    "latitude": "44.76667000",
+    "longitude": "-1.13333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 31,
+    "name": "Arette",
+    "latitude": "43.10000000",
+    "longitude": "-0.71667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 32,
+    "name": "Argentat",
+    "latitude": "45.09325000",
+    "longitude": "1.93778000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 33,
+    "name": "Argenton-les-Vallées",
+    "latitude": "46.98333000",
+    "longitude": "-0.45000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 34,
+    "name": "Arnac-la-Poste",
+    "latitude": "46.26597000",
+    "longitude": "1.37375000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 35,
+    "name": "Arnac-Pompadour",
+    "latitude": "45.40975000",
+    "longitude": "1.36993000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 36,
+    "name": "Ars-en-Ré",
+    "latitude": "46.20555000",
+    "longitude": "-1.52720000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 37,
+    "name": "Arsac",
+    "latitude": "44.99688000",
+    "longitude": "-0.68976000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 38,
+    "name": "Arthez-de-Béarn",
+    "latitude": "43.46667000",
+    "longitude": "-0.60000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 39,
+    "name": "Artiguelouve",
+    "latitude": "43.31667000",
+    "longitude": "-0.46667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 40,
+    "name": "Artigues-près-Bordeaux",
+    "latitude": "44.85000000",
+    "longitude": "-0.51667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 41,
+    "name": "Artix",
+    "latitude": "43.39667000",
+    "longitude": "-0.57256000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 42,
+    "name": "Arudy",
+    "latitude": "43.10640000",
+    "longitude": "-0.43333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 43,
+    "name": "Arvert",
+    "latitude": "45.74486000",
+    "longitude": "-1.12573000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 44,
+    "name": "Arveyres",
+    "latitude": "44.88333000",
+    "longitude": "-0.28333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 45,
+    "name": "Ascain",
+    "latitude": "43.34521000",
+    "longitude": "-1.62073000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 46,
+    "name": "Asnières-sur-Nouère",
+    "latitude": "45.71667000",
+    "longitude": "0.05000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 47,
+    "name": "Assat",
+    "latitude": "43.25000000",
+    "longitude": "-0.30000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 48,
+    "name": "Asson",
+    "latitude": "43.15000000",
+    "longitude": "-0.25000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 49,
+    "name": "Astaffort",
+    "latitude": "44.06426000",
+    "longitude": "0.65141000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 50,
+    "name": "Atur",
+    "latitude": "45.14086000",
+    "longitude": "0.74701000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 51,
+    "name": "Aubie-et-Espessas",
+    "latitude": "45.01869000",
+    "longitude": "-0.40297000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 52,
+    "name": "Aubusson",
+    "latitude": "45.95606000",
+    "longitude": "2.16760000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 53,
+    "name": "Audenge",
+    "latitude": "44.68686000",
+    "longitude": "-1.01345000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 54,
+    "name": "Aulnay",
+    "latitude": "46.02082000",
+    "longitude": "-0.34778000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 55,
+    "name": "Auzances",
+    "latitude": "46.02849000",
+    "longitude": "2.50042000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 56,
+    "name": "Availles-Limouzine",
+    "latitude": "46.12104000",
+    "longitude": "0.65558000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 57,
+    "name": "Avanton",
+    "latitude": "46.66369000",
+    "longitude": "0.30862000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 58,
+    "name": "Avensan",
+    "latitude": "45.03444000",
+    "longitude": "-0.75568000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 59,
+    "name": "Ayguemorte-les-Graves",
+    "latitude": "44.70988000",
+    "longitude": "-0.48060000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 60,
+    "name": "Ayron",
+    "latitude": "46.66026000",
+    "longitude": "0.07545000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 61,
+    "name": "Aytré",
+    "latitude": "46.13570000",
+    "longitude": "-1.11452000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 62,
+    "name": "Azay-le-Brûlé",
+    "latitude": "46.40011000",
+    "longitude": "-0.24914000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 63,
+    "name": "Baignes-Sainte-Radegonde",
+    "latitude": "45.38333000",
+    "longitude": "-0.23333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 64,
+    "name": "Balzac",
+    "latitude": "45.70000000",
+    "longitude": "0.11667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 65,
+    "name": "Barbaste",
+    "latitude": "44.16905000",
+    "longitude": "0.28659000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 66,
+    "name": "Barbezieux-Saint-Hilaire",
+    "latitude": "45.47265000",
+    "longitude": "-0.15218000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 67,
+    "name": "Bardos",
+    "latitude": "43.47392000",
+    "longitude": "-1.20347000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 68,
+    "name": "Barsac",
+    "latitude": "44.60745000",
+    "longitude": "-0.31527000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 69,
+    "name": "Bassens",
+    "latitude": "44.90226000",
+    "longitude": "-0.51631000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 70,
+    "name": "Bassillac",
+    "latitude": "45.19305000",
+    "longitude": "0.81528000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 71,
+    "name": "Bassussarry",
+    "latitude": "43.44272000",
+    "longitude": "-1.51647000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 72,
+    "name": "Bayonne",
+    "latitude": "43.49257000",
+    "longitude": "-1.47624000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 73,
+    "name": "Bazas",
+    "latitude": "44.43202000",
+    "longitude": "-0.21327000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 74,
+    "name": "Beaulieu-sur-Dordogne",
+    "latitude": "44.97832000",
+    "longitude": "1.83834000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 75,
+    "name": "Beaumont",
+    "latitude": "46.73773000",
+    "longitude": "0.42961000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 76,
+    "name": "Beaumont-du-Périgord",
+    "latitude": "44.76662000",
+    "longitude": "0.76916000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 77,
+    "name": "Beautiran",
+    "latitude": "44.70393000",
+    "longitude": "-0.45202000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 78,
+    "name": "Beauvoir-sur-Niort",
+    "latitude": "46.18017000",
+    "longitude": "-0.47178000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 79,
+    "name": "Bégaar",
+    "latitude": "43.82363000",
+    "longitude": "-0.84904000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 80,
+    "name": "Bègles",
+    "latitude": "44.80845000",
+    "longitude": "-0.54809000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 81,
+    "name": "Belin-Béliet",
+    "latitude": "44.50000000",
+    "longitude": "-0.78333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 82,
+    "name": "Bellac",
+    "latitude": "46.12209000",
+    "longitude": "1.04931000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 83,
+    "name": "Belvès",
+    "latitude": "44.77632000",
+    "longitude": "1.00588000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 84,
+    "name": "Bénéjacq",
+    "latitude": "43.20000000",
+    "longitude": "-0.21667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 85,
+    "name": "Bénesse-Maremne",
+    "latitude": "43.63678000",
+    "longitude": "-1.35773000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 86,
+    "name": "Benquet",
+    "latitude": "43.82992000",
+    "longitude": "-0.50102000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 87,
+    "name": "Bergerac",
+    "latitude": "44.85118000",
+    "longitude": "0.48200000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 88,
+    "name": "Berson",
+    "latitude": "45.10679000",
+    "longitude": "-0.58774000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 89,
+    "name": "Béruges",
+    "latitude": "46.56738000",
+    "longitude": "0.20741000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 90,
+    "name": "Bessines",
+    "latitude": "46.30207000",
+    "longitude": "-0.51294000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 91,
+    "name": "Bessines-sur-Gartempe",
+    "latitude": "46.10799000",
+    "longitude": "1.36865000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 92,
+    "name": "Beychac-et-Caillau",
+    "latitude": "44.87781000",
+    "longitude": "-0.40219000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 93,
+    "name": "Beynat",
+    "latitude": "45.12444000",
+    "longitude": "1.72323000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 94,
+    "name": "Biard",
+    "latitude": "46.57889000",
+    "longitude": "0.30812000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 95,
+    "name": "Biarritz",
+    "latitude": "43.48012000",
+    "longitude": "-1.55558000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 96,
+    "name": "Bias",
+    "latitude": "44.41655000",
+    "longitude": "0.66977000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 97,
+    "name": "Bidache",
+    "latitude": "43.48299000",
+    "longitude": "-1.14121000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 98,
+    "name": "Bidart",
+    "latitude": "43.43760000",
+    "longitude": "-1.59127000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 99,
+    "name": "Biganos",
+    "latitude": "44.64504000",
+    "longitude": "-0.97367000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 100,
+    "name": "Bignoux",
+    "latitude": "46.60008000",
+    "longitude": "0.46932000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 101,
+    "name": "Billère",
+    "latitude": "43.30000000",
+    "longitude": "-0.40000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 102,
+    "name": "Biscarrosse",
+    "latitude": "44.39454000",
+    "longitude": "-1.16721000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 103,
+    "name": "Bizanos",
+    "latitude": "43.28333000",
+    "longitude": "-0.35000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 104,
+    "name": "Blanquefort",
+    "latitude": "44.91248000",
+    "longitude": "-0.63663000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 105,
+    "name": "Blaye",
+    "latitude": "45.12782000",
+    "longitude": "-0.66230000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 106,
+    "name": "Boé",
+    "latitude": "44.16007000",
+    "longitude": "0.62905000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 107,
+    "name": "Boeil-Bezing",
+    "latitude": "43.21667000",
+    "longitude": "-0.26667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 108,
+    "name": "Boismé",
+    "latitude": "46.77393000",
+    "longitude": "-0.43476000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 109,
+    "name": "Boisseuil",
+    "latitude": "45.76977000",
+    "longitude": "1.33333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 110,
+    "name": "Bon-Encontre",
+    "latitude": "44.18518000",
+    "longitude": "0.66759000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 111,
+    "name": "Bonnac-la-Côte",
+    "latitude": "45.94212000",
+    "longitude": "1.28417000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 112,
+    "name": "Bonnat",
+    "latitude": "46.33333000",
+    "longitude": "1.90000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 113,
+    "name": "Bonnes",
+    "latitude": "46.60386000",
+    "longitude": "0.59791000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 114,
+    "name": "Bonneuil-Matours",
+    "latitude": "46.68155000",
+    "longitude": "0.57063000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 115,
+    "name": "Bordeaux",
+    "latitude": "44.84044000",
+    "longitude": "-0.58050000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 116,
+    "name": "Bordes",
+    "latitude": "43.23333000",
+    "longitude": "-0.28333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 117,
+    "name": "Bords",
+    "latitude": "45.89722000",
+    "longitude": "-0.79528000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 118,
+    "name": "Bort-les-Orgues",
+    "latitude": "45.39980000",
+    "longitude": "2.49579000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 119,
+    "name": "Bosdarros",
+    "latitude": "43.21667000",
+    "longitude": "-0.36667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 120,
+    "name": "Bosmie-l'Aiguille",
+    "latitude": "45.75000000",
+    "longitude": "1.20000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 121,
+    "name": "Boucau",
+    "latitude": "43.52770000",
+    "longitude": "-1.46556000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 122,
+    "name": "Bouillé-Loretz",
+    "latitude": "47.07911000",
+    "longitude": "-0.27178000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 123,
+    "name": "Boulazac",
+    "latitude": "45.11667000",
+    "longitude": "0.75000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 124,
+    "name": "Bouliac",
+    "latitude": "44.81724000",
+    "longitude": "-0.50248000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 125,
+    "name": "Bourcefranc-le-Chapus",
+    "latitude": "45.85000000",
+    "longitude": "-1.15000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 126,
+    "name": "Bourganeuf",
+    "latitude": "45.95268000",
+    "longitude": "1.75520000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 127,
+    "name": "Bourgneuf",
+    "latitude": "46.16766000",
+    "longitude": "-1.02141000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 128,
+    "name": "Boussac",
+    "latitude": "46.34941000",
+    "longitude": "2.21474000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 129,
+    "name": "Boutiers-Saint-Trojan",
+    "latitude": "45.71667000",
+    "longitude": "-0.30000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 130,
+    "name": "Boyard-Ville",
+    "latitude": "45.96717000",
+    "longitude": "-1.24289000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 131,
+    "name": "Branne",
+    "latitude": "44.83333000",
+    "longitude": "-0.18333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 132,
+    "name": "Brantôme",
+    "latitude": "45.36091000",
+    "longitude": "0.65398000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 133,
+    "name": "Braud-et-Saint-Louis",
+    "latitude": "45.24703000",
+    "longitude": "-0.62438000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 134,
+    "name": "Brax",
+    "latitude": "44.20277000",
+    "longitude": "0.55163000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 135,
+    "name": "Bressuire",
+    "latitude": "46.84012000",
+    "longitude": "-0.48851000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 136,
+    "name": "Breuil-Magné",
+    "latitude": "45.98478000",
+    "longitude": "-0.96000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 137,
+    "name": "Brie",
+    "latitude": "45.73804000",
+    "longitude": "0.24107000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 138,
+    "name": "Brigueuil",
+    "latitude": "45.95337000",
+    "longitude": "0.86065000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 139,
+    "name": "Brioux-sur-Boutonne",
+    "latitude": "46.14171000",
+    "longitude": "-0.22182000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 140,
+    "name": "Briscous",
+    "latitude": "43.45958000",
+    "longitude": "-1.33353000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 141,
+    "name": "Brive-la-Gaillarde",
+    "latitude": "45.15890000",
+    "longitude": "1.53326000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 142,
+    "name": "Bruges",
+    "latitude": "44.87981000",
+    "longitude": "-0.61219000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 143,
+    "name": "Bugeat",
+    "latitude": "45.59809000",
+    "longitude": "1.92727000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 144,
+    "name": "Burie",
+    "latitude": "45.77273000",
+    "longitude": "-0.42289000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 145,
+    "name": "Buros",
+    "latitude": "43.35000000",
+    "longitude": "-0.30000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 146,
+    "name": "Bussac-sur-Charente",
+    "latitude": "45.78333000",
+    "longitude": "-0.63333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 147,
+    "name": "Bussière-Dunoise",
+    "latitude": "46.25898000",
+    "longitude": "1.76216000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 148,
+    "name": "Bussière-Galant",
+    "latitude": "45.62702000",
+    "longitude": "1.03640000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 149,
+    "name": "Bussière-Poitevine",
+    "latitude": "46.23543000",
+    "longitude": "0.90530000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 150,
+    "name": "Buxerolles",
+    "latitude": "46.61667000",
+    "longitude": "0.48333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 151,
+    "name": "Buzet-sur-Baïse",
+    "latitude": "44.25811000",
+    "longitude": "0.29809000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 152,
+    "name": "Cabanac-et-Villagrains",
+    "latitude": "44.60000000",
+    "longitude": "-0.55000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 153,
+    "name": "Cabariot",
+    "latitude": "45.92645000",
+    "longitude": "-0.85741000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 154,
+    "name": "Cadaujac",
+    "latitude": "44.75437000",
+    "longitude": "-0.53128000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 155,
+    "name": "Cadillac",
+    "latitude": "44.63631000",
+    "longitude": "-0.31702000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 156,
+    "name": "Cambes",
+    "latitude": "44.73179000",
+    "longitude": "-0.46261000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 157,
+    "name": "Camblanes-et-Meynac",
+    "latitude": "44.76551000",
+    "longitude": "-0.48653000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 158,
+    "name": "Cambo-les-Bains",
+    "latitude": "43.35851000",
+    "longitude": "-1.40105000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 159,
+    "name": "Cancon",
+    "latitude": "44.53543000",
+    "longitude": "0.62520000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 160,
+    "name": "Canéjan",
+    "latitude": "44.76667000",
+    "longitude": "-0.63333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 161,
+    "name": "Cantenac",
+    "latitude": "45.02816000",
+    "longitude": "-0.65312000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 162,
+    "name": "Capbreton",
+    "latitude": "43.64216000",
+    "longitude": "-1.42816000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 163,
+    "name": "Captieux",
+    "latitude": "44.29240000",
+    "longitude": "-0.26196000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 164,
+    "name": "Carbon-Blanc",
+    "latitude": "44.89642000",
+    "longitude": "-0.50107000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 165,
+    "name": "Carcans",
+    "latitude": "45.07869000",
+    "longitude": "-1.04429000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 166,
+    "name": "Carignan-de-Bordeaux",
+    "latitude": "44.80000000",
+    "longitude": "-0.48333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 167,
+    "name": "Cars",
+    "latitude": "45.12917000",
+    "longitude": "-0.61952000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 168,
+    "name": "Carsac-Aillac",
+    "latitude": "44.83333000",
+    "longitude": "1.25000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 169,
+    "name": "Casseneuil",
+    "latitude": "44.44310000",
+    "longitude": "0.62095000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 170,
+    "name": "Castelculier",
+    "latitude": "44.17486000",
+    "longitude": "0.69142000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 171,
+    "name": "Casteljaloux",
+    "latitude": "44.31762000",
+    "longitude": "0.08605000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 172,
+    "name": "Castelmoron-sur-Lot",
+    "latitude": "44.39810000",
+    "longitude": "0.49572000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 173,
+    "name": "Castelnau-de-Médoc",
+    "latitude": "45.02934000",
+    "longitude": "-0.79828000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 174,
+    "name": "Castets",
+    "latitude": "43.88233000",
+    "longitude": "-1.14572000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 175,
+    "name": "Castets-en-Dorthe",
+    "latitude": "44.56146000",
+    "longitude": "-0.15226000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 176,
+    "name": "Castillon-la-Bataille",
+    "latitude": "44.85000000",
+    "longitude": "-0.03333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 177,
+    "name": "Castillonnès",
+    "latitude": "44.65215000",
+    "longitude": "0.59222000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 178,
+    "name": "Castres-Gironde",
+    "latitude": "44.69464000",
+    "longitude": "-0.44679000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 179,
+    "name": "Cavignac",
+    "latitude": "45.10083000",
+    "longitude": "-0.38976000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 180,
+    "name": "Cazères-sur-l’Adour",
+    "latitude": "43.76154000",
+    "longitude": "-0.31546000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 181,
+    "name": "Celle-Lévescault",
+    "latitude": "46.42406000",
+    "longitude": "0.18810000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 182,
+    "name": "Celles-sur-Belle",
+    "latitude": "46.26223000",
+    "longitude": "-0.21274000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 183,
+    "name": "Cénac",
+    "latitude": "44.78003000",
+    "longitude": "-0.45999000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 184,
+    "name": "Cénac-et-Saint-Julien",
+    "latitude": "44.79968000",
+    "longitude": "1.20535000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 185,
+    "name": "Cenon",
+    "latitude": "44.85590000",
+    "longitude": "-0.51839000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 186,
+    "name": "Cenon-sur-Vienne",
+    "latitude": "46.77426000",
+    "longitude": "0.53698000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 187,
+    "name": "Cercoux",
+    "latitude": "45.13333000",
+    "longitude": "-0.20000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 188,
+    "name": "Cerizay",
+    "latitude": "46.82154000",
+    "longitude": "-0.66726000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 189,
+    "name": "Cérons",
+    "latitude": "44.63572000",
+    "longitude": "-0.33351000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 190,
+    "name": "Cestas",
+    "latitude": "44.74345000",
+    "longitude": "-0.67905000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 191,
+    "name": "Cézac",
+    "latitude": "45.09019000",
+    "longitude": "-0.41963000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 192,
+    "name": "Chabanais",
+    "latitude": "45.87339000",
+    "longitude": "0.71763000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 193,
+    "name": "Chaillevette",
+    "latitude": "45.73030000",
+    "longitude": "-1.05810000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 194,
+    "name": "Chalais",
+    "latitude": "45.27338000",
+    "longitude": "0.03880000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 195,
+    "name": "Châlus",
+    "latitude": "45.65440000",
+    "longitude": "0.98011000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 196,
+    "name": "Chamberet",
+    "latitude": "45.58345000",
+    "longitude": "1.71980000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 197,
+    "name": "Chambon-sur-Voueize",
+    "latitude": "46.18938000",
+    "longitude": "2.42568000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 198,
+    "name": "Chamboulive",
+    "latitude": "45.43215000",
+    "longitude": "1.70441000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 199,
+    "name": "Chameyrat",
+    "latitude": "45.23407000",
+    "longitude": "1.69811000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 200,
+    "name": "Champagne-Mouton",
+    "latitude": "45.99078000",
+    "longitude": "0.41051000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 201,
+    "name": "Champcevinel",
+    "latitude": "45.21630000",
+    "longitude": "0.72796000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 202,
+    "name": "Champdeniers-Saint-Denis",
+    "latitude": "46.48333000",
+    "longitude": "-0.40000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 203,
+    "name": "Champniers",
+    "latitude": "45.71451000",
+    "longitude": "0.20436000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 204,
+    "name": "Chancelade",
+    "latitude": "45.20049000",
+    "longitude": "0.67261000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 205,
+    "name": "Chaniers",
+    "latitude": "45.71858000",
+    "longitude": "-0.55779000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 206,
+    "name": "Chaptelat",
+    "latitude": "45.90962000",
+    "longitude": "1.26018000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 207,
+    "name": "Charente",
+    "latitude": "45.70598000",
+    "longitude": "0.18162000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 208,
+    "name": "Charente-Maritime",
+    "latitude": "45.75556000",
+    "longitude": "-0.71314000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 209,
+    "name": "Charron",
+    "latitude": "46.29433000",
+    "longitude": "-1.10572000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 210,
+    "name": "Charroux",
+    "latitude": "46.14410000",
+    "longitude": "0.40354000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 211,
+    "name": "Chasseneuil-du-Poitou",
+    "latitude": "46.65112000",
+    "longitude": "0.37329000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 212,
+    "name": "Chasseneuil-sur-Bonnieure",
+    "latitude": "45.81667000",
+    "longitude": "0.45000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 213,
+    "name": "Chassors",
+    "latitude": "45.70000000",
+    "longitude": "-0.21667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 214,
+    "name": "Châteaubernard",
+    "latitude": "45.66667000",
+    "longitude": "-0.33333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 215,
+    "name": "Châteauneuf-la-Forêt",
+    "latitude": "45.71436000",
+    "longitude": "1.60610000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 216,
+    "name": "Châteauneuf-sur-Charente",
+    "latitude": "45.60000000",
+    "longitude": "-0.05000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 217,
+    "name": "Châteauponsac",
+    "latitude": "46.13536000",
+    "longitude": "1.27623000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 218,
+    "name": "Châtelaillon-Plage",
+    "latitude": "46.07190000",
+    "longitude": "-1.08926000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 219,
+    "name": "Châtellerault",
+    "latitude": "46.81712000",
+    "longitude": "0.54536000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 220,
+    "name": "Châtillon-sur-Thouet",
+    "latitude": "46.66176000",
+    "longitude": "-0.23489000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 221,
+    "name": "Chaunay",
+    "latitude": "46.20759000",
+    "longitude": "0.16084000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 222,
+    "name": "Chauray",
+    "latitude": "46.35997000",
+    "longitude": "-0.37859000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 223,
+    "name": "Chauvigny",
+    "latitude": "46.56747000",
+    "longitude": "0.64928000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 224,
+    "name": "Chazelles",
+    "latitude": "45.64713000",
+    "longitude": "0.36748000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 225,
+    "name": "Chef-Boutonne",
+    "latitude": "46.10859000",
+    "longitude": "-0.07083000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 226,
+    "name": "Chérac",
+    "latitude": "45.70456000",
+    "longitude": "-0.43859000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 227,
+    "name": "Chéraute",
+    "latitude": "43.23096000",
+    "longitude": "-0.86831000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 228,
+    "name": "Chermignac",
+    "latitude": "45.68578000",
+    "longitude": "-0.67349000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 229,
+    "name": "Cherves-Richemont",
+    "latitude": "45.74345000",
+    "longitude": "-0.35096000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 230,
+    "name": "Cherveux",
+    "latitude": "46.41543000",
+    "longitude": "-0.35706000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 231,
+    "name": "Chevanceaux",
+    "latitude": "45.30000000",
+    "longitude": "-0.23333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 232,
+    "name": "Chiché",
+    "latitude": "46.79643000",
+    "longitude": "-0.35560000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 233,
+    "name": "Ciboure",
+    "latitude": "43.38287000",
+    "longitude": "-1.67600000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 234,
+    "name": "Ciré-d’Aunis",
+    "latitude": "46.05544000",
+    "longitude": "-0.93056000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 235,
+    "name": "Cissé",
+    "latitude": "46.64583000",
+    "longitude": "0.22870000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 236,
+    "name": "Civray",
+    "latitude": "46.14710000",
+    "longitude": "0.29509000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 237,
+    "name": "Clairac",
+    "latitude": "44.36011000",
+    "longitude": "0.37893000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 238,
+    "name": "Clérac",
+    "latitude": "45.18333000",
+    "longitude": "-0.21667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 239,
+    "name": "Coarraze",
+    "latitude": "43.16930430",
+    "longitude": "-0.23135270",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 240,
+    "name": "Cognac",
+    "latitude": "45.69583000",
+    "longitude": "-0.32916000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 241,
+    "name": "Cognac-la-Forêt",
+    "latitude": "45.83333000",
+    "longitude": "1.00000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 242,
+    "name": "Colayrac-Saint-Cirq",
+    "latitude": "44.22095000",
+    "longitude": "0.55061000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 243,
+    "name": "Colombiers",
+    "latitude": "46.77158000",
+    "longitude": "0.42388000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 244,
+    "name": "Combrand",
+    "latitude": "46.86405000",
+    "longitude": "-0.68869000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 245,
+    "name": "Compreignac",
+    "latitude": "45.99162000",
+    "longitude": "1.27561000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 246,
+    "name": "Condat-sur-Vienne",
+    "latitude": "45.78648000",
+    "longitude": "1.28454000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 247,
+    "name": "Confolens",
+    "latitude": "46.01363000",
+    "longitude": "0.67231000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 248,
+    "name": "Corme-Royal",
+    "latitude": "45.74395000",
+    "longitude": "-0.81471000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 249,
+    "name": "Cornil",
+    "latitude": "45.21062000",
+    "longitude": "1.69173000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 250,
+    "name": "Corrèze",
+    "latitude": "45.37244000",
+    "longitude": "1.87513000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 251,
+    "name": "Cosnac",
+    "latitude": "45.13423000",
+    "longitude": "1.58544000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 252,
+    "name": "Couhé",
+    "latitude": "46.29911000",
+    "longitude": "0.18174000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 253,
+    "name": "Coulombiers",
+    "latitude": "46.48324000",
+    "longitude": "0.18494000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 254,
+    "name": "Coulon",
+    "latitude": "46.32328000",
+    "longitude": "-0.58561000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 255,
+    "name": "Coulonges-sur-l’Autize",
+    "latitude": "46.48333000",
+    "longitude": "-0.59845000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 256,
+    "name": "Coulounieix-Chamiers",
+    "latitude": "45.15289000",
+    "longitude": "0.68852000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 257,
+    "name": "Courçon",
+    "latitude": "46.24389000",
+    "longitude": "-0.81300000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 258,
+    "name": "Courlay",
+    "latitude": "46.77941000",
+    "longitude": "-0.56607000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 259,
+    "name": "Cours-de-Pile",
+    "latitude": "44.83608000",
+    "longitude": "0.54656000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 260,
+    "name": "Coursac",
+    "latitude": "45.12881000",
+    "longitude": "0.63919000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 261,
+    "name": "Coussac-Bonneval",
+    "latitude": "45.51199000",
+    "longitude": "1.32261000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 262,
+    "name": "Coutras",
+    "latitude": "45.03333000",
+    "longitude": "-0.13333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 263,
+    "name": "Couzeix",
+    "latitude": "45.87047000",
+    "longitude": "1.23828000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 264,
+    "name": "Cozes",
+    "latitude": "45.58375000",
+    "longitude": "-0.83178000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 265,
+    "name": "Créon",
+    "latitude": "44.77457000",
+    "longitude": "-0.34800000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 266,
+    "name": "Creuse",
+    "latitude": "46.07523000",
+    "longitude": "2.05476000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 267,
+    "name": "Creysse",
+    "latitude": "44.85474000",
+    "longitude": "0.56583000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 268,
+    "name": "Cublac",
+    "latitude": "45.14488000",
+    "longitude": "1.30609000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 269,
+    "name": "Cubzac-les-Ponts",
+    "latitude": "44.97119000",
+    "longitude": "-0.44976000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 270,
+    "name": "Cussac",
+    "latitude": "45.70666000",
+    "longitude": "0.85124000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 271,
+    "name": "Cussac-Fort-Médoc",
+    "latitude": "45.11667000",
+    "longitude": "-0.73333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 272,
+    "name": "Damazan",
+    "latitude": "44.29068000",
+    "longitude": "0.27694000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 273,
+    "name": "Dangé-Saint-Romain",
+    "latitude": "46.93333000",
+    "longitude": "0.60000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 274,
+    "name": "Dax",
+    "latitude": "43.71032000",
+    "longitude": "-1.05366000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 275,
+    "name": "Denguin",
+    "latitude": "43.36667000",
+    "longitude": "-0.50000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 276,
+    "name": "Département de la Corrèze",
+    "latitude": "45.34754000",
+    "longitude": "1.87319000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 277,
+    "name": "Département des Deux-Sèvres",
+    "latitude": "46.53918000",
+    "longitude": "-0.30838000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 278,
+    "name": "Département des Pyrénées-Atlantiques",
+    "latitude": "43.23587000",
+    "longitude": "-0.81642000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 279,
+    "name": "Département du Lot-et-Garonne",
+    "latitude": "44.33333000",
+    "longitude": "0.50000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 280,
+    "name": "Dignac",
+    "latitude": "45.55000000",
+    "longitude": "0.28333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 281,
+    "name": "Dirac",
+    "latitude": "45.60000000",
+    "longitude": "0.25000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 282,
+    "name": "Dissay",
+    "latitude": "46.70007000",
+    "longitude": "0.43311000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 283,
+    "name": "Dolus-d'Oléron",
+    "latitude": "45.91667000",
+    "longitude": "-1.26667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 284,
+    "name": "Domme",
+    "latitude": "44.80218000",
+    "longitude": "1.21459000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 285,
+    "name": "Dompierre-sur-Mer",
+    "latitude": "46.18817000",
+    "longitude": "-1.06351000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 286,
+    "name": "Donzenac",
+    "latitude": "45.22731000",
+    "longitude": "1.52400000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 287,
+    "name": "Dordogne",
+    "latitude": "45.12735000",
+    "longitude": "0.73504000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 288,
+    "name": "Dun-le-Palestel",
+    "latitude": "46.30000000",
+    "longitude": "1.66667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 289,
+    "name": "Duras",
+    "latitude": "44.67618000",
+    "longitude": "0.18247000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 290,
+    "name": "Échillais",
+    "latitude": "45.90072000",
+    "longitude": "-0.95211000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 291,
+    "name": "Échiré",
+    "latitude": "46.38748000",
+    "longitude": "-0.41511000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 292,
+    "name": "Écoyeux",
+    "latitude": "45.82231000",
+    "longitude": "-0.50539000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 293,
+    "name": "Égletons",
+    "latitude": "45.40637000",
+    "longitude": "2.04518000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 294,
+    "name": "Esnandes",
+    "latitude": "46.25033000",
+    "longitude": "-1.11566000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 295,
+    "name": "Espelette",
+    "latitude": "43.34015000",
+    "longitude": "-1.44737000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 296,
+    "name": "Estillac",
+    "latitude": "44.15766000",
+    "longitude": "0.56383000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 297,
+    "name": "Étagnac",
+    "latitude": "45.89506000",
+    "longitude": "0.77897000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 298,
+    "name": "Étaules",
+    "latitude": "45.73407000",
+    "longitude": "-1.09918000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 299,
+    "name": "Étauliers",
+    "latitude": "45.22582000",
+    "longitude": "-0.57243000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 300,
+    "name": "Évaux-les-Bains",
+    "latitude": "46.17346000",
+    "longitude": "2.48463000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 301,
+    "name": "Excideuil",
+    "latitude": "45.33635000",
+    "longitude": "1.04754000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 302,
+    "name": "Exideuil",
+    "latitude": "45.88639000",
+    "longitude": "0.67318000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 303,
+    "name": "Exireuil",
+    "latitude": "46.43382000",
+    "longitude": "-0.19251000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 304,
+    "name": "Eymet",
+    "latitude": "44.66812000",
+    "longitude": "0.39961000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 305,
+    "name": "Eymoutiers",
+    "latitude": "45.73790000",
+    "longitude": "1.74189000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 306,
+    "name": "Eysines",
+    "latitude": "44.88352000",
+    "longitude": "-0.64686000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 307,
+    "name": "Eyvigues-et-Eybènes",
+    "latitude": "44.93333000",
+    "longitude": "1.35000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 308,
+    "name": "Fargues-Saint-Hilaire",
+    "latitude": "44.82304000",
+    "longitude": "-0.44676000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 309,
+    "name": "Felletin",
+    "latitude": "45.88333000",
+    "longitude": "2.17431000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 310,
+    "name": "Feytiat",
+    "latitude": "45.80905000",
+    "longitude": "1.33033000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 311,
+    "name": "Fléac",
+    "latitude": "45.66667000",
+    "longitude": "0.10000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 312,
+    "name": "Floirac",
+    "latitude": "44.83238000",
+    "longitude": "-0.51411000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 313,
+    "name": "Fontaine-le-Comte",
+    "latitude": "46.53217000",
+    "longitude": "0.26176000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 314,
+    "name": "Fontcouverte",
+    "latitude": "45.76708000",
+    "longitude": "-0.58682000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 315,
+    "name": "Fors",
+    "latitude": "46.23570000",
+    "longitude": "-0.40904000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 316,
+    "name": "Foulayronnes",
+    "latitude": "44.24029000",
+    "longitude": "0.64516000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 317,
+    "name": "Fouras",
+    "latitude": "45.98736000",
+    "longitude": "-1.09275000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 318,
+    "name": "Fourques-sur-Garonne",
+    "latitude": "44.44798000",
+    "longitude": "0.15703000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 319,
+    "name": "Fronsac",
+    "latitude": "44.91667000",
+    "longitude": "-0.26667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 320,
+    "name": "Frontenay-Rohan-Rohan",
+    "latitude": "46.25276000",
+    "longitude": "-0.53833000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 321,
+    "name": "Fumel",
+    "latitude": "44.49862000",
+    "longitude": "0.96506000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 322,
+    "name": "Gabarret",
+    "latitude": "43.98779000",
+    "longitude": "0.00978000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 323,
+    "name": "Gaillan-en-Médoc",
+    "latitude": "45.32133000",
+    "longitude": "-0.95794000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 324,
+    "name": "Galgon",
+    "latitude": "44.98333000",
+    "longitude": "-0.26667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 325,
+    "name": "Gan",
+    "latitude": "43.23333000",
+    "longitude": "-0.38333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 326,
+    "name": "Garat",
+    "latitude": "45.63333000",
+    "longitude": "0.26667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 327,
+    "name": "Gardonne",
+    "latitude": "44.83333000",
+    "longitude": "0.35000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 328,
+    "name": "Garlin",
+    "latitude": "43.55927000",
+    "longitude": "-0.27321000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 329,
+    "name": "Gauriaguet",
+    "latitude": "45.03904000",
+    "longitude": "-0.39191000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 330,
+    "name": "Gelos",
+    "latitude": "43.28333000",
+    "longitude": "-0.36667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 331,
+    "name": "Gémozac",
+    "latitude": "45.56896000",
+    "longitude": "-0.67574000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 332,
+    "name": "Génissac",
+    "latitude": "44.85000000",
+    "longitude": "-0.25000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 333,
+    "name": "Gensac-la-Pallue",
+    "latitude": "45.65000000",
+    "longitude": "-0.25000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 334,
+    "name": "Ger",
+    "latitude": "43.25000000",
+    "longitude": "-0.05000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 335,
+    "name": "Gironde",
+    "latitude": "44.69306000",
+    "longitude": "-0.41400000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 336,
+    "name": "Gironde-sur-Dropt",
+    "latitude": "44.58333000",
+    "longitude": "-0.08333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 337,
+    "name": "Gond-Pontouvre",
+    "latitude": "45.68333000",
+    "longitude": "0.16667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 338,
+    "name": "Gontaud-de-Nogaret",
+    "latitude": "44.45000000",
+    "longitude": "0.30000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 339,
+    "name": "Gouzon",
+    "latitude": "46.19286000",
+    "longitude": "2.23876000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 340,
+    "name": "Gradignan",
+    "latitude": "44.77262000",
+    "longitude": "-0.61393000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 341,
+    "name": "Grenade-sur-l’Adour",
+    "latitude": "43.77753000",
+    "longitude": "-0.42961000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 342,
+    "name": "Grignols",
+    "latitude": "44.38842000",
+    "longitude": "-0.04287000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 343,
+    "name": "Guéret",
+    "latitude": "46.17234000",
+    "longitude": "1.87456000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 344,
+    "name": "Guéthary",
+    "latitude": "43.42285000",
+    "longitude": "-1.61073000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 345,
+    "name": "Guîtres",
+    "latitude": "45.04067000",
+    "longitude": "-0.18721000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 346,
+    "name": "Gujan-Mestras",
+    "latitude": "44.63333000",
+    "longitude": "-1.06667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 347,
+    "name": "Habas",
+    "latitude": "43.57180000",
+    "longitude": "-0.92976000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 348,
+    "name": "Hagetmau",
+    "latitude": "43.65893000",
+    "longitude": "-0.59172000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 349,
+    "name": "Hasparren",
+    "latitude": "43.38377000",
+    "longitude": "-1.30499000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 350,
+    "name": "Haute-Vienne",
+    "latitude": "45.88341000",
+    "longitude": "1.21781000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 351,
+    "name": "Hautefort",
+    "latitude": "45.25953000",
+    "longitude": "1.14879000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 352,
+    "name": "Hendaye",
+    "latitude": "43.37172000",
+    "longitude": "-1.77382000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 353,
+    "name": "Heugas",
+    "latitude": "43.64334000",
+    "longitude": "-1.08143000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 354,
+    "name": "Hiersac",
+    "latitude": "45.66667000",
+    "longitude": "0.00000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 355,
+    "name": "Hinx",
+    "latitude": "43.70190000",
+    "longitude": "-0.92591000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 356,
+    "name": "Hourtin",
+    "latitude": "45.18570000",
+    "longitude": "-1.05719000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 357,
+    "name": "Idron",
+    "latitude": "43.28333000",
+    "longitude": "-0.31667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 358,
+    "name": "Igon",
+    "latitude": "43.15992450",
+    "longitude": "-0.23278020",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 359,
+    "name": "Illats",
+    "latitude": "44.59714000",
+    "longitude": "-0.37238000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 360,
+    "name": "Isle",
+    "latitude": "45.80272000",
+    "longitude": "1.21213000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 361,
+    "name": "Iteuil",
+    "latitude": "46.48808000",
+    "longitude": "0.31212000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 362,
+    "name": "Itxassou",
+    "latitude": "43.32893000",
+    "longitude": "-1.40617000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 363,
+    "name": "Izon",
+    "latitude": "44.92416000",
+    "longitude": "-0.36322000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 364,
+    "name": "Jarnac",
+    "latitude": "45.68160000",
+    "longitude": "-0.17329000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 365,
+    "name": "Jaunay-Clan",
+    "latitude": "46.68453000",
+    "longitude": "0.37128000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 366,
+    "name": "Jonzac",
+    "latitude": "45.44668000",
+    "longitude": "-0.43370000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 367,
+    "name": "Juillac",
+    "latitude": "45.31808000",
+    "longitude": "1.32257000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 368,
+    "name": "Jumilhac-le-Grand",
+    "latitude": "45.49432000",
+    "longitude": "1.06339000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 369,
+    "name": "Jurançon",
+    "latitude": "43.28830000",
+    "longitude": "-0.38694000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 370,
+    "name": "La Chapelle-Saint-Laurent",
+    "latitude": "46.74643000",
+    "longitude": "-0.47643000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 371,
+    "name": "La Coquille",
+    "latitude": "45.54201000",
+    "longitude": "0.97675000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 372,
+    "name": "La Couarde-sur-Mer",
+    "latitude": "46.19411000",
+    "longitude": "-1.42522000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 373,
+    "name": "La Couronne",
+    "latitude": "45.61128000",
+    "longitude": "0.09948000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 374,
+    "name": "La Courtine",
+    "latitude": "45.70000000",
+    "longitude": "2.26667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 375,
+    "name": "La Crèche",
+    "latitude": "46.36667000",
+    "longitude": "-0.30000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 376,
+    "name": "La Flotte",
+    "latitude": "46.18771000",
+    "longitude": "-1.32815000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 377,
+    "name": "La Force",
+    "latitude": "44.86902000",
+    "longitude": "0.37541000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 378,
+    "name": "La Forêt-sur-Sèvre",
+    "latitude": "46.76905000",
+    "longitude": "-0.64964000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 379,
+    "name": "La Jarne",
+    "latitude": "46.12773000",
+    "longitude": "-1.07259000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 380,
+    "name": "La Jarrie",
+    "latitude": "46.12879000",
+    "longitude": "-1.00896000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 381,
+    "name": "La Lande-de-Fronsac",
+    "latitude": "44.98036000",
+    "longitude": "-0.38048000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 382,
+    "name": "La Mothe-Saint-Héray",
+    "latitude": "46.35934000",
+    "longitude": "-0.11236000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 383,
+    "name": "La Peyratte",
+    "latitude": "46.67453000",
+    "longitude": "-0.14912000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 384,
+    "name": "La Réole",
+    "latitude": "44.58201000",
+    "longitude": "-0.03691000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 385,
+    "name": "La Roche-Chalais",
+    "latitude": "45.15000000",
+    "longitude": "0.01667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 386,
+    "name": "La Roche-Posay",
+    "latitude": "46.78654000",
+    "longitude": "0.81354000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 387,
+    "name": "La Rochefoucauld",
+    "latitude": "45.74048000",
+    "longitude": "0.38564000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 388,
+    "name": "La Rochelle",
+    "latitude": "46.16667000",
+    "longitude": "-1.15000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 389,
+    "name": "La Sauve",
+    "latitude": "44.76667000",
+    "longitude": "-0.31667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 390,
+    "name": "La Souterraine",
+    "latitude": "46.23714000",
+    "longitude": "1.48701000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 391,
+    "name": "La Teste-de-Buch",
+    "latitude": "44.62875000",
+    "longitude": "-1.14059000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 392,
+    "name": "La Tremblade",
+    "latitude": "45.76806000",
+    "longitude": "-1.14265000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 393,
+    "name": "La Villedieu-du-Clain",
+    "latitude": "46.45559000",
+    "longitude": "0.36917000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 394,
+    "name": "Labatut",
+    "latitude": "43.55000000",
+    "longitude": "-0.98333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 395,
+    "name": "Labenne",
+    "latitude": "43.59464000",
+    "longitude": "-1.42559000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 396,
+    "name": "Labouheyre",
+    "latitude": "44.21297000",
+    "longitude": "-0.92062000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 397,
+    "name": "Lacanau",
+    "latitude": "44.97779000",
+    "longitude": "-1.07621000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 398,
+    "name": "Ladignac-le-Long",
+    "latitude": "45.58256000",
+    "longitude": "1.11359000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 399,
+    "name": "Lagor",
+    "latitude": "43.38333000",
+    "longitude": "-0.65000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 400,
+    "name": "Lagorce",
+    "latitude": "45.06667000",
+    "longitude": "-0.13333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 401,
+    "name": "Lagord",
+    "latitude": "46.18822000",
+    "longitude": "-1.15355000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 402,
+    "name": "Laguenne",
+    "latitude": "45.24218000",
+    "longitude": "1.78135000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 403,
+    "name": "Lahonce",
+    "latitude": "43.48248000",
+    "longitude": "-1.39101000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 404,
+    "name": "Lalinde",
+    "latitude": "44.83621000",
+    "longitude": "0.73075000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 405,
+    "name": "Lamarque",
+    "latitude": "45.09536000",
+    "longitude": "-0.71892000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 406,
+    "name": "Lamonzie-Saint-Martin",
+    "latitude": "44.84713000",
+    "longitude": "0.39102000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 407,
+    "name": "Lamothe-Montravel",
+    "latitude": "44.85000000",
+    "longitude": "0.03333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 408,
+    "name": "Landes",
+    "latitude": "43.97543000",
+    "longitude": "-0.74241000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 409,
+    "name": "Landiras",
+    "latitude": "44.56702000",
+    "longitude": "-0.41536000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 410,
+    "name": "Langoiran",
+    "latitude": "44.70869000",
+    "longitude": "-0.39368000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 411,
+    "name": "Langon",
+    "latitude": "44.55310000",
+    "longitude": "-0.24951000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 412,
+    "name": "Lanouaille",
+    "latitude": "45.39517000",
+    "longitude": "1.13968000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 413,
+    "name": "Lanton",
+    "latitude": "44.70478000",
+    "longitude": "-1.03562000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 414,
+    "name": "Laplume",
+    "latitude": "44.11292000",
+    "longitude": "0.52975000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 415,
+    "name": "Larche",
+    "latitude": "45.12048000",
+    "longitude": "1.41566000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 416,
+    "name": "Laroque-Timbaut",
+    "latitude": "44.28238000",
+    "longitude": "0.76274000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 417,
+    "name": "Larressore",
+    "latitude": "43.36792000",
+    "longitude": "-1.43976000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 418,
+    "name": "Laruns",
+    "latitude": "42.98826000",
+    "longitude": "-0.42658000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 419,
+    "name": "Laruscade",
+    "latitude": "45.11667000",
+    "longitude": "-0.33333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 420,
+    "name": "Lasseube",
+    "latitude": "43.23333000",
+    "longitude": "-0.48333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 421,
+    "name": "Lathus-Saint-Rémy",
+    "latitude": "46.33333000",
+    "longitude": "0.96667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 422,
+    "name": "Latillé",
+    "latitude": "46.61818000",
+    "longitude": "0.07630000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 423,
+    "name": "Latresne",
+    "latitude": "44.78601000",
+    "longitude": "-0.48994000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 424,
+    "name": "Lavardac",
+    "latitude": "44.17785000",
+    "longitude": "0.29825000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 425,
+    "name": "Lavoux",
+    "latitude": "46.59566000",
+    "longitude": "0.53012000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 426,
+    "name": "Layrac",
+    "latitude": "44.13449000",
+    "longitude": "0.66176000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 427,
+    "name": "Le Barp",
+    "latitude": "44.60833000",
+    "longitude": "-0.76948000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 428,
+    "name": "Le Bois-Plage-en-Ré",
+    "latitude": "46.18659000",
+    "longitude": "-1.39267000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 429,
+    "name": "Le Bouscat",
+    "latitude": "44.86600000",
+    "longitude": "-0.59411000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 430,
+    "name": "Le Bugue",
+    "latitude": "44.91847000",
+    "longitude": "0.92714000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 431,
+    "name": "Le Buisson-de-Cadouin",
+    "latitude": "44.85000000",
+    "longitude": "0.91667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 432,
+    "name": "Le Dorat",
+    "latitude": "46.21514000",
+    "longitude": "1.08153000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 433,
+    "name": "Le Fleix",
+    "latitude": "44.86667000",
+    "longitude": "0.25000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 434,
+    "name": "Le Grand-Bourg",
+    "latitude": "46.16018000",
+    "longitude": "1.64465000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 435,
+    "name": "Le Haillan",
+    "latitude": "44.87225000",
+    "longitude": "-0.67965000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 436,
+    "name": "Le Lardin-Saint-Lazare",
+    "latitude": "45.13333000",
+    "longitude": "1.21667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 437,
+    "name": "Le Mas-d’Agenais",
+    "latitude": "44.41033000",
+    "longitude": "0.21869000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 438,
+    "name": "Le Palais-sur-Vienne",
+    "latitude": "45.86380000",
+    "longitude": "1.32207000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 439,
+    "name": "Le Passage",
+    "latitude": "44.20143000",
+    "longitude": "0.60275000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 440,
+    "name": "Le Pian-Médoc",
+    "latitude": "44.95537000",
+    "longitude": "-0.66227000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 441,
+    "name": "Le Pin",
+    "latitude": "46.86179000",
+    "longitude": "-0.65440000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 442,
+    "name": "Le Pizou",
+    "latitude": "45.01667000",
+    "longitude": "0.06667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 443,
+    "name": "Le Porge",
+    "latitude": "44.87277000",
+    "longitude": "-1.08889000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 444,
+    "name": "Le Taillan-Médoc",
+    "latitude": "44.90521000",
+    "longitude": "-0.67060000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 445,
+    "name": "Le Tallud",
+    "latitude": "46.62911000",
+    "longitude": "-0.29979000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 446,
+    "name": "Le Teich",
+    "latitude": "44.63177000",
+    "longitude": "-1.02155000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 447,
+    "name": "Le Thou",
+    "latitude": "46.08333000",
+    "longitude": "-0.91667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 448,
+    "name": "Le Verdon-sur-Mer",
+    "latitude": "45.54490000",
+    "longitude": "-1.06225000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 449,
+    "name": "Le Vigen",
+    "latitude": "45.75149000",
+    "longitude": "1.28865000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 450,
+    "name": "Ledeuix",
+    "latitude": "43.21667000",
+    "longitude": "-0.61667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 451,
+    "name": "Lembras",
+    "latitude": "44.88431000",
+    "longitude": "0.52657000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 452,
+    "name": "Lencloître",
+    "latitude": "46.81622000",
+    "longitude": "0.32827000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 453,
+    "name": "Léognan",
+    "latitude": "44.73548000",
+    "longitude": "-0.59738000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 454,
+    "name": "Léon",
+    "latitude": "43.87676000",
+    "longitude": "-1.30057000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 455,
+    "name": "Les Artigues-de-Lussac",
+    "latitude": "44.96667000",
+    "longitude": "-0.15000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 456,
+    "name": "Les Églisottes-et-Chalaures",
+    "latitude": "45.09811000",
+    "longitude": "-0.03893000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 457,
+    "name": "Les Gonds",
+    "latitude": "45.71437000",
+    "longitude": "-0.61408000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 458,
+    "name": "Les Mathes",
+    "latitude": "45.71390000",
+    "longitude": "-1.15497000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 459,
+    "name": "Les Ormes",
+    "latitude": "46.97478000",
+    "longitude": "0.60484000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 460,
+    "name": "Les Peintures",
+    "latitude": "45.06667000",
+    "longitude": "-0.10000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 461,
+    "name": "Lescar",
+    "latitude": "43.33333000",
+    "longitude": "-0.41667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 462,
+    "name": "Lesparre-Médoc",
+    "latitude": "45.30719000",
+    "longitude": "-0.93764000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 463,
+    "name": "Lestelle-Bétharram",
+    "latitude": "43.13333000",
+    "longitude": "-0.21667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 464,
+    "name": "Lezay",
+    "latitude": "46.26437000",
+    "longitude": "-0.00925000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 465,
+    "name": "Libourne",
+    "latitude": "44.91530000",
+    "longitude": "-0.24394000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 466,
+    "name": "Ligugé",
+    "latitude": "46.52035000",
+    "longitude": "0.32617000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 467,
+    "name": "Limoges",
+    "latitude": "45.83153000",
+    "longitude": "1.25781000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 468,
+    "name": "Linards",
+    "latitude": "45.70083000",
+    "longitude": "1.53259000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 469,
+    "name": "Linars",
+    "latitude": "45.65000000",
+    "longitude": "0.08333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 470,
+    "name": "Linxe",
+    "latitude": "43.91984000",
+    "longitude": "-1.24619000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 471,
+    "name": "Listrac-Médoc",
+    "latitude": "45.07410000",
+    "longitude": "-0.79132000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 472,
+    "name": "Lit-et-Mixe",
+    "latitude": "44.03308000",
+    "longitude": "-1.25330000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 473,
+    "name": "Lons",
+    "latitude": "43.31667000",
+    "longitude": "-0.40000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 474,
+    "name": "Lormont",
+    "latitude": "44.87495000",
+    "longitude": "-0.51782000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 475,
+    "name": "Loubert",
+    "latitude": "45.91422000",
+    "longitude": "0.58617000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 476,
+    "name": "Loudun",
+    "latitude": "47.00788000",
+    "longitude": "0.08296000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 477,
+    "name": "Loupiac",
+    "latitude": "44.61667000",
+    "longitude": "-0.30000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 478,
+    "name": "Louvie-Juzon",
+    "latitude": "43.08646000",
+    "longitude": "-0.41928000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 479,
+    "name": "Louzy",
+    "latitude": "47.01201000",
+    "longitude": "-0.18537000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 480,
+    "name": "Lubersac",
+    "latitude": "45.44474000",
+    "longitude": "1.40457000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 481,
+    "name": "Lucq-de-Béarn",
+    "latitude": "43.30000000",
+    "longitude": "-0.66667000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 482,
+    "name": "Ludon-Médoc",
+    "latitude": "44.98118000",
+    "longitude": "-0.60254000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 483,
+    "name": "Lugon-et-l'Île-du-Carnay",
+    "latitude": "44.95556000",
+    "longitude": "-0.33611000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 484,
+    "name": "Lusignan",
+    "latitude": "46.43598000",
+    "longitude": "0.12620000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 485,
+    "name": "Lussac",
+    "latitude": "44.95000000",
+    "longitude": "-0.10000000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 486,
+    "name": "Lussac-les-Châteaux",
+    "latitude": "46.40327000",
+    "longitude": "0.72524000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 487,
+    "name": "Macau",
+    "latitude": "45.00679000",
+    "longitude": "-0.61821000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 488,
+    "name": "Magescq",
+    "latitude": "43.78205000",
+    "longitude": "-1.21652000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 489,
+    "name": "Magnac-Laval",
+    "latitude": "46.21514000",
+    "longitude": "1.16724000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 490,
+    "name": "Magnac-sur-Touvre",
+    "latitude": "45.66667000",
+    "longitude": "0.23333000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 491,
+    "name": "Magné",
+    "latitude": "46.31548000",
+    "longitude": "-0.54575000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 492,
+    "name": "Malemort-sur-Corrèze",
+    "latitude": "45.17075000",
+    "longitude": "1.56393000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 493,
+    "name": "Mansac",
+    "latitude": "45.16839000",
+    "longitude": "1.38342000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 494,
+    "name": "Mansle",
+    "latitude": "45.87526000",
+    "longitude": "0.17914000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 495,
+    "name": "Marans",
+    "latitude": "46.30811000",
+    "longitude": "-0.99450000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 496,
+    "name": "Marcamps",
+    "latitude": "45.04045000",
+    "longitude": "-0.49275000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 497,
+    "name": "Marcheprime",
+    "latitude": "44.69146000",
+    "longitude": "-0.85496000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 498,
+    "name": "Marcillac",
+    "latitude": "45.26870000",
+    "longitude": "-0.52379000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  },
+  {
+    "id": 499,
+    "name": "Marennes",
+    "latitude": "45.82280000",
+    "longitude": "-1.10546000",
+    "stateId": 4795,
+    "stateCode": "NAQ",
+    "countryCode": "FR"
+  }
+]

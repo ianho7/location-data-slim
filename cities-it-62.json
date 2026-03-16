@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "name": "Accumoli",
+    "latitude": "42.69476000",
+    "longitude": "13.24761000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 1,
+    "name": "Acilia-Castel Fusano-Ostia Antica",
+    "latitude": "41.76337000",
+    "longitude": "12.33078000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 2,
+    "name": "Acquafondata",
+    "latitude": "41.54282000",
+    "longitude": "13.95281000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 3,
+    "name": "Acquapendente",
+    "latitude": "42.74259000",
+    "longitude": "11.86827000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 4,
+    "name": "Acuto",
+    "latitude": "41.79107000",
+    "longitude": "13.17446000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 5,
+    "name": "Affile",
+    "latitude": "41.88435000",
+    "longitude": "13.09853000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 6,
+    "name": "Agosta",
+    "latitude": "41.98133000",
+    "longitude": "13.03499000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 7,
+    "name": "Alatri",
+    "latitude": "41.73187000",
+    "longitude": "13.34120000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 8,
+    "name": "Albano Laziale",
+    "latitude": "41.72748000",
+    "longitude": "12.65900000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 9,
+    "name": "Albuccione",
+    "latitude": "41.95245000",
+    "longitude": "12.69873000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 10,
+    "name": "Allumiere",
+    "latitude": "42.15751000",
+    "longitude": "11.90361000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 11,
+    "name": "Alvito",
+    "latitude": "41.69002000",
+    "longitude": "13.74795000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 12,
+    "name": "Amaseno",
+    "latitude": "41.46705000",
+    "longitude": "13.33457000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 13,
+    "name": "Amatrice",
+    "latitude": "42.62664000",
+    "longitude": "13.29509000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 14,
+    "name": "Anagni",
+    "latitude": "41.74350000",
+    "longitude": "13.15542000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 15,
+    "name": "Anguillara Sabazia",
+    "latitude": "42.07920000",
+    "longitude": "12.28368000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 16,
+    "name": "Anitrella-Chiaiamari",
+    "latitude": "41.63825000",
+    "longitude": "13.54835000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 17,
+    "name": "Anticoli Corrado",
+    "latitude": "42.00801000",
+    "longitude": "12.99049000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 18,
+    "name": "Antrodoco",
+    "latitude": "42.41498000",
+    "longitude": "13.07673000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 19,
+    "name": "Anzio",
+    "latitude": "41.45263000",
+    "longitude": "12.62157000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 20,
+    "name": "Aprilia",
+    "latitude": "41.59452000",
+    "longitude": "12.65419000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 21,
+    "name": "Aquino",
+    "latitude": "41.49388000",
+    "longitude": "13.70520000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 22,
+    "name": "Ara Nova",
+    "latitude": "41.93300000",
+    "longitude": "12.23980000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 23,
+    "name": "Arce",
+    "latitude": "41.57787000",
+    "longitude": "13.58571000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 24,
+    "name": "Arci-Empolitana",
+    "latitude": "41.94766000",
+    "longitude": "12.82502000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 25,
+    "name": "Arcinazzo Romano",
+    "latitude": "41.87972000",
+    "longitude": "13.11439000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 26,
+    "name": "Ardea",
+    "latitude": "41.60742000",
+    "longitude": "12.54158000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 27,
+    "name": "Area Produttiva",
+    "latitude": "41.68211000",
+    "longitude": "12.50697000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 28,
+    "name": "Ariccia",
+    "latitude": "41.72063000",
+    "longitude": "12.67230000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 29,
+    "name": "Arlena di Castro",
+    "latitude": "42.46559000",
+    "longitude": "11.82090000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 30,
+    "name": "Armetta",
+    "latitude": "41.81280000",
+    "longitude": "12.68782000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 31,
+    "name": "Arnara",
+    "latitude": "41.58452000",
+    "longitude": "13.38840000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 32,
+    "name": "Arpino",
+    "latitude": "41.64705000",
+    "longitude": "13.61155000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 33,
+    "name": "Arsoli",
+    "latitude": "42.04158000",
+    "longitude": "13.01606000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 34,
+    "name": "Artena",
+    "latitude": "41.74126000",
+    "longitude": "12.90667000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 35,
+    "name": "Ascrea",
+    "latitude": "42.19763000",
+    "longitude": "12.99457000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 36,
+    "name": "Atina",
+    "latitude": "41.62004000",
+    "longitude": "13.79905000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 37,
+    "name": "Atina Inferiore",
+    "latitude": "41.62705000",
+    "longitude": "13.79258000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 38,
+    "name": "Aurelia",
+    "latitude": "42.13910000",
+    "longitude": "11.78713000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 39,
+    "name": "Ausonia",
+    "latitude": "41.35808000",
+    "longitude": "13.74983000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 40,
+    "name": "Bagni di Tivoli",
+    "latitude": "41.95000000",
+    "longitude": "12.71667000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 41,
+    "name": "Bagnoregio",
+    "latitude": "42.62845000",
+    "longitude": "12.08969000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 42,
+    "name": "Barbarano Romano",
+    "latitude": "42.24908000",
+    "longitude": "12.06774000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 43,
+    "name": "Bassano in Teverina",
+    "latitude": "42.46444000",
+    "longitude": "12.30752000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 44,
+    "name": "Bassano Romano",
+    "latitude": "42.22228000",
+    "longitude": "12.18785000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 45,
+    "name": "Bassiano",
+    "latitude": "41.55154000",
+    "longitude": "13.02732000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 46,
+    "name": "Bella Farnia",
+    "latitude": "41.36780000",
+    "longitude": "12.97602000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 47,
+    "name": "Bellegra",
+    "latitude": "41.88166000",
+    "longitude": "13.02861000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 48,
+    "name": "Belmonte Castello",
+    "latitude": "41.57742000",
+    "longitude": "13.81581000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 49,
+    "name": "Belmonte in Sabina",
+    "latitude": "42.31482000",
+    "longitude": "12.89178000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 50,
+    "name": "Bivio di Capanelle",
+    "latitude": "42.11962000",
+    "longitude": "12.59395000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 51,
+    "name": "Bivio San Polo",
+    "latitude": "41.97418000",
+    "longitude": "12.82993000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 52,
+    "name": "Blera",
+    "latitude": "42.27293000",
+    "longitude": "12.03016000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 53,
+    "name": "Bolsena",
+    "latitude": "42.64326000",
+    "longitude": "11.98514000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 54,
+    "name": "Bomarzo",
+    "latitude": "42.48273000",
+    "longitude": "12.25037000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 55,
+    "name": "Borbona",
+    "latitude": "42.50939000",
+    "longitude": "13.13206000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 56,
+    "name": "Borgo Grappa",
+    "latitude": "41.40212000",
+    "longitude": "12.96053000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 57,
+    "name": "Borgo Hermada",
+    "latitude": "41.30559000",
+    "longitude": "13.17235000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 58,
+    "name": "Borgo Lotti",
+    "latitude": "41.76414000",
+    "longitude": "12.55500000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 59,
+    "name": "Borgo Podgora",
+    "latitude": "41.51462000",
+    "longitude": "12.85383000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 60,
+    "name": "Borgo Sabotino-Foce Verde",
+    "latitude": "41.41667000",
+    "longitude": "12.83333000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 61,
+    "name": "Borgo San Michele",
+    "latitude": "41.43828000",
+    "longitude": "12.97351000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 62,
+    "name": "Borgo Velino",
+    "latitude": "42.40508000",
+    "longitude": "13.05650000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 63,
+    "name": "Borgorose",
+    "latitude": "42.19077000",
+    "longitude": "13.23282000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 64,
+    "name": "Boville Ernica",
+    "latitude": "41.64252000",
+    "longitude": "13.47270000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 65,
+    "name": "Bracciano",
+    "latitude": "42.10271000",
+    "longitude": "12.16565000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 66,
+    "name": "Broccostella",
+    "latitude": "41.69972000",
+    "longitude": "13.63531000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 67,
+    "name": "Caira",
+    "latitude": "41.53333000",
+    "longitude": "13.81667000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 68,
+    "name": "Calcata Nuova",
+    "latitude": "42.21952000",
+    "longitude": "12.42617000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 69,
+    "name": "Camerata Nuova",
+    "latitude": "42.01800000",
+    "longitude": "13.10970000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 70,
+    "name": "Camilleri-Vallelata",
+    "latitude": "41.59848000",
+    "longitude": "12.61738000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 71,
+    "name": "Campagnano di Roma",
+    "latitude": "42.13570000",
+    "longitude": "12.37358000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 72,
+    "name": "Campo di Carne",
+    "latitude": "41.55265000",
+    "longitude": "12.64114000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 73,
+    "name": "Campo Jemini",
+    "latitude": "41.62716000",
+    "longitude": "12.51258000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 74,
+    "name": "Campo Limpido-Favale",
+    "latitude": "41.96732000",
+    "longitude": "12.77016000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 75,
+    "name": "Campodimele",
+    "latitude": "41.38822000",
+    "longitude": "13.53081000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 76,
+    "name": "Campoleone",
+    "latitude": "41.64570000",
+    "longitude": "12.64826000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 77,
+    "name": "Campoli Appennino",
+    "latitude": "41.73539000",
+    "longitude": "13.68326000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 78,
+    "name": "Canale Monterano",
+    "latitude": "42.13598000",
+    "longitude": "12.10284000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 79,
+    "name": "Canepina",
+    "latitude": "42.38315000",
+    "longitude": "12.23179000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 80,
+    "name": "Canino",
+    "latitude": "42.46592000",
+    "longitude": "11.75294000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 81,
+    "name": "Cantalice",
+    "latitude": "42.46458000",
+    "longitude": "12.90461000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 82,
+    "name": "Cantalupo in Sabina",
+    "latitude": "42.30689000",
+    "longitude": "12.64513000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 83,
+    "name": "Canterano",
+    "latitude": "41.94322000",
+    "longitude": "13.03809000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 84,
+    "name": "Capena",
+    "latitude": "42.14247000",
+    "longitude": "12.54513000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 85,
+    "name": "Capodimonte",
+    "latitude": "42.54780000",
+    "longitude": "11.90657000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 86,
+    "name": "Capranica",
+    "latitude": "42.25849000",
+    "longitude": "12.17278000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 87,
+    "name": "Capranica Prenestina",
+    "latitude": "41.86285000",
+    "longitude": "12.95077000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 88,
+    "name": "Caprarola",
+    "latitude": "42.32308000",
+    "longitude": "12.23848000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 89,
+    "name": "Carbognano",
+    "latitude": "42.33024000",
+    "longitude": "12.26457000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 90,
+    "name": "Carchitti",
+    "latitude": "41.78688000",
+    "longitude": "12.82955000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 91,
+    "name": "Carpineto Romano",
+    "latitude": "41.60470000",
+    "longitude": "13.08410000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 92,
+    "name": "Carrara-Pontenuovo",
+    "latitude": "41.54045000",
+    "longitude": "12.95468000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 93,
+    "name": "Cartiera-Stazione",
+    "latitude": "41.65642000",
+    "longitude": "13.24086000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 94,
+    "name": "Casal Palocco",
+    "latitude": "41.74845000",
+    "longitude": "12.34726000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 95,
+    "name": "Casalattico",
+    "latitude": "41.62213000",
+    "longitude": "13.72563000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 96,
+    "name": "Casalazzara",
+    "latitude": "41.62299000",
+    "longitude": "12.57634000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 97,
+    "name": "Casali",
+    "latitude": "41.37812000",
+    "longitude": "13.75479000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 98,
+    "name": "Casalvieri",
+    "latitude": "41.63329000",
+    "longitude": "13.71363000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 99,
+    "name": "Casape",
+    "latitude": "41.90702000",
+    "longitude": "12.88579000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 100,
+    "name": "Casaprota",
+    "latitude": "42.25177000",
+    "longitude": "12.80428000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 101,
+    "name": "Case Campoli-Panetta",
+    "latitude": "41.67296000",
+    "longitude": "13.47170000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 102,
+    "name": "Casperia",
+    "latitude": "42.33869000",
+    "longitude": "12.67017000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 103,
+    "name": "Cassino",
+    "latitude": "41.48581000",
+    "longitude": "13.82835000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 104,
+    "name": "Castel Chiodato",
+    "latitude": "42.05617000",
+    "longitude": "12.69764000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 105,
+    "name": "Castel di Tora",
+    "latitude": "42.21392000",
+    "longitude": "12.97073000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 106,
+    "name": "Castel Fusano",
+    "latitude": "41.74717000",
+    "longitude": "12.31190000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 107,
+    "name": "Castel Gandolfo",
+    "latitude": "41.74875000",
+    "longitude": "12.64975000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 108,
+    "name": "Castel Madama",
+    "latitude": "41.97350000",
+    "longitude": "12.86782000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 109,
+    "name": "Castel San Pietro Romano",
+    "latitude": "41.84572000",
+    "longitude": "12.89489000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 110,
+    "name": "Castel Sant'Angelo",
+    "latitude": "42.39373000",
+    "longitude": "13.02738000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 111,
+    "name": "Castel Sant'Elia",
+    "latitude": "42.25112000",
+    "longitude": "12.37032000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 112,
+    "name": "Castelforte",
+    "latitude": "41.29392000",
+    "longitude": "13.83061000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 113,
+    "name": "Castelliri",
+    "latitude": "41.67764000",
+    "longitude": "13.53978000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 114,
+    "name": "Castelmassimo",
+    "latitude": "41.66389000",
+    "longitude": "13.38063000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 115,
+    "name": "Castelnuovo di Farfa",
+    "latitude": "42.23193000",
+    "longitude": "12.74308000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 116,
+    "name": "Castelnuovo di Porto",
+    "latitude": "42.12280000",
+    "longitude": "12.51043000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 117,
+    "name": "Castelnuovo Parano",
+    "latitude": "41.37912000",
+    "longitude": "13.75621000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 118,
+    "name": "Castiglione in Teverina",
+    "latitude": "42.65076000",
+    "longitude": "12.20305000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 119,
+    "name": "Castro dei Volsci",
+    "latitude": "41.50822000",
+    "longitude": "13.40630000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 120,
+    "name": "Castrocielo",
+    "latitude": "41.52736000",
+    "longitude": "13.69588000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 121,
+    "name": "Cave",
+    "latitude": "41.81682000",
+    "longitude": "12.94055000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 122,
+    "name": "Ceccano",
+    "latitude": "41.57236000",
+    "longitude": "13.32901000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 123,
+    "name": "Cecchina",
+    "latitude": "41.70161000",
+    "longitude": "12.64972000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 124,
+    "name": "Celleno",
+    "latitude": "42.56039000",
+    "longitude": "12.12442000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 125,
+    "name": "Cellere",
+    "latitude": "42.51024000",
+    "longitude": "11.77079000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 126,
+    "name": "Ceprano",
+    "latitude": "41.54572000",
+    "longitude": "13.51473000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 127,
+    "name": "Cerquotti-Madonna del Piano",
+    "latitude": "41.64194000",
+    "longitude": "13.21316000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 128,
+    "name": "Cerreto Laziale",
+    "latitude": "41.94332000",
+    "longitude": "12.98169000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 129,
+    "name": "Cervara di Roma",
+    "latitude": "41.98822000",
+    "longitude": "13.06799000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 130,
+    "name": "Cervaro",
+    "latitude": "41.48278000",
+    "longitude": "13.90218000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 131,
+    "name": "Cerveteri",
+    "latitude": "41.99080000",
+    "longitude": "12.09082000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 132,
+    "name": "Cesano",
+    "latitude": "42.07375000",
+    "longitude": "12.33711000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 133,
+    "name": "Ciampino",
+    "latitude": "41.80064000",
+    "longitude": "12.60158000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 134,
+    "name": "Ciciliano",
+    "latitude": "41.95990000",
+    "longitude": "12.94163000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 135,
+    "name": "Cineto Romano",
+    "latitude": "42.05014000",
+    "longitude": "12.96080000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 136,
+    "name": "Cisterna di Latina",
+    "latitude": "41.59080000",
+    "longitude": "12.82808000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 137,
+    "name": "Città metropolitana di Roma Capitale",
+    "latitude": "41.96667000",
+    "longitude": "12.66667000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 138,
+    "name": "Cittaducale",
+    "latitude": "42.38664000",
+    "longitude": "12.95497000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 139,
+    "name": "Cittareale",
+    "latitude": "42.61624000",
+    "longitude": "13.15788000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 140,
+    "name": "Civita Castellana",
+    "latitude": "42.29304000",
+    "longitude": "12.40885000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 141,
+    "name": "Civitavecchia",
+    "latitude": "42.09325000",
+    "longitude": "11.79674000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 142,
+    "name": "Civitella d'Agliano",
+    "latitude": "42.60296000",
+    "longitude": "12.18624000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 143,
+    "name": "Civitella San Paolo",
+    "latitude": "42.19935000",
+    "longitude": "12.57455000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 144,
+    "name": "Coldragone",
+    "latitude": "41.55458000",
+    "longitude": "13.60399000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 145,
+    "name": "Collalto Sabino",
+    "latitude": "42.13522000",
+    "longitude": "13.04841000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 146,
+    "name": "Colle Campano-Scrima",
+    "latitude": "41.62364000",
+    "longitude": "13.46336000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 147,
+    "name": "Colle del Pino",
+    "latitude": "41.74246000",
+    "longitude": "12.49644000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 148,
+    "name": "Colle di Fuori",
+    "latitude": "41.80091000",
+    "longitude": "12.80683000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 149,
+    "name": "Colle di Tora",
+    "latitude": "42.20809000",
+    "longitude": "12.94746000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 150,
+    "name": "Colle Mainello",
+    "latitude": "41.86975000",
+    "longitude": "12.78767000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 151,
+    "name": "Colle San Magno",
+    "latitude": "41.55019000",
+    "longitude": "13.69485000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 152,
+    "name": "Colle Spina",
+    "latitude": "41.78205000",
+    "longitude": "12.84723000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 153,
+    "name": "Colle Verde",
+    "latitude": "41.97694000",
+    "longitude": "12.61855000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 154,
+    "name": "Colleferro",
+    "latitude": "41.72722000",
+    "longitude": "13.00481000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 155,
+    "name": "Collefontana-Fontana Liri Inferiore",
+    "latitude": "41.61166000",
+    "longitude": "13.54945000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 156,
+    "name": "Collegiove",
+    "latitude": "42.17506000",
+    "longitude": "13.03844000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 157,
+    "name": "Collepardo",
+    "latitude": "41.76417000",
+    "longitude": "13.36846000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 158,
+    "name": "Collevecchio",
+    "latitude": "42.33368000",
+    "longitude": "12.55329000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 159,
+    "name": "Colleverde II",
+    "latitude": "41.97533000",
+    "longitude": "12.63191000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 160,
+    "name": "Colli di Enea",
+    "latitude": "41.65554000",
+    "longitude": "12.49035000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 161,
+    "name": "Colli sul Velino",
+    "latitude": "42.49828000",
+    "longitude": "12.78153000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 162,
+    "name": "Colonna",
+    "latitude": "41.83454000",
+    "longitude": "12.75495000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 163,
+    "name": "Colubro",
+    "latitude": "41.73506000",
+    "longitude": "12.86726000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 164,
+    "name": "Concerviano",
+    "latitude": "42.32214000",
+    "longitude": "12.98534000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 165,
+    "name": "Configni",
+    "latitude": "42.42543000",
+    "longitude": "12.64431000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 166,
+    "name": "Contigliano",
+    "latitude": "42.41058000",
+    "longitude": "12.77202000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 167,
+    "name": "Corchiano",
+    "latitude": "42.34495000",
+    "longitude": "12.35688000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 168,
+    "name": "Corcolle",
+    "latitude": "41.90421000",
+    "longitude": "12.73654000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 169,
+    "name": "Coreno Ausonio",
+    "latitude": "41.34735000",
+    "longitude": "13.77648000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 170,
+    "name": "Cori",
+    "latitude": "41.64358000",
+    "longitude": "12.91121000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 171,
+    "name": "Corvaro",
+    "latitude": "42.20538000",
+    "longitude": "13.26496000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 172,
+    "name": "Costaroni",
+    "latitude": "42.07819000",
+    "longitude": "12.53712000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 173,
+    "name": "Cottanello",
+    "latitude": "42.40811000",
+    "longitude": "12.68592000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 174,
+    "name": "Cretone",
+    "latitude": "42.07116000",
+    "longitude": "12.70365000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 175,
+    "name": "Esperia",
+    "latitude": "41.38237000",
+    "longitude": "13.68491000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 176,
+    "name": "Fabrica di Roma",
+    "latitude": "42.33444000",
+    "longitude": "12.29873000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 177,
+    "name": "Faleria",
+    "latitude": "42.22580000",
+    "longitude": "12.44518000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 178,
+    "name": "Falvaterra",
+    "latitude": "41.50438000",
+    "longitude": "13.52341000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 179,
+    "name": "Fara in Sabina",
+    "latitude": "42.20807000",
+    "longitude": "12.72960000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 180,
+    "name": "Farnese",
+    "latitude": "42.54926000",
+    "longitude": "11.72638000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 181,
+    "name": "Ferentino",
+    "latitude": "41.69119000",
+    "longitude": "13.25620000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 182,
+    "name": "Fiamignano",
+    "latitude": "42.26546000",
+    "longitude": "13.12413000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 183,
+    "name": "Fiano Romano",
+    "latitude": "42.15538000",
+    "longitude": "12.59467000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 184,
+    "name": "Filacciano",
+    "latitude": "42.25445000",
+    "longitude": "12.59880000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 185,
+    "name": "Filettino",
+    "latitude": "41.89131000",
+    "longitude": "13.32531000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 186,
+    "name": "Fiuggi",
+    "latitude": "41.79780000",
+    "longitude": "13.22386000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 187,
+    "name": "Fiumicino-Isola Sacra",
+    "latitude": "41.77093000",
+    "longitude": "12.23662000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 188,
+    "name": "Focene",
+    "latitude": "41.81367000",
+    "longitude": "12.21354000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 189,
+    "name": "Fondi",
+    "latitude": "41.35787000",
+    "longitude": "13.42718000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 190,
+    "name": "Fontechiari",
+    "latitude": "41.66788000",
+    "longitude": "13.67504000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 191,
+    "name": "Forano",
+    "latitude": "42.29768000",
+    "longitude": "12.59469000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 192,
+    "name": "Formello",
+    "latitude": "42.06246000",
+    "longitude": "12.39435000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 193,
+    "name": "Formia",
+    "latitude": "41.25632000",
+    "longitude": "13.60888000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 194,
+    "name": "Fossignano",
+    "latitude": "41.59226000",
+    "longitude": "12.56333000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 195,
+    "name": "Frascati",
+    "latitude": "41.80910000",
+    "longitude": "12.67942000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 196,
+    "name": "Frasso Sabino",
+    "latitude": "42.22927000",
+    "longitude": "12.80658000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 197,
+    "name": "Fregene",
+    "latitude": "41.85051000",
+    "longitude": "12.19671000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 198,
+    "name": "Frosinone",
+    "latitude": "41.63976000",
+    "longitude": "13.34109000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 199,
+    "name": "Fumone",
+    "latitude": "41.73461000",
+    "longitude": "13.27015000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 200,
+    "name": "Gaeta",
+    "latitude": "41.21408000",
+    "longitude": "13.57082000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 201,
+    "name": "Gallese",
+    "latitude": "42.37376000",
+    "longitude": "12.39646000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 202,
+    "name": "Gallicano nel Lazio",
+    "latitude": "41.86433000",
+    "longitude": "12.83543000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 203,
+    "name": "Gallinaro",
+    "latitude": "41.65502000",
+    "longitude": "13.79799000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 204,
+    "name": "Gavignano",
+    "latitude": "41.69891000",
+    "longitude": "13.05032000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 205,
+    "name": "Genazzano",
+    "latitude": "41.82807000",
+    "longitude": "12.97196000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 206,
+    "name": "Genio Civile",
+    "latitude": "41.54807000",
+    "longitude": "12.69161000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 207,
+    "name": "Genzano di Roma",
+    "latitude": "41.70706000",
+    "longitude": "12.68904000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 208,
+    "name": "Gerano",
+    "latitude": "41.93474000",
+    "longitude": "12.99034000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 209,
+    "name": "Girardi-Bellavista-Terrazze",
+    "latitude": "42.10266000",
+    "longitude": "12.57960000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 210,
+    "name": "Giulianello",
+    "latitude": "41.68610000",
+    "longitude": "12.87917000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 211,
+    "name": "Giuliano di Roma",
+    "latitude": "41.53933000",
+    "longitude": "13.28028000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 212,
+    "name": "Gorga",
+    "latitude": "41.65468000",
+    "longitude": "13.10663000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 213,
+    "name": "Gradoli",
+    "latitude": "42.64502000",
+    "longitude": "11.85580000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 214,
+    "name": "Graffignano",
+    "latitude": "42.57539000",
+    "longitude": "12.20121000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 215,
+    "name": "Grottaferrata",
+    "latitude": "41.78664000",
+    "longitude": "12.67144000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 216,
+    "name": "Grotte di Castro",
+    "latitude": "42.67567000",
+    "longitude": "11.86908000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 217,
+    "name": "Grotte Santo Stefano",
+    "latitude": "42.51691000",
+    "longitude": "12.17226000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 218,
+    "name": "Grunuovo-Campomaggiore San Luca",
+    "latitude": "41.27228000",
+    "longitude": "13.80684000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 219,
+    "name": "Guarcino",
+    "latitude": "41.79917000",
+    "longitude": "13.31439000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 220,
+    "name": "Guidonia",
+    "latitude": "41.99232000",
+    "longitude": "12.71876000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 221,
+    "name": "Guidonia Montecelio",
+    "latitude": "41.99362000",
+    "longitude": "12.72238000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 222,
+    "name": "Ischia di Castro",
+    "latitude": "42.54420000",
+    "longitude": "11.75759000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 223,
+    "name": "Isola del Liri",
+    "latitude": "41.68678000",
+    "longitude": "13.59679000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 224,
+    "name": "Itri",
+    "latitude": "41.29034000",
+    "longitude": "13.53000000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 225,
+    "name": "Jenne",
+    "latitude": "41.88882000",
+    "longitude": "13.16959000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 226,
+    "name": "La Botte",
+    "latitude": "41.98176000",
+    "longitude": "12.76775000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 227,
+    "name": "La Forma",
+    "latitude": "41.83449000",
+    "longitude": "13.09092000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 228,
+    "name": "La Massimina-Casal Lumbroso",
+    "latitude": "41.87332000",
+    "longitude": "12.35694000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 229,
+    "name": "Labico",
+    "latitude": "41.79260000",
+    "longitude": "12.87127000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 230,
+    "name": "Labro",
+    "latitude": "42.52603000",
+    "longitude": "12.80068000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 231,
+    "name": "Ladispoli",
+    "latitude": "41.95068000",
+    "longitude": "12.07500000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 232,
+    "name": "Laghetto",
+    "latitude": "41.96734000",
+    "longitude": "12.65609000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 233,
+    "name": "Lanuvio",
+    "latitude": "41.67297000",
+    "longitude": "12.69403000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 234,
+    "name": "Lariano",
+    "latitude": "41.71847000",
+    "longitude": "12.82868000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 235,
+    "name": "Latera",
+    "latitude": "42.62922000",
+    "longitude": "11.82922000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 236,
+    "name": "Latina",
+    "latitude": "41.46614000",
+    "longitude": "12.90430000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 237,
+    "name": "Latina Scalo",
+    "latitude": "41.53157000",
+    "longitude": "12.94567000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 238,
+    "name": "Lavinio",
+    "latitude": "41.50350000",
+    "longitude": "12.58973000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 239,
+    "name": "Le Forna",
+    "latitude": "40.92475000",
+    "longitude": "12.96896000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 240,
+    "name": "Le Rughe",
+    "latitude": "42.06885000",
+    "longitude": "12.37624000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 241,
+    "name": "Lenola",
+    "latitude": "41.40485000",
+    "longitude": "13.45934000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 242,
+    "name": "Leonessa",
+    "latitude": "42.56855000",
+    "longitude": "12.95996000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 243,
+    "name": "Licenza",
+    "latitude": "42.07413000",
+    "longitude": "12.90008000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 244,
+    "name": "Lido dei Pini",
+    "latitude": "41.53660000",
+    "longitude": "12.58976000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 245,
+    "name": "Lido di Ostia",
+    "latitude": "41.73212000",
+    "longitude": "12.27654000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 246,
+    "name": "Limiti di Greccio",
+    "latitude": "42.45329000",
+    "longitude": "12.76955000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 247,
+    "name": "Longone Sabino",
+    "latitude": "42.27260000",
+    "longitude": "12.96653000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 248,
+    "name": "Lubriano",
+    "latitude": "42.63623000",
+    "longitude": "12.10876000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 249,
+    "name": "Maccarese",
+    "latitude": "41.87696000",
+    "longitude": "12.21975000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 250,
+    "name": "Macere",
+    "latitude": "41.74873000",
+    "longitude": "12.85835000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 251,
+    "name": "Maenza",
+    "latitude": "41.52402000",
+    "longitude": "13.18344000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 252,
+    "name": "Magliano Romano",
+    "latitude": "42.15750000",
+    "longitude": "12.43662000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 253,
+    "name": "Magliano Sabina",
+    "latitude": "42.36568000",
+    "longitude": "12.48520000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 254,
+    "name": "Mandela",
+    "latitude": "42.02795000",
+    "longitude": "12.92089000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 255,
+    "name": "Mantiglia di Ardea",
+    "latitude": "41.67685000",
+    "longitude": "12.61453000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 256,
+    "name": "Manziana",
+    "latitude": "42.12998000",
+    "longitude": "12.12537000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 257,
+    "name": "Marano Equo",
+    "latitude": "41.99535000",
+    "longitude": "13.01501000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 258,
+    "name": "Maranola-Trivio",
+    "latitude": "41.28522000",
+    "longitude": "13.62777000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 259,
+    "name": "Marcellina",
+    "latitude": "42.02436000",
+    "longitude": "12.80445000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 260,
+    "name": "Marcetelli",
+    "latitude": "42.22663000",
+    "longitude": "13.04589000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 261,
+    "name": "Marco Simone",
+    "latitude": "41.95544000",
+    "longitude": "12.64775000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 262,
+    "name": "Marina di Ardea-Tor San Lorenzo",
+    "latitude": "41.55439000",
+    "longitude": "12.54115000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 263,
+    "name": "Marina di Cerveteri",
+    "latitude": "41.97997000",
+    "longitude": "12.05295000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 264,
+    "name": "Marina San Nicola",
+    "latitude": "41.93102000",
+    "longitude": "12.12024000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 265,
+    "name": "Marino",
+    "latitude": "41.76984000",
+    "longitude": "12.65917000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 266,
+    "name": "Marta",
+    "latitude": "42.53318000",
+    "longitude": "11.92423000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 267,
+    "name": "Mazzano Romano",
+    "latitude": "42.20597000",
+    "longitude": "12.39554000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 268,
+    "name": "Mentana",
+    "latitude": "42.03539000",
+    "longitude": "12.64413000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 269,
+    "name": "Micigliano",
+    "latitude": "42.45203000",
+    "longitude": "13.05318000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 270,
+    "name": "Minturno",
+    "latitude": "41.26294000",
+    "longitude": "13.74583000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 271,
+    "name": "Molella",
+    "latitude": "41.26009000",
+    "longitude": "13.06221000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 272,
+    "name": "Mompeo",
+    "latitude": "42.24780000",
+    "longitude": "12.75130000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 273,
+    "name": "Montalto di Castro",
+    "latitude": "42.34983000",
+    "longitude": "11.60788000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 274,
+    "name": "Montasola",
+    "latitude": "42.38495000",
+    "longitude": "12.68127000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 275,
+    "name": "Monte Caminetto",
+    "latitude": "42.06650000",
+    "longitude": "12.47358000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 276,
+    "name": "Monte Migliore La Selvotta",
+    "latitude": "41.72060000",
+    "longitude": "12.50206000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 277,
+    "name": "Monte Porzio Catone",
+    "latitude": "41.81585000",
+    "longitude": "12.71432000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 278,
+    "name": "Monte Romano",
+    "latitude": "42.26745000",
+    "longitude": "11.89658000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 279,
+    "name": "Monte San Biagio",
+    "latitude": "41.35360000",
+    "longitude": "13.35184000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 280,
+    "name": "Monte San Giovanni Campano",
+    "latitude": "41.64310000",
+    "longitude": "13.51088000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 281,
+    "name": "Monte San Giovanni in Sabina",
+    "latitude": "42.32703000",
+    "longitude": "12.77858000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 282,
+    "name": "Monte San Marino",
+    "latitude": "41.71200000",
+    "longitude": "13.31199000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 283,
+    "name": "Montebuono",
+    "latitude": "42.36770000",
+    "longitude": "12.59721000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 284,
+    "name": "Montecelio",
+    "latitude": "42.02067000",
+    "longitude": "12.74354000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 285,
+    "name": "Montecompatri",
+    "latitude": "41.80892000",
+    "longitude": "12.73778000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 286,
+    "name": "Montefiascone",
+    "latitude": "42.54255000",
+    "longitude": "12.03192000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 287,
+    "name": "Monteflavio",
+    "latitude": "42.10935000",
+    "longitude": "12.83076000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 288,
+    "name": "Montelanico",
+    "latitude": "41.65069000",
+    "longitude": "13.04027000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 289,
+    "name": "Montelarco",
+    "latitude": "42.16339000",
+    "longitude": "12.48398000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 290,
+    "name": "Monteleone Sabino",
+    "latitude": "42.23267000",
+    "longitude": "12.85828000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 291,
+    "name": "Montelibretti",
+    "latitude": "42.13553000",
+    "longitude": "12.73868000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 292,
+    "name": "Montenero Sabino",
+    "latitude": "42.28123000",
+    "longitude": "12.81358000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 293,
+    "name": "Monterosi",
+    "latitude": "42.19698000",
+    "longitude": "12.30842000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 294,
+    "name": "Monterotondo",
+    "latitude": "42.05159000",
+    "longitude": "12.61969000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 295,
+    "name": "Montopoli in Sabina",
+    "latitude": "42.24593000",
+    "longitude": "12.69208000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 296,
+    "name": "Montorio Romano",
+    "latitude": "42.13738000",
+    "longitude": "12.80404000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 297,
+    "name": "Moricone",
+    "latitude": "42.11661000",
+    "longitude": "12.77234000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 298,
+    "name": "Morlupo",
+    "latitude": "42.15002000",
+    "longitude": "12.50306000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 299,
+    "name": "Morolo",
+    "latitude": "41.63838000",
+    "longitude": "13.19809000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 300,
+    "name": "Morro Reatino",
+    "latitude": "42.52226000",
+    "longitude": "12.83449000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 301,
+    "name": "Nazzano",
+    "latitude": "42.23018000",
+    "longitude": "12.59440000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 302,
+    "name": "Nemi",
+    "latitude": "41.72185000",
+    "longitude": "12.71809000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 303,
+    "name": "Nepi",
+    "latitude": "42.24221000",
+    "longitude": "12.34355000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 304,
+    "name": "Nerola",
+    "latitude": "42.16011000",
+    "longitude": "12.78529000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 305,
+    "name": "Nespolo",
+    "latitude": "42.15671000",
+    "longitude": "13.06938000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 306,
+    "name": "Nettuno",
+    "latitude": "41.45794000",
+    "longitude": "12.66393000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 307,
+    "name": "Norma",
+    "latitude": "41.58643000",
+    "longitude": "12.97073000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 308,
+    "name": "Olevano Romano",
+    "latitude": "41.85869000",
+    "longitude": "13.03601000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 309,
+    "name": "Onano",
+    "latitude": "42.69104000",
+    "longitude": "11.81552000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 310,
+    "name": "Oriolo Romano",
+    "latitude": "42.16261000",
+    "longitude": "12.13859000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 311,
+    "name": "Orte",
+    "latitude": "42.46117000",
+    "longitude": "12.38635000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 312,
+    "name": "Orte Scalo",
+    "latitude": "42.43483000",
+    "longitude": "12.40783000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 313,
+    "name": "Orvinio",
+    "latitude": "42.13039000",
+    "longitude": "12.93762000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 314,
+    "name": "Osteria Nuova",
+    "latitude": "42.03721000",
+    "longitude": "12.30924000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 315,
+    "name": "Paganico Sabino",
+    "latitude": "42.18963000",
+    "longitude": "12.99689000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 316,
+    "name": "Palestrina",
+    "latitude": "41.83274000",
+    "longitude": "12.88178000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 317,
+    "name": "Paliano",
+    "latitude": "41.77975000",
+    "longitude": "13.07661000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 318,
+    "name": "Palombara Sabina",
+    "latitude": "42.06909000",
+    "longitude": "12.76684000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 319,
+    "name": "Parco Leonardo",
+    "latitude": "41.80035000",
+    "longitude": "12.30028000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 320,
+    "name": "Passoscuro",
+    "latitude": "41.90209000",
+    "longitude": "12.15723000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 321,
+    "name": "Pastena",
+    "latitude": "41.46842000",
+    "longitude": "13.49111000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 322,
+    "name": "Patrica",
+    "latitude": "41.59085000",
+    "longitude": "13.24363000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 323,
+    "name": "Pavona",
+    "latitude": "41.72629000",
+    "longitude": "12.61642000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 324,
+    "name": "Penitro",
+    "latitude": "41.27328000",
+    "longitude": "13.69262000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 325,
+    "name": "Percile",
+    "latitude": "42.09497000",
+    "longitude": "12.91048000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 326,
+    "name": "Pescia Romana",
+    "latitude": "42.39963000",
+    "longitude": "11.49651000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 327,
+    "name": "Pescorocchiano",
+    "latitude": "42.20623000",
+    "longitude": "13.14715000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 328,
+    "name": "Pescosolido",
+    "latitude": "41.74864000",
+    "longitude": "13.65690000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 329,
+    "name": "Petrella Salto",
+    "latitude": "42.29405000",
+    "longitude": "13.06794000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 330,
+    "name": "Piansano",
+    "latitude": "42.52449000",
+    "longitude": "11.82978000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 331,
+    "name": "Picinisco",
+    "latitude": "41.64568000",
+    "longitude": "13.86791000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 332,
+    "name": "Pico",
+    "latitude": "41.45025000",
+    "longitude": "13.55894000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 333,
+    "name": "Piedimonte San Germano",
+    "latitude": "41.49796000",
+    "longitude": "13.75017000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 334,
+    "name": "Piedimonte San Germano Alta",
+    "latitude": "41.50446000",
+    "longitude": "13.74909000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 335,
+    "name": "Piglio",
+    "latitude": "41.83006000",
+    "longitude": "13.13330000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 336,
+    "name": "Pignataro Interamna",
+    "latitude": "41.43922000",
+    "longitude": "13.78621000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 337,
+    "name": "Pisoniano",
+    "latitude": "41.90816000",
+    "longitude": "12.95794000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 338,
+    "name": "Pofi",
+    "latitude": "41.56542000",
+    "longitude": "13.41460000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 339,
+    "name": "Poggio Bustone",
+    "latitude": "42.50330000",
+    "longitude": "12.88524000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 340,
+    "name": "Poggio Catino",
+    "latitude": "42.29420000",
+    "longitude": "12.69838000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 341,
+    "name": "Poggio Ellera",
+    "latitude": "42.11380000",
+    "longitude": "12.37174000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 342,
+    "name": "Poggio Mirteto",
+    "latitude": "42.26763000",
+    "longitude": "12.68837000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 343,
+    "name": "Poggio Moiano",
+    "latitude": "42.20411000",
+    "longitude": "12.88136000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 344,
+    "name": "Poggio Nativo",
+    "latitude": "42.21783000",
+    "longitude": "12.79691000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 345,
+    "name": "Poggio San Lorenzo",
+    "latitude": "42.25174000",
+    "longitude": "12.84343000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 346,
+    "name": "Poli",
+    "latitude": "41.88913000",
+    "longitude": "12.89037000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 347,
+    "name": "Pomezia",
+    "latitude": "41.66931000",
+    "longitude": "12.50124000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 348,
+    "name": "Ponte Galeria-La Pisana",
+    "latitude": "41.84634000",
+    "longitude": "12.33925000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 349,
+    "name": "Pontecorvo",
+    "latitude": "41.45861000",
+    "longitude": "13.66618000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 350,
+    "name": "Pontinia",
+    "latitude": "41.41097000",
+    "longitude": "13.04259000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 351,
+    "name": "Ponton dell'Elce",
+    "latitude": "42.02270000",
+    "longitude": "12.23505000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 352,
+    "name": "Ponza",
+    "latitude": "40.89541000",
+    "longitude": "12.95889000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 353,
+    "name": "Ponzano Romano",
+    "latitude": "42.25693000",
+    "longitude": "12.57047000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 354,
+    "name": "Posta",
+    "latitude": "42.52562000",
+    "longitude": "13.09723000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 355,
+    "name": "Posta Fibreno",
+    "latitude": "41.69189000",
+    "longitude": "13.68013000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 356,
+    "name": "Pozzaglia Sabino",
+    "latitude": "42.15863000",
+    "longitude": "12.96428000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 357,
+    "name": "Prato di Coppola",
+    "latitude": "41.41750000",
+    "longitude": "12.88157000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 358,
+    "name": "Priverno",
+    "latitude": "41.47047000",
+    "longitude": "13.17867000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 359,
+    "name": "Proceno",
+    "latitude": "42.75745000",
+    "longitude": "11.82900000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 360,
+    "name": "Prossedi",
+    "latitude": "41.51674000",
+    "longitude": "13.26100000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 361,
+    "name": "Provincia di Frosinone",
+    "latitude": "41.61667000",
+    "longitude": "13.45000000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 362,
+    "name": "Provincia di Latina",
+    "latitude": "41.45000000",
+    "longitude": "13.10000000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 363,
+    "name": "Provincia di Rieti",
+    "latitude": "42.39133000",
+    "longitude": "12.95072000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 364,
+    "name": "Provincia di Viterbo",
+    "latitude": "42.41667000",
+    "longitude": "12.08333000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 365,
+    "name": "Regolelli",
+    "latitude": "42.29315000",
+    "longitude": "12.35131000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 366,
+    "name": "Riano",
+    "latitude": "42.09347000",
+    "longitude": "12.51462000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 367,
+    "name": "Rieti",
+    "latitude": "42.40476000",
+    "longitude": "12.85735000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 368,
+    "name": "Rignano Flaminio",
+    "latitude": "42.20550000",
+    "longitude": "12.48068000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 369,
+    "name": "Riofreddo",
+    "latitude": "42.05875000",
+    "longitude": "12.99661000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 370,
+    "name": "Ripi",
+    "latitude": "41.61366000",
+    "longitude": "13.42400000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 371,
+    "name": "Rivodutri",
+    "latitude": "42.51684000",
+    "longitude": "12.85595000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 372,
+    "name": "Rocca Canterano",
+    "latitude": "41.95652000",
+    "longitude": "13.02179000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 373,
+    "name": "Rocca d'Arce",
+    "latitude": "41.58712000",
+    "longitude": "13.58511000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 374,
+    "name": "Rocca di Cave",
+    "latitude": "41.84589000",
+    "longitude": "12.94509000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 375,
+    "name": "Rocca di Papa",
+    "latitude": "41.76580000",
+    "longitude": "12.70188000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 376,
+    "name": "Rocca Massima",
+    "latitude": "41.67907000",
+    "longitude": "12.92116000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 377,
+    "name": "Rocca Priora",
+    "latitude": "41.76585000",
+    "longitude": "12.76577000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 378,
+    "name": "Rocca Santo Stefano",
+    "latitude": "41.91052000",
+    "longitude": "13.02379000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 379,
+    "name": "Rocca Sinibalda",
+    "latitude": "42.27215000",
+    "longitude": "12.92469000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 380,
+    "name": "Roccagiovine",
+    "latitude": "42.05069000",
+    "longitude": "12.89925000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 381,
+    "name": "Roccagorga",
+    "latitude": "41.52511000",
+    "longitude": "13.15510000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 382,
+    "name": "Roccantica",
+    "latitude": "42.32073000",
+    "longitude": "12.69398000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 383,
+    "name": "Roccasecca",
+    "latitude": "41.55132000",
+    "longitude": "13.66711000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 384,
+    "name": "Roccasecca dei Volsci",
+    "latitude": "41.47852000",
+    "longitude": "13.21280000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 385,
+    "name": "Roccasecca Stazione",
+    "latitude": "41.53333000",
+    "longitude": "13.65000000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 386,
+    "name": "Roiate",
+    "latitude": "41.87332000",
+    "longitude": "13.06627000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 387,
+    "name": "Rome",
+    "latitude": "41.89193000",
+    "longitude": "12.51133000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 388,
+    "name": "Ronciglione",
+    "latitude": "42.28899000",
+    "longitude": "12.21479000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 389,
+    "name": "Roviano",
+    "latitude": "42.02643000",
+    "longitude": "12.99390000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 390,
+    "name": "Sabaudia",
+    "latitude": "41.30025000",
+    "longitude": "13.02815000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 391,
+    "name": "Sacrofano",
+    "latitude": "42.10457000",
+    "longitude": "12.44781000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 392,
+    "name": "Salisano",
+    "latitude": "42.25947000",
+    "longitude": "12.74774000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 393,
+    "name": "Sambuci",
+    "latitude": "41.98536000",
+    "longitude": "12.93817000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 394,
+    "name": "San Bartolomeo",
+    "latitude": "41.48265000",
+    "longitude": "13.85747000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 395,
+    "name": "San Biagio Saracinisco",
+    "latitude": "41.61322000",
+    "longitude": "13.92758000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 396,
+    "name": "San Cesareo",
+    "latitude": "41.82113000",
+    "longitude": "12.80447000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 397,
+    "name": "San Donato Val di Comino",
+    "latitude": "41.70726000",
+    "longitude": "13.81220000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 398,
+    "name": "San Felice Circeo",
+    "latitude": "41.23716000",
+    "longitude": "13.09416000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 399,
+    "name": "San Giorgio a Liri",
+    "latitude": "41.40584000",
+    "longitude": "13.75979000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 400,
+    "name": "San Giovanni Incarico",
+    "latitude": "41.50001000",
+    "longitude": "13.55864000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 401,
+    "name": "San Giovanni-Patoni",
+    "latitude": "41.77223000",
+    "longitude": "13.27510000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 402,
+    "name": "San Giuseppe le Prata-Cotropagno",
+    "latitude": "41.67788000",
+    "longitude": "13.39664000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 403,
+    "name": "San Gregorio da Sassola",
+    "latitude": "41.91881000",
+    "longitude": "12.87447000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 404,
+    "name": "San Lorenzo Nuovo",
+    "latitude": "42.68626000",
+    "longitude": "11.90718000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 405,
+    "name": "San Martino al Cimino",
+    "latitude": "42.36978000",
+    "longitude": "12.12515000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 406,
+    "name": "San Polo dei Cavalieri",
+    "latitude": "42.01037000",
+    "longitude": "12.83989000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 407,
+    "name": "San Vito Romano",
+    "latitude": "41.88001000",
+    "longitude": "12.97793000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 408,
+    "name": "San Vittore del Lazio",
+    "latitude": "41.46212000",
+    "longitude": "13.93367000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 409,
+    "name": "Sant'Ambrogio sul Garigliano",
+    "latitude": "41.39423000",
+    "longitude": "13.86891000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 410,
+    "name": "Sant'Andrea del Garigliano",
+    "latitude": "41.36868000",
+    "longitude": "13.84198000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 411,
+    "name": "Sant'Angelo in Villa-Giglio",
+    "latitude": "41.66217000",
+    "longitude": "13.42871000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 412,
+    "name": "Sant'Angelo Romano",
+    "latitude": "42.03570000",
+    "longitude": "12.71342000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 413,
+    "name": "Sant'Apollinare",
+    "latitude": "41.40176000",
+    "longitude": "13.82992000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 414,
+    "name": "Sant'Elia Fiumerapido",
+    "latitude": "41.53304000",
+    "longitude": "13.86268000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 415,
+    "name": "Sant'Oreste",
+    "latitude": "42.23298000",
+    "longitude": "12.51507000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 416,
+    "name": "Santa Lucia",
+    "latitude": "41.98240000",
+    "longitude": "12.65625000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 417,
+    "name": "Santa Marinella",
+    "latitude": "42.03425000",
+    "longitude": "11.85416000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 418,
+    "name": "Santa Rufina",
+    "latitude": "42.40897000",
+    "longitude": "12.91843000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 419,
+    "name": "Santi Cosma e Damiano",
+    "latitude": "41.30091000",
+    "longitude": "13.81565000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 420,
+    "name": "Santopadre",
+    "latitude": "41.60193000",
+    "longitude": "13.63548000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 421,
+    "name": "Saracinesco",
+    "latitude": "42.00332000",
+    "longitude": "12.95329000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 422,
+    "name": "Sassacci",
+    "latitude": "42.32342000",
+    "longitude": "12.44108000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 423,
+    "name": "Scandriglia",
+    "latitude": "42.16128000",
+    "longitude": "12.84096000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 424,
+    "name": "Segni",
+    "latitude": "41.68893000",
+    "longitude": "13.01934000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 425,
+    "name": "Selcetta",
+    "latitude": "41.76529000",
+    "longitude": "12.47533000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 426,
+    "name": "Selci",
+    "latitude": "42.30293000",
+    "longitude": "12.62135000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 427,
+    "name": "Sermoneta",
+    "latitude": "41.54919000",
+    "longitude": "12.98481000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 428,
+    "name": "Serrone",
+    "latitude": "41.84212000",
+    "longitude": "13.09519000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 429,
+    "name": "Settefrati",
+    "latitude": "41.67045000",
+    "longitude": "13.85070000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 430,
+    "name": "Setteville",
+    "latitude": "41.94375000",
+    "longitude": "12.65122000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 431,
+    "name": "Sezze",
+    "latitude": "41.50032000",
+    "longitude": "13.06176000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 432,
+    "name": "Sezze Scalo",
+    "latitude": "41.49701000",
+    "longitude": "13.04257000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 433,
+    "name": "Sgurgola",
+    "latitude": "41.66897000",
+    "longitude": "13.15009000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 434,
+    "name": "Sonnino",
+    "latitude": "41.41673000",
+    "longitude": "13.24592000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 435,
+    "name": "Sora",
+    "latitude": "41.71829000",
+    "longitude": "13.61356000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 436,
+    "name": "Soriano nel Cimino",
+    "latitude": "42.41820000",
+    "longitude": "12.23414000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 437,
+    "name": "Sperlonga",
+    "latitude": "41.25897000",
+    "longitude": "13.43302000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 438,
+    "name": "Spigno Saturnia Inferiore",
+    "latitude": "41.31146000",
+    "longitude": "13.73685000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 439,
+    "name": "Spigno Saturnia Superiore",
+    "latitude": "41.31425000",
+    "longitude": "13.70888000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 440,
+    "name": "Stimigliano",
+    "latitude": "42.30103000",
+    "longitude": "12.56337000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 441,
+    "name": "Strangolagalli",
+    "latitude": "41.59992000",
+    "longitude": "13.49228000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 442,
+    "name": "Subiaco",
+    "latitude": "41.92619000",
+    "longitude": "13.08906000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 443,
+    "name": "Supino",
+    "latitude": "41.62135000",
+    "longitude": "13.23452000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 444,
+    "name": "Sutri",
+    "latitude": "42.24596000",
+    "longitude": "12.21715000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 445,
+    "name": "Tarano",
+    "latitude": "42.35593000",
+    "longitude": "12.59497000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 446,
+    "name": "Tarquinia",
+    "latitude": "42.25419000",
+    "longitude": "11.75657000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 447,
+    "name": "Tecchiena",
+    "latitude": "41.68822000",
+    "longitude": "13.34538000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 448,
+    "name": "Terelle",
+    "latitude": "41.55212000",
+    "longitude": "13.77841000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 449,
+    "name": "Terracina",
+    "latitude": "41.29174000",
+    "longitude": "13.24359000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 450,
+    "name": "Tessennano",
+    "latitude": "42.47803000",
+    "longitude": "11.79101000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 451,
+    "name": "Tivoli",
+    "latitude": "41.95952000",
+    "longitude": "12.80160000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 452,
+    "name": "Toffia",
+    "latitude": "42.21300000",
+    "longitude": "12.75500000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 453,
+    "name": "Tolfa",
+    "latitude": "42.15023000",
+    "longitude": "11.93216000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 454,
+    "name": "Tor Lupara",
+    "latitude": "41.99771000",
+    "longitude": "12.61814000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 455,
+    "name": "Torre Caietani",
+    "latitude": "41.78672000",
+    "longitude": "13.26520000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 456,
+    "name": "Torri in Sabina",
+    "latitude": "42.35057000",
+    "longitude": "12.64157000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 457,
+    "name": "Torrice",
+    "latitude": "41.63374000",
+    "longitude": "13.40375000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 458,
+    "name": "Torricella in Sabina",
+    "latitude": "42.26252000",
+    "longitude": "12.87170000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 459,
+    "name": "Torrita Tiberina",
+    "latitude": "42.23821000",
+    "longitude": "12.61633000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 460,
+    "name": "Torvaianica",
+    "latitude": "41.62112000",
+    "longitude": "12.46197000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 461,
+    "name": "Torvaianica Alta",
+    "latitude": "41.63162000",
+    "longitude": "12.49765000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 462,
+    "name": "Tragliatella Campitello",
+    "latitude": "42.01334000",
+    "longitude": "12.25200000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 463,
+    "name": "Trevi nel Lazio",
+    "latitude": "41.86258000",
+    "longitude": "13.24793000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 464,
+    "name": "Trevignano Romano",
+    "latitude": "42.16020000",
+    "longitude": "12.23775000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 465,
+    "name": "Trivigliano",
+    "latitude": "41.77572000",
+    "longitude": "13.27230000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 466,
+    "name": "Turania",
+    "latitude": "42.13517000",
+    "longitude": "13.00983000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 467,
+    "name": "Tuscania",
+    "latitude": "42.41889000",
+    "longitude": "11.86846000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 468,
+    "name": "Vacone",
+    "latitude": "42.38100000",
+    "longitude": "12.64504000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 469,
+    "name": "Valcanneto",
+    "latitude": "41.95078000",
+    "longitude": "12.15734000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 470,
+    "name": "Valentano",
+    "latitude": "42.56377000",
+    "longitude": "11.82748000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 471,
+    "name": "Valle Martella",
+    "latitude": "41.87827000",
+    "longitude": "12.74677000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 472,
+    "name": "Valle Santa",
+    "latitude": "41.94532000",
+    "longitude": "12.31971000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 473,
+    "name": "Vallecorsa",
+    "latitude": "41.44351000",
+    "longitude": "13.40634000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 474,
+    "name": "Vallemaio",
+    "latitude": "41.36628000",
+    "longitude": "13.80839000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 475,
+    "name": "Vallepietra",
+    "latitude": "41.92552000",
+    "longitude": "13.23127000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 476,
+    "name": "Vallerano",
+    "latitude": "42.38331000",
+    "longitude": "12.26144000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 477,
+    "name": "Vallerotonda",
+    "latitude": "41.55135000",
+    "longitude": "13.91372000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 478,
+    "name": "Vallinfreda",
+    "latitude": "42.08485000",
+    "longitude": "12.99595000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 479,
+    "name": "Valmontone",
+    "latitude": "41.77323000",
+    "longitude": "12.91856000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 480,
+    "name": "Varco Sabino",
+    "latitude": "42.24016000",
+    "longitude": "13.02052000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 481,
+    "name": "Vasanello",
+    "latitude": "42.41507000",
+    "longitude": "12.34767000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 482,
+    "name": "Vejano",
+    "latitude": "42.21905000",
+    "longitude": "12.09398000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 483,
+    "name": "Velletri",
+    "latitude": "41.68573000",
+    "longitude": "12.77753000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 484,
+    "name": "Ventotene",
+    "latitude": "40.79404000",
+    "longitude": "13.42777000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 485,
+    "name": "Veroli",
+    "latitude": "41.69433000",
+    "longitude": "13.41664000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 486,
+    "name": "Vetralla",
+    "latitude": "42.31787000",
+    "longitude": "12.07323000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 487,
+    "name": "Vicalvi",
+    "latitude": "41.67809000",
+    "longitude": "13.70813000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 488,
+    "name": "Vico nel Lazio",
+    "latitude": "41.77822000",
+    "longitude": "13.34279000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 489,
+    "name": "Vicovaro",
+    "latitude": "42.01924000",
+    "longitude": "12.90001000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 490,
+    "name": "Vignanello",
+    "latitude": "42.37879000",
+    "longitude": "12.27845000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 491,
+    "name": "Villa Adriana",
+    "latitude": "41.95499000",
+    "longitude": "12.77216000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 492,
+    "name": "Villa Latina",
+    "latitude": "41.61522000",
+    "longitude": "13.83591000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 493,
+    "name": "Villa San Giovanni in Tuscia",
+    "latitude": "42.27882000",
+    "longitude": "12.05346000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 494,
+    "name": "Villa Santa Lucia",
+    "latitude": "41.51217000",
+    "longitude": "13.76929000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 495,
+    "name": "Villa Santo Stefano",
+    "latitude": "41.51683000",
+    "longitude": "13.31046000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 496,
+    "name": "Villalba",
+    "latitude": "41.95387000",
+    "longitude": "12.72938000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 497,
+    "name": "Villanova",
+    "latitude": "41.96357000",
+    "longitude": "12.75633000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 498,
+    "name": "Viterbo",
+    "latitude": "42.41937000",
+    "longitude": "12.10560000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  },
+  {
+    "id": 499,
+    "name": "Viticuso",
+    "latitude": "41.52475000",
+    "longitude": "13.97027000",
+    "stateId": 1678,
+    "stateCode": "62",
+    "countryCode": "IT"
+  }
+]

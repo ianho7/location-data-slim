@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "name": "Achalpur",
+    "latitude": "21.25665000",
+    "longitude": "77.51006000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 1,
+    "name": "Adawad",
+    "latitude": "21.21666667",
+    "longitude": "75.45000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 2,
+    "name": "Agar Panchaitan",
+    "latitude": "18.17369200",
+    "longitude": "72.98853300",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 3,
+    "name": "Aheri",
+    "latitude": "19.41166667",
+    "longitude": "80.00388889",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 4,
+    "name": "Ahmadpur",
+    "latitude": "18.70622000",
+    "longitude": "76.93731000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 5,
+    "name": "Ahmednagar",
+    "latitude": "19.08333333",
+    "longitude": "74.73333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 6,
+    "name": "Airoli",
+    "latitude": "19.15096000",
+    "longitude": "72.99625000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 7,
+    "name": "Ajara",
+    "latitude": "16.11601000",
+    "longitude": "74.21097000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 8,
+    "name": "Akalkot",
+    "latitude": "17.52532000",
+    "longitude": "76.20611000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 9,
+    "name": "Akluj",
+    "latitude": "17.88333333",
+    "longitude": "75.01666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 10,
+    "name": "Akola",
+    "latitude": "20.50000000",
+    "longitude": "77.16667000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 11,
+    "name": "Akolner",
+    "latitude": "18.98333333",
+    "longitude": "74.66666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 12,
+    "name": "Akot",
+    "latitude": "21.09630000",
+    "longitude": "77.05880000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 13,
+    "name": "Akrani",
+    "latitude": "21.82423611",
+    "longitude": "74.21687222",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 14,
+    "name": "Alandi",
+    "latitude": "18.67756000",
+    "longitude": "73.89868000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 15,
+    "name": "Ale",
+    "latitude": "19.17000000",
+    "longitude": "74.12000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 16,
+    "name": "Alibag",
+    "latitude": "18.64813000",
+    "longitude": "72.87579000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 17,
+    "name": "Alkuti",
+    "latitude": "19.05000000",
+    "longitude": "74.23000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 18,
+    "name": "Allapalli",
+    "latitude": "19.43172000",
+    "longitude": "80.06377000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 19,
+    "name": "Amalner",
+    "latitude": "21.03983000",
+    "longitude": "75.05887000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 20,
+    "name": "Amarnath",
+    "latitude": "19.20000000",
+    "longitude": "73.16667000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 21,
+    "name": "Ambad",
+    "latitude": "19.61301000",
+    "longitude": "75.78906000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 22,
+    "name": "Ambajogai",
+    "latitude": "18.73312000",
+    "longitude": "76.38616000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 23,
+    "name": "Ambegaon",
+    "latitude": "19.11666667",
+    "longitude": "73.73333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 24,
+    "name": "Ambernath",
+    "latitude": "19.20900000",
+    "longitude": "73.18600000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 25,
+    "name": "Amgaon",
+    "latitude": "20.65000000",
+    "longitude": "79.95000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 26,
+    "name": "Amravati",
+    "latitude": "20.93333000",
+    "longitude": "77.75000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 27,
+    "name": "Andheri",
+    "latitude": "19.11916667",
+    "longitude": "72.84694444",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 28,
+    "name": "Andura",
+    "latitude": "20.88333333",
+    "longitude": "76.86666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 29,
+    "name": "Anjangaon",
+    "latitude": "21.16516000",
+    "longitude": "77.30910000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 30,
+    "name": "Anjarle",
+    "latitude": "17.85000000",
+    "longitude": "73.09000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 31,
+    "name": "Anshing",
+    "latitude": "20.04090000",
+    "longitude": "77.31501000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 32,
+    "name": "Arag",
+    "latitude": "16.78000000",
+    "longitude": "74.80000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 33,
+    "name": "Arangaon",
+    "latitude": "19.02681000",
+    "longitude": "74.71487000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 34,
+    "name": "Ardhapur",
+    "latitude": "19.28333333",
+    "longitude": "77.38333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 35,
+    "name": "Argaon",
+    "latitude": "16.77899900",
+    "longitude": "73.64553000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 36,
+    "name": "Artist Village",
+    "latitude": "19.03227000",
+    "longitude": "73.04276000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 37,
+    "name": "Arvi",
+    "latitude": "20.99585000",
+    "longitude": "78.22914000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 38,
+    "name": "Ashta",
+    "latitude": "16.94943000",
+    "longitude": "74.40936000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 39,
+    "name": "Ashti",
+    "latitude": "19.37671000",
+    "longitude": "76.22520000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 40,
+    "name": "Asoda",
+    "latitude": "21.03333333",
+    "longitude": "75.60000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 41,
+    "name": "Assaye",
+    "latitude": "20.24512778",
+    "longitude": "75.88739722",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 42,
+    "name": "Astagaon",
+    "latitude": "19.66666667",
+    "longitude": "74.50000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 43,
+    "name": "Aundh Satara",
+    "latitude": "17.54583333",
+    "longitude": "74.37500000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 44,
+    "name": "Aurangabad",
+    "latitude": "19.88467000",
+    "longitude": "75.33986000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 45,
+    "name": "Ausa",
+    "latitude": "18.24728000",
+    "longitude": "76.49930000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 46,
+    "name": "Badlapur",
+    "latitude": "19.15516000",
+    "longitude": "73.26553000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 47,
+    "name": "Badnapur",
+    "latitude": "19.86666667",
+    "longitude": "75.73333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 48,
+    "name": "Badnera",
+    "latitude": "20.85463056",
+    "longitude": "77.72931111",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 49,
+    "name": "Bagewadi",
+    "latitude": "16.29000000",
+    "longitude": "74.60000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 50,
+    "name": "Balapur",
+    "latitude": "20.73269620",
+    "longitude": "76.83632810",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 51,
+    "name": "Ballalpur",
+    "latitude": "19.84696000",
+    "longitude": "79.34578000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 52,
+    "name": "Ballard Estate",
+    "latitude": "18.95000000",
+    "longitude": "72.84000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 53,
+    "name": "Ballarpur",
+    "latitude": "19.83333333",
+    "longitude": "79.35000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 54,
+    "name": "Banda Maharashtra",
+    "latitude": "15.81273611",
+    "longitude": "73.86132778",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 55,
+    "name": "Bandra",
+    "latitude": "19.05444444",
+    "longitude": "72.84055556",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 56,
+    "name": "Baner",
+    "latitude": "18.56000000",
+    "longitude": "73.79027778",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 57,
+    "name": "Bankot",
+    "latitude": "17.98333333",
+    "longitude": "73.05000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 58,
+    "name": "Baramati",
+    "latitude": "18.15174000",
+    "longitude": "74.57767000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 59,
+    "name": "Barsi",
+    "latitude": "18.23454000",
+    "longitude": "75.69275000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 60,
+    "name": "Basmat",
+    "latitude": "19.32872000",
+    "longitude": "77.15746000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 61,
+    "name": "Bavdhan",
+    "latitude": "18.53527778",
+    "longitude": "73.78277778",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 62,
+    "name": "Bawanbir",
+    "latitude": "21.08333333",
+    "longitude": "76.71666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 63,
+    "name": "Beed",
+    "latitude": "18.98921000",
+    "longitude": "75.75634000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 64,
+    "name": "Bhadgaon Maharashtra",
+    "latitude": "20.16666667",
+    "longitude": "75.23333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 65,
+    "name": "Bhandara",
+    "latitude": "21.18333000",
+    "longitude": "80.00000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 66,
+    "name": "Bhandardara",
+    "latitude": "19.52916667",
+    "longitude": "73.75138889",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 67,
+    "name": "Bhandup",
+    "latitude": "19.14000000",
+    "longitude": "72.93000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 68,
+    "name": "Bhayandar",
+    "latitude": "19.30157000",
+    "longitude": "72.85107000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 69,
+    "name": "Bhigvan",
+    "latitude": "18.30070000",
+    "longitude": "74.76701000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 70,
+    "name": "Bhiwandi",
+    "latitude": "19.30023000",
+    "longitude": "73.05881000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 71,
+    "name": "Bhiwapur",
+    "latitude": "20.83555556",
+    "longitude": "79.50111111",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 72,
+    "name": "Bhokar",
+    "latitude": "19.21780300",
+    "longitude": "77.66939200",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 73,
+    "name": "Bhokardan",
+    "latitude": "20.27000000",
+    "longitude": "75.77000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 74,
+    "name": "Bhoom",
+    "latitude": "18.45908000",
+    "longitude": "75.65877000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 75,
+    "name": "Bhor",
+    "latitude": "18.14861000",
+    "longitude": "73.84336000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 76,
+    "name": "Bhudgaon",
+    "latitude": "16.90742000",
+    "longitude": "74.59954000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 77,
+    "name": "Bhugaon",
+    "latitude": "18.50128400",
+    "longitude": "73.75016100",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 78,
+    "name": "Bhusaval",
+    "latitude": "21.04365000",
+    "longitude": "75.78506000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 79,
+    "name": "Bijur",
+    "latitude": "13.84388889",
+    "longitude": "74.63972222",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 80,
+    "name": "Bilashi",
+    "latitude": "16.98333000",
+    "longitude": "74.03333000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 81,
+    "name": "Biloli",
+    "latitude": "18.77385000",
+    "longitude": "77.72463000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 82,
+    "name": "Boisar",
+    "latitude": "19.80362000",
+    "longitude": "72.75598000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 83,
+    "name": "Borgaon Manju",
+    "latitude": "20.71944444",
+    "longitude": "77.15277778",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 84,
+    "name": "Borivali",
+    "latitude": "19.23000000",
+    "longitude": "72.86000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 85,
+    "name": "Brahmapuri",
+    "latitude": "20.60840000",
+    "longitude": "79.85590000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 86,
+    "name": "Breach Candy",
+    "latitude": "18.96700000",
+    "longitude": "72.80500000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 87,
+    "name": "Buldana",
+    "latitude": "20.58333000",
+    "longitude": "76.41667000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 88,
+    "name": "Byculla",
+    "latitude": "18.98000000",
+    "longitude": "72.83500000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 89,
+    "name": "Chakan",
+    "latitude": "18.76059000",
+    "longitude": "73.86351000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 90,
+    "name": "Chakur",
+    "latitude": "18.51305556",
+    "longitude": "76.87527778",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 91,
+    "name": "Chalisgaon",
+    "latitude": "20.45781000",
+    "longitude": "75.01596000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 92,
+    "name": "Chanda",
+    "latitude": "19.95076000",
+    "longitude": "79.29523000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 93,
+    "name": "Chandgad",
+    "latitude": "15.00000000",
+    "longitude": "74.00000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 94,
+    "name": "Chandor",
+    "latitude": "20.33060000",
+    "longitude": "74.24467000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 95,
+    "name": "Chandrapur",
+    "latitude": "20.11793000",
+    "longitude": "79.44377000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 96,
+    "name": "Chandur",
+    "latitude": "19.73444000",
+    "longitude": "79.17167000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 97,
+    "name": "Chandur Bazar",
+    "latitude": "21.23853000",
+    "longitude": "77.74713000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 98,
+    "name": "Chausala",
+    "latitude": "18.70869200",
+    "longitude": "75.69159500",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 99,
+    "name": "Chembur",
+    "latitude": "19.05871111",
+    "longitude": "72.89969444",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 100,
+    "name": "Chicholi",
+    "latitude": "21.46926000",
+    "longitude": "79.70151000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 101,
+    "name": "Chichondi Patil",
+    "latitude": "19.00000000",
+    "longitude": "74.91666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 102,
+    "name": "Chikhli (Buldhana)",
+    "latitude": "20.35046000",
+    "longitude": "76.25774000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 103,
+    "name": "Chikhli (Jalna)",
+    "latitude": "20.02193000",
+    "longitude": "75.78544000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 104,
+    "name": "Chimur",
+    "latitude": "20.49694444",
+    "longitude": "79.37666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 105,
+    "name": "Chinchani",
+    "latitude": "19.87458000",
+    "longitude": "72.68510000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 106,
+    "name": "Chinchpokli",
+    "latitude": "18.98333333",
+    "longitude": "72.83333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 107,
+    "name": "Chiplun",
+    "latitude": "17.53339000",
+    "longitude": "73.50935000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 108,
+    "name": "Chopda",
+    "latitude": "21.24578000",
+    "longitude": "75.29946000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 109,
+    "name": "Colaba",
+    "latitude": "18.91000000",
+    "longitude": "72.81000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 110,
+    "name": "Dabhol",
+    "latitude": "17.58971000",
+    "longitude": "73.18001000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 111,
+    "name": "Daddi",
+    "latitude": "16.06666667",
+    "longitude": "74.43333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 112,
+    "name": "Dahanu",
+    "latitude": "19.96778000",
+    "longitude": "72.71263000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 113,
+    "name": "Dahivel",
+    "latitude": "21.06666667",
+    "longitude": "74.16666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 114,
+    "name": "Dapoli",
+    "latitude": "17.75888889",
+    "longitude": "73.18555556",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 115,
+    "name": "Darwha",
+    "latitude": "20.31017000",
+    "longitude": "77.77257000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 116,
+    "name": "Daryapur",
+    "latitude": "20.92489000",
+    "longitude": "77.32644000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 117,
+    "name": "Dattapur",
+    "latitude": "20.78075000",
+    "longitude": "78.14070000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 118,
+    "name": "Daulatabad",
+    "latitude": "19.93611000",
+    "longitude": "75.22148000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 119,
+    "name": "Daund",
+    "latitude": "18.46515000",
+    "longitude": "74.58375000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 120,
+    "name": "Deccan Gymkhana",
+    "latitude": "18.51840000",
+    "longitude": "73.84060000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 121,
+    "name": "Deglur",
+    "latitude": "18.54777778",
+    "longitude": "77.57722222",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 122,
+    "name": "Dehu",
+    "latitude": "18.71851000",
+    "longitude": "73.76635000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 123,
+    "name": "Deolali",
+    "latitude": "19.94404000",
+    "longitude": "73.83441000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 124,
+    "name": "Deolapar",
+    "latitude": "21.58611111",
+    "longitude": "79.36944444",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 125,
+    "name": "Deoli",
+    "latitude": "20.64920000",
+    "longitude": "78.48023000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 126,
+    "name": "Deoni",
+    "latitude": "18.26388889",
+    "longitude": "77.08222222",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 127,
+    "name": "Deulgaon Raja",
+    "latitude": "20.01757000",
+    "longitude": "76.03755000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 128,
+    "name": "Devrukh",
+    "latitude": "17.06500000",
+    "longitude": "73.61583333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 129,
+    "name": "Dharangaon",
+    "latitude": "21.01187000",
+    "longitude": "75.27407000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 130,
+    "name": "Dharavi",
+    "latitude": "19.05000000",
+    "longitude": "72.86667000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 131,
+    "name": "Dharmabad",
+    "latitude": "18.89116000",
+    "longitude": "77.84940000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 132,
+    "name": "Dharur",
+    "latitude": "18.82017000",
+    "longitude": "76.10937000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 133,
+    "name": "Dhawalpuri",
+    "latitude": "19.16666667",
+    "longitude": "74.51666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 134,
+    "name": "Dhule",
+    "latitude": "21.06852000",
+    "longitude": "74.58837000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 135,
+    "name": "Dhulia",
+    "latitude": "20.90130000",
+    "longitude": "74.77737000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 136,
+    "name": "Dighori",
+    "latitude": "20.88620000",
+    "longitude": "79.93420000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 137,
+    "name": "Diglur",
+    "latitude": "18.54829000",
+    "longitude": "77.57695000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 138,
+    "name": "Digras",
+    "latitude": "20.10350000",
+    "longitude": "77.71846000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 139,
+    "name": "Dindori Maharashtra",
+    "latitude": "20.20000000",
+    "longitude": "73.83305556",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 140,
+    "name": "Diveagar",
+    "latitude": "18.17333333",
+    "longitude": "72.99166667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 141,
+    "name": "Dombivli",
+    "latitude": "19.21667000",
+    "longitude": "73.08333000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 142,
+    "name": "Dondaicha",
+    "latitude": "21.32360000",
+    "longitude": "74.56804000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 143,
+    "name": "Dongri",
+    "latitude": "19.28333333",
+    "longitude": "72.78333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 144,
+    "name": "Dudhani",
+    "latitude": "17.35792000",
+    "longitude": "76.36688000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 145,
+    "name": "Durgapur",
+    "latitude": "20.00540000",
+    "longitude": "79.30273000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 146,
+    "name": "Durgapur Chandrapur",
+    "latitude": "20.00000000",
+    "longitude": "79.30000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 147,
+    "name": "Erandol",
+    "latitude": "20.92206000",
+    "longitude": "75.32641000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 148,
+    "name": "Faizpur",
+    "latitude": "21.16766000",
+    "longitude": "75.86006000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 149,
+    "name": "Fort",
+    "latitude": "18.93500000",
+    "longitude": "72.83590000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 150,
+    "name": "Gadchiroli",
+    "latitude": "19.80000000",
+    "longitude": "80.20000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 151,
+    "name": "Gadhinglaj",
+    "latitude": "16.22291000",
+    "longitude": "74.35010000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 152,
+    "name": "Gangakher",
+    "latitude": "18.96962000",
+    "longitude": "76.74946000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 153,
+    "name": "Gangapur",
+    "latitude": "19.69718000",
+    "longitude": "75.01045000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 154,
+    "name": "Ganpatipule",
+    "latitude": "17.14480000",
+    "longitude": "73.26660000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 155,
+    "name": "Gevrai",
+    "latitude": "19.26372000",
+    "longitude": "75.75007000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 156,
+    "name": "Ghargaon",
+    "latitude": "18.74868400",
+    "longitude": "74.63673400",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 157,
+    "name": "Ghatanji",
+    "latitude": "20.14183000",
+    "longitude": "78.31333000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 158,
+    "name": "Ghatkopar",
+    "latitude": "19.08000000",
+    "longitude": "72.91000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 159,
+    "name": "Ghoti Budrukh",
+    "latitude": "19.71641000",
+    "longitude": "73.62821000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 160,
+    "name": "Ghugus",
+    "latitude": "19.93810000",
+    "longitude": "79.11192000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 161,
+    "name": "Girgaon",
+    "latitude": "18.95300000",
+    "longitude": "72.81300000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 162,
+    "name": "Gondia",
+    "latitude": "21.45000000",
+    "longitude": "80.20000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 163,
+    "name": "Gorai",
+    "latitude": "19.25005700",
+    "longitude": "72.78202100",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 164,
+    "name": "Goregaon",
+    "latitude": "18.15483000",
+    "longitude": "73.29147000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 165,
+    "name": "Guhagar",
+    "latitude": "17.48415000",
+    "longitude": "73.19289000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 166,
+    "name": "Hadapsar Pune",
+    "latitude": "18.49666667",
+    "longitude": "73.94166667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 167,
+    "name": "Hadgaon",
+    "latitude": "19.49552000",
+    "longitude": "77.65863000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 168,
+    "name": "Halkarni",
+    "latitude": "16.16666667",
+    "longitude": "74.46666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 169,
+    "name": "Harangul",
+    "latitude": "18.90000000",
+    "longitude": "76.66666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 170,
+    "name": "Harnai",
+    "latitude": "17.81340000",
+    "longitude": "73.09668000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 171,
+    "name": "Helwak",
+    "latitude": "17.38500000",
+    "longitude": "73.73500000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 172,
+    "name": "Hinganghat",
+    "latitude": "20.54875000",
+    "longitude": "78.83978000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 173,
+    "name": "Hingoli",
+    "latitude": "19.70000000",
+    "longitude": "77.15000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 174,
+    "name": "Hirapur",
+    "latitude": "21.53000000",
+    "longitude": "79.77000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 175,
+    "name": "Hirapur Hamesha",
+    "latitude": "21.55546000",
+    "longitude": "79.78581000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 176,
+    "name": "Hotgi",
+    "latitude": "17.58333333",
+    "longitude": "75.98333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 177,
+    "name": "Ichalkaranji",
+    "latitude": "16.69117000",
+    "longitude": "74.46054000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 178,
+    "name": "Igatpuri",
+    "latitude": "19.69522000",
+    "longitude": "73.56260000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 179,
+    "name": "Indapur",
+    "latitude": "18.30000000",
+    "longitude": "73.25000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 180,
+    "name": "Jaisingpur",
+    "latitude": "16.77639000",
+    "longitude": "74.55361000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 181,
+    "name": "Jaitapur",
+    "latitude": "16.59000000",
+    "longitude": "73.35000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 182,
+    "name": "Jakhangaon",
+    "latitude": "17.64639000",
+    "longitude": "74.32111000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 183,
+    "name": "Jalgaon",
+    "latitude": "21.00292000",
+    "longitude": "75.56602000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 184,
+    "name": "Jalgaon Jamod",
+    "latitude": "21.05194000",
+    "longitude": "76.53464000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 185,
+    "name": "Jalkot",
+    "latitude": "18.62916667",
+    "longitude": "77.18111111",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 186,
+    "name": "Jalna",
+    "latitude": "19.80000000",
+    "longitude": "75.90000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 187,
+    "name": "Jamkhed",
+    "latitude": "18.72000000",
+    "longitude": "75.32000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 188,
+    "name": "Jamod",
+    "latitude": "21.10000000",
+    "longitude": "76.60000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 189,
+    "name": "Janephal",
+    "latitude": "20.29361111",
+    "longitude": "76.57583333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 190,
+    "name": "Jaoli",
+    "latitude": "17.90000000",
+    "longitude": "76.40000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 191,
+    "name": "Jat Sangli",
+    "latitude": "17.05000000",
+    "longitude": "75.21666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 192,
+    "name": "Jategaon",
+    "latitude": "19.91666667",
+    "longitude": "73.65000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 193,
+    "name": "Jawhar",
+    "latitude": "19.91213000",
+    "longitude": "73.22679000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 194,
+    "name": "Jaysingpur",
+    "latitude": "16.78350556",
+    "longitude": "74.56644167",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 195,
+    "name": "Jejuri",
+    "latitude": "18.27658000",
+    "longitude": "74.16008000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 196,
+    "name": "Jintur",
+    "latitude": "19.61186000",
+    "longitude": "76.68740000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 197,
+    "name": "Jogeshwari",
+    "latitude": "19.12000000",
+    "longitude": "72.85000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 198,
+    "name": "Juhu",
+    "latitude": "19.10702150",
+    "longitude": "72.82752750",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 199,
+    "name": "Junnar",
+    "latitude": "19.20815000",
+    "longitude": "73.87520000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 200,
+    "name": "Kachurwahi",
+    "latitude": "21.33330000",
+    "longitude": "79.38330000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 201,
+    "name": "Kadegaon",
+    "latitude": "17.30000000",
+    "longitude": "74.35000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 202,
+    "name": "Kadus",
+    "latitude": "18.88333333",
+    "longitude": "73.81666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 203,
+    "name": "Kagal",
+    "latitude": "16.57702000",
+    "longitude": "74.31544000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 204,
+    "name": "Kaij",
+    "latitude": "18.70000000",
+    "longitude": "76.08333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 205,
+    "name": "Kalamb",
+    "latitude": "19.04437000",
+    "longitude": "73.95554000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 206,
+    "name": "Kalamb Osmanabad",
+    "latitude": "18.57416667",
+    "longitude": "76.02166667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 207,
+    "name": "Kalamboli",
+    "latitude": "19.03333000",
+    "longitude": "73.10000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 208,
+    "name": "Kalamnuri",
+    "latitude": "19.67386000",
+    "longitude": "77.31149000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 209,
+    "name": "Kalas",
+    "latitude": "18.17241000",
+    "longitude": "74.79045000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 210,
+    "name": "Kali(DK)",
+    "latitude": "19.93877800",
+    "longitude": "77.73285700",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 211,
+    "name": "Kalmeshwar",
+    "latitude": "21.23219000",
+    "longitude": "78.91988000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 212,
+    "name": "Kalundri",
+    "latitude": "18.98020000",
+    "longitude": "73.12708000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 213,
+    "name": "Kalyan",
+    "latitude": "19.24370000",
+    "longitude": "73.13554000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 214,
+    "name": "Kalyani Nagar",
+    "latitude": "18.54810000",
+    "longitude": "73.90330000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 215,
+    "name": "Kamargaon",
+    "latitude": "20.61666667",
+    "longitude": "77.50000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 216,
+    "name": "Kamatgi",
+    "latitude": "16.11900000",
+    "longitude": "75.84820000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 217,
+    "name": "Kamptee",
+    "latitude": "21.23330000",
+    "longitude": "79.20000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 218,
+    "name": "Kandri",
+    "latitude": "21.42030000",
+    "longitude": "79.27663000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 219,
+    "name": "Kankauli",
+    "latitude": "16.26609000",
+    "longitude": "73.71217000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 220,
+    "name": "Kankavli",
+    "latitude": "16.28551111",
+    "longitude": "73.68446111",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 221,
+    "name": "Kannad",
+    "latitude": "20.25684000",
+    "longitude": "75.13786000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 222,
+    "name": "Karad",
+    "latitude": "17.28937000",
+    "longitude": "74.18183000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 223,
+    "name": "Karajagi",
+    "latitude": "17.11666667",
+    "longitude": "75.58333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 224,
+    "name": "Karanja",
+    "latitude": "20.48273000",
+    "longitude": "77.48857000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 225,
+    "name": "Karanja Lad",
+    "latitude": "20.48330000",
+    "longitude": "77.48330000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 226,
+    "name": "Karjat",
+    "latitude": "18.91070000",
+    "longitude": "73.32354000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 227,
+    "name": "Karkamb",
+    "latitude": "17.86530000",
+    "longitude": "75.29640000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 228,
+    "name": "Karmala",
+    "latitude": "18.40770000",
+    "longitude": "75.19386000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 229,
+    "name": "Kasara",
+    "latitude": "19.63330000",
+    "longitude": "73.48330000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 230,
+    "name": "Kasoda",
+    "latitude": "20.81666667",
+    "longitude": "75.30000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 231,
+    "name": "Kati",
+    "latitude": "17.96137000",
+    "longitude": "75.88895000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 232,
+    "name": "Katol",
+    "latitude": "21.27388000",
+    "longitude": "78.58580000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 233,
+    "name": "Katral",
+    "latitude": "17.16666667",
+    "longitude": "75.63333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 234,
+    "name": "Khadki",
+    "latitude": "18.56350000",
+    "longitude": "73.85205000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 235,
+    "name": "Khalapur",
+    "latitude": "18.81666667",
+    "longitude": "73.26666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 236,
+    "name": "Khallar",
+    "latitude": "21.04028690",
+    "longitude": "77.46562960",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 237,
+    "name": "Khamgaon",
+    "latitude": "20.70738000",
+    "longitude": "76.56827000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 238,
+    "name": "Khanapur",
+    "latitude": "17.26111111",
+    "longitude": "74.70166667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 239,
+    "name": "Khandala",
+    "latitude": "18.05918056",
+    "longitude": "74.01262778",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 240,
+    "name": "Khangaon",
+    "latitude": "20.50000000",
+    "longitude": "78.61666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 241,
+    "name": "Khapa",
+    "latitude": "21.42243000",
+    "longitude": "78.98168000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 242,
+    "name": "Kharakvasla",
+    "latitude": "18.43997000",
+    "longitude": "73.77545000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 243,
+    "name": "Kharda",
+    "latitude": "18.63753000",
+    "longitude": "75.47513000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 244,
+    "name": "Kharghar",
+    "latitude": "19.03614722",
+    "longitude": "73.06172222",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 245,
+    "name": "Kharsundi",
+    "latitude": "17.34158500",
+    "longitude": "74.77599600",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 246,
+    "name": "Khed",
+    "latitude": "17.71888000",
+    "longitude": "73.39693000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 247,
+    "name": "Khetia",
+    "latitude": "21.67124000",
+    "longitude": "74.58535000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 248,
+    "name": "Khoni",
+    "latitude": "19.31130000",
+    "longitude": "73.05440000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 249,
+    "name": "Khopoli",
+    "latitude": "18.78562000",
+    "longitude": "73.34589000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 250,
+    "name": "Khuldabad",
+    "latitude": "20.00671000",
+    "longitude": "75.19245000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 251,
+    "name": "Kinwat",
+    "latitude": "19.62557000",
+    "longitude": "78.19870000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 252,
+    "name": "Kodoli",
+    "latitude": "16.87639000",
+    "longitude": "74.19090000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 253,
+    "name": "Kolhapur",
+    "latitude": "16.69013000",
+    "longitude": "74.22981000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 254,
+    "name": "Kondalwadi",
+    "latitude": "18.80727000",
+    "longitude": "77.77031000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 255,
+    "name": "Kondhali",
+    "latitude": "21.15000000",
+    "longitude": "78.61666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 256,
+    "name": "Kopar Khairane",
+    "latitude": "19.10305556",
+    "longitude": "73.01055556",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 257,
+    "name": "Kopargaon",
+    "latitude": "19.88239000",
+    "longitude": "74.47605000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 258,
+    "name": "Kopela",
+    "latitude": "18.83000000",
+    "longitude": "80.23000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 259,
+    "name": "Koradi",
+    "latitude": "21.24758000",
+    "longitude": "79.10575000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 260,
+    "name": "Koregaon",
+    "latitude": "18.64573000",
+    "longitude": "74.05909000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 261,
+    "name": "Koynanagar",
+    "latitude": "17.40000000",
+    "longitude": "73.76667000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 262,
+    "name": "Kudal",
+    "latitude": "16.01148000",
+    "longitude": "73.68867000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 263,
+    "name": "Kuhi",
+    "latitude": "21.01082222",
+    "longitude": "79.35242222",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 264,
+    "name": "Kurandvad",
+    "latitude": "16.68317000",
+    "longitude": "74.58892000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 265,
+    "name": "Kurankhed",
+    "latitude": "20.70194444",
+    "longitude": "77.24972222",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 266,
+    "name": "Kurduvadi",
+    "latitude": "18.09339000",
+    "longitude": "75.41567000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 267,
+    "name": "Kusumba",
+    "latitude": "20.91666667",
+    "longitude": "74.65000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 268,
+    "name": "Lakhandur",
+    "latitude": "20.75000000",
+    "longitude": "79.88333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 269,
+    "name": "Lanja",
+    "latitude": "16.86086000",
+    "longitude": "73.54993000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 270,
+    "name": "Lasalgaon",
+    "latitude": "20.14270000",
+    "longitude": "74.23946000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 271,
+    "name": "Latur",
+    "latitude": "18.40000000",
+    "longitude": "76.80000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 272,
+    "name": "Lavasa",
+    "latitude": "18.40528056",
+    "longitude": "73.50626944",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 273,
+    "name": "Lohogaon",
+    "latitude": "18.59921000",
+    "longitude": "73.92701000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 274,
+    "name": "Lonar",
+    "latitude": "19.98533000",
+    "longitude": "76.52046000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 275,
+    "name": "Lonavla",
+    "latitude": "18.75275000",
+    "longitude": "73.40575000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 276,
+    "name": "Mahabaleshwar",
+    "latitude": "17.56000000",
+    "longitude": "73.40000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 277,
+    "name": "Mahad",
+    "latitude": "18.08333000",
+    "longitude": "73.41667000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 278,
+    "name": "Mahape",
+    "latitude": "19.11776000",
+    "longitude": "73.02693800",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 279,
+    "name": "Mahim",
+    "latitude": "19.03500000",
+    "longitude": "72.84000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 280,
+    "name": "Maindargi",
+    "latitude": "17.45739000",
+    "longitude": "76.29320000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 281,
+    "name": "Majalgaon",
+    "latitude": "19.15988000",
+    "longitude": "76.20832000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 282,
+    "name": "Makhjan",
+    "latitude": "17.26980000",
+    "longitude": "73.50031000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 283,
+    "name": "Malabar Hill",
+    "latitude": "18.95000000",
+    "longitude": "72.79500000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 284,
+    "name": "Malad",
+    "latitude": "19.18611111",
+    "longitude": "72.84861111",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 285,
+    "name": "Malegaon",
+    "latitude": "20.54966000",
+    "longitude": "74.53462000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 286,
+    "name": "Malkapur",
+    "latitude": "17.26214000",
+    "longitude": "74.17574000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 287,
+    "name": "Malvan",
+    "latitude": "16.05981000",
+    "longitude": "73.46290000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 288,
+    "name": "Manchar",
+    "latitude": "19.00436000",
+    "longitude": "73.94346000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 289,
+    "name": "Mandangad",
+    "latitude": "17.98333333",
+    "longitude": "73.25000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 290,
+    "name": "Mandhal",
+    "latitude": "20.95000000",
+    "longitude": "79.46666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 291,
+    "name": "Mandwa",
+    "latitude": "18.80300000",
+    "longitude": "72.88200000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 292,
+    "name": "Mangaon",
+    "latitude": "18.23333333",
+    "longitude": "73.28333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 293,
+    "name": "Mangrul Pir",
+    "latitude": "20.31379000",
+    "longitude": "77.34178000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 294,
+    "name": "Manjlegaon",
+    "latitude": "19.15000000",
+    "longitude": "76.23000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 295,
+    "name": "Mankeshwar",
+    "latitude": "18.35416667",
+    "longitude": "75.63916667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 296,
+    "name": "Mankhurd",
+    "latitude": "19.05000000",
+    "longitude": "72.93000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 297,
+    "name": "Manmad",
+    "latitude": "20.25334000",
+    "longitude": "74.43755000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 298,
+    "name": "Manor",
+    "latitude": "19.72440000",
+    "longitude": "72.90966000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 299,
+    "name": "Mansar",
+    "latitude": "21.39602000",
+    "longitude": "79.26350000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 300,
+    "name": "Manwat",
+    "latitude": "19.30133000",
+    "longitude": "76.49735000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 301,
+    "name": "Maregaon",
+    "latitude": "20.10000000",
+    "longitude": "78.81666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 302,
+    "name": "Mastiholi",
+    "latitude": "16.08333333",
+    "longitude": "74.55000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 303,
+    "name": "Masur India",
+    "latitude": "17.40000000",
+    "longitude": "74.15000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 304,
+    "name": "Matheran",
+    "latitude": "18.98281000",
+    "longitude": "73.26520000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 305,
+    "name": "Matunga",
+    "latitude": "19.01798056",
+    "longitude": "72.84476389",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 306,
+    "name": "Mazagaon",
+    "latitude": "18.97000000",
+    "longitude": "72.85000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 307,
+    "name": "Mehekar",
+    "latitude": "20.15050000",
+    "longitude": "76.56841000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 308,
+    "name": "Mehergaon",
+    "latitude": "20.96666667",
+    "longitude": "74.63333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 309,
+    "name": "Mehkar",
+    "latitude": "20.15000000",
+    "longitude": "76.57500000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 310,
+    "name": "Mhasla",
+    "latitude": "18.13340000",
+    "longitude": "73.11162000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 311,
+    "name": "Mhasvad",
+    "latitude": "17.63359000",
+    "longitude": "74.78773000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 312,
+    "name": "Miraj",
+    "latitude": "16.83000000",
+    "longitude": "74.63000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 313,
+    "name": "Mohadi",
+    "latitude": "21.30833333",
+    "longitude": "79.67500000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 314,
+    "name": "Mohol",
+    "latitude": "17.81670000",
+    "longitude": "75.66670000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 315,
+    "name": "Mohpa",
+    "latitude": "21.31012000",
+    "longitude": "78.82969000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 316,
+    "name": "Mokhada taluka",
+    "latitude": "19.93333333",
+    "longitude": "73.33333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 317,
+    "name": "Mora Maharashtra",
+    "latitude": "18.88900000",
+    "longitude": "72.93400000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 318,
+    "name": "Moram",
+    "latitude": "17.78812000",
+    "longitude": "76.47077000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 319,
+    "name": "Morsi",
+    "latitude": "21.34030000",
+    "longitude": "78.01258000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 320,
+    "name": "Mowad",
+    "latitude": "21.46475000",
+    "longitude": "78.45103000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 321,
+    "name": "Mudkhed",
+    "latitude": "19.15657000",
+    "longitude": "77.50304000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 322,
+    "name": "Mukher",
+    "latitude": "18.70636000",
+    "longitude": "77.36795000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 323,
+    "name": "Mul",
+    "latitude": "20.06987000",
+    "longitude": "79.67826000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 324,
+    "name": "Mulher",
+    "latitude": "20.78138889",
+    "longitude": "74.06388889",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 325,
+    "name": "Mulund",
+    "latitude": "19.17168056",
+    "longitude": "72.95600000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 326,
+    "name": "Mumbai",
+    "latitude": "19.07283000",
+    "longitude": "72.88261000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 327,
+    "name": "Mumbai Suburban",
+    "latitude": "19.12636000",
+    "longitude": "72.84897000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 328,
+    "name": "Murbad",
+    "latitude": "19.25395000",
+    "longitude": "73.38993000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 329,
+    "name": "Murgud",
+    "latitude": "16.39604000",
+    "longitude": "74.19142000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 330,
+    "name": "Murtajapur",
+    "latitude": "20.73299000",
+    "longitude": "77.36694000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 331,
+    "name": "Murud (Raigad)",
+    "latitude": "18.32817000",
+    "longitude": "72.96210000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 332,
+    "name": "Murud (Ratnagiri)",
+    "latitude": "17.77494444",
+    "longitude": "73.11815000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 333,
+    "name": "Murum",
+    "latitude": "17.78777778",
+    "longitude": "76.47000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 334,
+    "name": "Nadgaon",
+    "latitude": "20.90101389",
+    "longitude": "76.01396389",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 335,
+    "name": "Nagapur",
+    "latitude": "18.87000000",
+    "longitude": "76.43000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 336,
+    "name": "Nagothana",
+    "latitude": "18.54225000",
+    "longitude": "73.13493000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 337,
+    "name": "Nagpur",
+    "latitude": "21.14631000",
+    "longitude": "79.08491000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 338,
+    "name": "Nagpur Division",
+    "latitude": "21.14911000",
+    "longitude": "79.10748000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 339,
+    "name": "Nala Sopara",
+    "latitude": "19.41540000",
+    "longitude": "72.86130000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 340,
+    "name": "Naldurg",
+    "latitude": "17.81667000",
+    "longitude": "76.28182000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 341,
+    "name": "Nalegaon",
+    "latitude": "18.41666667",
+    "longitude": "76.81666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 342,
+    "name": "Nampur",
+    "latitude": "20.72861111",
+    "longitude": "74.31083333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 343,
+    "name": "Nanded",
+    "latitude": "18.91667000",
+    "longitude": "77.50000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 344,
+    "name": "Nandgaon",
+    "latitude": "20.30680000",
+    "longitude": "74.65501000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 345,
+    "name": "Nandnee",
+    "latitude": "17.45500000",
+    "longitude": "75.84555556",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 346,
+    "name": "Nandura",
+    "latitude": "20.83333333",
+    "longitude": "76.45972222",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 347,
+    "name": "Nandura Buzurg",
+    "latitude": "20.83417000",
+    "longitude": "76.45924000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 348,
+    "name": "Nandurbar",
+    "latitude": "21.37000000",
+    "longitude": "74.20000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 349,
+    "name": "Narayangaon",
+    "latitude": "19.07000000",
+    "longitude": "73.97000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 350,
+    "name": "Nardana",
+    "latitude": "21.20000000",
+    "longitude": "74.81666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 351,
+    "name": "Nariman Point",
+    "latitude": "18.92000000",
+    "longitude": "72.83000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 352,
+    "name": "Narkhed",
+    "latitude": "21.47000000",
+    "longitude": "78.53000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 353,
+    "name": "Nashik",
+    "latitude": "19.99727000",
+    "longitude": "73.79096000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 354,
+    "name": "Nashik Division",
+    "latitude": "19.98295000",
+    "longitude": "73.78942000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 355,
+    "name": "Navapur",
+    "latitude": "21.17000000",
+    "longitude": "73.78000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 356,
+    "name": "Navi Mumbai",
+    "latitude": "19.03681000",
+    "longitude": "73.01582000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 357,
+    "name": "Neral",
+    "latitude": "19.02475000",
+    "longitude": "73.31688000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 358,
+    "name": "Nerur",
+    "latitude": "15.98333333",
+    "longitude": "73.65000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 359,
+    "name": "Nevasa",
+    "latitude": "19.53333333",
+    "longitude": "74.93333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 360,
+    "name": "Nighoj",
+    "latitude": "18.95972222",
+    "longitude": "74.27694444",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 361,
+    "name": "Nilanga",
+    "latitude": "18.11675000",
+    "longitude": "76.75279000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 362,
+    "name": "Nipani",
+    "latitude": "16.39900000",
+    "longitude": "74.38285000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 363,
+    "name": "Niphad",
+    "latitude": "20.08330000",
+    "longitude": "73.80000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 364,
+    "name": "Nira Narsingpur",
+    "latitude": "17.98350000",
+    "longitude": "75.12396000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 365,
+    "name": "Osmanabad",
+    "latitude": "18.25000000",
+    "longitude": "76.16667000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 366,
+    "name": "Ozar",
+    "latitude": "20.09473000",
+    "longitude": "73.92816000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 367,
+    "name": "Pabal",
+    "latitude": "18.83083333",
+    "longitude": "74.05277778",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 368,
+    "name": "Pachora",
+    "latitude": "20.66727000",
+    "longitude": "75.35305000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 369,
+    "name": "Pahur Maharashtra",
+    "latitude": "20.70000000",
+    "longitude": "75.68333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 370,
+    "name": "Paithan",
+    "latitude": "19.47506000",
+    "longitude": "75.38558000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 371,
+    "name": "Palghar",
+    "latitude": "19.69693000",
+    "longitude": "72.76543000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 372,
+    "name": "Pali Raigad",
+    "latitude": "18.54138400",
+    "longitude": "73.21996500",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 373,
+    "name": "Palso",
+    "latitude": "20.76666667",
+    "longitude": "77.23333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 374,
+    "name": "Panchgani",
+    "latitude": "17.92449000",
+    "longitude": "73.80080000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 375,
+    "name": "Pandharpur",
+    "latitude": "17.67924000",
+    "longitude": "75.33098000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 376,
+    "name": "Pandhurli",
+    "latitude": "19.82905200",
+    "longitude": "73.85474500",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 377,
+    "name": "Panhala",
+    "latitude": "16.81210000",
+    "longitude": "74.11007000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 378,
+    "name": "Panvel",
+    "latitude": "18.98878000",
+    "longitude": "73.11013000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 379,
+    "name": "Parbhani",
+    "latitude": "19.50000000",
+    "longitude": "76.75000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 380,
+    "name": "Parel",
+    "latitude": "18.99000000",
+    "longitude": "72.84000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 381,
+    "name": "Parli Vaijnath",
+    "latitude": "18.85057000",
+    "longitude": "76.53163000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 382,
+    "name": "Parner",
+    "latitude": "19.00300000",
+    "longitude": "74.43800000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 383,
+    "name": "Parola",
+    "latitude": "20.88098000",
+    "longitude": "75.11937000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 384,
+    "name": "Parseoni",
+    "latitude": "21.38333333",
+    "longitude": "79.15000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 385,
+    "name": "Partur",
+    "latitude": "19.59925000",
+    "longitude": "76.21541000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 386,
+    "name": "Patan",
+    "latitude": "17.37513000",
+    "longitude": "73.90143000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 387,
+    "name": "Pathardi",
+    "latitude": "19.17279000",
+    "longitude": "75.17425000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 388,
+    "name": "Pathri",
+    "latitude": "19.25880000",
+    "longitude": "76.43412000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 389,
+    "name": "Patur",
+    "latitude": "20.46093000",
+    "longitude": "76.93725000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 390,
+    "name": "Paturda",
+    "latitude": "20.95000000",
+    "longitude": "76.71666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 391,
+    "name": "Paud",
+    "latitude": "18.52416667",
+    "longitude": "73.61583333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 392,
+    "name": "Pauni",
+    "latitude": "20.78000000",
+    "longitude": "79.63000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 393,
+    "name": "Pawni",
+    "latitude": "20.79229000",
+    "longitude": "79.63644000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 394,
+    "name": "Pedgaon",
+    "latitude": "18.51166667",
+    "longitude": "74.70750000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 395,
+    "name": "Peint",
+    "latitude": "20.25844722",
+    "longitude": "73.50305278",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 396,
+    "name": "Pen",
+    "latitude": "18.73734000",
+    "longitude": "73.09603000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 397,
+    "name": "Phaltan",
+    "latitude": "17.99113000",
+    "longitude": "74.43177000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 398,
+    "name": "Phulambri",
+    "latitude": "20.10000000",
+    "longitude": "75.41666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 399,
+    "name": "Piliv",
+    "latitude": "17.67884200",
+    "longitude": "74.96641200",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 400,
+    "name": "Pimpalgaon Baswant",
+    "latitude": "20.16666667",
+    "longitude": "73.98333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 401,
+    "name": "Pimpalgaon Raja",
+    "latitude": "20.71666667",
+    "longitude": "76.43333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 402,
+    "name": "Pimpri",
+    "latitude": "18.62292000",
+    "longitude": "73.80696000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 403,
+    "name": "Pimpri-Chinchwad",
+    "latitude": "18.62777778",
+    "longitude": "73.81305556",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 404,
+    "name": "Pipri",
+    "latitude": "19.79371000",
+    "longitude": "75.53519000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 405,
+    "name": "Powai",
+    "latitude": "19.11640000",
+    "longitude": "72.90471000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 406,
+    "name": "Prabhadevi",
+    "latitude": "19.01690500",
+    "longitude": "72.82864900",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 407,
+    "name": "Prakasha",
+    "latitude": "21.51666667",
+    "longitude": "74.31666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 408,
+    "name": "Pulgaon",
+    "latitude": "20.72204000",
+    "longitude": "78.32056000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 409,
+    "name": "Pune",
+    "latitude": "18.51957000",
+    "longitude": "73.85535000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 410,
+    "name": "Pune Division",
+    "latitude": "18.74673000",
+    "longitude": "73.75465000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 411,
+    "name": "Puntamba",
+    "latitude": "19.75000000",
+    "longitude": "74.63333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 412,
+    "name": "Pural",
+    "latitude": "16.45000000",
+    "longitude": "73.36666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 413,
+    "name": "Purna",
+    "latitude": "19.18170000",
+    "longitude": "77.02566000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 414,
+    "name": "Pusad",
+    "latitude": "19.91274000",
+    "longitude": "77.57838000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 415,
+    "name": "Radhanagari",
+    "latitude": "16.41388889",
+    "longitude": "73.99777778",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 416,
+    "name": "Rahata",
+    "latitude": "19.71666667",
+    "longitude": "74.48333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 417,
+    "name": "Rahimatpur",
+    "latitude": "17.59210000",
+    "longitude": "74.19966000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 418,
+    "name": "Rahuri",
+    "latitude": "19.39069000",
+    "longitude": "74.64979000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 419,
+    "name": "Raigarh",
+    "latitude": "18.57000000",
+    "longitude": "73.13000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 420,
+    "name": "Raireshwar",
+    "latitude": "18.05000000",
+    "longitude": "73.73333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 421,
+    "name": "Rajapur",
+    "latitude": "16.65679000",
+    "longitude": "73.51701000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 422,
+    "name": "Rajgurunagar",
+    "latitude": "18.86667000",
+    "longitude": "73.90000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 423,
+    "name": "Rajur",
+    "latitude": "20.11087000",
+    "longitude": "78.89311000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 424,
+    "name": "Rajura",
+    "latitude": "19.77947000",
+    "longitude": "79.36459000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 425,
+    "name": "Ralegaon",
+    "latitude": "20.25000000",
+    "longitude": "79.81000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 426,
+    "name": "Ramewadi",
+    "latitude": "16.03333333",
+    "longitude": "74.35000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 427,
+    "name": "Ramtek",
+    "latitude": "21.39562000",
+    "longitude": "79.32725000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 428,
+    "name": "Ratnagiri",
+    "latitude": "17.00000000",
+    "longitude": "73.50000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 429,
+    "name": "Raver",
+    "latitude": "21.24757000",
+    "longitude": "76.03509000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 430,
+    "name": "Renapur",
+    "latitude": "18.51666667",
+    "longitude": "76.60000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 431,
+    "name": "Renavi",
+    "latitude": "17.26972222",
+    "longitude": "74.61055556",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 432,
+    "name": "Revadanda",
+    "latitude": "18.55363000",
+    "longitude": "72.92559000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 433,
+    "name": "Revdanda",
+    "latitude": "18.55000000",
+    "longitude": "72.93333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 434,
+    "name": "Risod",
+    "latitude": "19.97671000",
+    "longitude": "76.78799000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 435,
+    "name": "Roha",
+    "latitude": "18.43687000",
+    "longitude": "73.11964000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 436,
+    "name": "Sailu",
+    "latitude": "19.47000000",
+    "longitude": "76.47000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 437,
+    "name": "Sakol",
+    "latitude": "18.28250000",
+    "longitude": "76.88444444",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 438,
+    "name": "Sakoli",
+    "latitude": "21.08000000",
+    "longitude": "79.98000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 439,
+    "name": "Sakri",
+    "latitude": "20.99027778",
+    "longitude": "74.31444444",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 440,
+    "name": "Samudrapur",
+    "latitude": "20.65000000",
+    "longitude": "78.96666667",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 441,
+    "name": "Sangameshwar",
+    "latitude": "17.18694444",
+    "longitude": "73.55305556",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 442,
+    "name": "Sangamner",
+    "latitude": "19.56784000",
+    "longitude": "74.21154000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 443,
+    "name": "Sangli",
+    "latitude": "17.11202000",
+    "longitude": "74.76990000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 444,
+    "name": "Sangola",
+    "latitude": "17.43948000",
+    "longitude": "75.19379000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 445,
+    "name": "Sangrampur Maharashtra",
+    "latitude": "21.03000000",
+    "longitude": "76.68000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 446,
+    "name": "Saoli",
+    "latitude": "20.08133056",
+    "longitude": "79.78286111",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 447,
+    "name": "Saoner",
+    "latitude": "21.38510000",
+    "longitude": "78.92155000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 448,
+    "name": "Sarangkheda",
+    "latitude": "21.43327300",
+    "longitude": "74.52642100",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 449,
+    "name": "Saswad",
+    "latitude": "18.55000000",
+    "longitude": "74.00000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 450,
+    "name": "Satana",
+    "latitude": "20.59483000",
+    "longitude": "74.20301000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 451,
+    "name": "Satara",
+    "latitude": "17.68589000",
+    "longitude": "73.99333000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 452,
+    "name": "Satara Division",
+    "latitude": "17.72601000",
+    "longitude": "74.06433000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 453,
+    "name": "Satpati",
+    "latitude": "19.71666667",
+    "longitude": "72.70000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 454,
+    "name": "Savantvadi",
+    "latitude": "15.90413000",
+    "longitude": "73.82191000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 455,
+    "name": "Savda",
+    "latitude": "21.15054000",
+    "longitude": "75.88938000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 456,
+    "name": "Savlaj",
+    "latitude": "17.10000000",
+    "longitude": "74.78000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 457,
+    "name": "Sawantvadi",
+    "latitude": "16.00000000",
+    "longitude": "73.75000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 458,
+    "name": "Selu",
+    "latitude": "19.45512000",
+    "longitude": "76.44073000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 459,
+    "name": "Sevagram",
+    "latitude": "20.73499167",
+    "longitude": "78.66256944",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 460,
+    "name": "Sewri",
+    "latitude": "19.00000000",
+    "longitude": "72.86000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 461,
+    "name": "Shahada",
+    "latitude": "21.54538000",
+    "longitude": "74.47106000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 462,
+    "name": "Shahapur",
+    "latitude": "19.45231000",
+    "longitude": "73.32572000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 463,
+    "name": "Shedbal",
+    "latitude": "16.68916667",
+    "longitude": "74.75425556",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 464,
+    "name": "Shegaon",
+    "latitude": "20.79320000",
+    "longitude": "76.69921000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 465,
+    "name": "Shevgaon",
+    "latitude": "19.35000000",
+    "longitude": "75.23333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 466,
+    "name": "Shikrapur",
+    "latitude": "18.69361111",
+    "longitude": "74.13805556",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 467,
+    "name": "Shiraguppi",
+    "latitude": "16.61875000",
+    "longitude": "74.70907000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 468,
+    "name": "Shirala",
+    "latitude": "16.98401111",
+    "longitude": "74.12415278",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 469,
+    "name": "Shirdi",
+    "latitude": "19.76616000",
+    "longitude": "74.47738000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 470,
+    "name": "Shirgaon",
+    "latitude": "19.69589000",
+    "longitude": "72.71527000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 471,
+    "name": "Shirol",
+    "latitude": "16.73333333",
+    "longitude": "74.60000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 472,
+    "name": "Shirpur",
+    "latitude": "21.34821000",
+    "longitude": "74.88035000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 473,
+    "name": "Shirud",
+    "latitude": "20.71666667",
+    "longitude": "74.90000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 474,
+    "name": "Shirwal",
+    "latitude": "18.15059000",
+    "longitude": "73.97788000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 475,
+    "name": "Shivaji Nagar",
+    "latitude": "18.53017000",
+    "longitude": "73.85263000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 476,
+    "name": "Shrigonda",
+    "latitude": "18.61527000",
+    "longitude": "74.69895000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 477,
+    "name": "Sillod",
+    "latitude": "20.30303000",
+    "longitude": "75.65284000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 478,
+    "name": "Sindewahi",
+    "latitude": "20.28333333",
+    "longitude": "79.65000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 479,
+    "name": "Sindhudurg",
+    "latitude": "16.17000000",
+    "longitude": "73.70000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 480,
+    "name": "Sindi",
+    "latitude": "20.80509000",
+    "longitude": "78.88752000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 481,
+    "name": "Sindkheda",
+    "latitude": "21.26666667",
+    "longitude": "74.73333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 482,
+    "name": "Sinnar",
+    "latitude": "19.84505000",
+    "longitude": "73.99866000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 483,
+    "name": "Sion Mumbai",
+    "latitude": "19.04000000",
+    "longitude": "72.86000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 484,
+    "name": "Sironcha",
+    "latitude": "18.83000000",
+    "longitude": "79.96000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 485,
+    "name": "Sirur",
+    "latitude": "18.82760000",
+    "longitude": "74.37475000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 486,
+    "name": "Sivala East Godavari",
+    "latitude": "16.75722222",
+    "longitude": "82.08861111",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 487,
+    "name": "Solapur",
+    "latitude": "17.75000000",
+    "longitude": "75.50000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 488,
+    "name": "Sonala",
+    "latitude": "21.11666667",
+    "longitude": "76.73333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 489,
+    "name": "Sonegaon",
+    "latitude": "20.62915000",
+    "longitude": "78.69207000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 490,
+    "name": "Songir",
+    "latitude": "21.08333333",
+    "longitude": "74.78333333",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 491,
+    "name": "Sonvad",
+    "latitude": "21.08333333",
+    "longitude": "75.35000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 492,
+    "name": "Soygaon",
+    "latitude": "20.59606000",
+    "longitude": "75.61765000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 493,
+    "name": "Srivardhan",
+    "latitude": "18.04592000",
+    "longitude": "73.01552000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 494,
+    "name": "Surgana",
+    "latitude": "20.55956000",
+    "longitude": "73.63747000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 495,
+    "name": "Taklibhan",
+    "latitude": "19.61670000",
+    "longitude": "74.80000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 496,
+    "name": "Talbid",
+    "latitude": "17.35000000",
+    "longitude": "74.13000000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 497,
+    "name": "Talegaon Dabhade",
+    "latitude": "18.73502000",
+    "longitude": "73.67561000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 498,
+    "name": "Talegaon Dhamdhere",
+    "latitude": "18.66780000",
+    "longitude": "74.15360000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  },
+  {
+    "id": 499,
+    "name": "Taloda",
+    "latitude": "21.56128000",
+    "longitude": "74.21238000",
+    "stateId": 4008,
+    "stateCode": "MH",
+    "countryCode": "IN"
+  }
+]

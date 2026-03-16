@@ -1,0 +1,1253 @@
+[
+  {
+    "id": 0,
+    "name": "Abbotsford",
+    "latitude": "49.05798000",
+    "longitude": "-122.25257000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 1,
+    "name": "Agassiz",
+    "latitude": "49.23298000",
+    "longitude": "-121.76926000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 2,
+    "name": "Aldergrove",
+    "latitude": "49.05801000",
+    "longitude": "-122.47087000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 3,
+    "name": "Aldergrove East",
+    "latitude": "49.05593000",
+    "longitude": "-122.42299000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 4,
+    "name": "Anmore",
+    "latitude": "49.31637000",
+    "longitude": "-122.85263000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 5,
+    "name": "Arbutus Ridge",
+    "latitude": "49.24966000",
+    "longitude": "-123.16934000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 6,
+    "name": "Armstrong",
+    "latitude": "50.44979000",
+    "longitude": "-119.20235000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 7,
+    "name": "Ashcroft",
+    "latitude": "50.72372000",
+    "longitude": "-121.28207000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 8,
+    "name": "Barrière",
+    "latitude": "51.18308000",
+    "longitude": "-120.11920000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 9,
+    "name": "Bowen Island",
+    "latitude": "49.38470000",
+    "longitude": "-123.33622000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 10,
+    "name": "Burnaby",
+    "latitude": "49.26636000",
+    "longitude": "-122.95263000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 11,
+    "name": "Burns Lake",
+    "latitude": "54.22972000",
+    "longitude": "-125.76084000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 12,
+    "name": "Cache Creek",
+    "latitude": "50.81011000",
+    "longitude": "-121.32460000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 13,
+    "name": "Campbell River",
+    "latitude": "50.01634000",
+    "longitude": "-125.24459000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 14,
+    "name": "Castlegar",
+    "latitude": "49.32317000",
+    "longitude": "-117.65831000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 15,
+    "name": "Cedar",
+    "latitude": "49.11633000",
+    "longitude": "-123.85270000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 16,
+    "name": "Central Coast Regional",
+    "latitude": "52.16638000",
+    "longitude": "-127.00323000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 17,
+    "name": "Chase",
+    "latitude": "50.81650000",
+    "longitude": "-119.68571000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 18,
+    "name": "Chemainus",
+    "latitude": "48.91633000",
+    "longitude": "-123.71937000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 19,
+    "name": "Chetwynd",
+    "latitude": "55.69988000",
+    "longitude": "-121.63627000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 20,
+    "name": "Chilliwack",
+    "latitude": "49.16638000",
+    "longitude": "-121.95257000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 21,
+    "name": "Colwood",
+    "latitude": "48.43293000",
+    "longitude": "-123.48591000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 22,
+    "name": "Coombs",
+    "latitude": "49.29963000",
+    "longitude": "-124.41946000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 23,
+    "name": "Coquitlam",
+    "latitude": "49.28460000",
+    "longitude": "-122.78217000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 24,
+    "name": "Courtenay",
+    "latitude": "49.68657000",
+    "longitude": "-124.99360000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 25,
+    "name": "Cowichan Bay",
+    "latitude": "48.73366000",
+    "longitude": "-123.61739000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 26,
+    "name": "Cranbrook",
+    "latitude": "49.49991000",
+    "longitude": "-115.76879000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 27,
+    "name": "Creston",
+    "latitude": "49.09987000",
+    "longitude": "-116.50211000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 28,
+    "name": "Cumberland",
+    "latitude": "49.61634000",
+    "longitude": "-125.03613000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 29,
+    "name": "Dawson Creek",
+    "latitude": "55.75984000",
+    "longitude": "-120.24030000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 30,
+    "name": "Delta",
+    "latitude": "49.14399000",
+    "longitude": "-122.90680000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 31,
+    "name": "Denman Island",
+    "latitude": "49.53294000",
+    "longitude": "-124.81950000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 32,
+    "name": "Denman Island Trust Area",
+    "latitude": "49.55189000",
+    "longitude": "-124.79881000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 33,
+    "name": "Duck Lake",
+    "latitude": "50.00880000",
+    "longitude": "-119.39672000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 34,
+    "name": "Duncan",
+    "latitude": "48.78293000",
+    "longitude": "-123.70266000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 35,
+    "name": "East Wellington",
+    "latitude": "49.17385000",
+    "longitude": "-124.01745000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 36,
+    "name": "Elkford",
+    "latitude": "50.05007000",
+    "longitude": "-114.88540000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 37,
+    "name": "Ellison",
+    "latitude": "49.93307000",
+    "longitude": "-119.36907000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 38,
+    "name": "Enderby",
+    "latitude": "50.54980000",
+    "longitude": "-119.15234000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 39,
+    "name": "Fairwinds",
+    "latitude": "49.27588000",
+    "longitude": "-124.12782000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 40,
+    "name": "Fernie",
+    "latitude": "49.49996000",
+    "longitude": "-115.06871000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 41,
+    "name": "Fort Nelson",
+    "latitude": "58.80533000",
+    "longitude": "-122.70020000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 42,
+    "name": "Fort St. John",
+    "latitude": "56.24988000",
+    "longitude": "-120.85292000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 43,
+    "name": "Fraser Valley Regional",
+    "latitude": "49.58299000",
+    "longitude": "-121.83587000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 44,
+    "name": "French Creek",
+    "latitude": "49.34123000",
+    "longitude": "-124.35541000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 45,
+    "name": "Fruitvale",
+    "latitude": "49.11654000",
+    "longitude": "-117.55222000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 46,
+    "name": "Gibsons",
+    "latitude": "49.39539000",
+    "longitude": "-123.50555000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 47,
+    "name": "Golden",
+    "latitude": "51.29995000",
+    "longitude": "-116.96890000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 48,
+    "name": "Grand Forks",
+    "latitude": "49.03309000",
+    "longitude": "-118.43560000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 49,
+    "name": "Hanceville",
+    "latitude": "51.91922000",
+    "longitude": "-123.04458000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 50,
+    "name": "Hope",
+    "latitude": "49.38299000",
+    "longitude": "-121.44144000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 51,
+    "name": "Hornby Island",
+    "latitude": "49.53448000",
+    "longitude": "-124.66923000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 52,
+    "name": "Houston",
+    "latitude": "54.39976000",
+    "longitude": "-126.67008000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 53,
+    "name": "Invermere",
+    "latitude": "50.51666000",
+    "longitude": "-116.03538000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 54,
+    "name": "Kamloops",
+    "latitude": "50.66648000",
+    "longitude": "-120.31920000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 55,
+    "name": "Kelowna",
+    "latitude": "49.88307000",
+    "longitude": "-119.48568000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 56,
+    "name": "Kimberley",
+    "latitude": "49.67071000",
+    "longitude": "-115.97760000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 57,
+    "name": "Kitimat",
+    "latitude": "54.05244000",
+    "longitude": "-128.65342000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 58,
+    "name": "Ladner",
+    "latitude": "49.08938000",
+    "longitude": "-123.08241000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 59,
+    "name": "Ladysmith",
+    "latitude": "48.99016000",
+    "longitude": "-123.81699000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 60,
+    "name": "Lake Cowichan",
+    "latitude": "48.82495000",
+    "longitude": "-124.05461000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 61,
+    "name": "Langford",
+    "latitude": "48.44963000",
+    "longitude": "-123.50261000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 62,
+    "name": "Langley",
+    "latitude": "49.10107000",
+    "longitude": "-122.65883000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 63,
+    "name": "Lillooet",
+    "latitude": "50.68560000",
+    "longitude": "-121.94200000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 64,
+    "name": "Lions Bay",
+    "latitude": "49.45218000",
+    "longitude": "-123.23760000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 65,
+    "name": "Logan Lake",
+    "latitude": "50.49976000",
+    "longitude": "-120.80253000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 66,
+    "name": "Lumby",
+    "latitude": "50.24979000",
+    "longitude": "-118.96904000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 67,
+    "name": "Mackenzie",
+    "latitude": "55.33637000",
+    "longitude": "-123.09374000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 68,
+    "name": "Maple Ridge",
+    "latitude": "49.21939000",
+    "longitude": "-122.60193000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 69,
+    "name": "Merritt",
+    "latitude": "50.11225000",
+    "longitude": "-120.79420000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 70,
+    "name": "Metchosin",
+    "latitude": "48.38293000",
+    "longitude": "-123.53591000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 71,
+    "name": "Metro Vancouver Regional",
+    "latitude": "49.33296000",
+    "longitude": "-123.00264000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 72,
+    "name": "Mission",
+    "latitude": "49.13298000",
+    "longitude": "-122.30258000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 73,
+    "name": "Nakusp",
+    "latitude": "50.24987000",
+    "longitude": "-117.80226000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 74,
+    "name": "Nanaimo",
+    "latitude": "49.16638000",
+    "longitude": "-123.94003000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 75,
+    "name": "Nelson",
+    "latitude": "49.49985000",
+    "longitude": "-117.28553000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 76,
+    "name": "New Westminster",
+    "latitude": "49.20678000",
+    "longitude": "-122.91092000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 77,
+    "name": "North Cowichan",
+    "latitude": "48.84133000",
+    "longitude": "-123.68596000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 78,
+    "name": "North Oyster/Yellow Point",
+    "latitude": "49.04807000",
+    "longitude": "-123.83395000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 79,
+    "name": "North Saanich",
+    "latitude": "48.66634000",
+    "longitude": "-123.41933000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 80,
+    "name": "North Vancouver",
+    "latitude": "49.31636000",
+    "longitude": "-123.06934000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 81,
+    "name": "Oak Bay",
+    "latitude": "48.44964000",
+    "longitude": "-123.30260000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 82,
+    "name": "Okanagan",
+    "latitude": "50.36386000",
+    "longitude": "-119.34997000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 83,
+    "name": "Okanagan Falls",
+    "latitude": "49.35000000",
+    "longitude": "-119.56667000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 84,
+    "name": "Oliver",
+    "latitude": "49.18306000",
+    "longitude": "-119.55240000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 85,
+    "name": "Osoyoos",
+    "latitude": "49.03306000",
+    "longitude": "-119.45237000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 86,
+    "name": "Parksville",
+    "latitude": "49.31947000",
+    "longitude": "-124.31575000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 87,
+    "name": "Peace River Regional",
+    "latitude": "56.66650000",
+    "longitude": "-122.75302000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 88,
+    "name": "Peachland",
+    "latitude": "49.76647000",
+    "longitude": "-119.73568000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 89,
+    "name": "Pemberton",
+    "latitude": "50.31641000",
+    "longitude": "-122.80273000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 90,
+    "name": "Penticton",
+    "latitude": "49.48062000",
+    "longitude": "-119.58584000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 91,
+    "name": "Pitt Meadows",
+    "latitude": "49.22119000",
+    "longitude": "-122.68965000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 92,
+    "name": "Port Alberni",
+    "latitude": "49.24133000",
+    "longitude": "-124.80280000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 93,
+    "name": "Port Coquitlam",
+    "latitude": "49.26637000",
+    "longitude": "-122.76932000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 94,
+    "name": "Port McNeill",
+    "latitude": "50.58716000",
+    "longitude": "-127.08053000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 95,
+    "name": "Port Moody",
+    "latitude": "49.28124000",
+    "longitude": "-122.82457000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 96,
+    "name": "Powell River",
+    "latitude": "49.83278000",
+    "longitude": "-124.52368000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 97,
+    "name": "Prince George",
+    "latitude": "53.91660000",
+    "longitude": "-122.75301000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 98,
+    "name": "Prince Rupert",
+    "latitude": "54.31507000",
+    "longitude": "-130.32098000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 99,
+    "name": "Princeton",
+    "latitude": "49.45802000",
+    "longitude": "-120.51076000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 100,
+    "name": "Puntledge",
+    "latitude": "49.66168000",
+    "longitude": "-125.05686000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 101,
+    "name": "Quesnel",
+    "latitude": "52.97842000",
+    "longitude": "-122.49310000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 102,
+    "name": "Regional District of Alberni-Clayoquot",
+    "latitude": "49.24962000",
+    "longitude": "-125.33615000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 103,
+    "name": "Regional District of Central Okanagan",
+    "latitude": "49.99978000",
+    "longitude": "-119.41908000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 104,
+    "name": "Revelstoke",
+    "latitude": "50.99712000",
+    "longitude": "-118.19530000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 105,
+    "name": "Richmond",
+    "latitude": "49.17003000",
+    "longitude": "-123.13683000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 106,
+    "name": "Rossland",
+    "latitude": "49.08313000",
+    "longitude": "-117.80224000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 107,
+    "name": "Royston",
+    "latitude": "49.64703000",
+    "longitude": "-124.94670000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 108,
+    "name": "Salmo",
+    "latitude": "49.19986000",
+    "longitude": "-117.26890000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 109,
+    "name": "Salmon Arm",
+    "latitude": "50.69980000",
+    "longitude": "-119.30237000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 110,
+    "name": "Salt Spring Island",
+    "latitude": "48.81852000",
+    "longitude": "-123.49061000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 111,
+    "name": "Saltair",
+    "latitude": "48.94963000",
+    "longitude": "-123.76939000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 112,
+    "name": "Sechelt",
+    "latitude": "49.47512000",
+    "longitude": "-123.75903000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 113,
+    "name": "Sicamous",
+    "latitude": "50.83312000",
+    "longitude": "-118.98565000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 114,
+    "name": "Six Mile",
+    "latitude": "48.45767000",
+    "longitude": "-123.46088000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 115,
+    "name": "Smithers",
+    "latitude": "54.78036000",
+    "longitude": "-127.17428000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 116,
+    "name": "Sooke",
+    "latitude": "48.37463000",
+    "longitude": "-123.72762000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 117,
+    "name": "South Pender Harbour",
+    "latitude": "49.62202000",
+    "longitude": "-124.02484000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 118,
+    "name": "Sparwood",
+    "latitude": "49.73332000",
+    "longitude": "-114.88532000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 119,
+    "name": "Summerland",
+    "latitude": "49.59977000",
+    "longitude": "-119.66911000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 120,
+    "name": "Surrey",
+    "latitude": "49.10635000",
+    "longitude": "-122.82509000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 121,
+    "name": "Terrace",
+    "latitude": "54.51634000",
+    "longitude": "-128.60345000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 122,
+    "name": "Tofino",
+    "latitude": "49.15314000",
+    "longitude": "-125.90744000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 123,
+    "name": "Trail",
+    "latitude": "49.09983000",
+    "longitude": "-117.70223000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 124,
+    "name": "Tsawwassen",
+    "latitude": "49.01667000",
+    "longitude": "-123.08333000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 125,
+    "name": "Tumbler Ridge",
+    "latitude": "55.13027000",
+    "longitude": "-120.99415000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 126,
+    "name": "Ucluelet",
+    "latitude": "48.94153000",
+    "longitude": "-125.54635000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 127,
+    "name": "Vancouver",
+    "latitude": "49.24966000",
+    "longitude": "-123.11934000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 128,
+    "name": "Vanderhoof",
+    "latitude": "54.01657000",
+    "longitude": "-124.01982000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 129,
+    "name": "Vernon",
+    "latitude": "50.26729000",
+    "longitude": "-119.27337000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 130,
+    "name": "Victoria",
+    "latitude": "48.43590000",
+    "longitude": "-123.35155000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 131,
+    "name": "Walnut Grove",
+    "latitude": "49.16473000",
+    "longitude": "-122.64042000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 132,
+    "name": "Welcome Beach",
+    "latitude": "49.47959000",
+    "longitude": "-123.89239000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 133,
+    "name": "West End",
+    "latitude": "49.28333000",
+    "longitude": "-123.13333000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 134,
+    "name": "West Kelowna",
+    "latitude": "49.86250000",
+    "longitude": "-119.58333000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 135,
+    "name": "West Vancouver",
+    "latitude": "49.36672000",
+    "longitude": "-123.16652000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 136,
+    "name": "Whistler",
+    "latitude": "50.11817000",
+    "longitude": "-122.95396000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 137,
+    "name": "White Rock",
+    "latitude": "49.01636000",
+    "longitude": "-122.80260000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  },
+  {
+    "id": 138,
+    "name": "Williams Lake",
+    "latitude": "52.14153000",
+    "longitude": "-122.14451000",
+    "stateId": 875,
+    "stateCode": "BC",
+    "countryCode": "CA"
+  }
+]

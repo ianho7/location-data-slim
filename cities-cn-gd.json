@@ -1,0 +1,1811 @@
+[
+  {
+    "id": 0,
+    "name": "Anbu",
+    "latitude": "23.44895000",
+    "longitude": "116.68092000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 1,
+    "name": "Baiyun",
+    "latitude": "23.16063240",
+    "longitude": "113.26789500",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 2,
+    "name": "Bao'an",
+    "latitude": "22.55985730",
+    "longitude": "113.87904040",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 3,
+    "name": "Binhai",
+    "latitude": "23.25245390",
+    "longitude": "116.68536850",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 4,
+    "name": "Boluo",
+    "latitude": "23.33669240",
+    "longitude": "114.32147780",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 5,
+    "name": "Chancheng",
+    "latitude": "23.01201970",
+    "longitude": "113.11734380",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 6,
+    "name": "Chao'an",
+    "latitude": "23.46594350",
+    "longitude": "116.67298010",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 7,
+    "name": "Chaonan",
+    "latitude": "23.24237080",
+    "longitude": "116.43416500",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 8,
+    "name": "Chaoyang",
+    "latitude": "23.26844900",
+    "longitude": "116.59698640",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 9,
+    "name": "Chaozhou",
+    "latitude": "23.65659300",
+    "longitude": "116.62042230",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 10,
+    "name": "Chenghai",
+    "latitude": "23.46940750",
+    "longitude": "116.75155850",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 11,
+    "name": "Chenghua",
+    "latitude": "23.46132000",
+    "longitude": "116.77007000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 12,
+    "name": "Chengqu",
+    "latitude": "22.78176080",
+    "longitude": "115.35996420",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 13,
+    "name": "Chikan",
+    "latitude": "21.26868860",
+    "longitude": "110.36211430",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 14,
+    "name": "Conghua",
+    "latitude": "23.67076400",
+    "longitude": "113.69349580",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 15,
+    "name": "Dabu",
+    "latitude": "24.35055270",
+    "longitude": "116.69022160",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 16,
+    "name": "Daliang",
+    "latitude": "22.84067000",
+    "longitude": "113.25030000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 17,
+    "name": "Danshui",
+    "latitude": "22.79840000",
+    "longitude": "114.46716000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 18,
+    "name": "Dasha",
+    "latitude": "23.11037000",
+    "longitude": "113.44180000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 19,
+    "name": "Deqing",
+    "latitude": "23.28685220",
+    "longitude": "111.96958020",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 20,
+    "name": "Dianbai",
+    "latitude": "21.68556790",
+    "longitude": "111.16143590",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 21,
+    "name": "Dinghu",
+    "latitude": "23.16189530",
+    "longitude": "112.56253620",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 22,
+    "name": "Dongbei",
+    "latitude": "24.99195700",
+    "longitude": "112.29597500",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 23,
+    "name": "Dongbu",
+    "latitude": "0.00000000",
+    "longitude": "0.00000000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 24,
+    "name": "Dongguan",
+    "latitude": "23.01835680",
+    "longitude": "113.74523320",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 25,
+    "name": "Donghai",
+    "latitude": "22.94593000",
+    "longitude": "115.64204000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 26,
+    "name": "Dongnan",
+    "latitude": "24.23337400",
+    "longitude": "112.03597500",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 27,
+    "name": "Dongyuan",
+    "latitude": "23.96617710",
+    "longitude": "114.84283310",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 28,
+    "name": "Doumen",
+    "latitude": "22.21198760",
+    "longitude": "113.29097930",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 29,
+    "name": "Duanzhou",
+    "latitude": "23.10183960",
+    "longitude": "112.45948720",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 30,
+    "name": "Ducheng",
+    "latitude": "23.24212000",
+    "longitude": "111.52840000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 31,
+    "name": "Encheng",
+    "latitude": "22.18659000",
+    "longitude": "112.30424000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 32,
+    "name": "Enping",
+    "latitude": "22.25252110",
+    "longitude": "112.28769640",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 33,
+    "name": "Fengkai",
+    "latitude": "23.52118300",
+    "longitude": "111.69799670",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 34,
+    "name": "Fengshun",
+    "latitude": "23.89721660",
+    "longitude": "116.24760930",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 35,
+    "name": "Fogang",
+    "latitude": "23.88258020",
+    "longitude": "113.52627640",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 36,
+    "name": "Foshan",
+    "latitude": "23.02397880",
+    "longitude": "113.11595580",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 37,
+    "name": "Foshan Shi",
+    "latitude": "23.02264000",
+    "longitude": "112.96302000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 38,
+    "name": "Futian",
+    "latitude": "22.52436320",
+    "longitude": "114.04989400",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 39,
+    "name": "Gaoming",
+    "latitude": "22.90328670",
+    "longitude": "112.88668830",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 40,
+    "name": "Gaoyao",
+    "latitude": "23.02432000",
+    "longitude": "112.44555000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 41,
+    "name": "Gaoyao",
+    "latitude": "23.02797830",
+    "longitude": "112.45258900",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 42,
+    "name": "Gaozhou",
+    "latitude": "21.93924000",
+    "longitude": "110.84607000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 43,
+    "name": "Gaozhou",
+    "latitude": "22.04614770",
+    "longitude": "110.96444470",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 44,
+    "name": "Guangming",
+    "latitude": "22.75168720",
+    "longitude": "113.93000610",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 45,
+    "name": "Guangning",
+    "latitude": "23.63489230",
+    "longitude": "112.43179720",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 46,
+    "name": "Guangzhou",
+    "latitude": "23.13019640",
+    "longitude": "113.25929450",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 47,
+    "name": "Guangzhou Shi",
+    "latitude": "23.37327000",
+    "longitude": "113.51219000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 48,
+    "name": "Haifeng",
+    "latitude": "23.02675370",
+    "longitude": "115.34148690",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 49,
+    "name": "Haimen",
+    "latitude": "23.19346000",
+    "longitude": "116.61219000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 50,
+    "name": "Haizhu",
+    "latitude": "23.08599580",
+    "longitude": "113.31199350",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 51,
+    "name": "Haojiang",
+    "latitude": "23.28519270",
+    "longitude": "116.72180330",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 52,
+    "name": "Heping",
+    "latitude": "24.44004450",
+    "longitude": "115.00827840",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 53,
+    "name": "Hepo",
+    "latitude": "23.43077000",
+    "longitude": "115.82991000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 54,
+    "name": "Heshan",
+    "latitude": "22.66375700",
+    "longitude": "112.80654630",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 55,
+    "name": "Heyuan",
+    "latitude": "23.74677700",
+    "longitude": "114.69544820",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 56,
+    "name": "Huadu",
+    "latitude": "23.46123920",
+    "longitude": "113.21419650",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 57,
+    "name": "Huaicheng",
+    "latitude": "23.91952000",
+    "longitude": "112.17629000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 58,
+    "name": "Huaiji",
+    "latitude": "23.92287470",
+    "longitude": "112.16168950",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 59,
+    "name": "Huanggang",
+    "latitude": "23.67704000",
+    "longitude": "116.99961000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 60,
+    "name": "Huangpu",
+    "latitude": "23.18299810",
+    "longitude": "113.47484160",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 61,
+    "name": "Huazhou",
+    "latitude": "21.63333000",
+    "longitude": "110.58333000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 62,
+    "name": "Huazhou",
+    "latitude": "21.83026990",
+    "longitude": "110.53001340",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 63,
+    "name": "Huicheng",
+    "latitude": "23.03845000",
+    "longitude": "116.28988000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 64,
+    "name": "Huicheng",
+    "latitude": "23.15097630",
+    "longitude": "114.48959690",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 65,
+    "name": "Huidong",
+    "latitude": "23.13152130",
+    "longitude": "115.03372060",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 66,
+    "name": "Huilai",
+    "latitude": "23.03259650",
+    "longitude": "116.22574600",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 67,
+    "name": "Huiyang",
+    "latitude": "22.89378840",
+    "longitude": "114.46045790",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 68,
+    "name": "Huizhou",
+    "latitude": "23.11251530",
+    "longitude": "114.41270070",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 69,
+    "name": "Jiangcheng",
+    "latitude": "21.77958720",
+    "longitude": "111.89083750",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 70,
+    "name": "Jianghai",
+    "latitude": "22.55130330",
+    "longitude": "113.12499480",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 71,
+    "name": "Jiangmen",
+    "latitude": "22.58166190",
+    "longitude": "113.07610730",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 72,
+    "name": "Jiaoling",
+    "latitude": "24.66135820",
+    "longitude": "116.16650920",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 73,
+    "name": "Jiazi",
+    "latitude": "22.87932000",
+    "longitude": "116.07318000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 74,
+    "name": "Jiedong",
+    "latitude": "23.56916040",
+    "longitude": "116.40716250",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 75,
+    "name": "Jieshi",
+    "latitude": "22.81027000",
+    "longitude": "115.83058000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 76,
+    "name": "Jiexi",
+    "latitude": "23.43379910",
+    "longitude": "115.83784540",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 77,
+    "name": "Jieyang",
+    "latitude": "23.55315600",
+    "longitude": "116.36803540",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 78,
+    "name": "Jinping",
+    "latitude": "23.36854030",
+    "longitude": "116.69891820",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 79,
+    "name": "Jinwan",
+    "latitude": "22.11767310",
+    "longitude": "113.35751960",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 80,
+    "name": "Kaiping",
+    "latitude": "22.34745680",
+    "longitude": "112.53441740",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 81,
+    "name": "Lechang",
+    "latitude": "25.25463390",
+    "longitude": "113.25668200",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 82,
+    "name": "Lecheng",
+    "latitude": "25.12800000",
+    "longitude": "113.35041000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 83,
+    "name": "Leizhou",
+    "latitude": "20.76109120",
+    "longitude": "110.02798900",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 84,
+    "name": "Lianjiang",
+    "latitude": "21.64673000",
+    "longitude": "110.28172000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 85,
+    "name": "Lianjiang",
+    "latitude": "21.65679130",
+    "longitude": "110.14810900",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 86,
+    "name": "Liannan",
+    "latitude": "24.57796200",
+    "longitude": "112.26431700",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 87,
+    "name": "Lianping",
+    "latitude": "24.37614220",
+    "longitude": "114.48851350",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 88,
+    "name": "Lianshan",
+    "latitude": "24.57302130",
+    "longitude": "112.08852770",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 89,
+    "name": "Lianzhou",
+    "latitude": "24.93773730",
+    "longitude": "112.48184540",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 90,
+    "name": "Lianzhou",
+    "latitude": "24.78186000",
+    "longitude": "112.37120000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 91,
+    "name": "Licheng",
+    "latitude": "23.29549000",
+    "longitude": "113.82465000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 92,
+    "name": "Liwan",
+    "latitude": "23.11003780",
+    "longitude": "113.21364880",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 93,
+    "name": "Longgang",
+    "latitude": "22.72303690",
+    "longitude": "114.24265610",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 94,
+    "name": "Longhu",
+    "latitude": "23.37400770",
+    "longitude": "116.71209990",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 95,
+    "name": "Longhua",
+    "latitude": "22.69943090",
+    "longitude": "114.03986030",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 96,
+    "name": "Longmen",
+    "latitude": "23.66716760",
+    "longitude": "114.13284160",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 97,
+    "name": "Lubu",
+    "latitude": "23.17233000",
+    "longitude": "112.28298000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 98,
+    "name": "Lufeng",
+    "latitude": "22.97291590",
+    "longitude": "115.79465250",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 99,
+    "name": "Luhe",
+    "latitude": "23.28124620",
+    "longitude": "115.61533170",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 100,
+    "name": "Lungchuan",
+    "latitude": "0.00000000",
+    "longitude": "0.00000000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 101,
+    "name": "Luocheng",
+    "latitude": "22.76953000",
+    "longitude": "111.56882000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 102,
+    "name": "Luoding",
+    "latitude": "22.69258750",
+    "longitude": "111.48513660",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 103,
+    "name": "Luohu",
+    "latitude": "22.55063910",
+    "longitude": "114.12613890",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 104,
+    "name": "Luoyang",
+    "latitude": "23.16244000",
+    "longitude": "114.27342000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 105,
+    "name": "Maba",
+    "latitude": "24.68413000",
+    "longitude": "113.59839000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 106,
+    "name": "Maoming",
+    "latitude": "21.66569610",
+    "longitude": "110.92095110",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 107,
+    "name": "Maonan",
+    "latitude": "21.64425560",
+    "longitude": "110.91398270",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 108,
+    "name": "Mazhang",
+    "latitude": "21.12900030",
+    "longitude": "110.29844280",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 109,
+    "name": "Meijiang",
+    "latitude": "24.31320620",
+    "longitude": "116.11191220",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 110,
+    "name": "Meixian",
+    "latitude": "24.41462280",
+    "longitude": "116.23425580",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 111,
+    "name": "Meizhou",
+    "latitude": "24.29184140",
+    "longitude": "116.11714280",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 112,
+    "name": "Nan'ao",
+    "latitude": "23.42401810",
+    "longitude": "117.01896540",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 113,
+    "name": "Nanbu",
+    "latitude": "22.70156060",
+    "longitude": "114.36320370",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 114,
+    "name": "Nanfeng",
+    "latitude": "23.72695000",
+    "longitude": "111.79723000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 115,
+    "name": "Nanhai",
+    "latitude": "23.03140960",
+    "longitude": "113.13751510",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 116,
+    "name": "Nansha",
+    "latitude": "22.80439130",
+    "longitude": "113.51981880",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 117,
+    "name": "Nanshan",
+    "latitude": "22.53601420",
+    "longitude": "113.92562220",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 118,
+    "name": "Nanxiong",
+    "latitude": "25.21278030",
+    "longitude": "114.44508230",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 119,
+    "name": "Panyu",
+    "latitude": "22.93872530",
+    "longitude": "113.37854220",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 120,
+    "name": "Pengjiang",
+    "latitude": "22.64667740",
+    "longitude": "113.05135790",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 121,
+    "name": "Pingshan",
+    "latitude": "22.99376000",
+    "longitude": "114.71311000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 122,
+    "name": "Pingshan",
+    "latitude": "22.71138270",
+    "longitude": "114.34618820",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 123,
+    "name": "Pingyuan",
+    "latitude": "24.66062800",
+    "longitude": "115.91006700",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 124,
+    "name": "Potou",
+    "latitude": "21.25111150",
+    "longitude": "110.49506110",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 125,
+    "name": "Puning",
+    "latitude": "23.31072000",
+    "longitude": "116.16869000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 126,
+    "name": "Puning",
+    "latitude": "23.30004530",
+    "longitude": "116.16093700",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 127,
+    "name": "Qingcheng",
+    "latitude": "23.69990440",
+    "longitude": "113.05719110",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 128,
+    "name": "Qingxin",
+    "latitude": "23.88875710",
+    "longitude": "112.84867560",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 129,
+    "name": "Qingyuan",
+    "latitude": "23.68329840",
+    "longitude": "113.05059940",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 130,
+    "name": "Qujiang",
+    "latitude": "24.64576960",
+    "longitude": "113.61039090",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 131,
+    "name": "Raoping",
+    "latitude": "23.66608860",
+    "longitude": "116.99959940",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 132,
+    "name": "Renhua",
+    "latitude": "25.14932970",
+    "longitude": "113.79586210",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 133,
+    "name": "Rongcheng",
+    "latitude": "23.52789130",
+    "longitude": "116.36233730",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 134,
+    "name": "Ruyuan",
+    "latitude": "24.81883610",
+    "longitude": "113.17505700",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 135,
+    "name": "Sanshui",
+    "latitude": "23.15486000",
+    "longitude": "112.89161000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 136,
+    "name": "Sanshui",
+    "latitude": "23.17199660",
+    "longitude": "112.88483440",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 137,
+    "name": "Shantou",
+    "latitude": "23.35639210",
+    "longitude": "116.67758560",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 138,
+    "name": "Shanwei",
+    "latitude": "23.01236390",
+    "longitude": "115.50999370",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 139,
+    "name": "Shaoguan",
+    "latitude": "24.83094890",
+    "longitude": "113.81552630",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 140,
+    "name": "Shaping",
+    "latitude": "22.77019000",
+    "longitude": "112.95776000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 141,
+    "name": "Shenzhen",
+    "latitude": "22.54457410",
+    "longitude": "114.05454290",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 142,
+    "name": "Shilong",
+    "latitude": "23.11444000",
+    "longitude": "113.84722000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 143,
+    "name": "Shiqi",
+    "latitude": "22.51682000",
+    "longitude": "113.38521000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 144,
+    "name": "Shiqiao",
+    "latitude": "22.94640000",
+    "longitude": "113.35769000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 145,
+    "name": "Shiwan",
+    "latitude": "23.00107000",
+    "longitude": "113.07700000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 146,
+    "name": "Shixing",
+    "latitude": "24.94824000",
+    "longitude": "114.06572000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 147,
+    "name": "Shixing",
+    "latitude": "24.95635520",
+    "longitude": "114.05664680",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 148,
+    "name": "Shuixiang",
+    "latitude": "21.62582780",
+    "longitude": "111.97074280",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 149,
+    "name": "Shunde",
+    "latitude": "22.85456550",
+    "longitude": "113.18651610",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 150,
+    "name": "Sihui",
+    "latitude": "23.44238080",
+    "longitude": "112.69972730",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 151,
+    "name": "Songshanhu",
+    "latitude": "22.92504910",
+    "longitude": "113.88129790",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 152,
+    "name": "Suixi",
+    "latitude": "21.28935600",
+    "longitude": "110.00892810",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 153,
+    "name": "Taishan",
+    "latitude": "22.25135000",
+    "longitude": "112.77990000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 154,
+    "name": "Taishan",
+    "latitude": "22.06384750",
+    "longitude": "112.71285870",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 155,
+    "name": "Tangping",
+    "latitude": "22.03177000",
+    "longitude": "111.93537000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 156,
+    "name": "Tianhe",
+    "latitude": "23.12712000",
+    "longitude": "113.35642400",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 157,
+    "name": "Wengyuan",
+    "latitude": "24.41152240",
+    "longitude": "114.05402610",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 158,
+    "name": "Wuchuan",
+    "latitude": "21.45713000",
+    "longitude": "110.76591000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 159,
+    "name": "Wuchuan",
+    "latitude": "21.44132580",
+    "longitude": "110.69422890",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 160,
+    "name": "Wuhua",
+    "latitude": "23.79272870",
+    "longitude": "115.63419200",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 161,
+    "name": "Wujiang",
+    "latitude": "24.70344050",
+    "longitude": "113.38107840",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 162,
+    "name": "Xiangqiao",
+    "latitude": "23.67752270",
+    "longitude": "116.62407310",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 163,
+    "name": "Xiangzhou",
+    "latitude": "22.26942220",
+    "longitude": "113.53825730",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 164,
+    "name": "Xiashan",
+    "latitude": "21.19413630",
+    "longitude": "110.39335160",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 165,
+    "name": "Xibei",
+    "latitude": "22.22774280",
+    "longitude": "113.50501600",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 166,
+    "name": "Xinfeng",
+    "latitude": "24.06240630",
+    "longitude": "114.20187890",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 167,
+    "name": "Xingning",
+    "latitude": "24.14830000",
+    "longitude": "115.72272000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 168,
+    "name": "Xingning",
+    "latitude": "24.25792160",
+    "longitude": "115.75315340",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 169,
+    "name": "Xinhui",
+    "latitude": "22.45600000",
+    "longitude": "113.04820000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 170,
+    "name": "Xinhui",
+    "latitude": "22.38369070",
+    "longitude": "113.03283660",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 171,
+    "name": "Xinxing",
+    "latitude": "22.63508520",
+    "longitude": "112.19684570",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 172,
+    "name": "Xinyi",
+    "latitude": "22.37303000",
+    "longitude": "110.94746000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 173,
+    "name": "Xinyi",
+    "latitude": "22.35803160",
+    "longitude": "110.94229100",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 174,
+    "name": "Xiongzhou",
+    "latitude": "25.11667000",
+    "longitude": "114.30000000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 175,
+    "name": "Xucheng",
+    "latitude": "20.32917000",
+    "longitude": "110.16712000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 176,
+    "name": "Xuwen",
+    "latitude": "20.44072440",
+    "longitude": "110.22264840",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 177,
+    "name": "Yangchun",
+    "latitude": "22.16667000",
+    "longitude": "111.78333000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 178,
+    "name": "Yangchun",
+    "latitude": "22.25184720",
+    "longitude": "111.69366090",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 179,
+    "name": "Yangdong",
+    "latitude": "22.02039370",
+    "longitude": "112.05612490",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 180,
+    "name": "Yangjiang",
+    "latitude": "22.09582230",
+    "longitude": "111.78313930",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 181,
+    "name": "Yangshan",
+    "latitude": "24.46832800",
+    "longitude": "112.63607370",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 182,
+    "name": "Yangxi",
+    "latitude": "21.69291170",
+    "longitude": "111.60308190",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 183,
+    "name": "Yantian",
+    "latitude": "22.55905030",
+    "longitude": "114.23244070",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 184,
+    "name": "Yingcheng",
+    "latitude": "24.16588000",
+    "longitude": "113.41267000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 185,
+    "name": "Yingde",
+    "latitude": "24.20798860",
+    "longitude": "113.39628320",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 186,
+    "name": "Yuancheng",
+    "latitude": "23.70465940",
+    "longitude": "114.64220460",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 187,
+    "name": "Yuexiu",
+    "latitude": "23.13127820",
+    "longitude": "113.26147170",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 188,
+    "name": "Yun'an",
+    "latitude": "22.84580640",
+    "longitude": "111.92184310",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 189,
+    "name": "Yunan",
+    "latitude": "23.04056280",
+    "longitude": "111.59088000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 190,
+    "name": "Yuncheng",
+    "latitude": "22.89199090",
+    "longitude": "112.15255670",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 191,
+    "name": "Yunfu",
+    "latitude": "22.85466630",
+    "longitude": "111.80785860",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 192,
+    "name": "Zengcheng",
+    "latitude": "23.34730060",
+    "longitude": "113.77029280",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 193,
+    "name": "Zhanjiang",
+    "latitude": "21.27370790",
+    "longitude": "110.35483180",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 194,
+    "name": "Zhaoqing",
+    "latitude": "23.05016610",
+    "longitude": "112.46036290",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 195,
+    "name": "Zhenjiang",
+    "latitude": "24.90325390",
+    "longitude": "113.58146600",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 196,
+    "name": "Zhongshan",
+    "latitude": "22.51970730",
+    "longitude": "113.38723020",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 197,
+    "name": "Zhongshan Prefecture",
+    "latitude": "22.55358000",
+    "longitude": "113.37550000",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 198,
+    "name": "Zhongxin",
+    "latitude": "23.28818310",
+    "longitude": "113.60788850",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 199,
+    "name": "Zhuhai",
+    "latitude": "22.27373400",
+    "longitude": "113.57213270",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  },
+  {
+    "id": 200,
+    "name": "Zijin",
+    "latitude": "23.55391780",
+    "longitude": "115.04196030",
+    "stateId": 2279,
+    "stateCode": "GD",
+    "countryCode": "CN"
+  }
+]

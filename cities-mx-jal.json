@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "name": "Acatlán de Juárez",
+    "latitude": "20.42416667",
+    "longitude": "-103.60138889",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 1,
+    "name": "Acueducto Fraccionamiento",
+    "latitude": "19.47917000",
+    "longitude": "-103.31806000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 2,
+    "name": "Agua Bermeja",
+    "latitude": "20.66750000",
+    "longitude": "-102.97056000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 3,
+    "name": "Agua Caliente",
+    "latitude": "21.77250000",
+    "longitude": "-103.78806000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 4,
+    "name": "Agua Colorada",
+    "latitude": "20.94694000",
+    "longitude": "-103.20611000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 5,
+    "name": "Agua Delgada",
+    "latitude": "20.16222000",
+    "longitude": "-103.82750000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 6,
+    "name": "Agua Escondida",
+    "latitude": "20.86083000",
+    "longitude": "-102.72500000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 7,
+    "name": "Agua Fría",
+    "latitude": "20.58778000",
+    "longitude": "-102.55833000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 8,
+    "name": "Agua Nueva",
+    "latitude": "20.67889000",
+    "longitude": "-102.45111000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 9,
+    "name": "Agua Paloma",
+    "latitude": "19.67799000",
+    "longitude": "-105.18473000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 10,
+    "name": "Agua Prieta",
+    "latitude": "20.79361000",
+    "longitude": "-102.89194000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 11,
+    "name": "Agua Rica",
+    "latitude": "20.83639000",
+    "longitude": "-103.18778000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 12,
+    "name": "Agua Salada",
+    "latitude": "19.73111000",
+    "longitude": "-103.19639000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 13,
+    "name": "Agua Zarca",
+    "latitude": "21.85035000",
+    "longitude": "-103.49102000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 14,
+    "name": "Ahualulco de Mercado",
+    "latitude": "20.61666667",
+    "longitude": "-103.86666667",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 15,
+    "name": "Ahuatlán",
+    "latitude": "20.41836000",
+    "longitude": "-102.88759000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 16,
+    "name": "Ahuetita de Abajo",
+    "latitude": "21.41972000",
+    "longitude": "-102.65278000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 17,
+    "name": "Ahuisculco",
+    "latitude": "20.56875000",
+    "longitude": "-103.70313000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 18,
+    "name": "Ajijic",
+    "latitude": "20.29944444",
+    "longitude": "-103.25805556",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 19,
+    "name": "Alfredo V. Bonfil",
+    "latitude": "20.66278000",
+    "longitude": "-103.72278000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 20,
+    "name": "Alista",
+    "latitude": "19.63401000",
+    "longitude": "-103.78890000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 21,
+    "name": "Allende",
+    "latitude": "20.72054000",
+    "longitude": "-102.08557000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 22,
+    "name": "Altavista de Ramos",
+    "latitude": "20.43333333",
+    "longitude": "-104.01666667",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 23,
+    "name": "Altus Bosques",
+    "latitude": "20.56806000",
+    "longitude": "-103.37250000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 24,
+    "name": "Amacuautitlán",
+    "latitude": "19.81619000",
+    "longitude": "-104.02078000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 25,
+    "name": "Amacueca",
+    "latitude": "19.93333333",
+    "longitude": "-103.06666667",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 26,
+    "name": "Amajaquillo",
+    "latitude": "20.92750000",
+    "longitude": "-104.60028000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 27,
+    "name": "Amatanejo",
+    "latitude": "20.95241000",
+    "longitude": "-104.73775000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 28,
+    "name": "Amatitán",
+    "latitude": "20.83333333",
+    "longitude": "-103.71666667",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 29,
+    "name": "Ambrosio",
+    "latitude": "20.27605000",
+    "longitude": "-103.97092000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 30,
+    "name": "Ameca",
+    "latitude": "20.67000000",
+    "longitude": "-103.70000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 31,
+    "name": "Ameca Municipality",
+    "latitude": "20.54831370",
+    "longitude": "-104.04750230",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 32,
+    "name": "Analco",
+    "latitude": "21.38500000",
+    "longitude": "-102.63417000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 33,
+    "name": "Anoca",
+    "latitude": "20.09222000",
+    "longitude": "-103.54556000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 34,
+    "name": "Antonio Escobedo",
+    "latitude": "20.80000000",
+    "longitude": "-104.01667000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 35,
+    "name": "Apazulco",
+    "latitude": "19.36972000",
+    "longitude": "-104.87889000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 36,
+    "name": "Apozol de Gutiérrez",
+    "latitude": "21.01778000",
+    "longitude": "-102.82556000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 37,
+    "name": "Aquiles Serdán",
+    "latitude": "20.30019000",
+    "longitude": "-105.62230000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 38,
+    "name": "Arandas",
+    "latitude": "20.70519000",
+    "longitude": "-102.34635000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 39,
+    "name": "Arroyo Hondo",
+    "latitude": "19.68222000",
+    "longitude": "-103.30000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 40,
+    "name": "Atacco",
+    "latitude": "19.92662000",
+    "longitude": "-103.74249000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 41,
+    "name": "Atarjeas de Covarrubias",
+    "latitude": "19.91944000",
+    "longitude": "-103.94333000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 42,
+    "name": "Atemanica",
+    "latitude": "21.07528000",
+    "longitude": "-103.75028000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 43,
+    "name": "Atengo",
+    "latitude": "20.21666667",
+    "longitude": "-104.08333333",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 44,
+    "name": "Atenguillo",
+    "latitude": "20.41553000",
+    "longitude": "-104.49387000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 45,
+    "name": "Atequiza",
+    "latitude": "20.39006000",
+    "longitude": "-103.14065000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 46,
+    "name": "Atotonilco el Bajo",
+    "latitude": "20.34833333",
+    "longitude": "-103.67083333",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 47,
+    "name": "Atotonilquillo",
+    "latitude": "20.39287000",
+    "longitude": "-103.12356000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 48,
+    "name": "Atoyac",
+    "latitude": "20.01700000",
+    "longitude": "-103.53300000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 49,
+    "name": "Atzcatlán",
+    "latitude": "20.40306000",
+    "longitude": "-102.97111000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 50,
+    "name": "Autlán de Navarro",
+    "latitude": "19.76666667",
+    "longitude": "-104.36666667",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 51,
+    "name": "Ayotitlán",
+    "latitude": "20.22048000",
+    "longitude": "-103.94397000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 52,
+    "name": "Ayotlán",
+    "latitude": "20.49388889",
+    "longitude": "-102.35083333",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 53,
+    "name": "Ayuquila",
+    "latitude": "19.84001000",
+    "longitude": "-104.27156000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 54,
+    "name": "Ayutla Jalisco",
+    "latitude": "20.81666667",
+    "longitude": "-104.20000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 55,
+    "name": "Bajío de Ratones",
+    "latitude": "20.71306000",
+    "longitude": "-102.42861000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 56,
+    "name": "Bajío de San José",
+    "latitude": "21.67525000",
+    "longitude": "-102.11606000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 57,
+    "name": "Bajío Seco",
+    "latitude": "20.70889000",
+    "longitude": "-102.39028000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 58,
+    "name": "Balcones de la Calera",
+    "latitude": "20.44250000",
+    "longitude": "-103.26722000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 59,
+    "name": "Banus Vallarta",
+    "latitude": "20.71611000",
+    "longitude": "-105.22306000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 60,
+    "name": "Barra de Navidad",
+    "latitude": "19.20805556",
+    "longitude": "-104.68055556",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 61,
+    "name": "Barranca de los Laureles",
+    "latitude": "20.23333333",
+    "longitude": "-103.63333333",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 62,
+    "name": "Barranca de Otates",
+    "latitude": "20.26806000",
+    "longitude": "-103.66472000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 63,
+    "name": "Barranca de Santa Clara",
+    "latitude": "20.25566000",
+    "longitude": "-103.65560000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 64,
+    "name": "Barranca del Tule",
+    "latitude": "21.98028000",
+    "longitude": "-103.90694000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 65,
+    "name": "Barrio de Reyes",
+    "latitude": "21.29194000",
+    "longitude": "-102.50556000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 66,
+    "name": "Barrio de Tapias",
+    "latitude": "22.18361000",
+    "longitude": "-103.22667000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 67,
+    "name": "Belem del Refugio",
+    "latitude": "21.53023000",
+    "longitude": "-102.43515000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 68,
+    "name": "Bellavista",
+    "latitude": "20.43408000",
+    "longitude": "-103.63742000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 69,
+    "name": "Benito Juárez",
+    "latitude": "20.03639000",
+    "longitude": "-105.26806000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 70,
+    "name": "Betania",
+    "latitude": "20.58199000",
+    "longitude": "-102.37914000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 71,
+    "name": "Betulia",
+    "latitude": "21.75935000",
+    "longitude": "-102.01940000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 72,
+    "name": "Bicercio",
+    "latitude": "20.65944000",
+    "longitude": "-102.98389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 73,
+    "name": "Boca de Tomatlán",
+    "latitude": "20.51211000",
+    "longitude": "-105.31442000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 74,
+    "name": "Bolaños",
+    "latitude": "21.83055556",
+    "longitude": "-103.78055556",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 75,
+    "name": "Bosque Real Fraccionamiento",
+    "latitude": "20.56833000",
+    "longitude": "-103.49389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 76,
+    "name": "Brisas de la Navidad",
+    "latitude": "19.22444000",
+    "longitude": "-104.65639000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 77,
+    "name": "Brizuela",
+    "latitude": "20.18333333",
+    "longitude": "-103.70000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 78,
+    "name": "Buena Vista",
+    "latitude": "20.77722000",
+    "longitude": "-102.75778000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 79,
+    "name": "Buenos Aires",
+    "latitude": "20.54056000",
+    "longitude": "-102.93444000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 80,
+    "name": "Cabo Corrientes",
+    "latitude": "20.34394000",
+    "longitude": "-105.39322000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 81,
+    "name": "Cajititlán",
+    "latitude": "20.43174000",
+    "longitude": "-103.30940000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 82,
+    "name": "Calerita",
+    "latitude": "21.46000000",
+    "longitude": "-102.58806000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 83,
+    "name": "Callejones",
+    "latitude": "19.66833000",
+    "longitude": "-103.26278000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 84,
+    "name": "Camajapita",
+    "latitude": "20.35000000",
+    "longitude": "-103.91666667",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 85,
+    "name": "Campestre las Palomas Fraccionamiento",
+    "latitude": "20.81778000",
+    "longitude": "-103.45167000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 86,
+    "name": "Campo Acosta",
+    "latitude": "19.77061000",
+    "longitude": "-105.24917000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 87,
+    "name": "Campo Real",
+    "latitude": "20.78722000",
+    "longitude": "-103.44306000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 88,
+    "name": "Cañada de Islas",
+    "latitude": "21.24139000",
+    "longitude": "-102.83722000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 89,
+    "name": "Cañada de Ricos",
+    "latitude": "21.37140000",
+    "longitude": "-101.87653000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 90,
+    "name": "Cañada de San Ignacio",
+    "latitude": "20.55222000",
+    "longitude": "-102.35333000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 91,
+    "name": "Cañada Grande",
+    "latitude": "21.03889000",
+    "longitude": "-102.59278000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 92,
+    "name": "Cañadas de Obregón",
+    "latitude": "21.14685000",
+    "longitude": "-102.68616111",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 93,
+    "name": "Canchol",
+    "latitude": "19.30028000",
+    "longitude": "-102.94889000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 94,
+    "name": "Canoas",
+    "latitude": "21.27222000",
+    "longitude": "-101.80694000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 95,
+    "name": "Canoas de Arriba",
+    "latitude": "22.12333000",
+    "longitude": "-103.24556000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 96,
+    "name": "Capilla de Guadalupe",
+    "latitude": "20.82694444",
+    "longitude": "-102.59222222",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 97,
+    "name": "Capilla de Milpillas",
+    "latitude": "20.66331000",
+    "longitude": "-102.84295000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 98,
+    "name": "Capulín",
+    "latitude": "20.47802000",
+    "longitude": "-103.26947000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 99,
+    "name": "Caquixtle de Arriba",
+    "latitude": "21.51250000",
+    "longitude": "-102.07472000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 100,
+    "name": "Carrasqueño",
+    "latitude": "20.37917000",
+    "longitude": "-102.61889000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 101,
+    "name": "Carretas",
+    "latitude": "20.44222000",
+    "longitude": "-102.42417000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 102,
+    "name": "Carrizal",
+    "latitude": "22.21306000",
+    "longitude": "-104.30389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 103,
+    "name": "Casa de Teja",
+    "latitude": "20.45639000",
+    "longitude": "-103.13583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 104,
+    "name": "Casas Viejas",
+    "latitude": "21.18972000",
+    "longitude": "-102.25389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 105,
+    "name": "Casimiro Castillo",
+    "latitude": "19.60429000",
+    "longitude": "-104.43572000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 106,
+    "name": "Castro Urdiales",
+    "latitude": "20.59754000",
+    "longitude": "-103.82046000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 107,
+    "name": "Ceja de Bolitas",
+    "latitude": "21.31083000",
+    "longitude": "-102.02861000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 108,
+    "name": "Centro de Readaptación Social",
+    "latitude": "20.55444000",
+    "longitude": "-103.19361000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 109,
+    "name": "Cerrito de Buenos Aires",
+    "latitude": "20.52778000",
+    "longitude": "-102.93889000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 110,
+    "name": "Cerrito de Tierra",
+    "latitude": "20.88861000",
+    "longitude": "-103.10389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 111,
+    "name": "Cerro Santa Fe",
+    "latitude": "20.52599000",
+    "longitude": "-103.08448000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 112,
+    "name": "Chacala",
+    "latitude": "20.42833000",
+    "longitude": "-105.46778000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 113,
+    "name": "Chachahuatlán",
+    "latitude": "19.63361000",
+    "longitude": "-103.98750000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 114,
+    "name": "Chalpicote",
+    "latitude": "20.30972000",
+    "longitude": "-102.91615000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 115,
+    "name": "Chamacuero",
+    "latitude": "20.10793000",
+    "longitude": "-103.29326000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 116,
+    "name": "Chamela Jalisco",
+    "latitude": "19.52722222",
+    "longitude": "-105.07333333",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 117,
+    "name": "Chancol",
+    "latitude": "19.48056000",
+    "longitude": "-104.17194000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 118,
+    "name": "Chancuellar",
+    "latitude": "19.50972000",
+    "longitude": "-103.83111000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 119,
+    "name": "Chapala",
+    "latitude": "20.29333333",
+    "longitude": "-103.18972222",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 120,
+    "name": "Chayotillo",
+    "latitude": "21.74972000",
+    "longitude": "-101.93861000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 121,
+    "name": "Chilacayote",
+    "latitude": "20.13861000",
+    "longitude": "-104.64861000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 122,
+    "name": "Chimaltitán",
+    "latitude": "21.74805556",
+    "longitude": "-103.69472222",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 123,
+    "name": "Chinampas",
+    "latitude": "21.83686000",
+    "longitude": "-101.81564000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 124,
+    "name": "Chipinque de Arriba",
+    "latitude": "21.43194000",
+    "longitude": "-101.90667000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 125,
+    "name": "Chiquihuitillo",
+    "latitude": "20.74556000",
+    "longitude": "-102.98722000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 126,
+    "name": "Chiquilistlán",
+    "latitude": "20.20000000",
+    "longitude": "-103.81667000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 127,
+    "name": "Chiquilistlán Jalisco",
+    "latitude": "20.08555556",
+    "longitude": "-103.89388889",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 128,
+    "name": "Chome",
+    "latitude": "20.89528000",
+    "longitude": "-103.73528000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 129,
+    "name": "Churintzio",
+    "latitude": "21.26167000",
+    "longitude": "-102.01444000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 130,
+    "name": "Ciénega de Galvanes",
+    "latitude": "20.57500000",
+    "longitude": "-101.97000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 131,
+    "name": "Ciénega del Pastor",
+    "latitude": "20.52060000",
+    "longitude": "-102.65710000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 132,
+    "name": "Cihuatlán Jalisco",
+    "latitude": "19.25000000",
+    "longitude": "-104.56666667",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 133,
+    "name": "Cima del Sol",
+    "latitude": "20.46889000",
+    "longitude": "-103.41722000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 134,
+    "name": "Citala",
+    "latitude": "20.10454000",
+    "longitude": "-103.26194000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 135,
+    "name": "Ciudad Guzmán",
+    "latitude": "19.70861111",
+    "longitude": "-103.46416667",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 136,
+    "name": "Ciudad Guzmán CERESO",
+    "latitude": "19.65194000",
+    "longitude": "-103.50000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 137,
+    "name": "Coamostita",
+    "latitude": "21.92833000",
+    "longitude": "-103.99083000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 138,
+    "name": "Coatlancillo",
+    "latitude": "19.89314000",
+    "longitude": "-103.96414000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 139,
+    "name": "Cocuasco",
+    "latitude": "21.83444000",
+    "longitude": "-103.64389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 140,
+    "name": "Cocula Jalisco",
+    "latitude": "20.36516667",
+    "longitude": "-103.82214167",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 141,
+    "name": "Codorniz",
+    "latitude": "22.14528000",
+    "longitude": "-104.31694000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 142,
+    "name": "Cofradía",
+    "latitude": "19.51667000",
+    "longitude": "-104.71667000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 143,
+    "name": "Cofradía Santa Cruz de Camotlán",
+    "latitude": "20.93086000",
+    "longitude": "-104.64303000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 144,
+    "name": "Colinas del Roble",
+    "latitude": "20.50417000",
+    "longitude": "-103.39833000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 145,
+    "name": "Colinas del Valle",
+    "latitude": "20.75694000",
+    "longitude": "-105.15917000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 146,
+    "name": "Colonia Agua Caliente",
+    "latitude": "21.37778000",
+    "longitude": "-101.91611000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 147,
+    "name": "Colonia Bosques del Sol",
+    "latitude": "20.59944000",
+    "longitude": "-103.21778000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 148,
+    "name": "Colonia Capilla de Rayo",
+    "latitude": "20.14806000",
+    "longitude": "-104.34639000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 149,
+    "name": "Colonia Cuisillos",
+    "latitude": "20.72417000",
+    "longitude": "-103.65528000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 150,
+    "name": "Colonia Ganadera",
+    "latitude": "21.15611000",
+    "longitude": "-102.89944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 151,
+    "name": "Colonia Guadalupana",
+    "latitude": "20.56667000",
+    "longitude": "-103.21889000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 152,
+    "name": "Colonia Hatmasie",
+    "latitude": "22.39278000",
+    "longitude": "-103.99111000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 153,
+    "name": "Colonia la Granjena",
+    "latitude": "20.35167000",
+    "longitude": "-102.79639000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 154,
+    "name": "Colonia las Granjas",
+    "latitude": "22.61583000",
+    "longitude": "-103.89639000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 155,
+    "name": "Colonia las Palmas Campamento SAGAR",
+    "latitude": "19.97139000",
+    "longitude": "-105.32389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 156,
+    "name": "Colonia Lázaro Cárdenas",
+    "latitude": "20.42778000",
+    "longitude": "-103.68083000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 157,
+    "name": "Colonia Lázaro Cárdenas del Río",
+    "latitude": "19.98917000",
+    "longitude": "-103.25583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 158,
+    "name": "Colonia Loma Alta",
+    "latitude": "19.44583000",
+    "longitude": "-104.36556000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 159,
+    "name": "Colonia los Robles",
+    "latitude": "20.59194000",
+    "longitude": "-105.21500000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 160,
+    "name": "Colonia los Sauces",
+    "latitude": "20.55028000",
+    "longitude": "-103.35167000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 161,
+    "name": "Colonia Madero",
+    "latitude": "20.07056000",
+    "longitude": "-103.08917000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 162,
+    "name": "Colonia Niños Héroes",
+    "latitude": "20.55917000",
+    "longitude": "-103.43083000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 163,
+    "name": "Colonia Paso del Molino",
+    "latitude": "20.59278000",
+    "longitude": "-105.21833000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 164,
+    "name": "Colonia Pinal Villa",
+    "latitude": "19.23806000",
+    "longitude": "-104.69389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 165,
+    "name": "Colonia Santa Cecilia",
+    "latitude": "21.25250000",
+    "longitude": "-102.35139000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 166,
+    "name": "Colonia Trigomil",
+    "latitude": "19.94222000",
+    "longitude": "-104.24917000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 167,
+    "name": "Colonia Veintitrés de Mayo",
+    "latitude": "21.01000000",
+    "longitude": "-102.19778000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 168,
+    "name": "Colonia Veintiuno de Marzo",
+    "latitude": "22.23710000",
+    "longitude": "-103.08390000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 169,
+    "name": "Colotlán",
+    "latitude": "22.11343000",
+    "longitude": "-103.26664000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 170,
+    "name": "Colotlán Municipality",
+    "latitude": "22.20000000",
+    "longitude": "-103.30000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 171,
+    "name": "Comanja de Corona",
+    "latitude": "21.32520000",
+    "longitude": "-101.71379000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 172,
+    "name": "Concepción de Buenos Aires",
+    "latitude": "19.86666667",
+    "longitude": "-103.15000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 173,
+    "name": "Concepción del Bramador",
+    "latitude": "20.24460000",
+    "longitude": "-105.07807000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 174,
+    "name": "Cópala",
+    "latitude": "19.92333000",
+    "longitude": "-103.74806000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 175,
+    "name": "Copales",
+    "latitude": "20.85278000",
+    "longitude": "-104.74778000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 176,
+    "name": "Corral Blanco",
+    "latitude": "21.56778000",
+    "longitude": "-102.37139000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 177,
+    "name": "Corral de Piedra",
+    "latitude": "21.48333000",
+    "longitude": "-102.11806000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 178,
+    "name": "Corralillos",
+    "latitude": "20.64944000",
+    "longitude": "-102.91056000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 179,
+    "name": "Coyamel",
+    "latitude": "19.49806000",
+    "longitude": "-104.52306000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 180,
+    "name": "Coyula",
+    "latitude": "20.65881000",
+    "longitude": "-103.22654000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 181,
+    "name": "Cristeros Fraccionamiento",
+    "latitude": "21.32111000",
+    "longitude": "-101.97333000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 182,
+    "name": "Cuauhtémoc",
+    "latitude": "19.63306000",
+    "longitude": "-103.92722000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 183,
+    "name": "Cuautitlán",
+    "latitude": "21.73639000",
+    "longitude": "-101.96917000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 184,
+    "name": "Cuautitlán de García Barragán",
+    "latitude": "19.43333333",
+    "longitude": "-104.30000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 185,
+    "name": "Cuautla",
+    "latitude": "20.20139000",
+    "longitude": "-104.40750000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 186,
+    "name": "Cuesta Chica",
+    "latitude": "20.56444000",
+    "longitude": "-102.67167000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 187,
+    "name": "Cuesta de Ovejas",
+    "latitude": "20.55222000",
+    "longitude": "-102.66750000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 188,
+    "name": "Cuexcomatitlán",
+    "latitude": "20.42810000",
+    "longitude": "-103.36189000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 189,
+    "name": "Cuisillos",
+    "latitude": "20.60948000",
+    "longitude": "-103.77441000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 190,
+    "name": "Cuitzeo",
+    "latitude": "20.34278000",
+    "longitude": "-102.78389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 191,
+    "name": "Cuquío",
+    "latitude": "20.92750000",
+    "longitude": "-103.02388889",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 192,
+    "name": "Custique",
+    "latitude": "21.62000000",
+    "longitude": "-102.49111000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 193,
+    "name": "Cuxpala",
+    "latitude": "20.55935000",
+    "longitude": "-103.64510000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 194,
+    "name": "Degollado",
+    "latitude": "20.46702000",
+    "longitude": "-102.14976000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 195,
+    "name": "Dieciocho de Marzo",
+    "latitude": "21.48238000",
+    "longitude": "-101.79880000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 196,
+    "name": "Ejido Agua Zarca",
+    "latitude": "19.83611000",
+    "longitude": "-103.26917000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 197,
+    "name": "Ejido Ciénega de Mora",
+    "latitude": "21.50389000",
+    "longitude": "-102.35000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 198,
+    "name": "Ejido Modelo",
+    "latitude": "19.53750000",
+    "longitude": "-104.51361000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 199,
+    "name": "Ejido Poblado Atenquique",
+    "latitude": "19.56639000",
+    "longitude": "-103.51722000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 200,
+    "name": "Ejido Uno de Febrero",
+    "latitude": "19.81417000",
+    "longitude": "-103.49139000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 201,
+    "name": "Ejutla",
+    "latitude": "19.90000000",
+    "longitude": "-104.15000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 202,
+    "name": "El Agostadero",
+    "latitude": "19.14493000",
+    "longitude": "-103.38721000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 203,
+    "name": "El Aguacate",
+    "latitude": "20.70172000",
+    "longitude": "-103.20799000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 204,
+    "name": "El Alto",
+    "latitude": "20.77472000",
+    "longitude": "-102.49583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 205,
+    "name": "El Amarillo",
+    "latitude": "20.91333000",
+    "longitude": "-103.72500000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 206,
+    "name": "El Amarradero",
+    "latitude": "20.65306000",
+    "longitude": "-102.01278000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 207,
+    "name": "El Arca",
+    "latitude": "20.37167000",
+    "longitude": "-102.17611000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 208,
+    "name": "El Arco Ameca",
+    "latitude": "20.60944000",
+    "longitude": "-104.07333000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 209,
+    "name": "El Arenal",
+    "latitude": "20.77538000",
+    "longitude": "-103.69353000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 210,
+    "name": "El Asoleadero",
+    "latitude": "21.36389000",
+    "longitude": "-102.38222000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 211,
+    "name": "El Bajío",
+    "latitude": "21.37944000",
+    "longitude": "-101.95028000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 212,
+    "name": "El Bajío de Plascencia",
+    "latitude": "20.71583000",
+    "longitude": "-102.79278000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 213,
+    "name": "El Bajío Lomas del Club",
+    "latitude": "20.58361000",
+    "longitude": "-103.29583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 214,
+    "name": "El Banco del Venado",
+    "latitude": "21.85083000",
+    "longitude": "-103.98722000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 215,
+    "name": "El Barrio",
+    "latitude": "21.40056000",
+    "longitude": "-102.55444000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 216,
+    "name": "El Brillante Fraccionamiento",
+    "latitude": "20.55750000",
+    "longitude": "-104.03194000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 217,
+    "name": "El Briseño",
+    "latitude": "20.23889000",
+    "longitude": "-103.59500000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 218,
+    "name": "El Cabezón",
+    "latitude": "20.49569000",
+    "longitude": "-103.95144000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 219,
+    "name": "El Cacalote",
+    "latitude": "19.84417000",
+    "longitude": "-104.28083000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 220,
+    "name": "El Camichín",
+    "latitude": "19.64194000",
+    "longitude": "-104.04452000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 221,
+    "name": "El Cantón",
+    "latitude": "20.74268000",
+    "longitude": "-105.18052000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 222,
+    "name": "El Capulín de Chávez",
+    "latitude": "20.65806000",
+    "longitude": "-102.20583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 223,
+    "name": "El Carmen",
+    "latitude": "21.70111000",
+    "longitude": "-101.99250000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 224,
+    "name": "El Carricillo",
+    "latitude": "20.73000000",
+    "longitude": "-103.03056000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 225,
+    "name": "El Carrizal",
+    "latitude": "19.99750000",
+    "longitude": "-103.38750000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 226,
+    "name": "El Cedazo",
+    "latitude": "20.70583000",
+    "longitude": "-102.69222000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 227,
+    "name": "El Cerrito",
+    "latitude": "19.85394000",
+    "longitude": "-103.93187000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 228,
+    "name": "El Cerro Jalisco",
+    "latitude": "22.18639000",
+    "longitude": "-103.39944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 229,
+    "name": "El Chalate",
+    "latitude": "22.13556000",
+    "longitude": "-104.27944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 230,
+    "name": "El Chante",
+    "latitude": "19.71800000",
+    "longitude": "-104.20025000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 231,
+    "name": "El Chaveño",
+    "latitude": "20.44056000",
+    "longitude": "-102.31333000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 232,
+    "name": "El Chilar",
+    "latitude": "20.83667000",
+    "longitude": "-103.29528000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 233,
+    "name": "El Chispeadero",
+    "latitude": "20.77083000",
+    "longitude": "-102.80000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 234,
+    "name": "El Chivatillo",
+    "latitude": "20.29733000",
+    "longitude": "-103.78934000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 235,
+    "name": "El Coahuayote",
+    "latitude": "19.61028000",
+    "longitude": "-103.35611000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 236,
+    "name": "El Colomo",
+    "latitude": "20.86962000",
+    "longitude": "-105.15597000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 237,
+    "name": "El Colorado",
+    "latitude": "20.77029000",
+    "longitude": "-105.15651000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 238,
+    "name": "El Columpio",
+    "latitude": "20.39861000",
+    "longitude": "-105.31056000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 239,
+    "name": "El Conde",
+    "latitude": "20.38250000",
+    "longitude": "-103.85389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 240,
+    "name": "El Conejo",
+    "latitude": "21.46528000",
+    "longitude": "-101.86944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 241,
+    "name": "El Corcovado",
+    "latitude": "19.84525000",
+    "longitude": "-104.28566000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 242,
+    "name": "El Cortijo",
+    "latitude": "20.46917000",
+    "longitude": "-103.42194000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 243,
+    "name": "El Coyotillo",
+    "latitude": "20.94611000",
+    "longitude": "-103.11250000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 244,
+    "name": "El Crucero",
+    "latitude": "20.73306000",
+    "longitude": "-103.60333000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 245,
+    "name": "El Crucero de Arandas",
+    "latitude": "20.88861000",
+    "longitude": "-102.70972000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 246,
+    "name": "El Crucero de Santa María",
+    "latitude": "20.38398611",
+    "longitude": "-103.86053333",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 247,
+    "name": "El Cuatro",
+    "latitude": "20.85611000",
+    "longitude": "-103.02583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 248,
+    "name": "El Derramadero",
+    "latitude": "21.00417000",
+    "longitude": "-102.97472000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 249,
+    "name": "El Dique",
+    "latitude": "20.45694000",
+    "longitude": "-102.73861000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 250,
+    "name": "El Fraile",
+    "latitude": "22.26646000",
+    "longitude": "-103.23881000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 251,
+    "name": "El Gato",
+    "latitude": "20.60444000",
+    "longitude": "-102.89722000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 252,
+    "name": "El Grullo",
+    "latitude": "19.79388889",
+    "longitude": "-104.20166667",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 253,
+    "name": "El Hollejo",
+    "latitude": "20.63750000",
+    "longitude": "-104.50389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 254,
+    "name": "El Huiroche",
+    "latitude": "21.77722000",
+    "longitude": "-102.00583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 255,
+    "name": "El Jabalí",
+    "latitude": "20.46583000",
+    "longitude": "-102.97528000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 256,
+    "name": "El Jagüey",
+    "latitude": "20.92889000",
+    "longitude": "-103.19611000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 257,
+    "name": "El Jaral",
+    "latitude": "21.17444000",
+    "longitude": "-101.97139000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 258,
+    "name": "El Jaralillo",
+    "latitude": "21.64056000",
+    "longitude": "-102.27278000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 259,
+    "name": "El Jaralito",
+    "latitude": "21.44389000",
+    "longitude": "-101.80556000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 260,
+    "name": "El Jardín",
+    "latitude": "19.77528000",
+    "longitude": "-103.89667000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 261,
+    "name": "El Jazmín",
+    "latitude": "19.65344000",
+    "longitude": "-103.71006000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 262,
+    "name": "El Jomate",
+    "latitude": "21.81278000",
+    "longitude": "-104.16111000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 263,
+    "name": "El Laurel",
+    "latitude": "20.63194000",
+    "longitude": "-102.38889000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 264,
+    "name": "El Lazo",
+    "latitude": "20.79639000",
+    "longitude": "-103.32806000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 265,
+    "name": "El Limón",
+    "latitude": "19.75000000",
+    "longitude": "-104.01666667",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 266,
+    "name": "El Llano de Barajas",
+    "latitude": "20.87583000",
+    "longitude": "-103.03722000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 267,
+    "name": "El Llano de los Toros",
+    "latitude": "19.93500000",
+    "longitude": "-103.00944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 268,
+    "name": "El Llano de Plascencia",
+    "latitude": "20.92889000",
+    "longitude": "-103.09917000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 269,
+    "name": "El Lobo",
+    "latitude": "21.17361000",
+    "longitude": "-101.79361000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 270,
+    "name": "El Lopeño",
+    "latitude": "20.39639000",
+    "longitude": "-102.56139000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 271,
+    "name": "El Loreto Occidental",
+    "latitude": "20.34222000",
+    "longitude": "-102.47093000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 272,
+    "name": "El Macuchi",
+    "latitude": "20.37882000",
+    "longitude": "-104.26388000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 273,
+    "name": "El Maestranzo",
+    "latitude": "20.72444000",
+    "longitude": "-103.14528000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 274,
+    "name": "El Manantial",
+    "latitude": "20.52694000",
+    "longitude": "-103.35750000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 275,
+    "name": "El Mastranzo",
+    "latitude": "20.88917000",
+    "longitude": "-102.39528000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 276,
+    "name": "El Mayoral de Abajo",
+    "latitude": "21.21056000",
+    "longitude": "-102.45222000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 277,
+    "name": "El Medineño",
+    "latitude": "20.86722000",
+    "longitude": "-103.77917000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 278,
+    "name": "El Mentidero",
+    "latitude": "19.77070000",
+    "longitude": "-104.29313000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 279,
+    "name": "El Mesoncito",
+    "latitude": "21.41583000",
+    "longitude": "-101.85250000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 280,
+    "name": "El Mezquite Grande",
+    "latitude": "20.68611000",
+    "longitude": "-103.12583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 281,
+    "name": "El Mirador",
+    "latitude": "21.16722000",
+    "longitude": "-102.87111000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 282,
+    "name": "El Molino",
+    "latitude": "22.01750000",
+    "longitude": "-101.85389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 283,
+    "name": "El Moral",
+    "latitude": "19.92667000",
+    "longitude": "-102.93750000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 284,
+    "name": "El Muey",
+    "latitude": "20.50278000",
+    "longitude": "-103.22083000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 285,
+    "name": "El Nacimiento",
+    "latitude": "20.53828000",
+    "longitude": "-102.55107000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 286,
+    "name": "El Nacimiento de Abajo",
+    "latitude": "20.65361000",
+    "longitude": "-102.28444000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 287,
+    "name": "El Naranjo",
+    "latitude": "20.53417000",
+    "longitude": "-104.06028000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 288,
+    "name": "El Nuevo Poblado",
+    "latitude": "19.52778000",
+    "longitude": "-103.40111000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 289,
+    "name": "El Ocote",
+    "latitude": "20.74028000",
+    "longitude": "-102.51556000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 290,
+    "name": "El Ocotillo",
+    "latitude": "20.60306000",
+    "longitude": "-103.20722000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 291,
+    "name": "El Ojo de Agua",
+    "latitude": "20.66361000",
+    "longitude": "-102.35500000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 292,
+    "name": "El Ojuelo",
+    "latitude": "21.40167000",
+    "longitude": "-101.83750000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 293,
+    "name": "El Olvido",
+    "latitude": "20.96583000",
+    "longitude": "-103.65556000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 294,
+    "name": "El Padre Juan",
+    "latitude": "21.36000000",
+    "longitude": "-102.36583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 295,
+    "name": "El Palmar de San Antonio",
+    "latitude": "19.89083000",
+    "longitude": "-104.03972000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 296,
+    "name": "El Pantano",
+    "latitude": "20.58000000",
+    "longitude": "-104.75472000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 297,
+    "name": "El Paso Real",
+    "latitude": "19.60457000",
+    "longitude": "-103.95977000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 298,
+    "name": "El Pino",
+    "latitude": "20.57667000",
+    "longitude": "-103.39389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 299,
+    "name": "El Plan",
+    "latitude": "20.41836000",
+    "longitude": "-103.60667000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 300,
+    "name": "El Platanar",
+    "latitude": "20.44387000",
+    "longitude": "-103.05006000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 301,
+    "name": "El Pochote",
+    "latitude": "20.81778000",
+    "longitude": "-102.80639000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 302,
+    "name": "El Popote",
+    "latitude": "21.91639000",
+    "longitude": "-104.16972000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 303,
+    "name": "El Portezuelo",
+    "latitude": "20.60004000",
+    "longitude": "-104.04624000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 304,
+    "name": "El Porvenir",
+    "latitude": "20.75379000",
+    "longitude": "-105.24196000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 305,
+    "name": "El Pozo Santo",
+    "latitude": "19.32611000",
+    "longitude": "-103.38611000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 306,
+    "name": "El Pueblito",
+    "latitude": "21.46250000",
+    "longitude": "-102.46056000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 307,
+    "name": "El Puente",
+    "latitude": "21.76389000",
+    "longitude": "-102.02306000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 308,
+    "name": "El Puerto",
+    "latitude": "20.49222000",
+    "longitude": "-103.45944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 309,
+    "name": "El Puerto de Amolero",
+    "latitude": "20.96639000",
+    "longitude": "-102.12889000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 310,
+    "name": "El Puesto",
+    "latitude": "21.62448000",
+    "longitude": "-101.96540000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 311,
+    "name": "El Quemado",
+    "latitude": "20.79639000",
+    "longitude": "-103.42722000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 312,
+    "name": "El Quince",
+    "latitude": "20.54388000",
+    "longitude": "-103.28467000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 313,
+    "name": "El Ranchito",
+    "latitude": "20.07806000",
+    "longitude": "-103.86861000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 314,
+    "name": "El Rayo",
+    "latitude": "19.38083000",
+    "longitude": "-103.16028000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 315,
+    "name": "El Rebalse",
+    "latitude": "19.18750000",
+    "longitude": "-104.59352000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 316,
+    "name": "El Rebalsito de Apazulco",
+    "latitude": "19.30556000",
+    "longitude": "-104.88667000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 317,
+    "name": "El Refugio",
+    "latitude": "20.12231000",
+    "longitude": "-103.14516000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 318,
+    "name": "El Refugio de los Altos",
+    "latitude": "20.63083000",
+    "longitude": "-102.57944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 319,
+    "name": "El Refugio de Vázquez",
+    "latitude": "20.39806000",
+    "longitude": "-102.19306000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 320,
+    "name": "El Refugio Jalisco",
+    "latitude": "20.11670000",
+    "longitude": "-103.13300000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 321,
+    "name": "El Refugio Suchitlán",
+    "latitude": "20.44333000",
+    "longitude": "-105.54583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 322,
+    "name": "El Reparo",
+    "latitude": "21.79028000",
+    "longitude": "-102.04944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 323,
+    "name": "El Rincón",
+    "latitude": "19.34083000",
+    "longitude": "-103.08972000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 324,
+    "name": "El Rodeo",
+    "latitude": "19.58194000",
+    "longitude": "-103.18611000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 325,
+    "name": "El Rodeo Viejo",
+    "latitude": "20.20417000",
+    "longitude": "-103.86500000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 326,
+    "name": "El Romereño",
+    "latitude": "20.38083000",
+    "longitude": "-102.94944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 327,
+    "name": "El Rosario",
+    "latitude": "21.04528000",
+    "longitude": "-102.58944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 328,
+    "name": "El Sabino",
+    "latitude": "22.61528000",
+    "longitude": "-103.90389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 329,
+    "name": "El Sacrificio",
+    "latitude": "20.40806000",
+    "longitude": "-103.19667000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 330,
+    "name": "El Salero",
+    "latitude": "20.76250000",
+    "longitude": "-102.50917000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 331,
+    "name": "El Salitre",
+    "latitude": "20.51000000",
+    "longitude": "-103.85800000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 332,
+    "name": "El Salto",
+    "latitude": "20.33333000",
+    "longitude": "-104.50000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 333,
+    "name": "El Salto de las Peñas",
+    "latitude": "20.65250000",
+    "longitude": "-103.04222000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 334,
+    "name": "El Salto de San Antonio",
+    "latitude": "21.17833000",
+    "longitude": "-101.82389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 335,
+    "name": "El Salto Municipality",
+    "latitude": "20.51666667",
+    "longitude": "-103.18333333",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 336,
+    "name": "El Salvador",
+    "latitude": "21.01659000",
+    "longitude": "-103.71568000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 337,
+    "name": "El Salvial",
+    "latitude": "20.83917000",
+    "longitude": "-103.26306000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 338,
+    "name": "El Saucillo",
+    "latitude": "20.31389000",
+    "longitude": "-103.91333000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 339,
+    "name": "El Saucillo de los Pérez",
+    "latitude": "22.02861000",
+    "longitude": "-103.23444000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 340,
+    "name": "El Saucito",
+    "latitude": "20.73194000",
+    "longitude": "-102.50889000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 341,
+    "name": "El Sauz de Ibarra",
+    "latitude": "21.33083000",
+    "longitude": "-102.23222000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 342,
+    "name": "El Seminario",
+    "latitude": "21.27333000",
+    "longitude": "-102.30806000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 343,
+    "name": "El Sitio",
+    "latitude": "21.33306000",
+    "longitude": "-102.04056000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 344,
+    "name": "El Sopial",
+    "latitude": "20.58278000",
+    "longitude": "-102.62806000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 345,
+    "name": "El Soyate",
+    "latitude": "21.50667000",
+    "longitude": "-101.89250000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 346,
+    "name": "El Tablero",
+    "latitude": "21.47472000",
+    "longitude": "-102.41639000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 347,
+    "name": "El Taray",
+    "latitude": "19.62361000",
+    "longitude": "-103.26806000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 348,
+    "name": "El Tarengo Nuevo",
+    "latitude": "20.43121000",
+    "longitude": "-102.49508000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 349,
+    "name": "El Tecolote",
+    "latitude": "21.20056000",
+    "longitude": "-102.24583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 350,
+    "name": "El Tecuán",
+    "latitude": "20.31389000",
+    "longitude": "-103.73083000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 351,
+    "name": "El Tempisque",
+    "latitude": "20.77861000",
+    "longitude": "-103.32667000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 352,
+    "name": "El Tepame",
+    "latitude": "20.56972000",
+    "longitude": "-103.19444000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 353,
+    "name": "El Tepec",
+    "latitude": "21.84111000",
+    "longitude": "-103.77389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 354,
+    "name": "El Tepetate",
+    "latitude": "21.06472000",
+    "longitude": "-103.77333000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 355,
+    "name": "El Tepozán",
+    "latitude": "20.79194000",
+    "longitude": "-102.52917000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 356,
+    "name": "El Tequesquite",
+    "latitude": "20.06613000",
+    "longitude": "-105.30064000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 357,
+    "name": "El Terrerito de Sevilla",
+    "latitude": "20.45417000",
+    "longitude": "-102.08000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 358,
+    "name": "El Terrero",
+    "latitude": "19.29917000",
+    "longitude": "-102.87806000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 359,
+    "name": "El Torque",
+    "latitude": "21.37056000",
+    "longitude": "-102.36667000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 360,
+    "name": "El Torreón",
+    "latitude": "21.78583000",
+    "longitude": "-102.00139000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 361,
+    "name": "El Tuito",
+    "latitude": "20.32042000",
+    "longitude": "-105.32469000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 362,
+    "name": "El Tule",
+    "latitude": "20.71667000",
+    "longitude": "-102.44083000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 363,
+    "name": "El Tulillo",
+    "latitude": "21.20472000",
+    "longitude": "-102.90222000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 364,
+    "name": "El Uvalano",
+    "latitude": "20.43861000",
+    "longitude": "-102.79028000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 365,
+    "name": "El Verde",
+    "latitude": "20.55567000",
+    "longitude": "-103.27901000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 366,
+    "name": "El Vergel",
+    "latitude": "21.62139000",
+    "longitude": "-102.30639000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 367,
+    "name": "El Vigía",
+    "latitude": "19.50417000",
+    "longitude": "-104.29639000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 368,
+    "name": "El Zancudo",
+    "latitude": "20.77972000",
+    "longitude": "-105.15333000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 369,
+    "name": "El Zapatero",
+    "latitude": "19.86778000",
+    "longitude": "-103.07556000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 370,
+    "name": "El Zapote",
+    "latitude": "21.11257000",
+    "longitude": "-102.80555000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 371,
+    "name": "El Zapote de Chávez",
+    "latitude": "20.21972000",
+    "longitude": "-104.32639000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 372,
+    "name": "El Zapotillo",
+    "latitude": "19.96611000",
+    "longitude": "-104.39889000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 373,
+    "name": "Emiliano Zapata",
+    "latitude": "19.24278000",
+    "longitude": "-104.71778000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 374,
+    "name": "Emiliano Zapata Jalisco",
+    "latitude": "19.38305556",
+    "longitude": "-104.96583333",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 375,
+    "name": "Encarnación de Díaz",
+    "latitude": "21.51666667",
+    "longitude": "-102.23333333",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 376,
+    "name": "Epeche Chico",
+    "latitude": "19.93917000",
+    "longitude": "-103.01972000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 377,
+    "name": "Epeche Grande",
+    "latitude": "19.92333000",
+    "longitude": "-103.10667000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 378,
+    "name": "Estancia de San Nicolás",
+    "latitude": "20.38417000",
+    "longitude": "-102.83750000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 379,
+    "name": "Estancia Vieja de Arriba",
+    "latitude": "21.16722000",
+    "longitude": "-102.32389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 380,
+    "name": "Estanzuela",
+    "latitude": "20.52306000",
+    "longitude": "-104.34000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 381,
+    "name": "Estipa",
+    "latitude": "20.36199000",
+    "longitude": "-103.72345000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 382,
+    "name": "Etzatlán",
+    "latitude": "20.76666667",
+    "longitude": "-104.08333333",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 383,
+    "name": "Ferrería de Tula",
+    "latitude": "20.06529000",
+    "longitude": "-103.72980000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 384,
+    "name": "Francisco I. Madero",
+    "latitude": "19.56000000",
+    "longitude": "-104.55917000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 385,
+    "name": "Francisco Primo de Verdad",
+    "latitude": "21.74472000",
+    "longitude": "-101.82611000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 386,
+    "name": "Galaxia Bonito Jalisco",
+    "latitude": "20.50500000",
+    "longitude": "-103.20472000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 387,
+    "name": "Galaxia la Noria",
+    "latitude": "20.45722000",
+    "longitude": "-103.41889000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 388,
+    "name": "Gargantillo",
+    "latitude": "20.01747000",
+    "longitude": "-105.34619000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 389,
+    "name": "General Andrés Figueroa",
+    "latitude": "20.30396000",
+    "longitude": "-103.60923000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 390,
+    "name": "General Gabriel Leyva",
+    "latitude": "20.42889000",
+    "longitude": "-102.47111000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 391,
+    "name": "Geovillas Laureles del Campanario",
+    "latitude": "21.33056000",
+    "longitude": "-101.92361000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 392,
+    "name": "Getsemaní",
+    "latitude": "20.72778000",
+    "longitude": "-105.20639000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 393,
+    "name": "Gómez Farías",
+    "latitude": "19.80000000",
+    "longitude": "-103.48333333",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 394,
+    "name": "Granadillas",
+    "latitude": "21.37972000",
+    "longitude": "-101.90139000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 395,
+    "name": "Guachinango",
+    "latitude": "20.56700000",
+    "longitude": "-104.36700000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 396,
+    "name": "Guadalajara",
+    "latitude": "20.67666667",
+    "longitude": "-103.34750000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 397,
+    "name": "Guadalupe de Lerma",
+    "latitude": "20.34077000",
+    "longitude": "-102.36090000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 398,
+    "name": "Guadalupe Victoria",
+    "latitude": "21.70106000",
+    "longitude": "-101.61778000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 399,
+    "name": "Guamuchilillo",
+    "latitude": "22.05028000",
+    "longitude": "-104.31583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 400,
+    "name": "Guayabitos",
+    "latitude": "20.42611000",
+    "longitude": "-104.73111000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 401,
+    "name": "Hacienda de la Labor",
+    "latitude": "20.31639000",
+    "longitude": "-103.17333000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 402,
+    "name": "Hacienda los Fresnos",
+    "latitude": "20.51944000",
+    "longitude": "-103.39306000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 403,
+    "name": "Hacienda Santa Fe",
+    "latitude": "20.51806000",
+    "longitude": "-103.38056000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 404,
+    "name": "Hacienda Vieja",
+    "latitude": "19.60083000",
+    "longitude": "-103.21444000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 405,
+    "name": "Hacienda Vieja del Castillo",
+    "latitude": "20.54000000",
+    "longitude": "-103.24417000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 406,
+    "name": "Haciendas la Herradura",
+    "latitude": "20.77250000",
+    "longitude": "-103.60861000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 407,
+    "name": "Hierba de Matancillas",
+    "latitude": "21.86528000",
+    "longitude": "-101.67333000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 408,
+    "name": "Higueras San Miguel",
+    "latitude": "19.59472000",
+    "longitude": "-103.17944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 409,
+    "name": "Higuerillas",
+    "latitude": "20.76083000",
+    "longitude": "-102.47417000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 410,
+    "name": "Hostotipaquillo",
+    "latitude": "21.06035000",
+    "longitude": "-104.05091000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 411,
+    "name": "Huajacatlán",
+    "latitude": "21.04444000",
+    "longitude": "-103.95222000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 412,
+    "name": "Huascato",
+    "latitude": "20.47951000",
+    "longitude": "-102.24806000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 413,
+    "name": "Huaxtla",
+    "latitude": "20.73179000",
+    "longitude": "-103.66291000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 414,
+    "name": "Huejotitán",
+    "latitude": "20.35524000",
+    "longitude": "-103.48742000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 415,
+    "name": "Huejotitlán",
+    "latitude": "20.65694000",
+    "longitude": "-103.04222000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 416,
+    "name": "Huejúcar",
+    "latitude": "22.33409000",
+    "longitude": "-103.25253000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 417,
+    "name": "Huejuquilla El Alto",
+    "latitude": "22.61666667",
+    "longitude": "-103.88333333",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 418,
+    "name": "Huertas Familiares San Pedro",
+    "latitude": "21.32750000",
+    "longitude": "-101.97444000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 419,
+    "name": "Huisichi",
+    "latitude": "19.56611000",
+    "longitude": "-103.86556000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 420,
+    "name": "Huitzometl",
+    "latitude": "19.51000000",
+    "longitude": "-103.75250000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 421,
+    "name": "Huizaches",
+    "latitude": "19.17167000",
+    "longitude": "-103.49000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 422,
+    "name": "Ipazoltic",
+    "latitude": "20.43330000",
+    "longitude": "-103.98300000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 423,
+    "name": "Iprovipe I",
+    "latitude": "20.88639000",
+    "longitude": "-103.82444000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 424,
+    "name": "Ixtapa",
+    "latitude": "20.71623000",
+    "longitude": "-105.20408000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 425,
+    "name": "Ixtlahuacán de los Membrillos",
+    "latitude": "20.34666667",
+    "longitude": "-103.19138889",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 426,
+    "name": "Ixtlahuacán del Río",
+    "latitude": "20.86666667",
+    "longitude": "-103.25000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 427,
+    "name": "Izolta",
+    "latitude": "22.01000000",
+    "longitude": "-103.74639000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 428,
+    "name": "J. Isabel Flores",
+    "latitude": "20.63750000",
+    "longitude": "-103.07806000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 429,
+    "name": "Jalostotitlan",
+    "latitude": "21.16741000",
+    "longitude": "-102.46386000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 430,
+    "name": "Jaluco",
+    "latitude": "19.23089000",
+    "longitude": "-104.68527000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 431,
+    "name": "Jamay",
+    "latitude": "20.29444444",
+    "longitude": "-102.70972222",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 432,
+    "name": "Jardines de San Sebastián",
+    "latitude": "20.51889000",
+    "longitude": "-103.42222000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 433,
+    "name": "Jardines del Edén",
+    "latitude": "20.53250000",
+    "longitude": "-103.36278000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 434,
+    "name": "Jaritas",
+    "latitude": "21.31167000",
+    "longitude": "-101.99750000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 435,
+    "name": "Jesús María",
+    "latitude": "20.66666667",
+    "longitude": "-103.35027778",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 436,
+    "name": "Jesús María Nayarit",
+    "latitude": "20.66667000",
+    "longitude": "-104.26670000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 437,
+    "name": "Jilotlán de los Dolores",
+    "latitude": "19.37083333",
+    "longitude": "-103.01972222",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 438,
+    "name": "Jiquilpan",
+    "latitude": "19.77889000",
+    "longitude": "-103.77895000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 439,
+    "name": "Joconoxtle",
+    "latitude": "20.45222000",
+    "longitude": "-102.67639000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 440,
+    "name": "Jocotepec",
+    "latitude": "20.16666667",
+    "longitude": "-103.28333333",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 441,
+    "name": "José de Jesús Aguirre Teocaltiche",
+    "latitude": "21.52167000",
+    "longitude": "-102.47139000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 442,
+    "name": "José María Pino Suárez",
+    "latitude": "19.94889000",
+    "longitude": "-105.32778000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 443,
+    "name": "Josefa Ortíz de Domínguez",
+    "latitude": "20.90000000",
+    "longitude": "-103.83306000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 444,
+    "name": "Juan Gil Preciado",
+    "latitude": "20.37269000",
+    "longitude": "-103.72752000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 445,
+    "name": "Juanacatlán",
+    "latitude": "20.50000000",
+    "longitude": "-103.16666667",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 446,
+    "name": "La Alameda",
+    "latitude": "20.49528000",
+    "longitude": "-103.24833000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 447,
+    "name": "La Aldaba",
+    "latitude": "19.74964000",
+    "longitude": "-104.23306000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 448,
+    "name": "La Angostura de los Altos",
+    "latitude": "20.56194000",
+    "longitude": "-102.43500000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 449,
+    "name": "La Arbolada Plus",
+    "latitude": "20.53694000",
+    "longitude": "-103.36389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 450,
+    "name": "La Barca",
+    "latitude": "20.28333333",
+    "longitude": "-102.56666667",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 451,
+    "name": "La Barranca",
+    "latitude": "20.51639000",
+    "longitude": "-103.07306000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 452,
+    "name": "La Calera",
+    "latitude": "21.49694000",
+    "longitude": "-102.58556000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 453,
+    "name": "La Calera Fraccionamiento",
+    "latitude": "21.26889000",
+    "longitude": "-102.33778000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 454,
+    "name": "La Cañada",
+    "latitude": "20.48222000",
+    "longitude": "-102.94306000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 455,
+    "name": "La Cañada Tezcaltilti",
+    "latitude": "20.01167000",
+    "longitude": "-103.71278000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 456,
+    "name": "La Cantera",
+    "latitude": "21.34333000",
+    "longitude": "-102.01972000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 457,
+    "name": "La Cebadilla",
+    "latitude": "20.89028000",
+    "longitude": "-102.74250000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 458,
+    "name": "La Ceja de la Capilla",
+    "latitude": "20.73583000",
+    "longitude": "-102.41833000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 459,
+    "name": "La Cerca Blanca",
+    "latitude": "21.15806000",
+    "longitude": "-102.88361000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 460,
+    "name": "La Ciénega",
+    "latitude": "20.66056000",
+    "longitude": "-102.71333000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 461,
+    "name": "La Ciénega de Huaistita",
+    "latitude": "22.06306000",
+    "longitude": "-104.32583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 462,
+    "name": "La Cieneguita",
+    "latitude": "20.75611000",
+    "longitude": "-102.29944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 463,
+    "name": "La Cofradía",
+    "latitude": "22.61361000",
+    "longitude": "-103.92417000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 464,
+    "name": "La Cofradía del Rosario",
+    "latitude": "19.88861000",
+    "longitude": "-103.72444000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 465,
+    "name": "La Colonia San Juanito",
+    "latitude": "21.19361000",
+    "longitude": "-102.90472000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 466,
+    "name": "La Concepción",
+    "latitude": "20.35171000",
+    "longitude": "-102.32959000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 467,
+    "name": "La Conchilla",
+    "latitude": "20.90528000",
+    "longitude": "-103.73861000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 468,
+    "name": "La Conchita",
+    "latitude": "19.49972000",
+    "longitude": "-104.56139000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 469,
+    "name": "La Constancia",
+    "latitude": "20.40333000",
+    "longitude": "-102.98361000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 470,
+    "name": "La Cruz",
+    "latitude": "20.25083000",
+    "longitude": "-103.59111000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 471,
+    "name": "La Cruz de Loreto",
+    "latitude": "20.00755000",
+    "longitude": "-105.45508000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 472,
+    "name": "La Cuchilla",
+    "latitude": "20.78000000",
+    "longitude": "-103.46222000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 473,
+    "name": "La Cuesta de Medina",
+    "latitude": "21.22583000",
+    "longitude": "-102.33056000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 474,
+    "name": "La Cueva",
+    "latitude": "21.24056000",
+    "longitude": "-102.59444000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 475,
+    "name": "La Estacada",
+    "latitude": "19.93528000",
+    "longitude": "-103.03472000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 476,
+    "name": "La Estancia",
+    "latitude": "21.04694000",
+    "longitude": "-102.84167000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 477,
+    "name": "La Estancia de Arriba",
+    "latitude": "22.61972000",
+    "longitude": "-103.90861000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 478,
+    "name": "La Estancia de Ayones",
+    "latitude": "20.88220000",
+    "longitude": "-104.08717000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 479,
+    "name": "La Estancia de Navarro",
+    "latitude": "20.54917000",
+    "longitude": "-102.60944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 480,
+    "name": "La Estancita",
+    "latitude": "20.56722000",
+    "longitude": "-104.01083000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 481,
+    "name": "La Estanzuela",
+    "latitude": "20.66892000",
+    "longitude": "-103.82609000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 482,
+    "name": "La Floreña",
+    "latitude": "20.46750000",
+    "longitude": "-102.73500000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 483,
+    "name": "La Fortuna Fraccionamiento",
+    "latitude": "20.48472000",
+    "longitude": "-103.39583000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 484,
+    "name": "La Frontera",
+    "latitude": "19.96083000",
+    "longitude": "-103.71139000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 485,
+    "name": "La Garita Jalisco",
+    "latitude": "19.76666667",
+    "longitude": "-103.11666667",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 486,
+    "name": "La Garruña",
+    "latitude": "20.95556000",
+    "longitude": "-103.13944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 487,
+    "name": "La Gila",
+    "latitude": "20.61444000",
+    "longitude": "-102.20472000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 488,
+    "name": "La Gloria",
+    "latitude": "20.61222000",
+    "longitude": "-102.38389000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 489,
+    "name": "La Granjena",
+    "latitude": "20.70694000",
+    "longitude": "-102.44361000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 490,
+    "name": "La Guadalupe",
+    "latitude": "19.73556000",
+    "longitude": "-103.78083000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 491,
+    "name": "La Guásima",
+    "latitude": "22.11889000",
+    "longitude": "-103.74111000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 492,
+    "name": "La Hermosura",
+    "latitude": "20.11333000",
+    "longitude": "-103.60139000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 493,
+    "name": "La Higuera",
+    "latitude": "19.42358000",
+    "longitude": "-103.40955000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 494,
+    "name": "La Huerta",
+    "latitude": "19.48444444",
+    "longitude": "-104.64388889",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 495,
+    "name": "La Huevera",
+    "latitude": "19.88917000",
+    "longitude": "-103.12000000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 496,
+    "name": "La Isla",
+    "latitude": "21.39472000",
+    "longitude": "-101.92278000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 497,
+    "name": "La Jarrilla",
+    "latitude": "21.05444000",
+    "longitude": "-102.95417000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 498,
+    "name": "La Joya",
+    "latitude": "19.94472000",
+    "longitude": "-102.86944000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  },
+  {
+    "id": 499,
+    "name": "La Joya Chica",
+    "latitude": "20.71021000",
+    "longitude": "-103.00250000",
+    "stateId": 4857,
+    "stateCode": "JAL",
+    "countryCode": "MX"
+  }
+]

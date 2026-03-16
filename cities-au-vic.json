@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "name": "Abbotsford",
+    "latitude": "-37.80000000",
+    "longitude": "145.00000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 1,
+    "name": "Aberfeldie",
+    "latitude": "-37.75959000",
+    "longitude": "144.89740000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 2,
+    "name": "Airport West",
+    "latitude": "-37.72470000",
+    "longitude": "144.88126000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 3,
+    "name": "Albanvale",
+    "latitude": "-37.74609000",
+    "longitude": "144.76856000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 4,
+    "name": "Albert Park",
+    "latitude": "-37.84107000",
+    "longitude": "144.95198000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 5,
+    "name": "Albion",
+    "latitude": "-37.78017000",
+    "longitude": "144.81724000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 6,
+    "name": "Alexandra",
+    "latitude": "-37.19132000",
+    "longitude": "145.71120000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 7,
+    "name": "Alfredton",
+    "latitude": "-37.56667000",
+    "longitude": "143.81667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 8,
+    "name": "Allansford",
+    "latitude": "-38.38639000",
+    "longitude": "142.59431000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 9,
+    "name": "Alphington",
+    "latitude": "-37.78333000",
+    "longitude": "145.03333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 10,
+    "name": "Alpine",
+    "latitude": "-36.83412000",
+    "longitude": "146.97936000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 11,
+    "name": "Altona",
+    "latitude": "-37.86964000",
+    "longitude": "144.83036000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 12,
+    "name": "Altona Meadows",
+    "latitude": "-37.88413000",
+    "longitude": "144.78367000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 13,
+    "name": "Altona North",
+    "latitude": "-37.83487000",
+    "longitude": "144.84735000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 14,
+    "name": "Anglesea",
+    "latitude": "-38.40730000",
+    "longitude": "144.18587000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 15,
+    "name": "Apollo Bay",
+    "latitude": "-38.75940000",
+    "longitude": "143.67219000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 16,
+    "name": "Ararat",
+    "latitude": "-37.48925000",
+    "longitude": "142.82239000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 17,
+    "name": "Ardeer",
+    "latitude": "-37.77586000",
+    "longitude": "144.80144000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 18,
+    "name": "Armadale",
+    "latitude": "-37.85544000",
+    "longitude": "145.02052000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 19,
+    "name": "Armstrong Creek",
+    "latitude": "-38.23121000",
+    "longitude": "144.37374000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 20,
+    "name": "Ascot",
+    "latitude": "-36.70000000",
+    "longitude": "144.33333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 21,
+    "name": "Ascot Vale",
+    "latitude": "-37.77988000",
+    "longitude": "144.92276000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 22,
+    "name": "Ashburton",
+    "latitude": "-37.86667000",
+    "longitude": "145.08333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 23,
+    "name": "Ashwood",
+    "latitude": "-37.86659000",
+    "longitude": "145.10553000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 24,
+    "name": "Aspendale",
+    "latitude": "-38.02913000",
+    "longitude": "145.10266000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 25,
+    "name": "Aspendale Gardens",
+    "latitude": "-38.02277000",
+    "longitude": "145.11798000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 26,
+    "name": "Attwood",
+    "latitude": "-37.66955000",
+    "longitude": "144.88675000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 27,
+    "name": "Avenel",
+    "latitude": "-36.90088000",
+    "longitude": "145.23367000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 28,
+    "name": "Avoca",
+    "latitude": "-37.09044000",
+    "longitude": "143.47365000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 29,
+    "name": "Avondale Heights",
+    "latitude": "-37.76155000",
+    "longitude": "144.86261000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 30,
+    "name": "Bacchus Marsh",
+    "latitude": "-37.67268000",
+    "longitude": "144.43829000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 31,
+    "name": "Badger Creek",
+    "latitude": "-37.70000000",
+    "longitude": "145.51667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 32,
+    "name": "Bairnsdale",
+    "latitude": "-37.82289000",
+    "longitude": "147.61041000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 33,
+    "name": "Balaclava",
+    "latitude": "-37.86667000",
+    "longitude": "145.00000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 34,
+    "name": "Ballan",
+    "latitude": "-37.59987000",
+    "longitude": "144.22890000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 35,
+    "name": "Ballarat",
+    "latitude": "-37.56622000",
+    "longitude": "143.84957000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 36,
+    "name": "Ballarat Central",
+    "latitude": "-37.56206000",
+    "longitude": "143.85082000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 37,
+    "name": "Ballarat East",
+    "latitude": "-37.56667000",
+    "longitude": "143.86667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 38,
+    "name": "Ballarat North",
+    "latitude": "-37.51884000",
+    "longitude": "143.77284000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 39,
+    "name": "Balnarring",
+    "latitude": "-38.36667000",
+    "longitude": "145.13333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 40,
+    "name": "Balwyn",
+    "latitude": "-37.80914000",
+    "longitude": "145.07890000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 41,
+    "name": "Balwyn North",
+    "latitude": "-37.79086000",
+    "longitude": "145.09386000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 42,
+    "name": "Bannockburn",
+    "latitude": "-38.04894000",
+    "longitude": "144.16882000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 43,
+    "name": "Banyule",
+    "latitude": "-37.73386000",
+    "longitude": "145.08576000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 44,
+    "name": "Baranduda",
+    "latitude": "-36.19114000",
+    "longitude": "146.95380000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 45,
+    "name": "Barwon Heads",
+    "latitude": "-38.27448000",
+    "longitude": "144.48853000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 46,
+    "name": "Bass Coast",
+    "latitude": "-38.48507000",
+    "longitude": "145.46390000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 47,
+    "name": "Baw Baw",
+    "latitude": "-37.96998000",
+    "longitude": "146.14404000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 48,
+    "name": "Baxter",
+    "latitude": "-38.20000000",
+    "longitude": "145.15000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 49,
+    "name": "Bayside",
+    "latitude": "-37.93986000",
+    "longitude": "145.01932000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 50,
+    "name": "Bayswater",
+    "latitude": "-37.85000000",
+    "longitude": "145.26667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 51,
+    "name": "Bayswater North",
+    "latitude": "-37.82612000",
+    "longitude": "145.29831000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 52,
+    "name": "Beaconsfield",
+    "latitude": "-38.05000000",
+    "longitude": "145.36667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 53,
+    "name": "Beaconsfield Upper",
+    "latitude": "-37.99415000",
+    "longitude": "145.41420000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 54,
+    "name": "Beaufort",
+    "latitude": "-37.42996000",
+    "longitude": "143.38347000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 55,
+    "name": "Beaumaris",
+    "latitude": "-37.98534000",
+    "longitude": "145.03361000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 56,
+    "name": "Beechworth",
+    "latitude": "-36.35828000",
+    "longitude": "146.68584000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 57,
+    "name": "Belgrave",
+    "latitude": "-37.91093000",
+    "longitude": "145.35359000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 58,
+    "name": "Belgrave Heights",
+    "latitude": "-37.92624000",
+    "longitude": "145.34367000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 59,
+    "name": "Belgrave South",
+    "latitude": "-37.93333000",
+    "longitude": "145.33333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 60,
+    "name": "Bell Park",
+    "latitude": "-38.10793000",
+    "longitude": "144.33839000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 61,
+    "name": "Bell Post Hill",
+    "latitude": "-38.09564000",
+    "longitude": "144.31968000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 62,
+    "name": "Bellfield",
+    "latitude": "-37.75309000",
+    "longitude": "145.03848000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 63,
+    "name": "Belmont",
+    "latitude": "-38.17485000",
+    "longitude": "144.34276000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 64,
+    "name": "Benalla",
+    "latitude": "-36.59041000",
+    "longitude": "146.02812000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 65,
+    "name": "Bendigo",
+    "latitude": "-36.75818000",
+    "longitude": "144.28024000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 66,
+    "name": "Bendigo city centre",
+    "latitude": "-36.75698000",
+    "longitude": "144.27957000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 67,
+    "name": "Bentleigh",
+    "latitude": "-37.91806000",
+    "longitude": "145.03544000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 68,
+    "name": "Bentleigh East",
+    "latitude": "-37.91928000",
+    "longitude": "145.05301000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 69,
+    "name": "Berwick",
+    "latitude": "-38.03333000",
+    "longitude": "145.35000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 70,
+    "name": "Beveridge",
+    "latitude": "-37.48333000",
+    "longitude": "144.98333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 71,
+    "name": "Bittern",
+    "latitude": "-38.33333000",
+    "longitude": "145.16667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 72,
+    "name": "Black Hill",
+    "latitude": "-37.55000000",
+    "longitude": "143.86667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 73,
+    "name": "Black Rock",
+    "latitude": "-37.97357000",
+    "longitude": "145.01636000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 74,
+    "name": "Blackburn",
+    "latitude": "-37.81901000",
+    "longitude": "145.15326000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 75,
+    "name": "Blackburn North",
+    "latitude": "-37.80931000",
+    "longitude": "145.15180000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 76,
+    "name": "Blackburn South",
+    "latitude": "-37.83975000",
+    "longitude": "145.15549000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 77,
+    "name": "Blairgowrie",
+    "latitude": "-38.36131000",
+    "longitude": "144.77955000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 78,
+    "name": "Blind Bight",
+    "latitude": "-38.21427000",
+    "longitude": "145.33770000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 79,
+    "name": "Bonbeach",
+    "latitude": "-38.06528000",
+    "longitude": "145.12278000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 80,
+    "name": "Boronia",
+    "latitude": "-37.86667000",
+    "longitude": "145.28333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 81,
+    "name": "Boroondara",
+    "latitude": "-37.82640000",
+    "longitude": "145.05299000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 82,
+    "name": "Botanic Ridge",
+    "latitude": "-38.13922000",
+    "longitude": "145.26841000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 83,
+    "name": "Box Hill",
+    "latitude": "-37.81887000",
+    "longitude": "145.12545000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 84,
+    "name": "Box Hill North",
+    "latitude": "-37.80266000",
+    "longitude": "145.12656000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 85,
+    "name": "Box Hill South",
+    "latitude": "-37.83236000",
+    "longitude": "145.12098000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 86,
+    "name": "Braybrook",
+    "latitude": "-37.78671000",
+    "longitude": "144.85484000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 87,
+    "name": "Briagolong",
+    "latitude": "-37.84356000",
+    "longitude": "147.07268000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 88,
+    "name": "Briar Hill",
+    "latitude": "-37.70631000",
+    "longitude": "145.12100000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 89,
+    "name": "Bright",
+    "latitude": "-36.72998000",
+    "longitude": "146.95978000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 90,
+    "name": "Brighton",
+    "latitude": "-37.90561000",
+    "longitude": "145.00279000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 91,
+    "name": "Brighton East",
+    "latitude": "-37.90232000",
+    "longitude": "145.01734000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 92,
+    "name": "Brimbank",
+    "latitude": "-37.74287000",
+    "longitude": "144.81644000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 93,
+    "name": "Broadford",
+    "latitude": "-37.20276000",
+    "longitude": "145.04837000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 94,
+    "name": "Broadmeadows",
+    "latitude": "-37.68015000",
+    "longitude": "144.91877000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 95,
+    "name": "Brookfield",
+    "latitude": "-37.70080000",
+    "longitude": "144.56025000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 96,
+    "name": "Brooklyn",
+    "latitude": "-37.81609000",
+    "longitude": "144.84150000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 97,
+    "name": "Brown Hill",
+    "latitude": "-37.54654000",
+    "longitude": "143.91553000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 98,
+    "name": "Brunswick",
+    "latitude": "-37.76667000",
+    "longitude": "144.96667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 99,
+    "name": "Brunswick East",
+    "latitude": "-37.77255000",
+    "longitude": "144.97241000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 100,
+    "name": "Brunswick West",
+    "latitude": "-37.76461000",
+    "longitude": "144.94383000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 101,
+    "name": "Bulleen",
+    "latitude": "-37.76667000",
+    "longitude": "145.08333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 102,
+    "name": "Buloke",
+    "latitude": "-35.84638000",
+    "longitude": "143.05201000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 103,
+    "name": "Bundoora",
+    "latitude": "-37.69825000",
+    "longitude": "145.05967000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 104,
+    "name": "Buninyong",
+    "latitude": "-37.65019000",
+    "longitude": "143.88388000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 105,
+    "name": "Bunyip",
+    "latitude": "-38.09789000",
+    "longitude": "145.71606000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 106,
+    "name": "Burnside",
+    "latitude": "-37.74937000",
+    "longitude": "144.75301000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 107,
+    "name": "Burnside Heights",
+    "latitude": "-37.72691000",
+    "longitude": "144.75225000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 108,
+    "name": "Burwood",
+    "latitude": "-37.84978000",
+    "longitude": "145.11901000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 109,
+    "name": "Burwood East",
+    "latitude": "-37.85000000",
+    "longitude": "145.15000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 110,
+    "name": "Cairnlea",
+    "latitude": "-37.75931000",
+    "longitude": "144.78781000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 111,
+    "name": "California Gully",
+    "latitude": "-36.72887000",
+    "longitude": "144.26089000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 112,
+    "name": "Camberwell",
+    "latitude": "-37.84205000",
+    "longitude": "145.06940000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 113,
+    "name": "Campaspe",
+    "latitude": "-36.32338000",
+    "longitude": "144.70844000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 114,
+    "name": "Campbellfield",
+    "latitude": "-37.66386000",
+    "longitude": "144.95953000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 115,
+    "name": "Campbells Creek",
+    "latitude": "-37.08665000",
+    "longitude": "144.20203000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 116,
+    "name": "Camperdown",
+    "latitude": "-38.23392000",
+    "longitude": "143.14983000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 117,
+    "name": "Canadian",
+    "latitude": "-37.57606000",
+    "longitude": "143.87742000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 118,
+    "name": "Canterbury",
+    "latitude": "-37.82470000",
+    "longitude": "145.08476000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 119,
+    "name": "Cape Woolamai",
+    "latitude": "-38.54285000",
+    "longitude": "145.34407000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 120,
+    "name": "Cardinia",
+    "latitude": "-38.09508000",
+    "longitude": "145.56455000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 121,
+    "name": "Carisbrook",
+    "latitude": "-37.04808000",
+    "longitude": "143.81665000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 122,
+    "name": "Carlton",
+    "latitude": "-37.80000000",
+    "longitude": "144.96667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 123,
+    "name": "Carlton North",
+    "latitude": "-37.78818000",
+    "longitude": "144.97014000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 124,
+    "name": "Carnegie",
+    "latitude": "-37.89359000",
+    "longitude": "145.05534000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 125,
+    "name": "Caroline Springs",
+    "latitude": "-37.74124000",
+    "longitude": "144.73631000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 126,
+    "name": "Carrum",
+    "latitude": "-38.08333000",
+    "longitude": "145.13333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 127,
+    "name": "Carrum Downs",
+    "latitude": "-38.09968000",
+    "longitude": "145.17248000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 128,
+    "name": "Casey",
+    "latitude": "-38.09519000",
+    "longitude": "145.32279000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 129,
+    "name": "Casterton",
+    "latitude": "-37.58489000",
+    "longitude": "141.40297000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 130,
+    "name": "Castlemaine",
+    "latitude": "-37.06709000",
+    "longitude": "144.21684000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 131,
+    "name": "Caulfield",
+    "latitude": "-37.88251000",
+    "longitude": "145.02288000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 132,
+    "name": "Caulfield East",
+    "latitude": "-37.88121000",
+    "longitude": "145.04208000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 133,
+    "name": "Caulfield North",
+    "latitude": "-37.87390000",
+    "longitude": "145.02485000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 134,
+    "name": "Caulfield South",
+    "latitude": "-37.89562000",
+    "longitude": "145.02597000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 135,
+    "name": "Central Goldfields",
+    "latitude": "-36.97889000",
+    "longitude": "143.73857000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 136,
+    "name": "Chadstone",
+    "latitude": "-37.88766000",
+    "longitude": "145.09519000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 137,
+    "name": "Charlton",
+    "latitude": "-36.26437000",
+    "longitude": "143.34901000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 138,
+    "name": "Chelsea",
+    "latitude": "-38.05000000",
+    "longitude": "145.11667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 139,
+    "name": "Chelsea Heights",
+    "latitude": "-38.03333000",
+    "longitude": "145.13333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 140,
+    "name": "Cheltenham",
+    "latitude": "-37.96944000",
+    "longitude": "145.04806000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 141,
+    "name": "Chewton",
+    "latitude": "-37.08137000",
+    "longitude": "144.25682000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 142,
+    "name": "Chiltern",
+    "latitude": "-36.15044000",
+    "longitude": "146.60843000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 143,
+    "name": "Chirnside Park",
+    "latitude": "-37.73860000",
+    "longitude": "145.31431000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 144,
+    "name": "Churchill",
+    "latitude": "-38.30776000",
+    "longitude": "146.41367000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 145,
+    "name": "Clarinda",
+    "latitude": "-37.94066000",
+    "longitude": "145.10238000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 146,
+    "name": "Clayton",
+    "latitude": "-37.91667000",
+    "longitude": "145.11667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 147,
+    "name": "Clayton South",
+    "latitude": "-37.93333000",
+    "longitude": "145.11667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 148,
+    "name": "Clifton Hill",
+    "latitude": "-37.79798000",
+    "longitude": "144.99533000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 149,
+    "name": "Clifton Springs",
+    "latitude": "-38.15670000",
+    "longitude": "144.55510000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 150,
+    "name": "Clunes",
+    "latitude": "-37.29473000",
+    "longitude": "143.78636000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 151,
+    "name": "Clyde",
+    "latitude": "-38.13333000",
+    "longitude": "145.33333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 152,
+    "name": "Clyde North",
+    "latitude": "-38.11667000",
+    "longitude": "145.33333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 153,
+    "name": "Cobden",
+    "latitude": "-38.32860000",
+    "longitude": "143.07484000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 154,
+    "name": "Cobram",
+    "latitude": "-35.92069000",
+    "longitude": "145.64066000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 155,
+    "name": "Coburg",
+    "latitude": "-37.75000000",
+    "longitude": "144.96667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 156,
+    "name": "Coburg North",
+    "latitude": "-37.72867000",
+    "longitude": "144.96134000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 157,
+    "name": "Cockatoo",
+    "latitude": "-37.93677000",
+    "longitude": "145.49376000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 158,
+    "name": "Cohuna",
+    "latitude": "-35.80697000",
+    "longitude": "144.21886000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 159,
+    "name": "Colac",
+    "latitude": "-38.33900000",
+    "longitude": "143.58489000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 160,
+    "name": "Colac-Otway",
+    "latitude": "-38.43873000",
+    "longitude": "143.59669000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 161,
+    "name": "Coldstream",
+    "latitude": "-37.72490000",
+    "longitude": "145.37804000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 162,
+    "name": "Collingwood",
+    "latitude": "-37.80253000",
+    "longitude": "144.98872000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 163,
+    "name": "Coolaroo",
+    "latitude": "-37.65675000",
+    "longitude": "144.93460000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 164,
+    "name": "Corangamite",
+    "latitude": "-38.21596000",
+    "longitude": "143.23542000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 165,
+    "name": "Corio",
+    "latitude": "-38.08333000",
+    "longitude": "144.38333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 166,
+    "name": "Corryong",
+    "latitude": "-36.19705000",
+    "longitude": "147.90256000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 167,
+    "name": "Cowes",
+    "latitude": "-38.45231000",
+    "longitude": "145.23865000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 168,
+    "name": "Craigieburn",
+    "latitude": "-37.60000000",
+    "longitude": "144.95000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 169,
+    "name": "Cranbourne",
+    "latitude": "-38.11342000",
+    "longitude": "145.28326000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 170,
+    "name": "Cranbourne East",
+    "latitude": "-38.11531000",
+    "longitude": "145.29814000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 171,
+    "name": "Cranbourne North",
+    "latitude": "-38.07758000",
+    "longitude": "145.29871000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 172,
+    "name": "Cranbourne South",
+    "latitude": "-38.13502000",
+    "longitude": "145.23958000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 173,
+    "name": "Cranbourne West",
+    "latitude": "-38.09650000",
+    "longitude": "145.26707000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 174,
+    "name": "Cremorne",
+    "latitude": "-37.83180000",
+    "longitude": "144.99380000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 175,
+    "name": "Creswick",
+    "latitude": "-37.42404000",
+    "longitude": "143.89470000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 176,
+    "name": "Crib Point",
+    "latitude": "-38.35000000",
+    "longitude": "145.20000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 177,
+    "name": "Croydon",
+    "latitude": "-37.80000000",
+    "longitude": "145.28333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 178,
+    "name": "Croydon Hills",
+    "latitude": "-37.77651000",
+    "longitude": "145.26355000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 179,
+    "name": "Croydon North",
+    "latitude": "-37.76741000",
+    "longitude": "145.29073000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 180,
+    "name": "Croydon South",
+    "latitude": "-37.81232000",
+    "longitude": "145.26810000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 181,
+    "name": "Dallas",
+    "latitude": "-37.67083000",
+    "longitude": "144.93542000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 182,
+    "name": "Dandenong",
+    "latitude": "-37.98333000",
+    "longitude": "145.20000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 183,
+    "name": "Dandenong North",
+    "latitude": "-37.96649000",
+    "longitude": "145.20810000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 184,
+    "name": "Darebin",
+    "latitude": "-37.75153000",
+    "longitude": "145.02193000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 185,
+    "name": "Darley",
+    "latitude": "-37.65807000",
+    "longitude": "144.44344000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 186,
+    "name": "Daylesford",
+    "latitude": "-37.34113000",
+    "longitude": "144.14256000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 187,
+    "name": "Deer Park",
+    "latitude": "-37.76722000",
+    "longitude": "144.76657000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 188,
+    "name": "Delacombe",
+    "latitude": "-37.58911000",
+    "longitude": "143.81472000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 189,
+    "name": "Delahey",
+    "latitude": "-37.71980000",
+    "longitude": "144.77732000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 190,
+    "name": "Dennington",
+    "latitude": "-38.35519000",
+    "longitude": "142.43361000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 191,
+    "name": "Derrimut",
+    "latitude": "-37.79238000",
+    "longitude": "144.76994000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 192,
+    "name": "Devon Meadows",
+    "latitude": "-38.16667000",
+    "longitude": "145.30000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 193,
+    "name": "Diamond Creek",
+    "latitude": "-37.66667000",
+    "longitude": "145.15000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 194,
+    "name": "Diggers Rest",
+    "latitude": "-37.62597000",
+    "longitude": "144.71881000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 195,
+    "name": "Dimboola",
+    "latitude": "-36.45616000",
+    "longitude": "142.03287000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 196,
+    "name": "Dingley Village",
+    "latitude": "-37.98270000",
+    "longitude": "145.13420000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 197,
+    "name": "Dinner Plain",
+    "latitude": "-37.02360000",
+    "longitude": "147.24124000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 198,
+    "name": "Docklands",
+    "latitude": "-37.81490000",
+    "longitude": "144.95052000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 199,
+    "name": "Donald",
+    "latitude": "-36.36864000",
+    "longitude": "142.98106000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 200,
+    "name": "Doncaster",
+    "latitude": "-37.78828000",
+    "longitude": "145.12373000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 201,
+    "name": "Doncaster East",
+    "latitude": "-37.78761000",
+    "longitude": "145.14888000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 202,
+    "name": "Donvale",
+    "latitude": "-37.78910000",
+    "longitude": "145.17488000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 203,
+    "name": "Doreen",
+    "latitude": "-37.60000000",
+    "longitude": "145.15000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 204,
+    "name": "Doveton",
+    "latitude": "-37.99346000",
+    "longitude": "145.23891000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 205,
+    "name": "Dromana",
+    "latitude": "-38.33375000",
+    "longitude": "144.96458000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 206,
+    "name": "Drouin",
+    "latitude": "-38.13658000",
+    "longitude": "145.85838000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 207,
+    "name": "Drysdale",
+    "latitude": "-38.17237000",
+    "longitude": "144.56988000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 208,
+    "name": "Eagle Point",
+    "latitude": "-37.90000000",
+    "longitude": "147.68333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 209,
+    "name": "Eaglehawk",
+    "latitude": "-36.71611000",
+    "longitude": "144.25049000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 210,
+    "name": "Eaglemont",
+    "latitude": "-37.76379000",
+    "longitude": "145.06380000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 211,
+    "name": "East Bairnsdale",
+    "latitude": "-37.83426000",
+    "longitude": "147.65548000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 212,
+    "name": "East Bendigo",
+    "latitude": "-36.74157000",
+    "longitude": "144.31894000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 213,
+    "name": "East Geelong",
+    "latitude": "-38.15568000",
+    "longitude": "144.37202000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 214,
+    "name": "East Gippsland",
+    "latitude": "-37.34564000",
+    "longitude": "148.58295000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 215,
+    "name": "East Melbourne",
+    "latitude": "-37.81667000",
+    "longitude": "144.98790000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 216,
+    "name": "Echuca",
+    "latitude": "-36.14057000",
+    "longitude": "144.75185000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 217,
+    "name": "Eden Park",
+    "latitude": "-37.48333000",
+    "longitude": "145.08333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 218,
+    "name": "Edithvale",
+    "latitude": "-38.03724000",
+    "longitude": "145.10974000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 219,
+    "name": "Elliminyt",
+    "latitude": "-38.37110000",
+    "longitude": "143.58003000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 220,
+    "name": "Elsternwick",
+    "latitude": "-37.88639000",
+    "longitude": "145.00250000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 221,
+    "name": "Eltham",
+    "latitude": "-37.73333000",
+    "longitude": "145.15000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 222,
+    "name": "Eltham North",
+    "latitude": "-37.70000000",
+    "longitude": "145.15000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 223,
+    "name": "Elwood",
+    "latitude": "-37.88214000",
+    "longitude": "144.98215000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 224,
+    "name": "Emerald",
+    "latitude": "-37.93167000",
+    "longitude": "145.44093000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 225,
+    "name": "Endeavour Hills",
+    "latitude": "-37.97695000",
+    "longitude": "145.25866000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 226,
+    "name": "Epping",
+    "latitude": "-37.65000000",
+    "longitude": "145.03333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 227,
+    "name": "Epsom",
+    "latitude": "-36.71667000",
+    "longitude": "144.31667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 228,
+    "name": "Essendon",
+    "latitude": "-37.74981000",
+    "longitude": "144.91090000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 229,
+    "name": "Essendon North",
+    "latitude": "-37.74225000",
+    "longitude": "144.90546000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 230,
+    "name": "Essendon West",
+    "latitude": "-37.75489000",
+    "longitude": "144.88338000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 231,
+    "name": "Eumemmerring",
+    "latitude": "-37.99780000",
+    "longitude": "145.24821000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 232,
+    "name": "Euroa",
+    "latitude": "-36.75555000",
+    "longitude": "145.57075000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 233,
+    "name": "Eynesbury",
+    "latitude": "-37.80043000",
+    "longitude": "144.57458000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 234,
+    "name": "Fairfield",
+    "latitude": "-37.77977000",
+    "longitude": "145.01764000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 235,
+    "name": "Falls Creek",
+    "latitude": "-36.86535000",
+    "longitude": "147.27782000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 236,
+    "name": "Fawkner",
+    "latitude": "-37.71667000",
+    "longitude": "144.96667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 237,
+    "name": "Ferntree Gully",
+    "latitude": "-37.88461000",
+    "longitude": "145.29539000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 238,
+    "name": "Ferny Creek",
+    "latitude": "-37.88333000",
+    "longitude": "145.33333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 239,
+    "name": "Fitzroy",
+    "latitude": "-37.79839000",
+    "longitude": "144.97833000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 240,
+    "name": "Fitzroy North",
+    "latitude": "-37.78862000",
+    "longitude": "144.97885000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 241,
+    "name": "Flemington",
+    "latitude": "-37.78825000",
+    "longitude": "144.93001000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 242,
+    "name": "Flora Hill",
+    "latitude": "-36.78123000",
+    "longitude": "144.29562000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 243,
+    "name": "Footscray",
+    "latitude": "-37.80000000",
+    "longitude": "144.90000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 244,
+    "name": "Forest Hill",
+    "latitude": "-37.83333000",
+    "longitude": "145.18333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 245,
+    "name": "Foster",
+    "latitude": "-38.65275000",
+    "longitude": "146.20073000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 246,
+    "name": "Frankston",
+    "latitude": "-38.13402000",
+    "longitude": "145.16875000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 247,
+    "name": "Frankston East",
+    "latitude": "-38.13333000",
+    "longitude": "145.13333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 248,
+    "name": "Frankston North",
+    "latitude": "-38.12352000",
+    "longitude": "145.14836000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 249,
+    "name": "Frankston South",
+    "latitude": "-38.16604000",
+    "longitude": "145.13643000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 250,
+    "name": "Gannawarra",
+    "latitude": "-35.73211000",
+    "longitude": "143.85316000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 251,
+    "name": "Garfield",
+    "latitude": "-38.08985000",
+    "longitude": "145.67502000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 252,
+    "name": "Geelong",
+    "latitude": "-38.14711000",
+    "longitude": "144.36069000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 253,
+    "name": "Geelong city centre",
+    "latitude": "-38.14996000",
+    "longitude": "144.36176000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 254,
+    "name": "Geelong West",
+    "latitude": "-38.13888000",
+    "longitude": "144.34842000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 255,
+    "name": "Gembrook",
+    "latitude": "-37.95321000",
+    "longitude": "145.55536000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 256,
+    "name": "Gisborne",
+    "latitude": "-37.48858000",
+    "longitude": "144.59421000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 257,
+    "name": "Gladstone Park",
+    "latitude": "-37.68742000",
+    "longitude": "144.88675000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 258,
+    "name": "Glen Eira",
+    "latitude": "-37.89949000",
+    "longitude": "145.04099000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 259,
+    "name": "Glen Huntly",
+    "latitude": "-37.89237000",
+    "longitude": "145.04135000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 260,
+    "name": "Glen Iris",
+    "latitude": "-37.86667000",
+    "longitude": "145.06667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 261,
+    "name": "Glen Waverley",
+    "latitude": "-37.87811000",
+    "longitude": "145.16476000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 262,
+    "name": "Glenelg",
+    "latitude": "-37.89083000",
+    "longitude": "141.44238000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 263,
+    "name": "Glenferrie",
+    "latitude": "-37.83333000",
+    "longitude": "145.05000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 264,
+    "name": "Glengarry",
+    "latitude": "-38.11667000",
+    "longitude": "146.56667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 265,
+    "name": "Glenroy",
+    "latitude": "-37.70000000",
+    "longitude": "144.93333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 266,
+    "name": "Golden Plains",
+    "latitude": "-37.85231000",
+    "longitude": "143.86352000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 267,
+    "name": "Golden Point",
+    "latitude": "-37.57493000",
+    "longitude": "143.86870000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 268,
+    "name": "Golden Square",
+    "latitude": "-36.77265000",
+    "longitude": "144.25271000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 269,
+    "name": "Gordon",
+    "latitude": "-37.58230000",
+    "longitude": "144.10925000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 270,
+    "name": "Gowanbrae",
+    "latitude": "-37.70823000",
+    "longitude": "144.89079000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 271,
+    "name": "Greater Bendigo",
+    "latitude": "-36.72278000",
+    "longitude": "144.43974000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 272,
+    "name": "Greater Dandenong",
+    "latitude": "-38.00112000",
+    "longitude": "145.19073000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 273,
+    "name": "Greater Geelong",
+    "latitude": "-38.05182000",
+    "longitude": "144.46137000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 274,
+    "name": "Greater Shepparton",
+    "latitude": "-36.42742000",
+    "longitude": "145.41519000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 275,
+    "name": "Greensborough",
+    "latitude": "-37.70462000",
+    "longitude": "145.10302000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 276,
+    "name": "Greenvale",
+    "latitude": "-37.63333000",
+    "longitude": "144.86667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 277,
+    "name": "Grovedale",
+    "latitude": "-38.20000000",
+    "longitude": "144.35000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 278,
+    "name": "Haddon",
+    "latitude": "-37.60000000",
+    "longitude": "143.71667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 279,
+    "name": "Hadfield",
+    "latitude": "-37.70728000",
+    "longitude": "144.94160000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 280,
+    "name": "Hallam",
+    "latitude": "-38.01667000",
+    "longitude": "145.26667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 281,
+    "name": "Hamilton",
+    "latitude": "-37.74425000",
+    "longitude": "142.02202000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 282,
+    "name": "Hamlyn Heights",
+    "latitude": "-38.12108000",
+    "longitude": "144.32799000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 283,
+    "name": "Hampton",
+    "latitude": "-37.95000000",
+    "longitude": "145.00000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 284,
+    "name": "Hampton East",
+    "latitude": "-37.93695000",
+    "longitude": "145.02863000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 285,
+    "name": "Hampton Park",
+    "latitude": "-38.03333000",
+    "longitude": "145.25000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 286,
+    "name": "Hastings",
+    "latitude": "-38.30000000",
+    "longitude": "145.18333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 287,
+    "name": "Haven",
+    "latitude": "-36.76072000",
+    "longitude": "142.19426000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 288,
+    "name": "Hawthorn",
+    "latitude": "-37.81992000",
+    "longitude": "145.03580000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 289,
+    "name": "Hawthorn East",
+    "latitude": "-37.82484000",
+    "longitude": "145.04640000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 290,
+    "name": "Hawthorn South",
+    "latitude": "-37.83290000",
+    "longitude": "145.03670000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 291,
+    "name": "Hazelwood North",
+    "latitude": "-38.26763000",
+    "longitude": "146.48286000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 292,
+    "name": "Healesville",
+    "latitude": "-37.65395000",
+    "longitude": "145.51718000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 293,
+    "name": "Heathcote",
+    "latitude": "-36.92214000",
+    "longitude": "144.70837000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 294,
+    "name": "Heatherton",
+    "latitude": "-37.96667000",
+    "longitude": "145.10000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 295,
+    "name": "Heathmont",
+    "latitude": "-37.83333000",
+    "longitude": "145.25000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 296,
+    "name": "Heidelberg",
+    "latitude": "-37.75000000",
+    "longitude": "145.06667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 297,
+    "name": "Heidelberg Heights",
+    "latitude": "-37.74313000",
+    "longitude": "145.05695000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 298,
+    "name": "Heidelberg West",
+    "latitude": "-37.73922000",
+    "longitude": "145.04034000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 299,
+    "name": "Hepburn",
+    "latitude": "-37.31707000",
+    "longitude": "144.03355000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 300,
+    "name": "Herne Hill",
+    "latitude": "-38.13427000",
+    "longitude": "144.32406000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 301,
+    "name": "Heyfield",
+    "latitude": "-37.98130000",
+    "longitude": "146.78559000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 302,
+    "name": "Heywood",
+    "latitude": "-38.13294000",
+    "longitude": "141.62949000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 303,
+    "name": "Highett",
+    "latitude": "-37.95000000",
+    "longitude": "145.05000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 304,
+    "name": "Highton",
+    "latitude": "-38.17058000",
+    "longitude": "144.31140000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 305,
+    "name": "Hillside",
+    "latitude": "-37.69047000",
+    "longitude": "144.74172000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 306,
+    "name": "Hindmarsh",
+    "latitude": "-36.03293000",
+    "longitude": "141.73282000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 307,
+    "name": "Hmas Cerberus",
+    "latitude": "-38.36491000",
+    "longitude": "145.20038000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 308,
+    "name": "Hobsons Bay",
+    "latitude": "-37.85694000",
+    "longitude": "144.83347000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 309,
+    "name": "Hoppers Crossing",
+    "latitude": "-37.88264000",
+    "longitude": "144.70030000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 310,
+    "name": "Horsham",
+    "latitude": "-36.82857000",
+    "longitude": "142.11448000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 311,
+    "name": "Hotham Heights",
+    "latitude": "-36.99298000",
+    "longitude": "147.15225000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 312,
+    "name": "Hughesdale",
+    "latitude": "-37.90000000",
+    "longitude": "145.08333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 313,
+    "name": "Hume",
+    "latitude": "-37.59717000",
+    "longitude": "144.80511000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 314,
+    "name": "Huntingdale",
+    "latitude": "-37.90766000",
+    "longitude": "145.10847000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 315,
+    "name": "Huntly",
+    "latitude": "-36.66451000",
+    "longitude": "144.33382000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 316,
+    "name": "Hurstbridge",
+    "latitude": "-37.64157000",
+    "longitude": "145.19408000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 317,
+    "name": "Indented Head",
+    "latitude": "-38.14305000",
+    "longitude": "144.71343000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 318,
+    "name": "Indigo",
+    "latitude": "-36.20854000",
+    "longitude": "146.68628000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 319,
+    "name": "Inverleigh",
+    "latitude": "-38.10177000",
+    "longitude": "144.05132000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 320,
+    "name": "Inverloch",
+    "latitude": "-38.62659000",
+    "longitude": "145.72260000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 321,
+    "name": "Invermay Park",
+    "latitude": "-37.53063000",
+    "longitude": "143.85798000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 322,
+    "name": "Ironbark",
+    "latitude": "-36.75478000",
+    "longitude": "144.26378000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 323,
+    "name": "Irymple",
+    "latitude": "-34.23537000",
+    "longitude": "142.17101000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 324,
+    "name": "Ivanhoe",
+    "latitude": "-37.76903000",
+    "longitude": "145.04308000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 325,
+    "name": "Ivanhoe East",
+    "latitude": "-37.77340000",
+    "longitude": "145.06195000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 326,
+    "name": "Jacana",
+    "latitude": "-37.68778000",
+    "longitude": "144.91111000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 327,
+    "name": "Jackass Flat",
+    "latitude": "-36.71589000",
+    "longitude": "144.28597000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 328,
+    "name": "Jan Juc",
+    "latitude": "-38.34455000",
+    "longitude": "144.29518000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 329,
+    "name": "Junction Village",
+    "latitude": "-38.13636000",
+    "longitude": "145.29684000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 330,
+    "name": "Junortoun",
+    "latitude": "-36.77106000",
+    "longitude": "144.36311000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 331,
+    "name": "Kalimna",
+    "latitude": "-37.87011000",
+    "longitude": "147.96664000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 332,
+    "name": "Kallista",
+    "latitude": "-37.89815000",
+    "longitude": "145.38226000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 333,
+    "name": "Kalorama",
+    "latitude": "-37.81667000",
+    "longitude": "145.36667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 334,
+    "name": "Kangaroo Flat",
+    "latitude": "-36.80000000",
+    "longitude": "144.25000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 335,
+    "name": "Kangaroo Ground",
+    "latitude": "-37.68919000",
+    "longitude": "145.23170000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 336,
+    "name": "Kealba",
+    "latitude": "-37.73710000",
+    "longitude": "144.82830000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 337,
+    "name": "Keilor",
+    "latitude": "-37.71667000",
+    "longitude": "144.83333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 338,
+    "name": "Keilor Downs",
+    "latitude": "-37.72337000",
+    "longitude": "144.80839000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 339,
+    "name": "Keilor East",
+    "latitude": "-37.73261000",
+    "longitude": "144.86504000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 340,
+    "name": "Keilor Lodge",
+    "latitude": "-37.69997000",
+    "longitude": "144.80332000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 341,
+    "name": "Keilor Park",
+    "latitude": "-37.72025000",
+    "longitude": "144.85422000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 342,
+    "name": "Kennington",
+    "latitude": "-36.77128000",
+    "longitude": "144.30298000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 343,
+    "name": "Kensington",
+    "latitude": "-37.79188000",
+    "longitude": "144.93114000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 344,
+    "name": "Kerang",
+    "latitude": "-35.73489000",
+    "longitude": "143.92027000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 345,
+    "name": "Kew",
+    "latitude": "-37.80639000",
+    "longitude": "145.03086000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 346,
+    "name": "Kew East",
+    "latitude": "-37.79758000",
+    "longitude": "145.05378000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 347,
+    "name": "Keysborough",
+    "latitude": "-37.99116000",
+    "longitude": "145.17385000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 348,
+    "name": "Kialla",
+    "latitude": "-36.44729000",
+    "longitude": "145.41422000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 349,
+    "name": "Kilmore",
+    "latitude": "-37.29577000",
+    "longitude": "144.95252000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 350,
+    "name": "Kilsyth",
+    "latitude": "-37.80000000",
+    "longitude": "145.31667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 351,
+    "name": "Kilsyth South",
+    "latitude": "-37.82033000",
+    "longitude": "145.31599000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 352,
+    "name": "Kinglake",
+    "latitude": "-37.53291000",
+    "longitude": "145.33964000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 353,
+    "name": "Kinglake West",
+    "latitude": "-37.46667000",
+    "longitude": "145.23333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 354,
+    "name": "Kings Park",
+    "latitude": "-37.73397000",
+    "longitude": "144.77766000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 355,
+    "name": "Kingsbury",
+    "latitude": "-37.71406000",
+    "longitude": "145.03509000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 356,
+    "name": "Kingston",
+    "latitude": "-38.00450000",
+    "longitude": "145.09531000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 357,
+    "name": "Kingsville",
+    "latitude": "-37.80819000",
+    "longitude": "144.87911000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 358,
+    "name": "Knox",
+    "latitude": "-37.89895000",
+    "longitude": "145.26923000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 359,
+    "name": "Knoxfield",
+    "latitude": "-37.88978000",
+    "longitude": "145.24962000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 360,
+    "name": "Koo-Wee-Rup",
+    "latitude": "-38.19941000",
+    "longitude": "145.49081000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 361,
+    "name": "Koroit",
+    "latitude": "-38.29180000",
+    "longitude": "142.36729000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 362,
+    "name": "Korumburra",
+    "latitude": "-38.43194000",
+    "longitude": "145.82355000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 363,
+    "name": "Kurunjang",
+    "latitude": "-37.67587000",
+    "longitude": "144.59690000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 364,
+    "name": "Kyabram",
+    "latitude": "-36.31335000",
+    "longitude": "145.05035000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 365,
+    "name": "Kyneton",
+    "latitude": "-37.24444000",
+    "longitude": "144.45148000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 366,
+    "name": "Lake Gardens",
+    "latitude": "-37.54632000",
+    "longitude": "143.81653000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 367,
+    "name": "Lake Wendouree",
+    "latitude": "-37.54993000",
+    "longitude": "143.84730000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 368,
+    "name": "Lakes Entrance",
+    "latitude": "-37.86679000",
+    "longitude": "148.00159000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 369,
+    "name": "Lalor",
+    "latitude": "-37.66667000",
+    "longitude": "145.01667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 370,
+    "name": "Lancefield",
+    "latitude": "-37.27733000",
+    "longitude": "144.73596000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 371,
+    "name": "Lang Lang",
+    "latitude": "-38.26605000",
+    "longitude": "145.56210000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 372,
+    "name": "Langwarrin",
+    "latitude": "-38.16667000",
+    "longitude": "145.16667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 373,
+    "name": "Langwarrin South",
+    "latitude": "-38.18947000",
+    "longitude": "145.19350000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 374,
+    "name": "Lara",
+    "latitude": "-38.02388000",
+    "longitude": "144.40617000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 375,
+    "name": "Latrobe",
+    "latitude": "-38.25379000",
+    "longitude": "146.46124000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 376,
+    "name": "Launching Place",
+    "latitude": "-37.78058000",
+    "longitude": "145.56834000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 377,
+    "name": "Laverton",
+    "latitude": "-37.86201000",
+    "longitude": "144.76979000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 378,
+    "name": "Leongatha",
+    "latitude": "-38.47607000",
+    "longitude": "145.94685000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 379,
+    "name": "Leopold",
+    "latitude": "-38.19001000",
+    "longitude": "144.46825000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 380,
+    "name": "Lilydale",
+    "latitude": "-37.75000000",
+    "longitude": "145.35000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 381,
+    "name": "Little River",
+    "latitude": "-37.96667000",
+    "longitude": "144.50000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 382,
+    "name": "Loddon",
+    "latitude": "-36.40406000",
+    "longitude": "143.82964000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 383,
+    "name": "Long Gully",
+    "latitude": "-36.74305000",
+    "longitude": "144.25788000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 384,
+    "name": "Longford",
+    "latitude": "-38.16237000",
+    "longitude": "147.08591000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 385,
+    "name": "Longwarry",
+    "latitude": "-38.11279000",
+    "longitude": "145.76849000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 386,
+    "name": "Lorne",
+    "latitude": "-38.54043000",
+    "longitude": "143.97636000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 387,
+    "name": "Lovely Banks",
+    "latitude": "-38.06667000",
+    "longitude": "144.33333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 388,
+    "name": "Lower Plenty",
+    "latitude": "-37.73333000",
+    "longitude": "145.11667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 389,
+    "name": "Lucknow",
+    "latitude": "-37.81667000",
+    "longitude": "147.65000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 390,
+    "name": "Lynbrook",
+    "latitude": "-38.05588000",
+    "longitude": "145.25615000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 391,
+    "name": "Lysterfield",
+    "latitude": "-37.93333000",
+    "longitude": "145.30000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 392,
+    "name": "Macedon",
+    "latitude": "-37.41963000",
+    "longitude": "144.56242000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 393,
+    "name": "Macedon Ranges",
+    "latitude": "-37.33343000",
+    "longitude": "144.61581000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 394,
+    "name": "Macleod",
+    "latitude": "-37.73333000",
+    "longitude": "145.06667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 395,
+    "name": "Maddingley",
+    "latitude": "-37.68518000",
+    "longitude": "144.43245000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 396,
+    "name": "Maffra",
+    "latitude": "-37.97132000",
+    "longitude": "146.98366000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 397,
+    "name": "Maiden Gully",
+    "latitude": "-36.75389000",
+    "longitude": "144.20789000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 398,
+    "name": "Maidstone",
+    "latitude": "-37.78035000",
+    "longitude": "144.87353000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 399,
+    "name": "Maldon",
+    "latitude": "-36.99570000",
+    "longitude": "144.06834000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 400,
+    "name": "Mallacoota",
+    "latitude": "-37.55896000",
+    "longitude": "149.75407000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 401,
+    "name": "Malvern",
+    "latitude": "-37.86259000",
+    "longitude": "145.02811000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 402,
+    "name": "Malvern East",
+    "latitude": "-37.87397000",
+    "longitude": "145.04253000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 403,
+    "name": "Manifold Heights",
+    "latitude": "-38.13762000",
+    "longitude": "144.33369000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 404,
+    "name": "Manningham",
+    "latitude": "-37.75710000",
+    "longitude": "145.18053000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 405,
+    "name": "Mansfield",
+    "latitude": "-37.24130000",
+    "longitude": "146.14803000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 406,
+    "name": "Maribyrnong",
+    "latitude": "-37.79141000",
+    "longitude": "144.87786000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 407,
+    "name": "Marong",
+    "latitude": "-36.73333000",
+    "longitude": "144.13333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 408,
+    "name": "Maroondah",
+    "latitude": "-37.80288000",
+    "longitude": "145.26603000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 409,
+    "name": "Maryborough",
+    "latitude": "-37.04562000",
+    "longitude": "143.73923000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 410,
+    "name": "McCrae",
+    "latitude": "-38.34972000",
+    "longitude": "144.92806000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 411,
+    "name": "McKinnon",
+    "latitude": "-37.91667000",
+    "longitude": "145.05000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 412,
+    "name": "Meadow Heights",
+    "latitude": "-37.65117000",
+    "longitude": "144.91855000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 413,
+    "name": "Melbourne",
+    "latitude": "-37.81400000",
+    "longitude": "144.96332000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 414,
+    "name": "Melbourne City Centre",
+    "latitude": "-37.81501000",
+    "longitude": "144.96657000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 415,
+    "name": "Melton",
+    "latitude": "-37.68144000",
+    "longitude": "144.62292000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 416,
+    "name": "Melton South",
+    "latitude": "-37.70773000",
+    "longitude": "144.57493000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 417,
+    "name": "Melton West",
+    "latitude": "-37.67852000",
+    "longitude": "144.56883000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 418,
+    "name": "Mentone",
+    "latitude": "-37.98333000",
+    "longitude": "145.06667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 419,
+    "name": "Merbein",
+    "latitude": "-34.16802000",
+    "longitude": "142.06599000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 420,
+    "name": "Mernda",
+    "latitude": "-37.60075000",
+    "longitude": "145.09555000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 421,
+    "name": "Metung",
+    "latitude": "-37.89154000",
+    "longitude": "147.85300000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 422,
+    "name": "Mickleham",
+    "latitude": "-37.53664000",
+    "longitude": "144.90204000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 423,
+    "name": "Middle Park",
+    "latitude": "-37.85116000",
+    "longitude": "144.96201000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 424,
+    "name": "Mildura",
+    "latitude": "-34.18551000",
+    "longitude": "142.16251000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 425,
+    "name": "Mildura Shire",
+    "latitude": "-34.86450000",
+    "longitude": "141.85232000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 426,
+    "name": "Mill Park",
+    "latitude": "-37.66667000",
+    "longitude": "145.06667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 427,
+    "name": "Millgrove",
+    "latitude": "-37.75527000",
+    "longitude": "145.65347000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 428,
+    "name": "Miners Rest",
+    "latitude": "-37.48080000",
+    "longitude": "143.80107000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 429,
+    "name": "Mirboo North",
+    "latitude": "-38.40101000",
+    "longitude": "146.16135000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 430,
+    "name": "Mitcham",
+    "latitude": "-37.81667000",
+    "longitude": "145.20000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 431,
+    "name": "Mitchell",
+    "latitude": "-37.17535000",
+    "longitude": "144.97999000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 432,
+    "name": "Moe",
+    "latitude": "-38.17828000",
+    "longitude": "146.26099000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 433,
+    "name": "Moira",
+    "latitude": "-36.05060000",
+    "longitude": "145.53815000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 434,
+    "name": "Monash",
+    "latitude": "-37.89675000",
+    "longitude": "145.14714000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 435,
+    "name": "Monbulk",
+    "latitude": "-37.87427000",
+    "longitude": "145.42592000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 436,
+    "name": "Mont Albert",
+    "latitude": "-37.81788000",
+    "longitude": "145.10799000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 437,
+    "name": "Mont Albert North",
+    "latitude": "-37.80043000",
+    "longitude": "145.10828000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 438,
+    "name": "Montmorency",
+    "latitude": "-37.71667000",
+    "longitude": "145.11667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 439,
+    "name": "Montrose",
+    "latitude": "-37.81667000",
+    "longitude": "145.35000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 440,
+    "name": "Moolap",
+    "latitude": "-38.18333000",
+    "longitude": "144.43333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 441,
+    "name": "Moonee Ponds",
+    "latitude": "-37.76667000",
+    "longitude": "144.91667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 442,
+    "name": "Moonee Valley",
+    "latitude": "-37.74941000",
+    "longitude": "144.89325000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 443,
+    "name": "Moorabbin",
+    "latitude": "-37.94146000",
+    "longitude": "145.05779000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 444,
+    "name": "Moorabool",
+    "latitude": "-37.63338000",
+    "longitude": "144.21946000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 445,
+    "name": "Moorooduc",
+    "latitude": "-38.21667000",
+    "longitude": "145.11667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 446,
+    "name": "Mooroolbark",
+    "latitude": "-37.78247000",
+    "longitude": "145.31682000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 447,
+    "name": "Mooroopna",
+    "latitude": "-36.40000000",
+    "longitude": "145.35000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 448,
+    "name": "Mordialloc",
+    "latitude": "-38.00000000",
+    "longitude": "145.08333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 449,
+    "name": "Moreland",
+    "latitude": "-37.73557000",
+    "longitude": "144.93745000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 450,
+    "name": "Mornington",
+    "latitude": "-38.21792000",
+    "longitude": "145.03876000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 451,
+    "name": "Mornington Peninsula",
+    "latitude": "-38.34004000",
+    "longitude": "145.05455000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 452,
+    "name": "Mortlake",
+    "latitude": "-38.08102000",
+    "longitude": "142.80827000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 453,
+    "name": "Morwell",
+    "latitude": "-38.23476000",
+    "longitude": "146.39499000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 454,
+    "name": "Mount Alexander",
+    "latitude": "-37.07607000",
+    "longitude": "144.18825000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 455,
+    "name": "Mount Buller",
+    "latitude": "-37.14595000",
+    "longitude": "146.43694000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 456,
+    "name": "Mount Clear",
+    "latitude": "-37.60000000",
+    "longitude": "143.88333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 457,
+    "name": "Mount Dandenong",
+    "latitude": "-37.83333000",
+    "longitude": "145.36667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 458,
+    "name": "Mount Duneed",
+    "latitude": "-38.24089000",
+    "longitude": "144.33748000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 459,
+    "name": "Mount Eliza",
+    "latitude": "-38.18333000",
+    "longitude": "145.08333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 460,
+    "name": "Mount Evelyn",
+    "latitude": "-37.78333000",
+    "longitude": "145.38333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 461,
+    "name": "Mount Helen",
+    "latitude": "-37.62463000",
+    "longitude": "143.87890000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 462,
+    "name": "Mount Macedon",
+    "latitude": "-37.40048000",
+    "longitude": "144.58412000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 463,
+    "name": "Mount Martha",
+    "latitude": "-38.26667000",
+    "longitude": "145.01667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 464,
+    "name": "Mount Pleasant",
+    "latitude": "-37.58333000",
+    "longitude": "143.86667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 465,
+    "name": "Mount Waverley",
+    "latitude": "-37.87709000",
+    "longitude": "145.12939000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 466,
+    "name": "Moyne",
+    "latitude": "-38.18785000",
+    "longitude": "142.46217000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 467,
+    "name": "Mulgrave",
+    "latitude": "-37.92845000",
+    "longitude": "145.17708000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 468,
+    "name": "Murrindindi",
+    "latitude": "-37.28104000",
+    "longitude": "145.67437000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 469,
+    "name": "Murrumbeena",
+    "latitude": "-37.90000000",
+    "longitude": "145.06667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 470,
+    "name": "Myrtleford",
+    "latitude": "-36.56104000",
+    "longitude": "146.72371000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 471,
+    "name": "Nagambie",
+    "latitude": "-36.78515000",
+    "longitude": "145.15375000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 472,
+    "name": "Narre Warren",
+    "latitude": "-38.03333000",
+    "longitude": "145.30000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 473,
+    "name": "Narre Warren North",
+    "latitude": "-37.98333000",
+    "longitude": "145.31667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 474,
+    "name": "Narre Warren South",
+    "latitude": "-38.04369000",
+    "longitude": "145.29230000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 475,
+    "name": "Nathalia",
+    "latitude": "-36.05772000",
+    "longitude": "145.20406000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 476,
+    "name": "Neerim South",
+    "latitude": "-38.01683000",
+    "longitude": "145.95447000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 477,
+    "name": "New Gisborne",
+    "latitude": "-37.46065000",
+    "longitude": "144.59930000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 478,
+    "name": "Newborough",
+    "latitude": "-38.17171000",
+    "longitude": "146.29264000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 479,
+    "name": "Newcomb",
+    "latitude": "-38.16623000",
+    "longitude": "144.39429000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 480,
+    "name": "Newington",
+    "latitude": "-37.55846000",
+    "longitude": "143.82485000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 481,
+    "name": "Newport",
+    "latitude": "-37.84427000",
+    "longitude": "144.88483000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 482,
+    "name": "Newtown",
+    "latitude": "-38.15391000",
+    "longitude": "144.33507000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 483,
+    "name": "Nhill",
+    "latitude": "-36.33333000",
+    "longitude": "141.65006000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 484,
+    "name": "Nichols Point",
+    "latitude": "-34.21210000",
+    "longitude": "142.21443000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 485,
+    "name": "Nicholson",
+    "latitude": "-37.81667000",
+    "longitude": "147.73333000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 486,
+    "name": "Niddrie",
+    "latitude": "-37.73750000",
+    "longitude": "144.89212000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 487,
+    "name": "Nillumbik",
+    "latitude": "-37.61474000",
+    "longitude": "145.21706000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 488,
+    "name": "Noble Park",
+    "latitude": "-37.96667000",
+    "longitude": "145.16667000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 489,
+    "name": "Noble Park North",
+    "latitude": "-37.94978000",
+    "longitude": "145.19257000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 490,
+    "name": "Norlane",
+    "latitude": "-38.10139000",
+    "longitude": "144.35417000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 491,
+    "name": "North Bendigo",
+    "latitude": "-36.74363000",
+    "longitude": "144.28791000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 492,
+    "name": "North Brighton",
+    "latitude": "-37.90694000",
+    "longitude": "145.00528000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 493,
+    "name": "North Geelong",
+    "latitude": "-38.10953000",
+    "longitude": "144.35134000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 494,
+    "name": "North Melbourne",
+    "latitude": "-37.79798000",
+    "longitude": "144.94512000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 495,
+    "name": "North Warrandyte",
+    "latitude": "-37.72924000",
+    "longitude": "145.21574000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 496,
+    "name": "North Wonthaggi",
+    "latitude": "-38.57769000",
+    "longitude": "145.59302000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 497,
+    "name": "Northcote",
+    "latitude": "-37.76667000",
+    "longitude": "145.00000000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 498,
+    "name": "Northern Grampians",
+    "latitude": "-36.84962000",
+    "longitude": "142.87303000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  },
+  {
+    "id": 499,
+    "name": "Notting Hill",
+    "latitude": "-37.90500000",
+    "longitude": "145.14270000",
+    "stateId": 3903,
+    "stateCode": "VIC",
+    "countryCode": "AU"
+  }
+]

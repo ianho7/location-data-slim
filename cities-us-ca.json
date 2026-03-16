@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "name": "Acalanes Ridge",
+    "latitude": "37.90472000",
+    "longitude": "-122.07857000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 1,
+    "name": "Acton",
+    "latitude": "34.46999000",
+    "longitude": "-118.19674000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 2,
+    "name": "Adelanto",
+    "latitude": "34.58277000",
+    "longitude": "-117.40922000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 3,
+    "name": "Agoura",
+    "latitude": "34.14306000",
+    "longitude": "-118.73787000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 4,
+    "name": "Agoura Hills",
+    "latitude": "34.13639000",
+    "longitude": "-118.77453000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 5,
+    "name": "Agua Dulce",
+    "latitude": "34.49638000",
+    "longitude": "-118.32563000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 6,
+    "name": "Aguanga",
+    "latitude": "33.44281000",
+    "longitude": "-116.86502000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 7,
+    "name": "Ahwahnee",
+    "latitude": "37.36550000",
+    "longitude": "-119.72627000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 8,
+    "name": "Alameda",
+    "latitude": "37.76521000",
+    "longitude": "-122.24164000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 9,
+    "name": "Alameda County",
+    "latitude": "37.65055000",
+    "longitude": "-121.91789000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 10,
+    "name": "Alamo",
+    "latitude": "37.85020000",
+    "longitude": "-122.03218000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 11,
+    "name": "Albany",
+    "latitude": "37.88687000",
+    "longitude": "-122.29775000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 12,
+    "name": "Alhambra",
+    "latitude": "34.09529000",
+    "longitude": "-118.12701000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 13,
+    "name": "Aliso Viejo",
+    "latitude": "33.56504000",
+    "longitude": "-117.72712000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 14,
+    "name": "Allendale",
+    "latitude": "38.44463000",
+    "longitude": "-121.94302000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 15,
+    "name": "Alondra Park",
+    "latitude": "33.88946000",
+    "longitude": "-118.33091000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 16,
+    "name": "Alpaugh",
+    "latitude": "35.88773000",
+    "longitude": "-119.48734000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 17,
+    "name": "Alpine",
+    "latitude": "32.83505000",
+    "longitude": "-116.76641000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 18,
+    "name": "Alpine County",
+    "latitude": "38.59725000",
+    "longitude": "-119.82065000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 19,
+    "name": "Alta Sierra",
+    "latitude": "35.73126000",
+    "longitude": "-118.55390000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 20,
+    "name": "Altadena",
+    "latitude": "34.18973000",
+    "longitude": "-118.13118000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 21,
+    "name": "Alturas",
+    "latitude": "41.48714000",
+    "longitude": "-120.54349000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 22,
+    "name": "Alum Rock",
+    "latitude": "37.36605000",
+    "longitude": "-121.82718000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 23,
+    "name": "Amador",
+    "latitude": "38.44639000",
+    "longitude": "-120.65112000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 24,
+    "name": "American Canyon",
+    "latitude": "38.17492000",
+    "longitude": "-122.26080000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 25,
+    "name": "Amesti",
+    "latitude": "36.96356000",
+    "longitude": "-121.77912000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 26,
+    "name": "Anaheim",
+    "latitude": "33.83529000",
+    "longitude": "-117.91450000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 27,
+    "name": "Anderson",
+    "latitude": "40.44821000",
+    "longitude": "-122.29778000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 28,
+    "name": "Angels Camp",
+    "latitude": "38.06826000",
+    "longitude": "-120.53965000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 29,
+    "name": "Angwin",
+    "latitude": "38.57574000",
+    "longitude": "-122.44998000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 30,
+    "name": "Antelope",
+    "latitude": "38.70824000",
+    "longitude": "-121.32995000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 31,
+    "name": "Antioch",
+    "latitude": "38.00492000",
+    "longitude": "-121.80579000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 32,
+    "name": "Anza",
+    "latitude": "33.55503000",
+    "longitude": "-116.67363000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 33,
+    "name": "Apple Valley",
+    "latitude": "34.50083000",
+    "longitude": "-117.18588000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 34,
+    "name": "Aptos",
+    "latitude": "36.97717000",
+    "longitude": "-121.89940000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 35,
+    "name": "Aptos Hills-Larkin Valley",
+    "latitude": "36.96064000",
+    "longitude": "-121.83404000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 36,
+    "name": "Arbuckle",
+    "latitude": "39.01740000",
+    "longitude": "-122.05775000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 37,
+    "name": "Arcadia",
+    "latitude": "34.13973000",
+    "longitude": "-118.03534000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 38,
+    "name": "Arcata",
+    "latitude": "40.86652000",
+    "longitude": "-124.08284000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 39,
+    "name": "Arden-Arcade",
+    "latitude": "38.60250000",
+    "longitude": "-121.37854000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 40,
+    "name": "Armona",
+    "latitude": "36.31578000",
+    "longitude": "-119.70846000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 41,
+    "name": "Arnold",
+    "latitude": "38.25547000",
+    "longitude": "-120.35103000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 42,
+    "name": "Aromas",
+    "latitude": "36.88856000",
+    "longitude": "-121.64300000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 43,
+    "name": "Arroyo Grande",
+    "latitude": "35.11859000",
+    "longitude": "-120.59073000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 44,
+    "name": "Artesia",
+    "latitude": "33.86585000",
+    "longitude": "-118.08312000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 45,
+    "name": "Arvin",
+    "latitude": "35.20913000",
+    "longitude": "-118.82843000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 46,
+    "name": "Ashland",
+    "latitude": "37.69465000",
+    "longitude": "-122.11385000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 47,
+    "name": "Atascadero",
+    "latitude": "35.48942000",
+    "longitude": "-120.67073000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 48,
+    "name": "Atherton",
+    "latitude": "37.46133000",
+    "longitude": "-122.19774000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 49,
+    "name": "Atwater",
+    "latitude": "37.34772000",
+    "longitude": "-120.60908000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 50,
+    "name": "Auberry",
+    "latitude": "37.08078000",
+    "longitude": "-119.48541000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 51,
+    "name": "Auburn",
+    "latitude": "38.89657000",
+    "longitude": "-121.07689000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 52,
+    "name": "Auburn Lake Trails",
+    "latitude": "38.91434000",
+    "longitude": "-120.95244000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 53,
+    "name": "August",
+    "latitude": "37.97881000",
+    "longitude": "-121.26217000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 54,
+    "name": "Avalon",
+    "latitude": "33.34281000",
+    "longitude": "-118.32785000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 55,
+    "name": "Avenal",
+    "latitude": "36.00412000",
+    "longitude": "-120.12903000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 56,
+    "name": "Avila Beach",
+    "latitude": "35.17998000",
+    "longitude": "-120.73184000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 57,
+    "name": "Avocado Heights",
+    "latitude": "34.03612000",
+    "longitude": "-117.99118000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 58,
+    "name": "Azusa",
+    "latitude": "34.13362000",
+    "longitude": "-117.90756000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 59,
+    "name": "Bakersfield",
+    "latitude": "35.37329000",
+    "longitude": "-119.01871000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 60,
+    "name": "Baldwin Park",
+    "latitude": "34.08529000",
+    "longitude": "-117.96090000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 61,
+    "name": "Banning",
+    "latitude": "33.92557000",
+    "longitude": "-116.87641000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 62,
+    "name": "Barstow",
+    "latitude": "34.89859000",
+    "longitude": "-117.02282000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 63,
+    "name": "Barstow Heights",
+    "latitude": "34.86971000",
+    "longitude": "-117.05615000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 64,
+    "name": "Bay Point",
+    "latitude": "38.02909000",
+    "longitude": "-121.96163000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 65,
+    "name": "Bayside",
+    "latitude": "40.84235000",
+    "longitude": "-124.06367000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 66,
+    "name": "Bayview",
+    "latitude": "40.77263000",
+    "longitude": "-124.18395000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 67,
+    "name": "Beale Air Force Base",
+    "latitude": "39.10917000",
+    "longitude": "-121.35444000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 68,
+    "name": "Bear Valley Springs",
+    "latitude": "35.15913000",
+    "longitude": "-118.62842000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 69,
+    "name": "Beaumont",
+    "latitude": "33.92946000",
+    "longitude": "-116.97725000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 70,
+    "name": "Bell",
+    "latitude": "33.97751000",
+    "longitude": "-118.18702000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 71,
+    "name": "Bell Gardens",
+    "latitude": "33.96529000",
+    "longitude": "-118.15146000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 72,
+    "name": "Bella Vista",
+    "latitude": "40.64071000",
+    "longitude": "-122.23250000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 73,
+    "name": "Bellflower",
+    "latitude": "33.88168000",
+    "longitude": "-118.11701000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 74,
+    "name": "Belmont",
+    "latitude": "37.52021000",
+    "longitude": "-122.27580000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 75,
+    "name": "Belvedere",
+    "latitude": "37.87270000",
+    "longitude": "-122.46442000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 76,
+    "name": "Ben Lomond",
+    "latitude": "37.08911000",
+    "longitude": "-122.08635000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 77,
+    "name": "Benicia",
+    "latitude": "38.04937000",
+    "longitude": "-122.15858000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 78,
+    "name": "Berkeley",
+    "latitude": "37.87159000",
+    "longitude": "-122.27275000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 79,
+    "name": "Bermuda Dunes",
+    "latitude": "33.74280000",
+    "longitude": "-116.28918000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 80,
+    "name": "Berry Creek",
+    "latitude": "39.64516000",
+    "longitude": "-121.40330000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 81,
+    "name": "Bertsch-Oceanview",
+    "latitude": "41.75250000",
+    "longitude": "-124.15875000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 82,
+    "name": "Bethel Island",
+    "latitude": "38.01492000",
+    "longitude": "-121.64051000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 83,
+    "name": "Beverly Hills",
+    "latitude": "34.07362000",
+    "longitude": "-118.40036000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 84,
+    "name": "Big Bear City",
+    "latitude": "34.26112000",
+    "longitude": "-116.84503000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 85,
+    "name": "Big Bear Lake",
+    "latitude": "34.24390000",
+    "longitude": "-116.91142000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 86,
+    "name": "Big Pine",
+    "latitude": "37.16493000",
+    "longitude": "-118.28955000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 87,
+    "name": "Big River",
+    "latitude": "34.14002000",
+    "longitude": "-114.36134000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 88,
+    "name": "Biggs",
+    "latitude": "39.41239000",
+    "longitude": "-121.71275000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 89,
+    "name": "Biola",
+    "latitude": "36.80217000",
+    "longitude": "-120.01627000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 90,
+    "name": "Bishop",
+    "latitude": "37.36354000",
+    "longitude": "-118.39511000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 91,
+    "name": "Black Point-Green Point",
+    "latitude": "38.11547000",
+    "longitude": "-122.51318000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 92,
+    "name": "Blackhawk",
+    "latitude": "37.82076000",
+    "longitude": "-121.90774000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 93,
+    "name": "Bloomington",
+    "latitude": "34.07029000",
+    "longitude": "-117.39588000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 94,
+    "name": "Blue Lake",
+    "latitude": "40.88291000",
+    "longitude": "-123.98395000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 95,
+    "name": "Blythe",
+    "latitude": "33.61030000",
+    "longitude": "-114.59635000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 96,
+    "name": "Bodega Bay",
+    "latitude": "38.33325000",
+    "longitude": "-123.04806000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 97,
+    "name": "Bodfish",
+    "latitude": "35.58801000",
+    "longitude": "-118.49203000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 98,
+    "name": "Bolinas",
+    "latitude": "37.90937000",
+    "longitude": "-122.68637000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 99,
+    "name": "Bonadelle Ranchos-Madera Ranchos",
+    "latitude": "36.98467000",
+    "longitude": "-119.87463000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 100,
+    "name": "Bonita",
+    "latitude": "32.65783000",
+    "longitude": "-117.03003000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 101,
+    "name": "Bonny Doon",
+    "latitude": "37.04162000",
+    "longitude": "-122.15052000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 102,
+    "name": "Bonsall",
+    "latitude": "33.28892000",
+    "longitude": "-117.22559000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 103,
+    "name": "Boonville",
+    "latitude": "39.00907000",
+    "longitude": "-123.36612000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 104,
+    "name": "Boron",
+    "latitude": "34.99942000",
+    "longitude": "-117.64978000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 105,
+    "name": "Boronda",
+    "latitude": "36.69885000",
+    "longitude": "-121.67495000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 106,
+    "name": "Borrego Springs",
+    "latitude": "33.25587000",
+    "longitude": "-116.37501000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 107,
+    "name": "Bostonia",
+    "latitude": "32.80755000",
+    "longitude": "-116.93642000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 108,
+    "name": "Boulder Creek",
+    "latitude": "37.12606000",
+    "longitude": "-122.12219000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 109,
+    "name": "Boyes Hot Springs",
+    "latitude": "38.31380000",
+    "longitude": "-122.48193000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 110,
+    "name": "Boyle Heights",
+    "latitude": "34.03390000",
+    "longitude": "-118.20535000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 111,
+    "name": "Bradbury",
+    "latitude": "34.14695000",
+    "longitude": "-117.97090000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 112,
+    "name": "Brawley",
+    "latitude": "32.97866000",
+    "longitude": "-115.53027000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 113,
+    "name": "Brea",
+    "latitude": "33.91668000",
+    "longitude": "-117.90006000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 114,
+    "name": "Brentwood",
+    "latitude": "37.93187000",
+    "longitude": "-121.69579000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 115,
+    "name": "Bret Harte",
+    "latitude": "37.60207000",
+    "longitude": "-121.00519000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 116,
+    "name": "Bridgeport",
+    "latitude": "38.25575000",
+    "longitude": "-119.23127000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 117,
+    "name": "Brisbane",
+    "latitude": "37.68077000",
+    "longitude": "-122.39997000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 118,
+    "name": "Broadmoor",
+    "latitude": "37.68660000",
+    "longitude": "-122.48275000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 119,
+    "name": "Brookdale",
+    "latitude": "37.10634000",
+    "longitude": "-122.10608000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 120,
+    "name": "Brooktrails",
+    "latitude": "39.44377000",
+    "longitude": "-123.38529000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 121,
+    "name": "Buckhorn",
+    "latitude": "38.45216000",
+    "longitude": "-120.52854000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 122,
+    "name": "Buellton",
+    "latitude": "34.61360000",
+    "longitude": "-120.19265000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 123,
+    "name": "Buena Park",
+    "latitude": "33.86751000",
+    "longitude": "-117.99812000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 124,
+    "name": "Buena Vista",
+    "latitude": "37.32133000",
+    "longitude": "-121.91662000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 125,
+    "name": "Burbank",
+    "latitude": "34.18084000",
+    "longitude": "-118.30897000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 126,
+    "name": "Burlingame",
+    "latitude": "37.58410000",
+    "longitude": "-122.36608000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 127,
+    "name": "Burney",
+    "latitude": "40.88238000",
+    "longitude": "-121.66082000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 128,
+    "name": "Butte",
+    "latitude": "39.66693000",
+    "longitude": "-121.60067000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 129,
+    "name": "Buttonwillow",
+    "latitude": "35.40052000",
+    "longitude": "-119.46956000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 130,
+    "name": "Byron",
+    "latitude": "37.86715000",
+    "longitude": "-121.63801000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 131,
+    "name": "Bystrom",
+    "latitude": "37.62076000",
+    "longitude": "-120.98577000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 132,
+    "name": "Cabazon",
+    "latitude": "33.91752000",
+    "longitude": "-116.78724000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 133,
+    "name": "Calabasas",
+    "latitude": "34.15778000",
+    "longitude": "-118.63842000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 134,
+    "name": "Calaveras",
+    "latitude": "38.20461000",
+    "longitude": "-120.55413000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 135,
+    "name": "Calexico",
+    "latitude": "32.67895000",
+    "longitude": "-115.49888000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 136,
+    "name": "California City",
+    "latitude": "35.12580000",
+    "longitude": "-117.98590000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 137,
+    "name": "Calimesa",
+    "latitude": "34.00390000",
+    "longitude": "-117.06198000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 138,
+    "name": "Calipatria",
+    "latitude": "33.12560000",
+    "longitude": "-115.51415000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 139,
+    "name": "Calistoga",
+    "latitude": "38.57880000",
+    "longitude": "-122.57971000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 140,
+    "name": "Callender",
+    "latitude": "35.05303000",
+    "longitude": "-120.59628000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 141,
+    "name": "Camarillo",
+    "latitude": "34.21639000",
+    "longitude": "-119.03760000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 142,
+    "name": "Cambria",
+    "latitude": "35.56414000",
+    "longitude": "-121.08075000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 143,
+    "name": "Cambrian Park",
+    "latitude": "37.25689000",
+    "longitude": "-121.93079000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 144,
+    "name": "Cameron Park",
+    "latitude": "38.66879000",
+    "longitude": "-120.98716000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 145,
+    "name": "Camino",
+    "latitude": "38.73824000",
+    "longitude": "-120.67493000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 146,
+    "name": "Camp Meeker",
+    "latitude": "38.42519000",
+    "longitude": "-122.95944000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 147,
+    "name": "Camp Pendleton North",
+    "latitude": "33.31465000",
+    "longitude": "-117.31603000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 148,
+    "name": "Camp Pendleton South",
+    "latitude": "33.22844000",
+    "longitude": "-117.37929000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 149,
+    "name": "Campbell",
+    "latitude": "37.28717000",
+    "longitude": "-121.94996000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 150,
+    "name": "Campo",
+    "latitude": "32.60645000",
+    "longitude": "-116.46891000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 151,
+    "name": "Canoga Park",
+    "latitude": "34.20112000",
+    "longitude": "-118.59814000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 152,
+    "name": "Canyon Lake",
+    "latitude": "33.68502000",
+    "longitude": "-117.27309000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 153,
+    "name": "Capitola",
+    "latitude": "36.97523000",
+    "longitude": "-121.95329000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 154,
+    "name": "Carlsbad",
+    "latitude": "33.15809000",
+    "longitude": "-117.35059000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 155,
+    "name": "Carmel Valley Village",
+    "latitude": "36.50605000",
+    "longitude": "-121.76594000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 156,
+    "name": "Carmel-by-the-Sea",
+    "latitude": "36.55524000",
+    "longitude": "-121.92329000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 157,
+    "name": "Carmichael",
+    "latitude": "38.61713000",
+    "longitude": "-121.32828000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 158,
+    "name": "Carpinteria",
+    "latitude": "34.39888000",
+    "longitude": "-119.51846000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 159,
+    "name": "Carson",
+    "latitude": "33.83141000",
+    "longitude": "-118.28202000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 160,
+    "name": "Caruthers",
+    "latitude": "36.54273000",
+    "longitude": "-119.83320000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 161,
+    "name": "Casa Conejo",
+    "latitude": "34.18362000",
+    "longitude": "-118.94343000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 162,
+    "name": "Casa de Oro-Mount Helix",
+    "latitude": "32.76397000",
+    "longitude": "-116.96877000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 163,
+    "name": "Castaic",
+    "latitude": "34.48888000",
+    "longitude": "-118.62287000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 164,
+    "name": "Castro Valley",
+    "latitude": "37.69410000",
+    "longitude": "-122.08635000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 165,
+    "name": "Castroville",
+    "latitude": "36.76579000",
+    "longitude": "-121.75800000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 166,
+    "name": "Cathedral City",
+    "latitude": "33.77974000",
+    "longitude": "-116.46529000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 167,
+    "name": "Cayucos",
+    "latitude": "35.44275000",
+    "longitude": "-120.89213000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 168,
+    "name": "Cedar Ridge",
+    "latitude": "38.06576000",
+    "longitude": "-120.27686000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 169,
+    "name": "Central Valley (historical)",
+    "latitude": "40.68043000",
+    "longitude": "-122.37112000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 170,
+    "name": "Century City",
+    "latitude": "34.05557000",
+    "longitude": "-118.41786000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 171,
+    "name": "Ceres",
+    "latitude": "37.59493000",
+    "longitude": "-120.95771000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 172,
+    "name": "Cerritos",
+    "latitude": "33.85835000",
+    "longitude": "-118.06479000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 173,
+    "name": "Challenge-Brownsville",
+    "latitude": "39.46447000",
+    "longitude": "-121.26338000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 174,
+    "name": "Channel Islands Beach",
+    "latitude": "34.15806000",
+    "longitude": "-119.22316000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 175,
+    "name": "Charter Oak",
+    "latitude": "34.10306000",
+    "longitude": "-117.84589000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 176,
+    "name": "Chatsworth",
+    "latitude": "34.25723000",
+    "longitude": "-118.60120000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 177,
+    "name": "Cherry Valley",
+    "latitude": "33.97252000",
+    "longitude": "-116.97725000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 178,
+    "name": "Cherryland",
+    "latitude": "37.67938000",
+    "longitude": "-122.10330000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 179,
+    "name": "Chester",
+    "latitude": "40.30627000",
+    "longitude": "-121.23191000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 180,
+    "name": "Chico",
+    "latitude": "39.72849000",
+    "longitude": "-121.83748000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 181,
+    "name": "China Lake Acres",
+    "latitude": "35.64051000",
+    "longitude": "-117.76395000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 182,
+    "name": "Chinatown",
+    "latitude": "37.79660000",
+    "longitude": "-122.40858000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 183,
+    "name": "Chino",
+    "latitude": "34.01223000",
+    "longitude": "-117.68894000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 184,
+    "name": "Chino Hills",
+    "latitude": "33.99380000",
+    "longitude": "-117.75888000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 185,
+    "name": "Chowchilla",
+    "latitude": "37.12300000",
+    "longitude": "-120.26018000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 186,
+    "name": "Chualar",
+    "latitude": "36.57052000",
+    "longitude": "-121.51855000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 187,
+    "name": "Chula Vista",
+    "latitude": "32.64005000",
+    "longitude": "-117.08420000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 188,
+    "name": "Citrus",
+    "latitude": "34.11501000",
+    "longitude": "-117.89173000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 189,
+    "name": "Citrus Heights",
+    "latitude": "38.70712000",
+    "longitude": "-121.28106000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 190,
+    "name": "City and County of San Francisco",
+    "latitude": "37.77823000",
+    "longitude": "-122.44250000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 191,
+    "name": "City of Industry",
+    "latitude": "34.01583333",
+    "longitude": "-117.95083333",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 192,
+    "name": "Claremont",
+    "latitude": "34.09668000",
+    "longitude": "-117.71978000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 193,
+    "name": "Clay",
+    "latitude": "38.33602000",
+    "longitude": "-121.15939000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 194,
+    "name": "Clayton",
+    "latitude": "37.94103000",
+    "longitude": "-121.93579000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 195,
+    "name": "Clear Lake Riviera",
+    "latitude": "38.95406000",
+    "longitude": "-122.72082000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 196,
+    "name": "Clearlake",
+    "latitude": "38.95823000",
+    "longitude": "-122.62637000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 197,
+    "name": "Clearlake Oaks",
+    "latitude": "39.02628000",
+    "longitude": "-122.67193000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 198,
+    "name": "Cloverdale",
+    "latitude": "38.80546000",
+    "longitude": "-123.01722000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 199,
+    "name": "Clovis",
+    "latitude": "36.82523000",
+    "longitude": "-119.70292000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 200,
+    "name": "Coachella",
+    "latitude": "33.68030000",
+    "longitude": "-116.17389000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 201,
+    "name": "Coalinga",
+    "latitude": "36.13968000",
+    "longitude": "-120.36015000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 202,
+    "name": "Coarsegold",
+    "latitude": "37.26217000",
+    "longitude": "-119.70098000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 203,
+    "name": "Cobb",
+    "latitude": "38.82213000",
+    "longitude": "-122.72305000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 204,
+    "name": "Colfax",
+    "latitude": "39.10073000",
+    "longitude": "-120.95328000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 205,
+    "name": "Collierville",
+    "latitude": "38.21464000",
+    "longitude": "-121.26884000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 206,
+    "name": "Colma",
+    "latitude": "37.67688000",
+    "longitude": "-122.45969000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 207,
+    "name": "Colton",
+    "latitude": "34.07390000",
+    "longitude": "-117.31365000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 208,
+    "name": "Columbia",
+    "latitude": "38.03631000",
+    "longitude": "-120.40131000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 209,
+    "name": "Colusa",
+    "latitude": "39.21433000",
+    "longitude": "-122.00942000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 210,
+    "name": "Colusa County",
+    "latitude": "39.17757000",
+    "longitude": "-122.23703000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 211,
+    "name": "Commerce",
+    "latitude": "34.00057000",
+    "longitude": "-118.15979000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 212,
+    "name": "Compton",
+    "latitude": "33.89585000",
+    "longitude": "-118.22007000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 213,
+    "name": "Concord",
+    "latitude": "37.97798000",
+    "longitude": "-122.03107000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 214,
+    "name": "Contra Costa",
+    "latitude": "37.92342000",
+    "longitude": "-121.95121000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 215,
+    "name": "Contra Costa Centre",
+    "latitude": "37.92752000",
+    "longitude": "-122.05786000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 216,
+    "name": "Cool",
+    "latitude": "38.88722000",
+    "longitude": "-121.01472000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 217,
+    "name": "Copperopolis",
+    "latitude": "37.98104000",
+    "longitude": "-120.64187000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 218,
+    "name": "Corcoran",
+    "latitude": "36.09801000",
+    "longitude": "-119.56040000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 219,
+    "name": "Corning",
+    "latitude": "39.92766000",
+    "longitude": "-122.17916000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 220,
+    "name": "Corona",
+    "latitude": "33.87529000",
+    "longitude": "-117.56644000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 221,
+    "name": "Coronado",
+    "latitude": "32.68589000",
+    "longitude": "-117.18309000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 222,
+    "name": "Corralitos",
+    "latitude": "36.98856000",
+    "longitude": "-121.80634000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 223,
+    "name": "Corte Madera",
+    "latitude": "37.92548000",
+    "longitude": "-122.52748000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 224,
+    "name": "Costa Mesa",
+    "latitude": "33.64113000",
+    "longitude": "-117.91867000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 225,
+    "name": "Cotati",
+    "latitude": "38.32686000",
+    "longitude": "-122.70721000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 226,
+    "name": "Coto De Caza",
+    "latitude": "33.60419000",
+    "longitude": "-117.58699000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 227,
+    "name": "Cottonwood",
+    "latitude": "40.38571000",
+    "longitude": "-122.28084000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 228,
+    "name": "Country Club",
+    "latitude": "37.96881000",
+    "longitude": "-121.34078000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 229,
+    "name": "Covelo",
+    "latitude": "39.79327000",
+    "longitude": "-123.24922000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 230,
+    "name": "Covina",
+    "latitude": "34.09001000",
+    "longitude": "-117.89034000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 231,
+    "name": "Crescent City",
+    "latitude": "41.75595000",
+    "longitude": "-124.20175000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 232,
+    "name": "Crest",
+    "latitude": "32.80727000",
+    "longitude": "-116.86808000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 233,
+    "name": "Crestline",
+    "latitude": "34.24195000",
+    "longitude": "-117.28560000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 234,
+    "name": "Crockett",
+    "latitude": "38.05242000",
+    "longitude": "-122.21302000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 235,
+    "name": "Cudahy",
+    "latitude": "33.96057000",
+    "longitude": "-118.18535000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 236,
+    "name": "Culver City",
+    "latitude": "34.02112000",
+    "longitude": "-118.39647000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 237,
+    "name": "Cupertino",
+    "latitude": "37.32300000",
+    "longitude": "-122.03218000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 238,
+    "name": "Cutler",
+    "latitude": "36.52328000",
+    "longitude": "-119.28678000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 239,
+    "name": "Cutten",
+    "latitude": "40.76985000",
+    "longitude": "-124.14284000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 240,
+    "name": "Cypress",
+    "latitude": "33.81696000",
+    "longitude": "-118.03729000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 241,
+    "name": "Daly City",
+    "latitude": "37.70577000",
+    "longitude": "-122.46192000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 242,
+    "name": "Dana Point",
+    "latitude": "33.46697000",
+    "longitude": "-117.69811000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 243,
+    "name": "Danville",
+    "latitude": "37.82159000",
+    "longitude": "-121.99996000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 244,
+    "name": "Davis",
+    "latitude": "38.54491000",
+    "longitude": "-121.74052000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 245,
+    "name": "Day Valley",
+    "latitude": "37.03578000",
+    "longitude": "-121.86246000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 246,
+    "name": "Deer Park",
+    "latitude": "38.68185000",
+    "longitude": "-120.82327000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 247,
+    "name": "Del Aire",
+    "latitude": "33.91613000",
+    "longitude": "-118.36952000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 248,
+    "name": "Del Mar",
+    "latitude": "32.95949000",
+    "longitude": "-117.26531000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 249,
+    "name": "Del Monte Forest",
+    "latitude": "36.58635000",
+    "longitude": "-121.94746000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 250,
+    "name": "Del Norte",
+    "latitude": "41.74496000",
+    "longitude": "-123.95781000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 251,
+    "name": "Del Rey",
+    "latitude": "36.65912000",
+    "longitude": "-119.59374000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 252,
+    "name": "Del Rey Oaks",
+    "latitude": "36.59329000",
+    "longitude": "-121.83495000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 253,
+    "name": "Del Rio",
+    "latitude": "37.74354000",
+    "longitude": "-121.01188000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 254,
+    "name": "Delano",
+    "latitude": "35.76884000",
+    "longitude": "-119.24705000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 255,
+    "name": "Delhi",
+    "latitude": "37.43216000",
+    "longitude": "-120.77854000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 256,
+    "name": "Denair",
+    "latitude": "37.52632000",
+    "longitude": "-120.79687000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 257,
+    "name": "Descanso",
+    "latitude": "32.85283000",
+    "longitude": "-116.61585000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 258,
+    "name": "Desert Edge",
+    "latitude": "33.92417000",
+    "longitude": "-116.44139000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 259,
+    "name": "Desert Hot Springs",
+    "latitude": "33.96173000",
+    "longitude": "-116.50353000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 260,
+    "name": "Desert Shores",
+    "latitude": "33.40420000",
+    "longitude": "-116.03972000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 261,
+    "name": "Desert View Highlands",
+    "latitude": "34.59082000",
+    "longitude": "-118.15257000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 262,
+    "name": "Diablo",
+    "latitude": "37.83493000",
+    "longitude": "-121.95801000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 263,
+    "name": "Diamond Bar",
+    "latitude": "34.02862000",
+    "longitude": "-117.81034000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 264,
+    "name": "Diamond Springs",
+    "latitude": "38.69463000",
+    "longitude": "-120.81494000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 265,
+    "name": "Dinuba",
+    "latitude": "36.54328000",
+    "longitude": "-119.38707000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 266,
+    "name": "Discovery Bay",
+    "latitude": "37.90854000",
+    "longitude": "-121.60023000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 267,
+    "name": "Dixon",
+    "latitude": "38.44546000",
+    "longitude": "-121.82330000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 268,
+    "name": "Dixon Lane-Meadow Creek",
+    "latitude": "37.38639000",
+    "longitude": "-118.41527000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 269,
+    "name": "Dogtown",
+    "latitude": "38.21381000",
+    "longitude": "-121.08855000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 270,
+    "name": "Dollar Point",
+    "latitude": "39.18796000",
+    "longitude": "-120.09991000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 271,
+    "name": "Dos Palos",
+    "latitude": "36.98606000",
+    "longitude": "-120.62657000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 272,
+    "name": "Downey",
+    "latitude": "33.94001000",
+    "longitude": "-118.13257000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 273,
+    "name": "Downieville",
+    "latitude": "39.55934000",
+    "longitude": "-120.82689000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 274,
+    "name": "Duarte",
+    "latitude": "34.13945000",
+    "longitude": "-117.97729000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 275,
+    "name": "Dublin",
+    "latitude": "37.70215000",
+    "longitude": "-121.93579000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 276,
+    "name": "Dunnigan",
+    "latitude": "38.88518000",
+    "longitude": "-121.96969000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 277,
+    "name": "Dunsmuir",
+    "latitude": "41.20821000",
+    "longitude": "-122.27195000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 278,
+    "name": "Durham",
+    "latitude": "39.64627000",
+    "longitude": "-121.79998000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 279,
+    "name": "Earlimart",
+    "latitude": "35.88412000",
+    "longitude": "-119.27233000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 280,
+    "name": "East Foothills",
+    "latitude": "37.38105000",
+    "longitude": "-121.81745000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 281,
+    "name": "East Hemet",
+    "latitude": "33.74002000",
+    "longitude": "-116.93891000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 282,
+    "name": "East La Mirada",
+    "latitude": "33.92446000",
+    "longitude": "-117.98895000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 283,
+    "name": "East Los Angeles",
+    "latitude": "34.02390000",
+    "longitude": "-118.17202000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 284,
+    "name": "East Oakdale",
+    "latitude": "37.78798000",
+    "longitude": "-120.80382000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 285,
+    "name": "East Palo Alto",
+    "latitude": "37.46883000",
+    "longitude": "-122.14108000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 286,
+    "name": "East Pasadena",
+    "latitude": "34.13814000",
+    "longitude": "-118.07384000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 287,
+    "name": "East Porterville",
+    "latitude": "36.05745000",
+    "longitude": "-118.97566000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 288,
+    "name": "East Quincy",
+    "latitude": "39.93406000",
+    "longitude": "-120.89801000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 289,
+    "name": "East Rancho Dominguez",
+    "latitude": "33.89807000",
+    "longitude": "-118.19535000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 290,
+    "name": "East Richmond Heights",
+    "latitude": "37.94492000",
+    "longitude": "-122.31358000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 291,
+    "name": "East San Gabriel",
+    "latitude": "34.09168000",
+    "longitude": "-118.09118000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 292,
+    "name": "East Sonora",
+    "latitude": "37.97770000",
+    "longitude": "-120.36130000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 293,
+    "name": "Easton",
+    "latitude": "36.65023000",
+    "longitude": "-119.79070000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 294,
+    "name": "Eastvale",
+    "latitude": "33.96358000",
+    "longitude": "-117.56418000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 295,
+    "name": "Echo Park",
+    "latitude": "34.07808000",
+    "longitude": "-118.26066000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 296,
+    "name": "Edwards Air Force Base",
+    "latitude": "34.91637000",
+    "longitude": "-117.93535000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 297,
+    "name": "El Cajon",
+    "latitude": "32.79477000",
+    "longitude": "-116.96253000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 298,
+    "name": "El Centro",
+    "latitude": "32.79200000",
+    "longitude": "-115.56305000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 299,
+    "name": "El Cerrito",
+    "latitude": "37.91576000",
+    "longitude": "-122.31164000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 300,
+    "name": "El Cerrito Corona",
+    "latitude": "33.84057000",
+    "longitude": "-117.52283000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 301,
+    "name": "El Dorado",
+    "latitude": "38.77874000",
+    "longitude": "-120.52465000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 302,
+    "name": "El Dorado Hills",
+    "latitude": "38.68574000",
+    "longitude": "-121.08217000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 303,
+    "name": "El Granada",
+    "latitude": "37.50272000",
+    "longitude": "-122.46942000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 304,
+    "name": "El Monte",
+    "latitude": "34.06862000",
+    "longitude": "-118.02757000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 305,
+    "name": "El Rio",
+    "latitude": "34.23578000",
+    "longitude": "-119.16383000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 306,
+    "name": "El Segundo",
+    "latitude": "33.91918000",
+    "longitude": "-118.41647000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 307,
+    "name": "El Sobrante",
+    "latitude": "37.97715000",
+    "longitude": "-122.29525000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 308,
+    "name": "El Verano",
+    "latitude": "38.29769000",
+    "longitude": "-122.49165000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 309,
+    "name": "Eldridge",
+    "latitude": "38.34880000",
+    "longitude": "-122.51081000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 310,
+    "name": "Elk Grove",
+    "latitude": "38.40880000",
+    "longitude": "-121.37162000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 311,
+    "name": "Elkhorn",
+    "latitude": "36.82440000",
+    "longitude": "-121.74050000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 312,
+    "name": "Elverta",
+    "latitude": "38.71379000",
+    "longitude": "-121.46273000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 313,
+    "name": "Emerald Lake Hills",
+    "latitude": "37.46466000",
+    "longitude": "-122.26802000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 314,
+    "name": "Emeryville",
+    "latitude": "37.83132000",
+    "longitude": "-122.28525000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 315,
+    "name": "Empire",
+    "latitude": "37.63826000",
+    "longitude": "-120.90215000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 316,
+    "name": "Encinitas",
+    "latitude": "33.03699000",
+    "longitude": "-117.29198000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 317,
+    "name": "Encino",
+    "latitude": "34.15917000",
+    "longitude": "-118.50119000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 318,
+    "name": "Escalon",
+    "latitude": "37.79781000",
+    "longitude": "-120.99792000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 319,
+    "name": "Escondido",
+    "latitude": "33.11921000",
+    "longitude": "-117.08642000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 320,
+    "name": "Esparto",
+    "latitude": "38.69213000",
+    "longitude": "-122.01719000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 321,
+    "name": "Eucalyptus Hills",
+    "latitude": "32.87977000",
+    "longitude": "-116.94669000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 322,
+    "name": "Eureka",
+    "latitude": "40.80207000",
+    "longitude": "-124.16367000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 323,
+    "name": "Exeter",
+    "latitude": "36.29606000",
+    "longitude": "-119.14205000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 324,
+    "name": "Fair Oaks",
+    "latitude": "38.64463000",
+    "longitude": "-121.27217000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 325,
+    "name": "Fairbanks Ranch",
+    "latitude": "32.99393000",
+    "longitude": "-117.18726000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 326,
+    "name": "Fairfax",
+    "latitude": "37.98715000",
+    "longitude": "-122.58887000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 327,
+    "name": "Fairfield",
+    "latitude": "38.24936000",
+    "longitude": "-122.03997000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 328,
+    "name": "Fairmead",
+    "latitude": "37.07633000",
+    "longitude": "-120.19295000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 329,
+    "name": "Fairview",
+    "latitude": "37.67854000",
+    "longitude": "-122.04580000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 330,
+    "name": "Fallbrook",
+    "latitude": "33.37642000",
+    "longitude": "-117.25115000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 331,
+    "name": "Farmersville",
+    "latitude": "36.29773000",
+    "longitude": "-119.20678000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 332,
+    "name": "Felton",
+    "latitude": "37.05134000",
+    "longitude": "-122.07330000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 333,
+    "name": "Ferndale",
+    "latitude": "40.57624000",
+    "longitude": "-124.26394000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 334,
+    "name": "Fetters Hot Springs-Agua Caliente",
+    "latitude": "38.32140000",
+    "longitude": "-122.48682000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 335,
+    "name": "Fillmore",
+    "latitude": "34.39916000",
+    "longitude": "-118.91815000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 336,
+    "name": "Firebaugh",
+    "latitude": "36.85884000",
+    "longitude": "-120.45601000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 337,
+    "name": "Florence-Graham",
+    "latitude": "33.96772000",
+    "longitude": "-118.24438000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 338,
+    "name": "Florin",
+    "latitude": "38.49602000",
+    "longitude": "-121.40884000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 339,
+    "name": "Folsom",
+    "latitude": "38.67796000",
+    "longitude": "-121.17606000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 340,
+    "name": "Fontana",
+    "latitude": "34.09223000",
+    "longitude": "-117.43505000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 341,
+    "name": "Foothill Farms",
+    "latitude": "38.67877000",
+    "longitude": "-121.35114000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 342,
+    "name": "Foothill Ranch",
+    "latitude": "33.68641000",
+    "longitude": "-117.66088000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 343,
+    "name": "Ford City",
+    "latitude": "35.15441000",
+    "longitude": "-119.45623000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 344,
+    "name": "Forest Meadows",
+    "latitude": "38.16851000",
+    "longitude": "-120.40659000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 345,
+    "name": "Forest Ranch",
+    "latitude": "39.88211000",
+    "longitude": "-121.67275000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 346,
+    "name": "Foresthill",
+    "latitude": "39.02018000",
+    "longitude": "-120.81799000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 347,
+    "name": "Forestville",
+    "latitude": "38.47352000",
+    "longitude": "-122.89027000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 348,
+    "name": "Fort Bragg",
+    "latitude": "39.44572000",
+    "longitude": "-123.80529000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 349,
+    "name": "Fort Irwin",
+    "latitude": "35.26275000",
+    "longitude": "-116.68475000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 350,
+    "name": "Fortuna",
+    "latitude": "40.59819000",
+    "longitude": "-124.15728000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 351,
+    "name": "Foster City",
+    "latitude": "37.55855000",
+    "longitude": "-122.27108000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 352,
+    "name": "Fountain Valley",
+    "latitude": "33.70918000",
+    "longitude": "-117.95367000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 353,
+    "name": "Fowler",
+    "latitude": "36.63051000",
+    "longitude": "-119.67847000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 354,
+    "name": "Frazier Park",
+    "latitude": "34.82276000",
+    "longitude": "-118.94482000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 355,
+    "name": "Freedom",
+    "latitude": "36.93523000",
+    "longitude": "-121.77301000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 356,
+    "name": "Fremont",
+    "latitude": "37.54827000",
+    "longitude": "-121.98857000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 357,
+    "name": "French Camp",
+    "latitude": "37.88409000",
+    "longitude": "-121.27106000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 358,
+    "name": "Fresno",
+    "latitude": "36.74773000",
+    "longitude": "-119.77237000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 359,
+    "name": "Fresno County",
+    "latitude": "36.75818000",
+    "longitude": "-119.64932000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 360,
+    "name": "Fruitridge Pocket",
+    "latitude": "38.53265000",
+    "longitude": "-121.45581000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 361,
+    "name": "Fullerton",
+    "latitude": "33.87029000",
+    "longitude": "-117.92534000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 362,
+    "name": "Galt",
+    "latitude": "38.25464000",
+    "longitude": "-121.29995000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 363,
+    "name": "Garden Acres",
+    "latitude": "37.96381000",
+    "longitude": "-121.22939000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 364,
+    "name": "Garden Grove",
+    "latitude": "33.77391000",
+    "longitude": "-117.94145000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 365,
+    "name": "Gardena",
+    "latitude": "33.88835000",
+    "longitude": "-118.30896000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 366,
+    "name": "Garnet",
+    "latitude": "33.90196000",
+    "longitude": "-116.54557000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 367,
+    "name": "Georgetown",
+    "latitude": "38.90684000",
+    "longitude": "-120.83855000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 368,
+    "name": "Gerber",
+    "latitude": "40.05627000",
+    "longitude": "-122.15027000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 369,
+    "name": "Gilroy",
+    "latitude": "37.00578000",
+    "longitude": "-121.56828000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 370,
+    "name": "Glen Avon",
+    "latitude": "34.01168000",
+    "longitude": "-117.48477000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 371,
+    "name": "Glendale",
+    "latitude": "34.14251000",
+    "longitude": "-118.25508000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 372,
+    "name": "Glendora",
+    "latitude": "34.13612000",
+    "longitude": "-117.86534000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 373,
+    "name": "Glenn",
+    "latitude": "39.59840000",
+    "longitude": "-122.39221000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 374,
+    "name": "Gold River",
+    "latitude": "38.62629000",
+    "longitude": "-121.24662000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 375,
+    "name": "Golden Hills",
+    "latitude": "35.14247000",
+    "longitude": "-118.49036000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 376,
+    "name": "Goleta",
+    "latitude": "34.43583000",
+    "longitude": "-119.82764000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 377,
+    "name": "Gonzales",
+    "latitude": "36.50663000",
+    "longitude": "-121.44438000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 378,
+    "name": "Good Hope",
+    "latitude": "33.76474000",
+    "longitude": "-117.26698000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 379,
+    "name": "Goshen",
+    "latitude": "36.35106000",
+    "longitude": "-119.42012000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 380,
+    "name": "Grand Terrace",
+    "latitude": "34.03390000",
+    "longitude": "-117.31365000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 381,
+    "name": "Granite Bay",
+    "latitude": "38.76323000",
+    "longitude": "-121.16384000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 382,
+    "name": "Granite Hills",
+    "latitude": "32.80311000",
+    "longitude": "-116.90475000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 383,
+    "name": "Grass Valley",
+    "latitude": "39.21906000",
+    "longitude": "-121.06106000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 384,
+    "name": "Graton",
+    "latitude": "38.43630000",
+    "longitude": "-122.86972000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 385,
+    "name": "Green Acres",
+    "latitude": "33.73808000",
+    "longitude": "-117.07642000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 386,
+    "name": "Green Valley",
+    "latitude": "38.25297000",
+    "longitude": "-122.16219000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 387,
+    "name": "Greenfield",
+    "latitude": "36.32080000",
+    "longitude": "-121.24381000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 388,
+    "name": "Greenville",
+    "latitude": "40.13961000",
+    "longitude": "-120.95107000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 389,
+    "name": "Gridley",
+    "latitude": "39.36378000",
+    "longitude": "-121.69358000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 390,
+    "name": "Grover Beach",
+    "latitude": "35.12164000",
+    "longitude": "-120.62128000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 391,
+    "name": "Guadalupe",
+    "latitude": "34.97164000",
+    "longitude": "-120.57184000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 392,
+    "name": "Guerneville",
+    "latitude": "38.50186000",
+    "longitude": "-122.99611000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 393,
+    "name": "Gustine",
+    "latitude": "37.25772000",
+    "longitude": "-120.99882000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 394,
+    "name": "Hacienda Heights",
+    "latitude": "33.99307000",
+    "longitude": "-117.96868000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 395,
+    "name": "Half Moon Bay",
+    "latitude": "37.46355000",
+    "longitude": "-122.42859000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 396,
+    "name": "Hamilton City",
+    "latitude": "39.74266000",
+    "longitude": "-122.01359000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 397,
+    "name": "Hanford",
+    "latitude": "36.32745000",
+    "longitude": "-119.64568000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 398,
+    "name": "Happy Camp",
+    "latitude": "41.79275000",
+    "longitude": "-123.38080000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 399,
+    "name": "Harbison Canyon",
+    "latitude": "32.82033000",
+    "longitude": "-116.83002000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 400,
+    "name": "Hartley",
+    "latitude": "38.41713000",
+    "longitude": "-121.94691000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 401,
+    "name": "Hawaiian Gardens",
+    "latitude": "33.83140000",
+    "longitude": "-118.07284000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 402,
+    "name": "Hawthorne",
+    "latitude": "33.91640000",
+    "longitude": "-118.35257000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 403,
+    "name": "Hayfork",
+    "latitude": "40.55431000",
+    "longitude": "-123.18308000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 404,
+    "name": "Hayward",
+    "latitude": "37.66882000",
+    "longitude": "-122.08080000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 405,
+    "name": "Healdsburg",
+    "latitude": "38.61047000",
+    "longitude": "-122.86916000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 406,
+    "name": "Heber",
+    "latitude": "32.73089000",
+    "longitude": "-115.52972000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 407,
+    "name": "Hemet",
+    "latitude": "33.74761000",
+    "longitude": "-116.97307000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 408,
+    "name": "Herald",
+    "latitude": "38.29575000",
+    "longitude": "-121.24439000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 409,
+    "name": "Hercules",
+    "latitude": "38.01714000",
+    "longitude": "-122.28858000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 410,
+    "name": "Hermosa Beach",
+    "latitude": "33.86224000",
+    "longitude": "-118.39952000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 411,
+    "name": "Hesperia",
+    "latitude": "34.42639000",
+    "longitude": "-117.30088000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 412,
+    "name": "Hidden Hills",
+    "latitude": "34.16028000",
+    "longitude": "-118.65231000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 413,
+    "name": "Hidden Meadows",
+    "latitude": "33.22531000",
+    "longitude": "-117.11253000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 414,
+    "name": "Hidden Valley Lake",
+    "latitude": "38.80796000",
+    "longitude": "-122.55832000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 415,
+    "name": "Highgrove",
+    "latitude": "34.01585000",
+    "longitude": "-117.33338000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 416,
+    "name": "Highland",
+    "latitude": "34.12834000",
+    "longitude": "-117.20865000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 417,
+    "name": "Highlands-Baywood Park",
+    "latitude": "37.52272000",
+    "longitude": "-122.34506000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 418,
+    "name": "Hillsborough",
+    "latitude": "37.57410000",
+    "longitude": "-122.37942000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 419,
+    "name": "Hilmar-Irwin",
+    "latitude": "37.40454000",
+    "longitude": "-120.85042000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 420,
+    "name": "Hollister",
+    "latitude": "36.85245000",
+    "longitude": "-121.40160000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 421,
+    "name": "Hollywood",
+    "latitude": "34.09834000",
+    "longitude": "-118.32674000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 422,
+    "name": "Holtville",
+    "latitude": "32.81116000",
+    "longitude": "-115.38026000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 423,
+    "name": "Home Garden",
+    "latitude": "36.30328000",
+    "longitude": "-119.63624000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 424,
+    "name": "Home Gardens",
+    "latitude": "33.87807000",
+    "longitude": "-117.52088000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 425,
+    "name": "Homeland",
+    "latitude": "33.74308000",
+    "longitude": "-117.10920000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 426,
+    "name": "Hughson",
+    "latitude": "37.59688000",
+    "longitude": "-120.86604000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 427,
+    "name": "Humboldt County",
+    "latitude": "40.70501000",
+    "longitude": "-123.91582000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 428,
+    "name": "Humboldt Hill",
+    "latitude": "40.72596000",
+    "longitude": "-124.18978000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 429,
+    "name": "Huntington Beach",
+    "latitude": "33.66030000",
+    "longitude": "-117.99923000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 430,
+    "name": "Huntington Park",
+    "latitude": "33.98168000",
+    "longitude": "-118.22507000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 431,
+    "name": "Huron",
+    "latitude": "36.20273000",
+    "longitude": "-120.10292000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 432,
+    "name": "Hydesville",
+    "latitude": "40.54763000",
+    "longitude": "-124.09727000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 433,
+    "name": "Idyllwild",
+    "latitude": "33.74002000",
+    "longitude": "-116.71891000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 434,
+    "name": "Idyllwild-Pine Cove",
+    "latitude": "33.74429000",
+    "longitude": "-116.72587000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 435,
+    "name": "Imperial",
+    "latitude": "32.84755000",
+    "longitude": "-115.56944000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 436,
+    "name": "Imperial Beach",
+    "latitude": "32.58394000",
+    "longitude": "-117.11308000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 437,
+    "name": "Imperial County",
+    "latitude": "33.03951000",
+    "longitude": "-115.36532000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 438,
+    "name": "Indian Wells",
+    "latitude": "33.71791000",
+    "longitude": "-116.34311000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 439,
+    "name": "Indio",
+    "latitude": "33.72070000",
+    "longitude": "-116.21677000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 440,
+    "name": "Inglewood",
+    "latitude": "33.96168000",
+    "longitude": "-118.35313000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 441,
+    "name": "Interlaken",
+    "latitude": "36.95134000",
+    "longitude": "-121.73384000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 442,
+    "name": "Inverness",
+    "latitude": "38.10103000",
+    "longitude": "-122.85694000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 443,
+    "name": "Inyo",
+    "latitude": "36.51113000",
+    "longitude": "-117.41079000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 444,
+    "name": "Inyokern",
+    "latitude": "35.64690000",
+    "longitude": "-117.81257000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 445,
+    "name": "Ione",
+    "latitude": "38.35269000",
+    "longitude": "-120.93272000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 446,
+    "name": "Irvine",
+    "latitude": "33.66946000",
+    "longitude": "-117.82311000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 447,
+    "name": "Irwindale",
+    "latitude": "34.10695000",
+    "longitude": "-117.93534000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 448,
+    "name": "Isla Vista",
+    "latitude": "34.41333000",
+    "longitude": "-119.86097000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 449,
+    "name": "Ivanhoe",
+    "latitude": "36.38717000",
+    "longitude": "-119.21789000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 450,
+    "name": "Jackson",
+    "latitude": "38.34880000",
+    "longitude": "-120.77410000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 451,
+    "name": "Jamestown",
+    "latitude": "37.95326000",
+    "longitude": "-120.42270000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 452,
+    "name": "Jamul",
+    "latitude": "32.71700000",
+    "longitude": "-116.87613000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 453,
+    "name": "Janesville",
+    "latitude": "40.29656000",
+    "longitude": "-120.52411000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 454,
+    "name": "Johnstonville",
+    "latitude": "40.38434000",
+    "longitude": "-120.58745000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 455,
+    "name": "Joshua Tree",
+    "latitude": "34.13473000",
+    "longitude": "-116.31307000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 456,
+    "name": "Julian",
+    "latitude": "33.07866000",
+    "longitude": "-116.60196000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 457,
+    "name": "Jurupa Valley",
+    "latitude": "33.99251000",
+    "longitude": "-117.51644000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 458,
+    "name": "Kelseyville",
+    "latitude": "38.97795000",
+    "longitude": "-122.83944000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 459,
+    "name": "Kennedy",
+    "latitude": "37.92992000",
+    "longitude": "-121.25272000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 460,
+    "name": "Kensington",
+    "latitude": "37.91048000",
+    "longitude": "-122.28025000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 461,
+    "name": "Kentfield",
+    "latitude": "37.95215000",
+    "longitude": "-122.55720000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 462,
+    "name": "Kenwood",
+    "latitude": "38.41380000",
+    "longitude": "-122.54609000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 463,
+    "name": "Kerman",
+    "latitude": "36.72356000",
+    "longitude": "-120.05988000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 464,
+    "name": "Kern",
+    "latitude": "35.34285000",
+    "longitude": "-118.72990000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 465,
+    "name": "Kernville",
+    "latitude": "35.75467000",
+    "longitude": "-118.42536000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 466,
+    "name": "Kettleman City",
+    "latitude": "36.00829000",
+    "longitude": "-119.96180000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 467,
+    "name": "Keyes",
+    "latitude": "37.55660000",
+    "longitude": "-120.91549000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 468,
+    "name": "King City",
+    "latitude": "36.21274000",
+    "longitude": "-121.12603000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 469,
+    "name": "Kings",
+    "latitude": "36.07536000",
+    "longitude": "-119.81550000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 470,
+    "name": "Kings Beach",
+    "latitude": "39.23768000",
+    "longitude": "-120.02658000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 471,
+    "name": "Kingsburg",
+    "latitude": "36.51384000",
+    "longitude": "-119.55402000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 472,
+    "name": "Knightsen",
+    "latitude": "37.96881000",
+    "longitude": "-121.66801000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 473,
+    "name": "Koreatown",
+    "latitude": "34.05779000",
+    "longitude": "-118.30091000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 474,
+    "name": "La Cañada Flintridge",
+    "latitude": "34.19917000",
+    "longitude": "-118.18785000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 475,
+    "name": "La Crescenta-Montrose",
+    "latitude": "34.23216000",
+    "longitude": "-118.23529000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 476,
+    "name": "La Habra",
+    "latitude": "33.93196000",
+    "longitude": "-117.94617000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 477,
+    "name": "La Habra Heights",
+    "latitude": "33.96085000",
+    "longitude": "-117.95062000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 478,
+    "name": "La Jolla",
+    "latitude": "32.84727000",
+    "longitude": "-117.27420000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 479,
+    "name": "La Mesa",
+    "latitude": "32.76783000",
+    "longitude": "-117.02308000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 480,
+    "name": "La Mirada",
+    "latitude": "33.91724000",
+    "longitude": "-118.01201000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 481,
+    "name": "La Palma",
+    "latitude": "33.84640000",
+    "longitude": "-118.04673000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 482,
+    "name": "La Presa",
+    "latitude": "32.70811000",
+    "longitude": "-116.99725000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 483,
+    "name": "La Puente",
+    "latitude": "34.02001000",
+    "longitude": "-117.94951000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 484,
+    "name": "La Quinta",
+    "latitude": "33.66336000",
+    "longitude": "-116.31001000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 485,
+    "name": "La Riviera",
+    "latitude": "38.56685000",
+    "longitude": "-121.35690000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 486,
+    "name": "La Selva Beach",
+    "latitude": "36.93662000",
+    "longitude": "-121.86468000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 487,
+    "name": "La Verne",
+    "latitude": "34.10084000",
+    "longitude": "-117.76784000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 488,
+    "name": "Ladera",
+    "latitude": "37.39994000",
+    "longitude": "-122.19830000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 489,
+    "name": "Ladera Heights",
+    "latitude": "33.99418000",
+    "longitude": "-118.37535000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 490,
+    "name": "Ladera Ranch",
+    "latitude": "33.57086000",
+    "longitude": "-117.63561000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 491,
+    "name": "Lafayette",
+    "latitude": "37.88576000",
+    "longitude": "-122.11802000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 492,
+    "name": "Laguna",
+    "latitude": "38.42102000",
+    "longitude": "-121.42384000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 493,
+    "name": "Laguna Beach",
+    "latitude": "33.54225000",
+    "longitude": "-117.78311000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 494,
+    "name": "Laguna Hills",
+    "latitude": "33.61252000",
+    "longitude": "-117.71283000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 495,
+    "name": "Laguna Niguel",
+    "latitude": "33.52253000",
+    "longitude": "-117.70755000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 496,
+    "name": "Laguna Woods",
+    "latitude": "33.61030000",
+    "longitude": "-117.72533000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 497,
+    "name": "Lagunitas-Forest Knolls",
+    "latitude": "38.01793000",
+    "longitude": "-122.69124000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 498,
+    "name": "Lake",
+    "latitude": "39.09965000",
+    "longitude": "-122.75318000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  },
+  {
+    "id": 499,
+    "name": "Lake Arrowhead",
+    "latitude": "34.24834000",
+    "longitude": "-117.18921000",
+    "stateId": 1416,
+    "stateCode": "CA",
+    "countryCode": "US"
+  }
+]

@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 0,
+    "name": "Abadia dos Dourados",
+    "latitude": "-18.36347000",
+    "longitude": "-47.46997000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 1,
+    "name": "Abaeté",
+    "latitude": "-19.11099000",
+    "longitude": "-45.43051000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 2,
+    "name": "Abre Campo",
+    "latitude": "-20.27265000",
+    "longitude": "-42.43908000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 3,
+    "name": "Acaiaca",
+    "latitude": "-20.40360000",
+    "longitude": "-43.10077000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 4,
+    "name": "Açucena",
+    "latitude": "-19.07306000",
+    "longitude": "-42.54639000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 5,
+    "name": "Água Boa",
+    "latitude": "-18.06423000",
+    "longitude": "-42.23027000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 6,
+    "name": "Água Comprida",
+    "latitude": "-19.99124000",
+    "longitude": "-48.11035000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 7,
+    "name": "Aguanil",
+    "latitude": "-20.96959000",
+    "longitude": "-45.41717000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 8,
+    "name": "Águas Formosas",
+    "latitude": "-17.08222000",
+    "longitude": "-40.93583000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 9,
+    "name": "Águas Vermelhas",
+    "latitude": "-15.74722000",
+    "longitude": "-41.46000000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 10,
+    "name": "Aimorés",
+    "latitude": "-19.62552000",
+    "longitude": "-41.20955000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 11,
+    "name": "Aiuruoca",
+    "latitude": "-21.94703000",
+    "longitude": "-44.64779000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 12,
+    "name": "Alagoa",
+    "latitude": "-22.18147000",
+    "longitude": "-44.66024000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 13,
+    "name": "Albertina",
+    "latitude": "-22.19908000",
+    "longitude": "-46.62076000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 14,
+    "name": "Além Paraíba",
+    "latitude": "-21.80936000",
+    "longitude": "-42.75740000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 15,
+    "name": "Alfenas",
+    "latitude": "-21.39287000",
+    "longitude": "-45.99521000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 16,
+    "name": "Alfredo Vasconcelos",
+    "latitude": "-21.14240000",
+    "longitude": "-43.71114000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 17,
+    "name": "Almenara",
+    "latitude": "-16.10053000",
+    "longitude": "-40.71006000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 18,
+    "name": "Alpercata",
+    "latitude": "-18.98379000",
+    "longitude": "-42.00135000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 19,
+    "name": "Alpinópolis",
+    "latitude": "-20.81822000",
+    "longitude": "-46.37937000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 20,
+    "name": "Alterosa",
+    "latitude": "-21.21904000",
+    "longitude": "-46.18694000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 21,
+    "name": "Alto Caparaó",
+    "latitude": "-20.44669000",
+    "longitude": "-41.87096000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 22,
+    "name": "Alto Jequitibá",
+    "latitude": "-20.43703000",
+    "longitude": "-41.95113000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 23,
+    "name": "Alto Rio Doce",
+    "latitude": "-21.01929000",
+    "longitude": "-43.40538000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 24,
+    "name": "Alvarenga",
+    "latitude": "-19.39870000",
+    "longitude": "-41.68138000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 25,
+    "name": "Alvinópolis",
+    "latitude": "-20.12078000",
+    "longitude": "-43.15399000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 26,
+    "name": "Alvorada de Minas",
+    "latitude": "-18.79532000",
+    "longitude": "-43.37002000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 27,
+    "name": "Amparo da Serra",
+    "latitude": "-20.52383000",
+    "longitude": "-42.79878000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 28,
+    "name": "Andradas",
+    "latitude": "-22.06984000",
+    "longitude": "-46.57230000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 29,
+    "name": "Andrelândia",
+    "latitude": "-21.71132000",
+    "longitude": "-44.27912000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 30,
+    "name": "Angelândia",
+    "latitude": "-17.72394000",
+    "longitude": "-42.26234000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 31,
+    "name": "Antônio Carlos",
+    "latitude": "-21.40838000",
+    "longitude": "-43.76937000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 32,
+    "name": "Antônio Dias",
+    "latitude": "-19.56225000",
+    "longitude": "-42.88855000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 33,
+    "name": "Antônio Prado de Minas",
+    "latitude": "-21.02658000",
+    "longitude": "-42.15497000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 34,
+    "name": "Araçaí",
+    "latitude": "-19.24200000",
+    "longitude": "-44.22429000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 35,
+    "name": "Aracitaba",
+    "latitude": "-21.35243000",
+    "longitude": "-43.40862000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 36,
+    "name": "Araçuaí",
+    "latitude": "-16.90822000",
+    "longitude": "-41.98596000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 37,
+    "name": "Araguari",
+    "latitude": "-18.64722000",
+    "longitude": "-48.18722000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 38,
+    "name": "Arantina",
+    "latitude": "-21.89632000",
+    "longitude": "-44.22633000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 39,
+    "name": "Araponga",
+    "latitude": "-20.66607000",
+    "longitude": "-42.51113000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 40,
+    "name": "Araporã",
+    "latitude": "-18.49061000",
+    "longitude": "-49.13761000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 41,
+    "name": "Arapuá",
+    "latitude": "-19.03065000",
+    "longitude": "-46.09585000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 42,
+    "name": "Araújos",
+    "latitude": "-19.87542000",
+    "longitude": "-45.15682000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 43,
+    "name": "Araxá",
+    "latitude": "-19.59333000",
+    "longitude": "-46.94056000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 44,
+    "name": "Arceburgo",
+    "latitude": "-21.36655000",
+    "longitude": "-46.94472000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 45,
+    "name": "Arcos",
+    "latitude": "-20.24351000",
+    "longitude": "-45.56760000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 46,
+    "name": "Areado",
+    "latitude": "-21.33401000",
+    "longitude": "-46.16798000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 47,
+    "name": "Argirita",
+    "latitude": "-21.63912000",
+    "longitude": "-42.82857000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 48,
+    "name": "Aricanduva",
+    "latitude": "-17.85789000",
+    "longitude": "-42.59791000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 49,
+    "name": "Arinos",
+    "latitude": "-15.80332000",
+    "longitude": "-45.94198000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 50,
+    "name": "Astolfo Dutra",
+    "latitude": "-21.30413000",
+    "longitude": "-42.88194000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 51,
+    "name": "Ataléia",
+    "latitude": "-18.18353000",
+    "longitude": "-41.16721000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 52,
+    "name": "Augusto de Lima",
+    "latitude": "-18.10720000",
+    "longitude": "-44.16792000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 53,
+    "name": "Baependi",
+    "latitude": "-21.97623000",
+    "longitude": "-44.85558000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 54,
+    "name": "Baldim",
+    "latitude": "-19.23659000",
+    "longitude": "-43.84684000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 55,
+    "name": "Bambuí",
+    "latitude": "-20.10451000",
+    "longitude": "-45.98743000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 56,
+    "name": "Bandeira",
+    "latitude": "-15.88042000",
+    "longitude": "-40.59969000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 57,
+    "name": "Bandeira do Sul",
+    "latitude": "-21.72907000",
+    "longitude": "-46.38283000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 58,
+    "name": "Barão de Cocais",
+    "latitude": "-19.87980000",
+    "longitude": "-43.49476000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 59,
+    "name": "Barão de Monte Alto",
+    "latitude": "-21.26536000",
+    "longitude": "-42.27886000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 60,
+    "name": "Barbacena",
+    "latitude": "-21.25031000",
+    "longitude": "-43.84171000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 61,
+    "name": "Barra Longa",
+    "latitude": "-20.27861000",
+    "longitude": "-43.07170000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 62,
+    "name": "Barreiro do Jaíba",
+    "latitude": "-15.61532000",
+    "longitude": "-43.59187000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 63,
+    "name": "Barroso",
+    "latitude": "-21.17886000",
+    "longitude": "-43.95708000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 64,
+    "name": "Bela Vista de Minas",
+    "latitude": "-19.80136000",
+    "longitude": "-43.10273000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 65,
+    "name": "Belmiro Braga",
+    "latitude": "-21.96440000",
+    "longitude": "-43.45933000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 66,
+    "name": "Belo Horizonte",
+    "latitude": "-19.92083000",
+    "longitude": "-43.93778000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 67,
+    "name": "Belo Oriente",
+    "latitude": "-19.25558000",
+    "longitude": "-42.44289000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 68,
+    "name": "Belo Vale",
+    "latitude": "-20.41584000",
+    "longitude": "-44.06470000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 69,
+    "name": "Berilo",
+    "latitude": "-16.86340000",
+    "longitude": "-42.48889000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 70,
+    "name": "Berizal",
+    "latitude": "-15.67761000",
+    "longitude": "-41.77137000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 71,
+    "name": "Bertópolis",
+    "latitude": "-16.95442000",
+    "longitude": "-40.56435000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 72,
+    "name": "Betim",
+    "latitude": "-19.96778000",
+    "longitude": "-44.19833000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 73,
+    "name": "Bias Fortes",
+    "latitude": "-21.63008000",
+    "longitude": "-43.75508000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 74,
+    "name": "Bicas",
+    "latitude": "-21.73237000",
+    "longitude": "-43.10454000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 75,
+    "name": "Biquinhas",
+    "latitude": "-18.76231000",
+    "longitude": "-45.54853000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 76,
+    "name": "Boa Esperança",
+    "latitude": "-21.08132000",
+    "longitude": "-45.62433000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 77,
+    "name": "Bocaina de Minas",
+    "latitude": "-22.23436000",
+    "longitude": "-44.49342000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 78,
+    "name": "Bocaiúva",
+    "latitude": "-17.38916000",
+    "longitude": "-43.83571000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 79,
+    "name": "Bom Despacho",
+    "latitude": "-19.69145000",
+    "longitude": "-45.25297000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 80,
+    "name": "Bom Jardim de Minas",
+    "latitude": "-21.94390000",
+    "longitude": "-44.12193000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 81,
+    "name": "Bom Jesus da Penha",
+    "latitude": "-20.99902000",
+    "longitude": "-46.54769000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 82,
+    "name": "Bom Jesus do Amparo",
+    "latitude": "-19.71668000",
+    "longitude": "-43.46840000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 83,
+    "name": "Bom Jesus do Galho",
+    "latitude": "-19.71687000",
+    "longitude": "-42.37558000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 84,
+    "name": "Bom Repouso",
+    "latitude": "-22.44963000",
+    "longitude": "-46.18632000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 85,
+    "name": "Bom Sucesso",
+    "latitude": "-21.03029000",
+    "longitude": "-44.79501000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 86,
+    "name": "Bonfim",
+    "latitude": "-20.31591000",
+    "longitude": "-44.20740000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 87,
+    "name": "Bonfinópolis de Minas",
+    "latitude": "-16.54416000",
+    "longitude": "-46.13266000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 88,
+    "name": "Bonito de Minas",
+    "latitude": "-14.91015000",
+    "longitude": "-44.88471000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 89,
+    "name": "Borda da Mata",
+    "latitude": "-22.25106000",
+    "longitude": "-46.16707000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 90,
+    "name": "Botelhos",
+    "latitude": "-21.64903000",
+    "longitude": "-46.42831000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 91,
+    "name": "Botumirim",
+    "latitude": "-16.90950000",
+    "longitude": "-43.00848000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 92,
+    "name": "Brás Pires",
+    "latitude": "-20.87837000",
+    "longitude": "-43.22442000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 93,
+    "name": "Brasilândia de Minas",
+    "latitude": "-16.93061000",
+    "longitude": "-45.96385000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 94,
+    "name": "Brasília de Minas",
+    "latitude": "-16.25246000",
+    "longitude": "-44.45712000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 95,
+    "name": "Braúnas",
+    "latitude": "-19.02181000",
+    "longitude": "-42.71399000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 96,
+    "name": "Brazópolis",
+    "latitude": "-22.48169000",
+    "longitude": "-45.62802000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 97,
+    "name": "Brumadinho",
+    "latitude": "-20.20447000",
+    "longitude": "-44.15388000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 98,
+    "name": "Bueno Brandão",
+    "latitude": "-22.50459000",
+    "longitude": "-46.35271000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 99,
+    "name": "Buenópolis",
+    "latitude": "-17.87455000",
+    "longitude": "-44.02374000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 100,
+    "name": "Bugre",
+    "latitude": "-19.36701000",
+    "longitude": "-42.30815000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 101,
+    "name": "Buritis",
+    "latitude": "-15.41389000",
+    "longitude": "-46.55470000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 102,
+    "name": "Buritizeiro",
+    "latitude": "-17.40582000",
+    "longitude": "-45.30446000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 103,
+    "name": "Cabeceira Grande",
+    "latitude": "-16.06178000",
+    "longitude": "-47.17573000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 104,
+    "name": "Cabo Verde",
+    "latitude": "-21.48702000",
+    "longitude": "-46.37999000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 105,
+    "name": "Cachoeira da Prata",
+    "latitude": "-19.51865000",
+    "longitude": "-44.46250000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 106,
+    "name": "Cachoeira de Minas",
+    "latitude": "-22.35563000",
+    "longitude": "-45.79447000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 107,
+    "name": "Cachoeira de Pajeú",
+    "latitude": "-15.97163000",
+    "longitude": "-41.49303000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 108,
+    "name": "Cachoeira Dourada",
+    "latitude": "-18.59094000",
+    "longitude": "-49.47013000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 109,
+    "name": "Caetanópolis",
+    "latitude": "-19.33473000",
+    "longitude": "-44.41002000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 110,
+    "name": "Caeté",
+    "latitude": "-19.87017000",
+    "longitude": "-43.65060000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 111,
+    "name": "Caiana",
+    "latitude": "-20.73080000",
+    "longitude": "-41.90016000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 112,
+    "name": "Cajuri",
+    "latitude": "-20.78744000",
+    "longitude": "-42.76259000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 113,
+    "name": "Caldas",
+    "latitude": "-21.88671000",
+    "longitude": "-46.35924000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 114,
+    "name": "Camacho",
+    "latitude": "-20.64216000",
+    "longitude": "-45.14334000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 115,
+    "name": "Camanducaia",
+    "latitude": "-22.75528000",
+    "longitude": "-46.14472000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 116,
+    "name": "Cambuí",
+    "latitude": "-22.58243000",
+    "longitude": "-46.06121000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 117,
+    "name": "Cambuquira",
+    "latitude": "-21.85379000",
+    "longitude": "-45.27170000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 118,
+    "name": "Campanário",
+    "latitude": "-18.27490000",
+    "longitude": "-41.73907000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 119,
+    "name": "Campanha",
+    "latitude": "-21.81412000",
+    "longitude": "-45.39753000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 120,
+    "name": "Campestre",
+    "latitude": "-21.73436000",
+    "longitude": "-46.22571000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 121,
+    "name": "Campina Verde",
+    "latitude": "-19.46113000",
+    "longitude": "-49.73967000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 122,
+    "name": "Campo Azul",
+    "latitude": "-16.52161000",
+    "longitude": "-44.80679000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 123,
+    "name": "Campo Belo",
+    "latitude": "-20.89722000",
+    "longitude": "-45.27722000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 124,
+    "name": "Campo do Meio",
+    "latitude": "-21.12604000",
+    "longitude": "-45.79572000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 125,
+    "name": "Campo Florido",
+    "latitude": "-19.69262000",
+    "longitude": "-48.65664000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 126,
+    "name": "Campos Altos",
+    "latitude": "-19.63694000",
+    "longitude": "-46.19815000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 127,
+    "name": "Campos Gerais",
+    "latitude": "-21.23500000",
+    "longitude": "-45.75861000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 128,
+    "name": "Cana Verde",
+    "latitude": "-21.02062000",
+    "longitude": "-45.18335000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 129,
+    "name": "Canaã",
+    "latitude": "-20.66128000",
+    "longitude": "-42.63787000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 130,
+    "name": "Canápolis",
+    "latitude": "-18.77777000",
+    "longitude": "-49.27579000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 131,
+    "name": "Candeias",
+    "latitude": "-20.73894000",
+    "longitude": "-45.28719000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 132,
+    "name": "Cantagalo",
+    "latitude": "-18.51033000",
+    "longitude": "-42.64980000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 133,
+    "name": "Caparaó",
+    "latitude": "-20.52613000",
+    "longitude": "-41.90220000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 134,
+    "name": "Capela Nova",
+    "latitude": "-20.91843000",
+    "longitude": "-43.61587000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 135,
+    "name": "Capelinha",
+    "latitude": "-17.69167000",
+    "longitude": "-42.50214000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 136,
+    "name": "Capetinga",
+    "latitude": "-20.65301000",
+    "longitude": "-47.01826000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 137,
+    "name": "Capim Branco",
+    "latitude": "-19.57826000",
+    "longitude": "-44.16662000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 138,
+    "name": "Capinópolis",
+    "latitude": "-18.69222000",
+    "longitude": "-49.57943000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 139,
+    "name": "Capitão Andrade",
+    "latitude": "-19.04293000",
+    "longitude": "-41.82608000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 140,
+    "name": "Capitão Enéas",
+    "latitude": "-16.05629000",
+    "longitude": "-43.67470000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 141,
+    "name": "Capitólio",
+    "latitude": "-20.61528000",
+    "longitude": "-46.05000000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 142,
+    "name": "Caputira",
+    "latitude": "-20.18512000",
+    "longitude": "-42.25284000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 143,
+    "name": "Caraí",
+    "latitude": "-17.18089000",
+    "longitude": "-41.54964000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 144,
+    "name": "Caranaíba",
+    "latitude": "-20.88526000",
+    "longitude": "-43.71231000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 145,
+    "name": "Carandaí",
+    "latitude": "-20.98840000",
+    "longitude": "-43.83413000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 146,
+    "name": "Carangola",
+    "latitude": "-20.70784000",
+    "longitude": "-42.10486000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 147,
+    "name": "Caratinga",
+    "latitude": "-19.68877000",
+    "longitude": "-41.88778000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 148,
+    "name": "Carbonita",
+    "latitude": "-17.47884000",
+    "longitude": "-43.04885000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 149,
+    "name": "Careaçu",
+    "latitude": "-22.07964000",
+    "longitude": "-45.66541000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 150,
+    "name": "Carlos Chagas",
+    "latitude": "-17.67817000",
+    "longitude": "-40.88519000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 151,
+    "name": "Carmésia",
+    "latitude": "-19.06534000",
+    "longitude": "-43.18402000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 152,
+    "name": "Carmo da Cachoeira",
+    "latitude": "-21.43323000",
+    "longitude": "-45.18036000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 153,
+    "name": "Carmo da Mata",
+    "latitude": "-20.56847000",
+    "longitude": "-44.88516000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 154,
+    "name": "Carmo de Minas",
+    "latitude": "-22.08863000",
+    "longitude": "-45.14949000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 155,
+    "name": "Carmo do Cajuru",
+    "latitude": "-20.18782000",
+    "longitude": "-44.71399000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 156,
+    "name": "Carmo do Paranaíba",
+    "latitude": "-18.87335000",
+    "longitude": "-46.14425000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 157,
+    "name": "Carmo do Rio Claro",
+    "latitude": "-20.97974000",
+    "longitude": "-46.10445000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 158,
+    "name": "Carmópolis de Minas",
+    "latitude": "-20.54914000",
+    "longitude": "-44.64527000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 159,
+    "name": "Carneirinho",
+    "latitude": "-19.71424000",
+    "longitude": "-50.80874000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 160,
+    "name": "Carrancas",
+    "latitude": "-21.49589000",
+    "longitude": "-44.61042000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 161,
+    "name": "Carvalhópolis",
+    "latitude": "-21.77488000",
+    "longitude": "-45.82688000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 162,
+    "name": "Carvalhos",
+    "latitude": "-22.03096000",
+    "longitude": "-44.47544000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 163,
+    "name": "Casa Grande",
+    "latitude": "-20.84072000",
+    "longitude": "-43.93951000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 164,
+    "name": "Cascalho Rico",
+    "latitude": "-18.54617000",
+    "longitude": "-47.85132000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 165,
+    "name": "Cássia",
+    "latitude": "-20.59294000",
+    "longitude": "-46.91761000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 166,
+    "name": "Cataguases",
+    "latitude": "-21.34548000",
+    "longitude": "-42.64976000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 167,
+    "name": "Catas Altas",
+    "latitude": "-20.07049000",
+    "longitude": "-43.42197000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 168,
+    "name": "Catas Altas da Noruega",
+    "latitude": "-20.68094000",
+    "longitude": "-43.49780000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 169,
+    "name": "Catuji",
+    "latitude": "-17.36328000",
+    "longitude": "-41.48183000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 170,
+    "name": "Catuti",
+    "latitude": "-15.32360000",
+    "longitude": "-43.11391000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 171,
+    "name": "Caxambu",
+    "latitude": "-21.97722000",
+    "longitude": "-44.93250000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 172,
+    "name": "Cedro do Abaeté",
+    "latitude": "-19.11465000",
+    "longitude": "-45.70070000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 173,
+    "name": "Central de Minas",
+    "latitude": "-18.76784000",
+    "longitude": "-41.28963000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 174,
+    "name": "Centralina",
+    "latitude": "-18.60922000",
+    "longitude": "-49.16062000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 175,
+    "name": "Chácara",
+    "latitude": "-21.67919000",
+    "longitude": "-43.21835000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 176,
+    "name": "Chalé",
+    "latitude": "-20.03354000",
+    "longitude": "-41.67809000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 177,
+    "name": "Chapada do Norte",
+    "latitude": "-17.16293000",
+    "longitude": "-42.37718000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 178,
+    "name": "Chapada Gaúcha",
+    "latitude": "-15.57934000",
+    "longitude": "-45.41242000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 179,
+    "name": "Chiador",
+    "latitude": "-21.97253000",
+    "longitude": "-43.00735000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 180,
+    "name": "Cipotânea",
+    "latitude": "-20.93027000",
+    "longitude": "-43.36547000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 181,
+    "name": "Claraval",
+    "latitude": "-20.35681000",
+    "longitude": "-47.25241000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 182,
+    "name": "Claro dos Poções",
+    "latitude": "-17.09679000",
+    "longitude": "-44.23300000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 183,
+    "name": "Cláudio",
+    "latitude": "-20.39006000",
+    "longitude": "-44.79135000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 184,
+    "name": "Coimbra",
+    "latitude": "-20.84494000",
+    "longitude": "-42.79834000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 185,
+    "name": "Coluna",
+    "latitude": "-18.26842000",
+    "longitude": "-42.82813000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 186,
+    "name": "Comendador Gomes",
+    "latitude": "-19.65330000",
+    "longitude": "-49.08738000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 187,
+    "name": "Comercinho",
+    "latitude": "-16.28896000",
+    "longitude": "-41.77346000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 188,
+    "name": "Conceição da Aparecida",
+    "latitude": "-21.10120000",
+    "longitude": "-46.22626000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 189,
+    "name": "Conceição da Barra de Minas",
+    "latitude": "-21.14228000",
+    "longitude": "-44.48863000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 190,
+    "name": "Conceição das Alagoas",
+    "latitude": "-19.95627000",
+    "longitude": "-48.30510000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 191,
+    "name": "Conceição das Pedras",
+    "latitude": "-22.13866000",
+    "longitude": "-45.42694000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 192,
+    "name": "Conceição de Ipanema",
+    "latitude": "-19.91781000",
+    "longitude": "-41.70024000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 193,
+    "name": "Conceição do Mato Dentro",
+    "latitude": "-18.90010000",
+    "longitude": "-43.50229000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 194,
+    "name": "Conceição do Pará",
+    "latitude": "-19.78550000",
+    "longitude": "-44.87016000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 195,
+    "name": "Conceição do Rio Verde",
+    "latitude": "-21.90132000",
+    "longitude": "-45.07975000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 196,
+    "name": "Conceição dos Ouros",
+    "latitude": "-22.45037000",
+    "longitude": "-45.77976000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 197,
+    "name": "Cônego Marinho",
+    "latitude": "-14.98755000",
+    "longitude": "-44.60965000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 198,
+    "name": "Confins",
+    "latitude": "-19.65686000",
+    "longitude": "-43.98131000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 199,
+    "name": "Congonhal",
+    "latitude": "-22.13543000",
+    "longitude": "-46.03992000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 200,
+    "name": "Congonhas",
+    "latitude": "-20.50525000",
+    "longitude": "-43.85880000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 201,
+    "name": "Congonhas do Norte",
+    "latitude": "-18.88604000",
+    "longitude": "-43.69620000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 202,
+    "name": "Conquista",
+    "latitude": "-19.86841000",
+    "longitude": "-47.63352000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 203,
+    "name": "Conselheiro Lafaiete",
+    "latitude": "-20.66028000",
+    "longitude": "-43.78611000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 204,
+    "name": "Conselheiro Pena",
+    "latitude": "-19.17411000",
+    "longitude": "-41.45800000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 205,
+    "name": "Consolação",
+    "latitude": "-22.54002000",
+    "longitude": "-45.90414000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 206,
+    "name": "Contagem",
+    "latitude": "-19.93167000",
+    "longitude": "-44.05361000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 207,
+    "name": "Coqueiral",
+    "latitude": "-21.17947000",
+    "longitude": "-45.43619000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 208,
+    "name": "Coração de Jesus",
+    "latitude": "-16.68619000",
+    "longitude": "-44.36279000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 209,
+    "name": "Cordisburgo",
+    "latitude": "-19.09925000",
+    "longitude": "-44.16458000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 210,
+    "name": "Cordislândia",
+    "latitude": "-21.78750000",
+    "longitude": "-45.67156000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 211,
+    "name": "Corinto",
+    "latitude": "-18.35246000",
+    "longitude": "-44.60589000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 212,
+    "name": "Coroaci",
+    "latitude": "-18.61187000",
+    "longitude": "-42.25835000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 213,
+    "name": "Coromandel",
+    "latitude": "-18.40456000",
+    "longitude": "-47.15161000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 214,
+    "name": "Coronel Fabriciano",
+    "latitude": "-19.51861000",
+    "longitude": "-42.62889000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 215,
+    "name": "Coronel Murta",
+    "latitude": "-16.58925000",
+    "longitude": "-42.19742000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 216,
+    "name": "Coronel Pacheco",
+    "latitude": "-21.60865000",
+    "longitude": "-43.29006000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 217,
+    "name": "Coronel Xavier Chaves",
+    "latitude": "-21.02869000",
+    "longitude": "-44.20221000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 218,
+    "name": "Córrego Danta",
+    "latitude": "-19.81349000",
+    "longitude": "-45.96149000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 219,
+    "name": "Córrego do Bom Jesus",
+    "latitude": "-22.62998000",
+    "longitude": "-45.99681000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 220,
+    "name": "Córrego Fundo",
+    "latitude": "-20.45029000",
+    "longitude": "-45.53592000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 221,
+    "name": "Córrego Novo",
+    "latitude": "-19.82874000",
+    "longitude": "-42.44214000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 222,
+    "name": "Couto de Magalhães de Minas",
+    "latitude": "-18.11856000",
+    "longitude": "-43.41813000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 223,
+    "name": "Crisólita",
+    "latitude": "-17.24147000",
+    "longitude": "-40.97498000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 224,
+    "name": "Cristais",
+    "latitude": "-20.80957000",
+    "longitude": "-45.52448000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 225,
+    "name": "Cristália",
+    "latitude": "-16.72547000",
+    "longitude": "-42.81870000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 226,
+    "name": "Cristiano Otoni",
+    "latitude": "-20.83688000",
+    "longitude": "-43.82931000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 227,
+    "name": "Cristina",
+    "latitude": "-22.21592000",
+    "longitude": "-45.28820000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 228,
+    "name": "Crucilândia",
+    "latitude": "-20.40660000",
+    "longitude": "-44.35991000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 229,
+    "name": "Cruzeiro da Fortaleza",
+    "latitude": "-18.96712000",
+    "longitude": "-46.65779000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 230,
+    "name": "Cruzília",
+    "latitude": "-21.73596000",
+    "longitude": "-44.79827000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 231,
+    "name": "Cuparaque",
+    "latitude": "-18.99664000",
+    "longitude": "-41.13368000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 232,
+    "name": "Curral de Dentro",
+    "latitude": "-15.84632000",
+    "longitude": "-41.75405000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 233,
+    "name": "Curvelo",
+    "latitude": "-18.78525000",
+    "longitude": "-44.41599000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 234,
+    "name": "Datas",
+    "latitude": "-18.48073000",
+    "longitude": "-43.65216000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 235,
+    "name": "Delfim Moreira",
+    "latitude": "-22.51165000",
+    "longitude": "-45.28972000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 236,
+    "name": "Delfinópolis",
+    "latitude": "-20.34248000",
+    "longitude": "-46.83952000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 237,
+    "name": "Delta",
+    "latitude": "-19.93414000",
+    "longitude": "-47.80435000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 238,
+    "name": "Descoberto",
+    "latitude": "-21.45167000",
+    "longitude": "-42.97128000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 239,
+    "name": "Desterro de Entre Rios",
+    "latitude": "-20.64186000",
+    "longitude": "-44.28135000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 240,
+    "name": "Desterro do Melo",
+    "latitude": "-21.14290000",
+    "longitude": "-43.52011000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 241,
+    "name": "Diamantina",
+    "latitude": "-17.97795000",
+    "longitude": "-43.60415000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 242,
+    "name": "Diogo de Vasconcelos",
+    "latitude": "-20.47593000",
+    "longitude": "-43.19094000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 243,
+    "name": "Dionísio",
+    "latitude": "-19.83679000",
+    "longitude": "-42.68817000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 244,
+    "name": "Divinésia",
+    "latitude": "-20.99465000",
+    "longitude": "-42.99513000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 245,
+    "name": "Divino",
+    "latitude": "-20.58996000",
+    "longitude": "-42.17550000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 246,
+    "name": "Divino das Laranjeiras",
+    "latitude": "-18.77778000",
+    "longitude": "-41.47972000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 247,
+    "name": "Divinolândia de Minas",
+    "latitude": "-18.77559000",
+    "longitude": "-42.57075000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 248,
+    "name": "Divinópolis",
+    "latitude": "-20.14355000",
+    "longitude": "-44.89065000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 249,
+    "name": "Divisa Alegre",
+    "latitude": "-15.69447000",
+    "longitude": "-41.39107000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 250,
+    "name": "Divisa Nova",
+    "latitude": "-21.52382000",
+    "longitude": "-46.24417000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 251,
+    "name": "Divisópolis",
+    "latitude": "-15.76740000",
+    "longitude": "-40.92393000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 252,
+    "name": "Dom Bosco",
+    "latitude": "-16.81133000",
+    "longitude": "-46.28457000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 253,
+    "name": "Dom Cavati",
+    "latitude": "-19.38835000",
+    "longitude": "-42.09365000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 254,
+    "name": "Dom Joaquim",
+    "latitude": "-18.92927000",
+    "longitude": "-43.26602000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 255,
+    "name": "Dom Silvério",
+    "latitude": "-20.12728000",
+    "longitude": "-42.94651000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 256,
+    "name": "Dom Viçoso",
+    "latitude": "-22.23185000",
+    "longitude": "-45.14880000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 257,
+    "name": "Dona Eusébia",
+    "latitude": "-21.32337000",
+    "longitude": "-42.80829000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 258,
+    "name": "Dores de Campos",
+    "latitude": "-21.11373000",
+    "longitude": "-43.99358000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 259,
+    "name": "Dores de Guanhães",
+    "latitude": "-19.04398000",
+    "longitude": "-42.92816000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 260,
+    "name": "Dores do Indaiá",
+    "latitude": "-19.47427000",
+    "longitude": "-45.54046000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 261,
+    "name": "Dores do Turvo",
+    "latitude": "-21.02779000",
+    "longitude": "-43.16365000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 262,
+    "name": "Doresópolis",
+    "latitude": "-20.29693000",
+    "longitude": "-45.86864000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 263,
+    "name": "Douradoquara",
+    "latitude": "-18.44204000",
+    "longitude": "-47.61478000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 264,
+    "name": "Durandé",
+    "latitude": "-20.15179000",
+    "longitude": "-41.78240000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 265,
+    "name": "Elói Mendes",
+    "latitude": "-21.60067000",
+    "longitude": "-45.59466000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 266,
+    "name": "Engenheiro Caldas",
+    "latitude": "-19.11350000",
+    "longitude": "-42.01786000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 267,
+    "name": "Engenheiro Navarro",
+    "latitude": "-17.30933000",
+    "longitude": "-44.03465000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 268,
+    "name": "Entre Folhas",
+    "latitude": "-19.65964000",
+    "longitude": "-42.24102000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 269,
+    "name": "Entre Rios de Minas",
+    "latitude": "-20.70275000",
+    "longitude": "-44.10687000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 270,
+    "name": "Ervália",
+    "latitude": "-20.84684000",
+    "longitude": "-42.61968000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 271,
+    "name": "Esmeraldas",
+    "latitude": "-19.76250000",
+    "longitude": "-44.31389000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 272,
+    "name": "Espera Feliz",
+    "latitude": "-20.59349000",
+    "longitude": "-41.91981000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 273,
+    "name": "Espinosa",
+    "latitude": "-14.85978000",
+    "longitude": "-42.99177000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 274,
+    "name": "Espírito Santo do Dourado",
+    "latitude": "-22.00600000",
+    "longitude": "-45.99000000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 275,
+    "name": "Estiva",
+    "latitude": "-22.45283000",
+    "longitude": "-46.02238000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 276,
+    "name": "Estrela Dalva",
+    "latitude": "-21.69328000",
+    "longitude": "-42.46834000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 277,
+    "name": "Estrela do Indaiá",
+    "latitude": "-19.58083000",
+    "longitude": "-45.81189000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 278,
+    "name": "Estrela do Sul",
+    "latitude": "-18.72229000",
+    "longitude": "-47.69732000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 279,
+    "name": "Eugenópolis",
+    "latitude": "-20.99897000",
+    "longitude": "-42.24618000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 280,
+    "name": "Ewbank da Câmara",
+    "latitude": "-21.57233000",
+    "longitude": "-43.55342000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 281,
+    "name": "Extrema",
+    "latitude": "-22.82650000",
+    "longitude": "-46.28351000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 282,
+    "name": "Fama",
+    "latitude": "-21.46845000",
+    "longitude": "-45.82005000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 283,
+    "name": "Faria Lemos",
+    "latitude": "-20.78262000",
+    "longitude": "-42.02787000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 284,
+    "name": "Felício dos Santos",
+    "latitude": "-18.15506000",
+    "longitude": "-43.24046000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 285,
+    "name": "Felisburgo",
+    "latitude": "-16.66153000",
+    "longitude": "-40.71814000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 286,
+    "name": "Felixlândia",
+    "latitude": "-18.69406000",
+    "longitude": "-44.91938000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 287,
+    "name": "Fernandes Tourinho",
+    "latitude": "-19.10298000",
+    "longitude": "-42.09459000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 288,
+    "name": "Ferros",
+    "latitude": "-19.23796000",
+    "longitude": "-42.97023000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 289,
+    "name": "Fervedouro",
+    "latitude": "-20.68788000",
+    "longitude": "-42.34214000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 290,
+    "name": "Florestal",
+    "latitude": "-19.86521000",
+    "longitude": "-44.44251000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 291,
+    "name": "Formiga",
+    "latitude": "-20.46444000",
+    "longitude": "-45.42639000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 292,
+    "name": "Formoso",
+    "latitude": "-15.14747000",
+    "longitude": "-46.09371000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 293,
+    "name": "Fortaleza de Minas",
+    "latitude": "-20.88169000",
+    "longitude": "-46.77437000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 294,
+    "name": "Fortuna de Minas",
+    "latitude": "-19.54845000",
+    "longitude": "-44.50230000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 295,
+    "name": "Francisco Badaró",
+    "latitude": "-16.95297000",
+    "longitude": "-42.28055000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 296,
+    "name": "Francisco Dumont",
+    "latitude": "-17.39766000",
+    "longitude": "-44.21775000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 297,
+    "name": "Francisco Sá",
+    "latitude": "-16.47583000",
+    "longitude": "-43.48833000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 298,
+    "name": "Franciscópolis",
+    "latitude": "-18.00982000",
+    "longitude": "-41.98437000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 299,
+    "name": "Frei Gaspar",
+    "latitude": "-18.14006000",
+    "longitude": "-41.49292000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 300,
+    "name": "Frei Inocêncio",
+    "latitude": "-18.51403000",
+    "longitude": "-41.87101000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 301,
+    "name": "Frei Lagonegro",
+    "latitude": "-18.14293000",
+    "longitude": "-42.76064000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 302,
+    "name": "Fronteira",
+    "latitude": "-20.22276000",
+    "longitude": "-49.17640000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 303,
+    "name": "Fronteira dos Vales",
+    "latitude": "-16.89172000",
+    "longitude": "-40.83008000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 304,
+    "name": "Fruta de Leite",
+    "latitude": "-16.16212000",
+    "longitude": "-42.52859000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 305,
+    "name": "Frutal",
+    "latitude": "-20.02472000",
+    "longitude": "-48.94056000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 306,
+    "name": "Funilândia",
+    "latitude": "-19.35187000",
+    "longitude": "-44.08205000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 307,
+    "name": "Galiléia",
+    "latitude": "-18.86897000",
+    "longitude": "-41.52503000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 308,
+    "name": "Gameleiras",
+    "latitude": "-14.97096000",
+    "longitude": "-43.30610000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 309,
+    "name": "Glaucilândia",
+    "latitude": "-16.89532000",
+    "longitude": "-43.66081000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 310,
+    "name": "Goiabeira",
+    "latitude": "-19.02964000",
+    "longitude": "-41.22725000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 311,
+    "name": "Goianá",
+    "latitude": "-21.56063000",
+    "longitude": "-43.18511000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 312,
+    "name": "Gonçalves",
+    "latitude": "-22.67479000",
+    "longitude": "-45.83780000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 313,
+    "name": "Gonzaga",
+    "latitude": "-18.87874000",
+    "longitude": "-42.49507000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 314,
+    "name": "Gouveia",
+    "latitude": "-18.53580000",
+    "longitude": "-43.85363000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 315,
+    "name": "Governador Valadares",
+    "latitude": "-18.85111000",
+    "longitude": "-41.94944000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 316,
+    "name": "Grão Mogol",
+    "latitude": "-16.49009000",
+    "longitude": "-42.96535000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 317,
+    "name": "Grupiara",
+    "latitude": "-18.47962000",
+    "longitude": "-47.77141000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 318,
+    "name": "Guanhães",
+    "latitude": "-18.85705000",
+    "longitude": "-42.80520000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 319,
+    "name": "Guapé",
+    "latitude": "-20.77404000",
+    "longitude": "-45.89935000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 320,
+    "name": "Guaraciaba",
+    "latitude": "-20.56919000",
+    "longitude": "-43.01146000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 321,
+    "name": "Guaraciama",
+    "latitude": "-17.08074000",
+    "longitude": "-43.60308000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 322,
+    "name": "Guaranésia",
+    "latitude": "-21.28820000",
+    "longitude": "-46.82229000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 323,
+    "name": "Guarani",
+    "latitude": "-21.35038000",
+    "longitude": "-43.05888000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 324,
+    "name": "Guarará",
+    "latitude": "-21.75802000",
+    "longitude": "-43.02469000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 325,
+    "name": "Guarda-Mor",
+    "latitude": "-17.76393000",
+    "longitude": "-47.14784000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 326,
+    "name": "Guaxupé",
+    "latitude": "-21.29181000",
+    "longitude": "-46.68110000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 327,
+    "name": "Guidoval",
+    "latitude": "-21.17678000",
+    "longitude": "-42.79015000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 328,
+    "name": "Guimarânia",
+    "latitude": "-18.81689000",
+    "longitude": "-46.73553000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 329,
+    "name": "Guiricema",
+    "latitude": "-21.01294000",
+    "longitude": "-42.69893000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 330,
+    "name": "Gurinhatã",
+    "latitude": "-19.06643000",
+    "longitude": "-49.86875000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 331,
+    "name": "Heliodora",
+    "latitude": "-22.04159000",
+    "longitude": "-45.54430000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 332,
+    "name": "Iapu",
+    "latitude": "-19.35090000",
+    "longitude": "-42.23727000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 333,
+    "name": "Ibertioga",
+    "latitude": "-21.45140000",
+    "longitude": "-43.94316000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 334,
+    "name": "Ibiá",
+    "latitude": "-19.54368000",
+    "longitude": "-46.61732000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 335,
+    "name": "Ibiaí",
+    "latitude": "-16.81004000",
+    "longitude": "-44.79235000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 336,
+    "name": "Ibiracatu",
+    "latitude": "-15.66695000",
+    "longitude": "-44.13281000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 337,
+    "name": "Ibiraci",
+    "latitude": "-20.40137000",
+    "longitude": "-47.14267000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 338,
+    "name": "Ibirité",
+    "latitude": "-20.02194000",
+    "longitude": "-44.05889000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 339,
+    "name": "Ibitiúra de Minas",
+    "latitude": "-22.06721000",
+    "longitude": "-46.40735000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 340,
+    "name": "Ibituruna",
+    "latitude": "-21.16363000",
+    "longitude": "-44.77552000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 341,
+    "name": "Icaraí de Minas",
+    "latitude": "-16.22108000",
+    "longitude": "-44.85922000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 342,
+    "name": "Igarapé",
+    "latitude": "-20.05423000",
+    "longitude": "-44.31636000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 343,
+    "name": "Igaratinga",
+    "latitude": "-19.96011000",
+    "longitude": "-44.72106000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 344,
+    "name": "Iguatama",
+    "latitude": "-20.14528000",
+    "longitude": "-45.74194000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 345,
+    "name": "Ijaci",
+    "latitude": "-21.18351000",
+    "longitude": "-44.92240000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 346,
+    "name": "Ilicínea",
+    "latitude": "-20.93023000",
+    "longitude": "-45.81821000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 347,
+    "name": "Imbé de Minas",
+    "latitude": "-19.61863000",
+    "longitude": "-41.96773000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 348,
+    "name": "Inconfidentes",
+    "latitude": "-22.34042000",
+    "longitude": "-46.28495000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 349,
+    "name": "Indaiabira",
+    "latitude": "-15.57633000",
+    "longitude": "-42.15728000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 350,
+    "name": "Indianópolis",
+    "latitude": "-18.97216000",
+    "longitude": "-47.88555000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 351,
+    "name": "Ingaí",
+    "latitude": "-21.41317000",
+    "longitude": "-44.93685000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 352,
+    "name": "Inhapim",
+    "latitude": "-19.48349000",
+    "longitude": "-42.10953000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 353,
+    "name": "Inhaúma",
+    "latitude": "-19.49972000",
+    "longitude": "-44.42415000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 354,
+    "name": "Inimutaba",
+    "latitude": "-18.71149000",
+    "longitude": "-44.27571000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 355,
+    "name": "Ipaba",
+    "latitude": "-19.40560000",
+    "longitude": "-42.36072000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 356,
+    "name": "Ipanema",
+    "latitude": "-19.75724000",
+    "longitude": "-41.76801000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 357,
+    "name": "Ipatinga",
+    "latitude": "-19.46833000",
+    "longitude": "-42.53667000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 358,
+    "name": "Ipiaçu",
+    "latitude": "-18.70679000",
+    "longitude": "-49.91749000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 359,
+    "name": "Ipuiúna",
+    "latitude": "-22.00732000",
+    "longitude": "-46.12468000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 360,
+    "name": "Iraí de Minas",
+    "latitude": "-19.06330000",
+    "longitude": "-47.43698000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 361,
+    "name": "Itabira",
+    "latitude": "-19.61917000",
+    "longitude": "-43.22694000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 362,
+    "name": "Itabirinha",
+    "latitude": "-18.52982000",
+    "longitude": "-41.25370000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 363,
+    "name": "Itabirito",
+    "latitude": "-20.23843000",
+    "longitude": "-43.78016000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 364,
+    "name": "Itacambira",
+    "latitude": "-16.88654000",
+    "longitude": "-43.30766000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 365,
+    "name": "Itacarambi",
+    "latitude": "-15.10222000",
+    "longitude": "-44.09194000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 366,
+    "name": "Itaguara",
+    "latitude": "-20.37868000",
+    "longitude": "-44.54609000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 367,
+    "name": "Itaipé",
+    "latitude": "-17.42738000",
+    "longitude": "-41.65509000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 368,
+    "name": "Itajubá",
+    "latitude": "-22.42051000",
+    "longitude": "-45.42137000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 369,
+    "name": "Itamarandiba",
+    "latitude": "-17.85429000",
+    "longitude": "-42.89409000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 370,
+    "name": "Itamarati de Minas",
+    "latitude": "-21.41883000",
+    "longitude": "-42.83387000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 371,
+    "name": "Itambacuri",
+    "latitude": "-18.18510000",
+    "longitude": "-41.88894000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 372,
+    "name": "Itambé do Mato Dentro",
+    "latitude": "-19.40318000",
+    "longitude": "-43.34103000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 373,
+    "name": "Itamogi",
+    "latitude": "-21.08608000",
+    "longitude": "-47.05061000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 374,
+    "name": "Itamonte",
+    "latitude": "-22.28733000",
+    "longitude": "-44.75274000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 375,
+    "name": "Itanhandu",
+    "latitude": "-22.29583000",
+    "longitude": "-44.93472000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 376,
+    "name": "Itanhomi",
+    "latitude": "-19.15484000",
+    "longitude": "-41.83333000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 377,
+    "name": "Itaobim",
+    "latitude": "-16.56326000",
+    "longitude": "-41.53486000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 378,
+    "name": "Itapagipe",
+    "latitude": "-19.75086000",
+    "longitude": "-49.42853000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 379,
+    "name": "Itapecerica",
+    "latitude": "-20.45398000",
+    "longitude": "-45.08814000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 380,
+    "name": "Itapeva",
+    "latitude": "-22.69829000",
+    "longitude": "-46.21291000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 381,
+    "name": "Itatiaiuçu",
+    "latitude": "-20.22155000",
+    "longitude": "-44.46588000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 382,
+    "name": "Itaú de Minas",
+    "latitude": "-20.71790000",
+    "longitude": "-46.77932000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 383,
+    "name": "Itaúna",
+    "latitude": "-20.07440000",
+    "longitude": "-44.58626000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 384,
+    "name": "Itaverava",
+    "latitude": "-20.70813000",
+    "longitude": "-43.59276000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 385,
+    "name": "Itinga",
+    "latitude": "-16.60721000",
+    "longitude": "-41.83181000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 386,
+    "name": "Itueta",
+    "latitude": "-19.37775000",
+    "longitude": "-41.09757000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 387,
+    "name": "Ituiutaba",
+    "latitude": "-19.01507000",
+    "longitude": "-49.55042000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 388,
+    "name": "Itumirim",
+    "latitude": "-21.28468000",
+    "longitude": "-44.83316000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 389,
+    "name": "Iturama",
+    "latitude": "-19.69460000",
+    "longitude": "-50.38219000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 390,
+    "name": "Itutinga",
+    "latitude": "-21.34817000",
+    "longitude": "-44.72387000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 391,
+    "name": "Jaboticatubas",
+    "latitude": "-19.41909000",
+    "longitude": "-43.74554000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 392,
+    "name": "Jacinto",
+    "latitude": "-16.19209000",
+    "longitude": "-40.33175000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 393,
+    "name": "Jacuí",
+    "latitude": "-21.01103000",
+    "longitude": "-46.71842000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 394,
+    "name": "Jacutinga",
+    "latitude": "-22.29632000",
+    "longitude": "-46.61044000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 395,
+    "name": "Jaguaraçu",
+    "latitude": "-19.63591000",
+    "longitude": "-42.71705000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 396,
+    "name": "Jaíba",
+    "latitude": "-15.21645000",
+    "longitude": "-43.67032000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 397,
+    "name": "Jampruca",
+    "latitude": "-18.47226000",
+    "longitude": "-41.75735000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 398,
+    "name": "Janaúba",
+    "latitude": "-15.77877000",
+    "longitude": "-43.36757000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 399,
+    "name": "Januária",
+    "latitude": "-15.32133000",
+    "longitude": "-45.20135000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 400,
+    "name": "Japaraíba",
+    "latitude": "-20.12931000",
+    "longitude": "-45.53733000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 401,
+    "name": "Japonvar",
+    "latitude": "-15.94720000",
+    "longitude": "-44.34835000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 402,
+    "name": "Jeceaba",
+    "latitude": "-20.55578000",
+    "longitude": "-44.03107000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 403,
+    "name": "Jenipapo de Minas",
+    "latitude": "-17.18727000",
+    "longitude": "-42.21222000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 404,
+    "name": "Jequeri",
+    "latitude": "-20.48079000",
+    "longitude": "-42.61567000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 405,
+    "name": "Jequitaí",
+    "latitude": "-17.16894000",
+    "longitude": "-44.46191000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 406,
+    "name": "Jequitibá",
+    "latitude": "-19.21472000",
+    "longitude": "-44.03049000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 407,
+    "name": "Jequitinhonha",
+    "latitude": "-16.40683000",
+    "longitude": "-41.05778000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 408,
+    "name": "Jesuânia",
+    "latitude": "-22.00846000",
+    "longitude": "-45.28235000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 409,
+    "name": "Joaíma",
+    "latitude": "-16.80375000",
+    "longitude": "-41.01105000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 410,
+    "name": "Joanésia",
+    "latitude": "-19.20319000",
+    "longitude": "-42.70665000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 411,
+    "name": "João Monlevade",
+    "latitude": "-19.83861000",
+    "longitude": "-43.15561000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 412,
+    "name": "João Pinheiro",
+    "latitude": "-17.55732000",
+    "longitude": "-45.97307000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 413,
+    "name": "Joaquim Felício",
+    "latitude": "-17.62324000",
+    "longitude": "-44.09366000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 414,
+    "name": "Jordânia",
+    "latitude": "-15.87487000",
+    "longitude": "-40.30532000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 415,
+    "name": "José Gonçalves de Minas",
+    "latitude": "-16.90496000",
+    "longitude": "-42.66905000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 416,
+    "name": "José Raydan",
+    "latitude": "-18.26371000",
+    "longitude": "-42.46528000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 417,
+    "name": "Josenópolis",
+    "latitude": "-16.55307000",
+    "longitude": "-42.51701000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 418,
+    "name": "Juatuba",
+    "latitude": "-19.95194000",
+    "longitude": "-44.34278000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 419,
+    "name": "Juiz de Fora",
+    "latitude": "-21.76417000",
+    "longitude": "-43.35028000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 420,
+    "name": "Juramento",
+    "latitude": "-16.83343000",
+    "longitude": "-43.58833000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 421,
+    "name": "Juruaia",
+    "latitude": "-21.22649000",
+    "longitude": "-46.51449000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 422,
+    "name": "Juvenília",
+    "latitude": "-14.39930000",
+    "longitude": "-43.95055000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 423,
+    "name": "Ladainha",
+    "latitude": "-17.64365000",
+    "longitude": "-41.83262000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 424,
+    "name": "Lagamar",
+    "latitude": "-17.97706000",
+    "longitude": "-46.70095000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 425,
+    "name": "Lagoa da Prata",
+    "latitude": "-19.99802000",
+    "longitude": "-45.49952000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 426,
+    "name": "Lagoa dos Patos",
+    "latitude": "-17.01433000",
+    "longitude": "-44.66633000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 427,
+    "name": "Lagoa Dourada",
+    "latitude": "-20.91034000",
+    "longitude": "-44.06512000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 428,
+    "name": "Lagoa Formosa",
+    "latitude": "-18.76494000",
+    "longitude": "-46.29006000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 429,
+    "name": "Lagoa Grande",
+    "latitude": "-17.74523000",
+    "longitude": "-46.53558000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 430,
+    "name": "Lagoa Santa",
+    "latitude": "-19.62683000",
+    "longitude": "-43.87993000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 431,
+    "name": "Lajinha",
+    "latitude": "-20.12411000",
+    "longitude": "-41.61531000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 432,
+    "name": "Lambari",
+    "latitude": "-21.98590000",
+    "longitude": "-45.35167000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 433,
+    "name": "Lamim",
+    "latitude": "-20.77481000",
+    "longitude": "-43.48487000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 434,
+    "name": "Laranjal",
+    "latitude": "-21.35920000",
+    "longitude": "-42.45663000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 435,
+    "name": "Lassance",
+    "latitude": "-17.91014000",
+    "longitude": "-44.70859000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 436,
+    "name": "Lavras",
+    "latitude": "-21.26738000",
+    "longitude": "-45.04190000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 437,
+    "name": "Leandro Ferreira",
+    "latitude": "-19.67492000",
+    "longitude": "-45.06134000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 438,
+    "name": "Leme do Prado",
+    "latitude": "-17.05253000",
+    "longitude": "-42.74591000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 439,
+    "name": "Leopoldina",
+    "latitude": "-21.53489000",
+    "longitude": "-42.64473000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 440,
+    "name": "Liberdade",
+    "latitude": "-22.01634000",
+    "longitude": "-44.34756000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 441,
+    "name": "Lima Duarte",
+    "latitude": "-21.79037000",
+    "longitude": "-43.89583000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 442,
+    "name": "Limeira do Oeste",
+    "latitude": "-19.38786000",
+    "longitude": "-50.61280000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 443,
+    "name": "Lontra",
+    "latitude": "-15.83942000",
+    "longitude": "-44.27821000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 444,
+    "name": "Luisburgo",
+    "latitude": "-20.44641000",
+    "longitude": "-42.07286000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 445,
+    "name": "Luislândia",
+    "latitude": "-16.19922000",
+    "longitude": "-44.60969000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 446,
+    "name": "Luminárias",
+    "latitude": "-21.51526000",
+    "longitude": "-44.92617000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 447,
+    "name": "Luz",
+    "latitude": "-19.84190000",
+    "longitude": "-45.67539000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 448,
+    "name": "Machacalis",
+    "latitude": "-17.08810000",
+    "longitude": "-40.71826000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 449,
+    "name": "Machado",
+    "latitude": "-21.69549000",
+    "longitude": "-45.88809000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 450,
+    "name": "Madre de Deus de Minas",
+    "latitude": "-21.48464000",
+    "longitude": "-44.33264000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 451,
+    "name": "Malacacheta",
+    "latitude": "-17.83800000",
+    "longitude": "-42.08895000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 452,
+    "name": "Mamonas",
+    "latitude": "-15.03302000",
+    "longitude": "-42.94513000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 453,
+    "name": "Manga",
+    "latitude": "-14.65871000",
+    "longitude": "-44.12621000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 454,
+    "name": "Manhuaçu",
+    "latitude": "-20.18647000",
+    "longitude": "-42.08653000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 455,
+    "name": "Manhumirim",
+    "latitude": "-20.34755000",
+    "longitude": "-41.93559000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 456,
+    "name": "Mantena",
+    "latitude": "-18.68550000",
+    "longitude": "-41.10755000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 457,
+    "name": "Mar de Espanha",
+    "latitude": "-21.87597000",
+    "longitude": "-43.02192000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 458,
+    "name": "Maravilhas",
+    "latitude": "-19.51232000",
+    "longitude": "-44.67995000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 459,
+    "name": "Maria da Fé",
+    "latitude": "-22.32718000",
+    "longitude": "-45.31720000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 460,
+    "name": "Mariana",
+    "latitude": "-20.37778000",
+    "longitude": "-43.41611000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 461,
+    "name": "Marilac",
+    "latitude": "-18.49516000",
+    "longitude": "-42.06556000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 462,
+    "name": "Mário Campos",
+    "latitude": "-20.07230000",
+    "longitude": "-44.17602000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 463,
+    "name": "Maripá de Minas",
+    "latitude": "-21.70096000",
+    "longitude": "-42.95929000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 464,
+    "name": "Marliéria",
+    "latitude": "-19.69241000",
+    "longitude": "-42.62724000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 465,
+    "name": "Marmelópolis",
+    "latitude": "-22.45970000",
+    "longitude": "-45.16973000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 466,
+    "name": "Martinho Campos",
+    "latitude": "-19.42013000",
+    "longitude": "-45.17974000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 467,
+    "name": "Martins Soares",
+    "latitude": "-20.25994000",
+    "longitude": "-41.83980000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 468,
+    "name": "Mata Verde",
+    "latitude": "-15.76794000",
+    "longitude": "-40.69882000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 469,
+    "name": "Materlândia",
+    "latitude": "-18.44658000",
+    "longitude": "-43.01437000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 470,
+    "name": "Mateus Leme",
+    "latitude": "-20.01630000",
+    "longitude": "-44.43422000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 471,
+    "name": "Mathias Lobato",
+    "latitude": "-18.60479000",
+    "longitude": "-41.96192000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 472,
+    "name": "Matias Barbosa",
+    "latitude": "-21.87484000",
+    "longitude": "-43.30507000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 473,
+    "name": "Matias Cardoso",
+    "latitude": "-14.84562000",
+    "longitude": "-43.69791000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 474,
+    "name": "Matipó",
+    "latitude": "-20.30226000",
+    "longitude": "-42.31613000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 475,
+    "name": "Mato Verde",
+    "latitude": "-15.42884000",
+    "longitude": "-42.87463000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 476,
+    "name": "Matozinhos",
+    "latitude": "-19.52070000",
+    "longitude": "-44.05031000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 477,
+    "name": "Matutina",
+    "latitude": "-19.19364000",
+    "longitude": "-45.99564000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 478,
+    "name": "Medeiros",
+    "latitude": "-20.01139000",
+    "longitude": "-46.35800000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 479,
+    "name": "Medina",
+    "latitude": "-16.30152000",
+    "longitude": "-41.53818000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 480,
+    "name": "Mendes Pimentel",
+    "latitude": "-18.62642000",
+    "longitude": "-41.34871000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 481,
+    "name": "Mercês",
+    "latitude": "-21.18716000",
+    "longitude": "-43.33657000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 482,
+    "name": "Mesquita",
+    "latitude": "-19.24964000",
+    "longitude": "-42.61603000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 483,
+    "name": "Minas Novas",
+    "latitude": "-17.35500000",
+    "longitude": "-42.40892000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 484,
+    "name": "Minduri",
+    "latitude": "-21.66835000",
+    "longitude": "-44.59475000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 485,
+    "name": "Mirabela",
+    "latitude": "-16.27910000",
+    "longitude": "-44.16713000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 486,
+    "name": "Miradouro",
+    "latitude": "-20.85191000",
+    "longitude": "-42.38714000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 487,
+    "name": "Miraí",
+    "latitude": "-21.14581000",
+    "longitude": "-42.60077000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 488,
+    "name": "Miravânia",
+    "latitude": "-14.75285000",
+    "longitude": "-44.42057000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 489,
+    "name": "Moeda",
+    "latitude": "-20.33273000",
+    "longitude": "-44.01660000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 490,
+    "name": "Moema",
+    "latitude": "-19.84295000",
+    "longitude": "-45.42119000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 491,
+    "name": "Monjolos",
+    "latitude": "-18.37562000",
+    "longitude": "-44.02596000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 492,
+    "name": "Monsenhor Paulo",
+    "latitude": "-21.72267000",
+    "longitude": "-45.46795000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 493,
+    "name": "Montalvânia",
+    "latitude": "-14.41086000",
+    "longitude": "-44.44214000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 494,
+    "name": "Monte Alegre de Minas",
+    "latitude": "-18.81882000",
+    "longitude": "-48.91823000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 495,
+    "name": "Monte Azul",
+    "latitude": "-15.21266000",
+    "longitude": "-43.02334000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 496,
+    "name": "Monte Belo",
+    "latitude": "-21.32001000",
+    "longitude": "-46.33519000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 497,
+    "name": "Monte Carmelo",
+    "latitude": "-18.63960000",
+    "longitude": "-47.49788000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 498,
+    "name": "Monte Formoso",
+    "latitude": "-16.87599000",
+    "longitude": "-41.27134000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  },
+  {
+    "id": 499,
+    "name": "Monte Santo de Minas",
+    "latitude": "-21.20428000",
+    "longitude": "-46.95403000",
+    "stateId": 1998,
+    "stateCode": "MG",
+    "countryCode": "BR"
+  }
+]

@@ -1,0 +1,2162 @@
+[
+  {
+    "id": 0,
+    "name": "Ajax",
+    "latitude": "43.85012000",
+    "longitude": "-79.03288000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 1,
+    "name": "Algoma",
+    "latitude": "47.88364000",
+    "longitude": "-84.42406000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 2,
+    "name": "Alliston",
+    "latitude": "44.15011000",
+    "longitude": "-79.86635000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 3,
+    "name": "Amherstburg",
+    "latitude": "42.10009000",
+    "longitude": "-83.09985000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 4,
+    "name": "Amigo Beach",
+    "latitude": "44.70011000",
+    "longitude": "-79.39963000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 5,
+    "name": "Ancaster",
+    "latitude": "43.21806000",
+    "longitude": "-79.98716000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 6,
+    "name": "Angus",
+    "latitude": "44.31681000",
+    "longitude": "-79.88295000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 7,
+    "name": "Arnprior",
+    "latitude": "45.43341000",
+    "longitude": "-76.34939000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 8,
+    "name": "Atikokan",
+    "latitude": "48.75667000",
+    "longitude": "-91.62409000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 9,
+    "name": "Attawapiskat",
+    "latitude": "52.92774000",
+    "longitude": "-82.41669000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 10,
+    "name": "Aurora",
+    "latitude": "43.99973000",
+    "longitude": "-79.46754500",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 11,
+    "name": "Aylmer",
+    "latitude": "42.76679000",
+    "longitude": "-80.98302000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 12,
+    "name": "Azilda",
+    "latitude": "46.55008000",
+    "longitude": "-81.09975000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 13,
+    "name": "Ballantrae",
+    "latitude": "44.03342000",
+    "longitude": "-79.29960000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 14,
+    "name": "Bancroft",
+    "latitude": "45.05752000",
+    "longitude": "-77.85702000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 15,
+    "name": "Barrie",
+    "latitude": "44.40011000",
+    "longitude": "-79.66634000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 16,
+    "name": "Bath",
+    "latitude": "44.18342000",
+    "longitude": "-76.78273000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 17,
+    "name": "Belleville",
+    "latitude": "44.16682000",
+    "longitude": "-77.38277000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 18,
+    "name": "Bells Corners",
+    "latitude": "45.31588000",
+    "longitude": "-75.83012000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 19,
+    "name": "Belmont",
+    "latitude": "42.88339000",
+    "longitude": "-81.08303000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 20,
+    "name": "Binbrook",
+    "latitude": "43.12135000",
+    "longitude": "-79.81104000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 21,
+    "name": "Bluewater",
+    "latitude": "43.46679000",
+    "longitude": "-81.59977000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 22,
+    "name": "Bourget",
+    "latitude": "45.43340000",
+    "longitude": "-75.14930000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 23,
+    "name": "Bracebridge",
+    "latitude": "45.03341000",
+    "longitude": "-79.31633000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 24,
+    "name": "Brampton",
+    "latitude": "43.68341000",
+    "longitude": "-79.76633000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 25,
+    "name": "Brant",
+    "latitude": "43.13340000",
+    "longitude": "-80.34967000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 26,
+    "name": "Brantford",
+    "latitude": "43.13340000",
+    "longitude": "-80.26636000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 27,
+    "name": "Brockville",
+    "latitude": "44.59132000",
+    "longitude": "-75.68705000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 28,
+    "name": "Brussels",
+    "latitude": "43.73339000",
+    "longitude": "-81.24975000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 29,
+    "name": "Burford",
+    "latitude": "43.10292000",
+    "longitude": "-80.42869000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 30,
+    "name": "Burlington",
+    "latitude": "43.38621000",
+    "longitude": "-79.83713000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 31,
+    "name": "Cambridge",
+    "latitude": "43.36010000",
+    "longitude": "-80.31269000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 32,
+    "name": "Camlachie",
+    "latitude": "43.03596000",
+    "longitude": "-82.16160000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 33,
+    "name": "Capreol",
+    "latitude": "46.70626000",
+    "longitude": "-80.92109000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 34,
+    "name": "Carleton Place",
+    "latitude": "45.13341000",
+    "longitude": "-76.14938000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 35,
+    "name": "Casselman",
+    "latitude": "45.31680000",
+    "longitude": "-75.08260000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 36,
+    "name": "Chatham",
+    "latitude": "42.41224000",
+    "longitude": "-82.18494000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 37,
+    "name": "Chatham-Kent",
+    "latitude": "42.40009000",
+    "longitude": "-82.18310000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 38,
+    "name": "Clarence-Rockland",
+    "latitude": "45.55010000",
+    "longitude": "-75.29101000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 39,
+    "name": "Cobourg",
+    "latitude": "43.95977000",
+    "longitude": "-78.16515000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 40,
+    "name": "Cochrane",
+    "latitude": "50.00022000",
+    "longitude": "-82.99979000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 41,
+    "name": "Collingwood",
+    "latitude": "44.48340000",
+    "longitude": "-80.21638000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 42,
+    "name": "Concord",
+    "latitude": "43.80011000",
+    "longitude": "-79.48291000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 43,
+    "name": "Constance Bay",
+    "latitude": "45.50011000",
+    "longitude": "-76.08267000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 44,
+    "name": "Cookstown",
+    "latitude": "44.18341000",
+    "longitude": "-79.69964000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 45,
+    "name": "Cornwall",
+    "latitude": "45.01809000",
+    "longitude": "-74.72815000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 46,
+    "name": "Corunna",
+    "latitude": "42.88338000",
+    "longitude": "-82.43313000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 47,
+    "name": "Deep River",
+    "latitude": "46.10012000",
+    "longitude": "-77.49949000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 48,
+    "name": "Delaware",
+    "latitude": "42.91679000",
+    "longitude": "-81.41646000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 49,
+    "name": "Deseronto",
+    "latitude": "44.20012000",
+    "longitude": "-77.04944000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 50,
+    "name": "Dorchester",
+    "latitude": "42.98339000",
+    "longitude": "-81.06643000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 51,
+    "name": "Dowling",
+    "latitude": "46.59111000",
+    "longitude": "-81.33917000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 52,
+    "name": "Dryden",
+    "latitude": "49.78334000",
+    "longitude": "-92.75032000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 53,
+    "name": "Durham",
+    "latitude": "44.20012000",
+    "longitude": "-78.99957000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 54,
+    "name": "Ear Falls",
+    "latitude": "50.63955000",
+    "longitude": "-93.23526000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 55,
+    "name": "East Gwillimbury",
+    "latitude": "44.10087000",
+    "longitude": "-79.43785000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 56,
+    "name": "East York",
+    "latitude": "43.69053000",
+    "longitude": "-79.32794000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 57,
+    "name": "Elliot Lake",
+    "latitude": "46.38336000",
+    "longitude": "-82.63315000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 58,
+    "name": "Elmvale",
+    "latitude": "44.58340000",
+    "longitude": "-79.86636000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 59,
+    "name": "Englehart",
+    "latitude": "47.81686000",
+    "longitude": "-79.86640000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 60,
+    "name": "Espanola",
+    "latitude": "46.25837000",
+    "longitude": "-81.76649000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 61,
+    "name": "Essex",
+    "latitude": "42.17509000",
+    "longitude": "-82.82483000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 62,
+    "name": "Etobicoke",
+    "latitude": "43.65421000",
+    "longitude": "-79.56711000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 63,
+    "name": "Exeter",
+    "latitude": "43.34358630",
+    "longitude": "-81.49726020",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 64,
+    "name": "Fort Erie",
+    "latitude": "42.90012000",
+    "longitude": "-78.93286000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 65,
+    "name": "Fort Frances",
+    "latitude": "48.61667000",
+    "longitude": "-93.40030000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 66,
+    "name": "Gananoque",
+    "latitude": "44.33342000",
+    "longitude": "-76.16607000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 67,
+    "name": "Glencoe",
+    "latitude": "42.75009000",
+    "longitude": "-81.71648000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 68,
+    "name": "Goderich",
+    "latitude": "43.74171000",
+    "longitude": "-81.71339000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 69,
+    "name": "Golden",
+    "latitude": "51.05917000",
+    "longitude": "-93.73568000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 70,
+    "name": "Gravenhurst",
+    "latitude": "44.91681000",
+    "longitude": "-79.36633000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 71,
+    "name": "Greater Napanee",
+    "latitude": "44.24738830",
+    "longitude": "-76.95055430",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 72,
+    "name": "Greater Sudbury",
+    "latitude": "46.49000000",
+    "longitude": "-80.99001000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 73,
+    "name": "Greenstone",
+    "latitude": "49.73343000",
+    "longitude": "-87.16668000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 74,
+    "name": "Guelph",
+    "latitude": "43.54594000",
+    "longitude": "-80.25599000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 75,
+    "name": "Haldimand",
+    "latitude": "42.98341000",
+    "longitude": "-79.86633000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 76,
+    "name": "Haliburton Village",
+    "latitude": "45.05154000",
+    "longitude": "-78.52245000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 77,
+    "name": "Halton",
+    "latitude": "43.50011000",
+    "longitude": "-79.88294000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 78,
+    "name": "Hamilton",
+    "latitude": "43.25011000",
+    "longitude": "-79.84963000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 79,
+    "name": "Hanover",
+    "latitude": "44.15009000",
+    "longitude": "-81.03303000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 80,
+    "name": "Harriston",
+    "latitude": "43.90009000",
+    "longitude": "-80.88302000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 81,
+    "name": "Hawkesbury",
+    "latitude": "45.60009000",
+    "longitude": "-74.61595000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 82,
+    "name": "Hearst",
+    "latitude": "49.68351000",
+    "longitude": "-83.66654000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 83,
+    "name": "Hornepayne",
+    "latitude": "49.21451000",
+    "longitude": "-84.77617000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 84,
+    "name": "Huntsville",
+    "latitude": "45.33341000",
+    "longitude": "-79.21632000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 85,
+    "name": "Huron East",
+    "latitude": "43.61679000",
+    "longitude": "-81.29975000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 86,
+    "name": "Ingersoll",
+    "latitude": "43.03339000",
+    "longitude": "-80.88302000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 87,
+    "name": "Innisfil",
+    "latitude": "44.30011000",
+    "longitude": "-79.64964000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 88,
+    "name": "Iroquois Falls",
+    "latitude": "48.76688000",
+    "longitude": "-80.68307000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 89,
+    "name": "Jarvis",
+    "latitude": "42.88341000",
+    "longitude": "-80.09965000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 90,
+    "name": "Kanata",
+    "latitude": "45.30010000",
+    "longitude": "-75.91606000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 91,
+    "name": "Kapuskasing",
+    "latitude": "49.41694000",
+    "longitude": "-82.43308000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 92,
+    "name": "Kawartha Lakes",
+    "latitude": "44.58342000",
+    "longitude": "-78.83288000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 93,
+    "name": "Kenora",
+    "latitude": "49.76741000",
+    "longitude": "-94.48985000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 94,
+    "name": "Keswick",
+    "latitude": "44.25011000",
+    "longitude": "-79.46632000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 95,
+    "name": "Kincardine",
+    "latitude": "44.18339000",
+    "longitude": "-81.63307000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 96,
+    "name": "King",
+    "latitude": "43.96514000",
+    "longitude": "-79.59011000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 97,
+    "name": "Kingston",
+    "latitude": "44.22976000",
+    "longitude": "-76.48098000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 98,
+    "name": "Kirkland Lake",
+    "latitude": "48.14461000",
+    "longitude": "-80.03767000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 99,
+    "name": "Kitchener",
+    "latitude": "43.42537000",
+    "longitude": "-80.51120000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 100,
+    "name": "L'Orignal",
+    "latitude": "45.61980000",
+    "longitude": "-74.69150000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 101,
+    "name": "Lakefield",
+    "latitude": "44.43342000",
+    "longitude": "-78.26623000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 102,
+    "name": "Lambton Shores",
+    "latitude": "43.16678000",
+    "longitude": "-81.93309000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 103,
+    "name": "Lappe",
+    "latitude": "48.56680000",
+    "longitude": "-89.35013000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 104,
+    "name": "Leamington",
+    "latitude": "42.05009000",
+    "longitude": "-82.59981000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 105,
+    "name": "Limoges",
+    "latitude": "45.33340000",
+    "longitude": "-75.24931000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 106,
+    "name": "Lindsay",
+    "latitude": "44.35012000",
+    "longitude": "-78.73286000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 107,
+    "name": "Listowel",
+    "latitude": "43.73340000",
+    "longitude": "-80.94973000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 108,
+    "name": "Little Current",
+    "latitude": "45.97927000",
+    "longitude": "-81.92480000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 109,
+    "name": "Lively",
+    "latitude": "46.43338000",
+    "longitude": "-81.14975000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 110,
+    "name": "London",
+    "latitude": "42.98339000",
+    "longitude": "-81.23304000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 111,
+    "name": "Lucan",
+    "latitude": "43.18339000",
+    "longitude": "-81.39976000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 112,
+    "name": "Madoc",
+    "latitude": "44.50842000",
+    "longitude": "-77.47448000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 113,
+    "name": "Manitoulin",
+    "latitude": "45.75007000",
+    "longitude": "-82.49985000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 114,
+    "name": "Manitouwadge",
+    "latitude": "49.12152000",
+    "longitude": "-85.84030000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 115,
+    "name": "Marathon",
+    "latitude": "48.75010000",
+    "longitude": "-86.43322000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 116,
+    "name": "Markdale",
+    "latitude": "44.31680000",
+    "longitude": "-80.64971000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 117,
+    "name": "Markham",
+    "latitude": "43.86682000",
+    "longitude": "-79.26630000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 118,
+    "name": "Mattawa",
+    "latitude": "46.31681000",
+    "longitude": "-78.69957000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 119,
+    "name": "Meaford",
+    "latitude": "44.60725000",
+    "longitude": "-80.61081000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 120,
+    "name": "Metcalfe",
+    "latitude": "45.23340000",
+    "longitude": "-75.46603000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 121,
+    "name": "Midland",
+    "latitude": "44.75010000",
+    "longitude": "-79.88296000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 122,
+    "name": "Mildmay",
+    "latitude": "44.05009000",
+    "longitude": "-81.11644000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 123,
+    "name": "Millbrook",
+    "latitude": "44.15012000",
+    "longitude": "-78.44954000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 124,
+    "name": "Milton",
+    "latitude": "43.51681000",
+    "longitude": "-79.88294000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 125,
+    "name": "Mississauga",
+    "latitude": "43.57890000",
+    "longitude": "-79.65830000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 126,
+    "name": "Mississauga Beach",
+    "latitude": "43.26682000",
+    "longitude": "-79.08287000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 127,
+    "name": "Moose Factory",
+    "latitude": "51.26689000",
+    "longitude": "-80.61624000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 128,
+    "name": "Moosonee",
+    "latitude": "51.27931000",
+    "longitude": "-80.63450000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 129,
+    "name": "Morrisburg",
+    "latitude": "44.90010000",
+    "longitude": "-75.18261000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 130,
+    "name": "Mount Albert",
+    "latitude": "44.13341000",
+    "longitude": "-79.31630000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 131,
+    "name": "Mount Brydges",
+    "latitude": "42.90009000",
+    "longitude": "-81.48306000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 132,
+    "name": "Napanee Downtown",
+    "latitude": "44.24832000",
+    "longitude": "-76.95069000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 133,
+    "name": "Neebing",
+    "latitude": "48.16680000",
+    "longitude": "-89.41683000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 134,
+    "name": "Nepean",
+    "latitude": "45.35215000",
+    "longitude": "-75.73975000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 135,
+    "name": "New Hamburg",
+    "latitude": "43.38339000",
+    "longitude": "-80.69970000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 136,
+    "name": "Newmarket",
+    "latitude": "44.05011000",
+    "longitude": "-79.46631000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 137,
+    "name": "Niagara Falls",
+    "latitude": "43.10012000",
+    "longitude": "-79.06627000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 138,
+    "name": "Nipissing",
+    "latitude": "46.00010000",
+    "longitude": "-78.99959000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 139,
+    "name": "Norfolk County",
+    "latitude": "42.83340000",
+    "longitude": "-80.38297000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 140,
+    "name": "North Bay",
+    "latitude": "46.31680000",
+    "longitude": "-79.46633000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 141,
+    "name": "North Perth",
+    "latitude": "43.72510000",
+    "longitude": "-80.96723000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 142,
+    "name": "North York",
+    "latitude": "43.76681000",
+    "longitude": "-79.41630000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 143,
+    "name": "Norwood",
+    "latitude": "44.38342000",
+    "longitude": "-77.98281000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 144,
+    "name": "Oakville",
+    "latitude": "43.45011000",
+    "longitude": "-79.68292000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 145,
+    "name": "Omemee",
+    "latitude": "44.29897000",
+    "longitude": "-78.55989000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 146,
+    "name": "Orangeville",
+    "latitude": "43.91680000",
+    "longitude": "-80.09967000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 147,
+    "name": "Orillia",
+    "latitude": "44.60868000",
+    "longitude": "-79.42068000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 148,
+    "name": "Osgoode",
+    "latitude": "45.14887000",
+    "longitude": "-75.59778000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 149,
+    "name": "Oshawa",
+    "latitude": "43.90012000",
+    "longitude": "-78.84957000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 150,
+    "name": "Ottawa",
+    "latitude": "45.41117000",
+    "longitude": "-75.69812000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 151,
+    "name": "Owen Sound",
+    "latitude": "44.56717000",
+    "longitude": "-80.94349000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 152,
+    "name": "Paisley",
+    "latitude": "44.30641000",
+    "longitude": "-81.27265000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 153,
+    "name": "Paris",
+    "latitude": "43.20000000",
+    "longitude": "-80.38333000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 154,
+    "name": "Parkhill",
+    "latitude": "43.15993000",
+    "longitude": "-81.68464000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 155,
+    "name": "Parry Sound",
+    "latitude": "45.34732000",
+    "longitude": "-80.03527000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 156,
+    "name": "Parry Sound District",
+    "latitude": "45.75011000",
+    "longitude": "-79.83297000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 157,
+    "name": "Peel",
+    "latitude": "43.75011000",
+    "longitude": "-79.78293000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 158,
+    "name": "Pembroke",
+    "latitude": "45.81681000",
+    "longitude": "-77.11616000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 159,
+    "name": "Perth",
+    "latitude": "44.90011000",
+    "longitude": "-76.24939000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 160,
+    "name": "Petawawa",
+    "latitude": "45.89452000",
+    "longitude": "-77.28007000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 161,
+    "name": "Peterborough",
+    "latitude": "44.30012000",
+    "longitude": "-78.31623000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 162,
+    "name": "Petrolia",
+    "latitude": "42.86678000",
+    "longitude": "-82.14981000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 163,
+    "name": "Pickering",
+    "latitude": "43.90012000",
+    "longitude": "-79.13289000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 164,
+    "name": "Picton",
+    "latitude": "44.00012000",
+    "longitude": "-77.13275000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 165,
+    "name": "Plantagenet",
+    "latitude": "45.53260000",
+    "longitude": "-74.99369000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 166,
+    "name": "Plattsville",
+    "latitude": "43.30010000",
+    "longitude": "-80.61639000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 167,
+    "name": "Port Colborne",
+    "latitude": "42.90012000",
+    "longitude": "-79.23288000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 168,
+    "name": "Port Hope",
+    "latitude": "44.01682000",
+    "longitude": "-78.39953000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 169,
+    "name": "Port Rowan",
+    "latitude": "42.61680000",
+    "longitude": "-80.46638000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 170,
+    "name": "Port Stanley",
+    "latitude": "42.66679000",
+    "longitude": "-81.21644000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 171,
+    "name": "Powassan",
+    "latitude": "46.03340000",
+    "longitude": "-79.34961000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 172,
+    "name": "Prescott",
+    "latitude": "44.71681000",
+    "longitude": "-75.51604000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 173,
+    "name": "Prince Edward",
+    "latitude": "44.00012000",
+    "longitude": "-77.24946000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 174,
+    "name": "Queenswood Heights",
+    "latitude": "45.47083000",
+    "longitude": "-75.50556000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 175,
+    "name": "Quinte West",
+    "latitude": "44.18342000",
+    "longitude": "-77.56618000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 176,
+    "name": "Rainy River",
+    "latitude": "48.49981000",
+    "longitude": "-92.50031000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 177,
+    "name": "Rayside-Balfour",
+    "latitude": "46.60873000",
+    "longitude": "-81.20763000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 178,
+    "name": "Red Lake",
+    "latitude": "51.01678000",
+    "longitude": "-93.82736000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 179,
+    "name": "Regional Municipality of Waterloo",
+    "latitude": "43.50010000",
+    "longitude": "-80.49969000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 180,
+    "name": "Renfrew",
+    "latitude": "45.46681000",
+    "longitude": "-76.68272000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 181,
+    "name": "Richmond",
+    "latitude": "45.18340000",
+    "longitude": "-75.83266000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 182,
+    "name": "Richmond Hill",
+    "latitude": "43.87111000",
+    "longitude": "-79.43725000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 183,
+    "name": "Ridgetown",
+    "latitude": "42.43339000",
+    "longitude": "-81.89978000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 184,
+    "name": "Rockwood",
+    "latitude": "43.61899000",
+    "longitude": "-80.14441000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 185,
+    "name": "Russell",
+    "latitude": "45.25010000",
+    "longitude": "-75.36602000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 186,
+    "name": "Sarnia",
+    "latitude": "42.97866000",
+    "longitude": "-82.40407000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 187,
+    "name": "Sault Ste. Marie",
+    "latitude": "46.51677000",
+    "longitude": "-84.33325000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 188,
+    "name": "Scarborough",
+    "latitude": "43.77223000",
+    "longitude": "-79.25666000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 189,
+    "name": "Seaforth",
+    "latitude": "43.55009000",
+    "longitude": "-81.39976000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 190,
+    "name": "Shelburne",
+    "latitude": "44.07870000",
+    "longitude": "-80.20408000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 191,
+    "name": "Simcoe",
+    "latitude": "42.83340000",
+    "longitude": "-80.29967000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 192,
+    "name": "Sioux Lookout",
+    "latitude": "50.06676000",
+    "longitude": "-91.98358000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 193,
+    "name": "Skatepark",
+    "latitude": "44.25122000",
+    "longitude": "-76.94424000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 194,
+    "name": "Smiths Falls",
+    "latitude": "44.90452000",
+    "longitude": "-76.02333000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 195,
+    "name": "South Huron",
+    "latitude": "43.31679000",
+    "longitude": "-81.51647000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 196,
+    "name": "South River",
+    "latitude": "45.83340000",
+    "longitude": "-79.38293000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 197,
+    "name": "St. Catharines",
+    "latitude": "43.17126000",
+    "longitude": "-79.24267000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 198,
+    "name": "St. George",
+    "latitude": "43.24495000",
+    "longitude": "-80.25144000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 199,
+    "name": "St. Thomas",
+    "latitude": "42.77361000",
+    "longitude": "-81.18038000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 200,
+    "name": "Stirling",
+    "latitude": "44.30012000",
+    "longitude": "-77.54948000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 201,
+    "name": "Stoney Point",
+    "latitude": "44.26681000",
+    "longitude": "-79.53292000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 202,
+    "name": "Stratford",
+    "latitude": "43.36679000",
+    "longitude": "-80.94972000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 203,
+    "name": "Sudbury",
+    "latitude": "47.16679000",
+    "longitude": "-81.99980000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 204,
+    "name": "Tavistock",
+    "latitude": "43.31679000",
+    "longitude": "-80.83302000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 205,
+    "name": "Temiskaming Shores",
+    "latitude": "47.49376000",
+    "longitude": "-79.71529000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 206,
+    "name": "Thessalon",
+    "latitude": "46.25006000",
+    "longitude": "-83.56660000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 207,
+    "name": "Thornhill",
+    "latitude": "43.81708480",
+    "longitude": "-79.45011940",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 208,
+    "name": "Thorold",
+    "latitude": "43.11682000",
+    "longitude": "-79.19958000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 209,
+    "name": "Thunder Bay",
+    "latitude": "48.38202000",
+    "longitude": "-89.25018000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 210,
+    "name": "Thunder Bay District",
+    "latitude": "49.50011000",
+    "longitude": "-88.50004000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 211,
+    "name": "Timiskaming",
+    "latitude": "47.75016000",
+    "longitude": "-80.33303000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 212,
+    "name": "Timmins",
+    "latitude": "48.46686000",
+    "longitude": "-81.33312000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 213,
+    "name": "Tobermory",
+    "latitude": "45.25007000",
+    "longitude": "-81.66647000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 214,
+    "name": "Toronto",
+    "latitude": "43.70011000",
+    "longitude": "-79.41630000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 215,
+    "name": "Toronto county",
+    "latitude": "43.69655000",
+    "longitude": "-79.42909000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 216,
+    "name": "Tottenham",
+    "latitude": "44.02437000",
+    "longitude": "-79.80553000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 217,
+    "name": "Tweed",
+    "latitude": "44.47512000",
+    "longitude": "-77.31616000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 218,
+    "name": "Uxbridge",
+    "latitude": "44.10012000",
+    "longitude": "-79.11628000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 219,
+    "name": "Valley East",
+    "latitude": "46.66773000",
+    "longitude": "-81.00028000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 220,
+    "name": "Vanier",
+    "latitude": "45.43990000",
+    "longitude": "-75.66498000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 221,
+    "name": "Vaughan",
+    "latitude": "43.83610000",
+    "longitude": "-79.49827000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 222,
+    "name": "Vineland",
+    "latitude": "43.15012000",
+    "longitude": "-79.39960000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 223,
+    "name": "Virgil",
+    "latitude": "43.21682000",
+    "longitude": "-79.13288000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 224,
+    "name": "Walpole Island",
+    "latitude": "42.61520000",
+    "longitude": "-82.51398000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 225,
+    "name": "Wasaga Beach",
+    "latitude": "44.51680000",
+    "longitude": "-80.01637000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 226,
+    "name": "Waterford",
+    "latitude": "42.93340000",
+    "longitude": "-80.28296000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 227,
+    "name": "Waterloo",
+    "latitude": "43.46680000",
+    "longitude": "-80.51639000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 228,
+    "name": "Watford",
+    "latitude": "42.95008000",
+    "longitude": "-81.88309000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 229,
+    "name": "Wawa",
+    "latitude": "47.98877000",
+    "longitude": "-84.77411000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 230,
+    "name": "Welland",
+    "latitude": "42.98342000",
+    "longitude": "-79.24958000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 231,
+    "name": "Wellesley",
+    "latitude": "43.47691000",
+    "longitude": "-80.76209000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 232,
+    "name": "Wendover",
+    "latitude": "45.57275000",
+    "longitude": "-75.12757000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 233,
+    "name": "West Lorne",
+    "latitude": "42.60009000",
+    "longitude": "-81.59976000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 234,
+    "name": "Willowdale",
+    "latitude": "43.76672000",
+    "longitude": "-79.39909000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 235,
+    "name": "Winchester",
+    "latitude": "45.08340000",
+    "longitude": "-75.34933000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 236,
+    "name": "Windsor",
+    "latitude": "42.30008000",
+    "longitude": "-83.01654000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 237,
+    "name": "Wingham",
+    "latitude": "43.88793000",
+    "longitude": "-81.31145000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 238,
+    "name": "Woodstock",
+    "latitude": "43.13339000",
+    "longitude": "-80.74970000",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  },
+  {
+    "id": 239,
+    "name": "York",
+    "latitude": "44.00075180",
+    "longitude": "-79.43722170",
+    "stateId": 866,
+    "stateCode": "ON",
+    "countryCode": "CA"
+  }
+]
